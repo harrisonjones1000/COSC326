@@ -28,9 +28,19 @@ public class test {
                 if(i==0){ //if nonalphanumeric is first symbol
                     return email + " <-- Email cannot start with that symbol";
 
-                }else if(".-_@".indexOf(email.charAt(i))!=-1){ //if character is an allowed non alphanumeric
-                    
-                    if(".-_@".indexOf(print.charAt(print.length()-1))!=-1){ //if any of these characters are next to eachother
+                }else if(".-_@[".indexOf(email.charAt(i))!=-1){ //if character is an allowed non alphanumeric
+                    if(email.charAt(i)=='['){
+                        if(email.charAt(i-1)=='@'){
+                            if(email.endsWith("]")) return print + email.substring(i, email.length());
+                            //Check for valid IPv4 addresses, 0-255, sep by dots
+                            return email + " <-- Invalid domain numerical form";
+                        }else if(mailbox==-1){
+                            return email + " <-- Email does not allow square brackets in the mailbox name";
+                        }else{
+                            return email + " <-- Invalid domain numerical form";
+                        }
+
+                    }else if(".-_@".indexOf(print.charAt(print.length()-1))!=-1){ //if any of these characters are next to eachother
                         return email + " <-- Email cannot have repeating non alphanumeric characters";
                     
                     }else if(email.charAt(i)=='@'){ 
@@ -40,15 +50,12 @@ public class test {
                         mailbox=print.length();
                         print+="@";
                     }else if(email.charAt(i)=='-'){
-                        if(mailbox==1) return email + " <-- Email domain cannot use hyphens";
+                        if(mailbox!=-1) return email + " <-- Email domain cannot use hyphens";
                         print+="-";
                     }else if(email.charAt(i)=='.'){
                         print+=".";
-                    }
-                    
-                    try{
-
-                        if(email.charAt(i)=='_'){ //check for security measures + hyphen
+                    }else{ //symbol is "_"
+                        try{
                             if(email.substring(i,i+4).equals("_at_")){
                                 if(mailbox!=-1) return email + " <-- Email cannot have multiple @ symbols";
                                 mailbox=print.length();
@@ -56,19 +63,20 @@ public class test {
                                 print+="@";
                             }else if(email.substring(i,i+5).equals("_dot_")){
                                 i+=4;
-                                if(print.endsWith(".")) return email + " <--- Email cannot have repeating non alphanumeric characters";
                                 print+=".";
                             }else if(mailbox!=-1){
                                 return email + " <-- Email domain cannot use underscores";
                             }else{
                                 print += "_";
                             }
+                            
+    
+                        }catch (IndexOutOfBoundsException e){
+                            if(mailbox==0) return email + " <--- Email requires an @ symbol";
+                            return email + " <-- Email domain is incomplete";
                         }
-
-                    }catch (IndexOutOfBoundsException e){
-                        if(mailbox==0) return email + " <--- Email requires an @ symbol";
-                        return email + " <-- Email domain is incomplete";
                     }
+                    
 
                 }else{ //if character isnt an allowed alphanumeric
                     return email + " <-- Email does not allow the character at position " + i;
@@ -77,7 +85,7 @@ public class test {
                 print += email.substring(i,i+1).toLowerCase(); //adds lowercase alphanumeric
             }
         }
-        if(mailbox==-1) return email + " <-- Email requires an @ symbol";
+        if(mailbox==-1) return print + " <-- Email requires an @ symbol";
 
         //Todo: Domain numeric form
         //Research it and implement it
