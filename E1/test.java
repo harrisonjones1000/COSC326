@@ -8,9 +8,7 @@ public class test {
         try{
         
             Scanner testScan = new Scanner(new File("E1/E1_tests.txt"));
-
             while(testScan.hasNext()) System.out.println(method(testScan.nextLine()));
-            
             testScan.close();
 
         }catch(FileNotFoundException e){
@@ -21,7 +19,7 @@ public class test {
     }
 
     public static String method(String email){
-        int mailbox = 0;
+        int mailbox = -1;
         String print = "";
 
         for(int i = 0; i<email.length(); i++){
@@ -36,11 +34,11 @@ public class test {
                         return email + " <-- Email cannot have repeating non alphanumeric characters";
                     
                     }else if(email.charAt(i)=='@'){ 
-                        mailbox+=1;
-                        print+="@";
-                        if(mailbox>1){ //if multiple @ symbols
+                        if(mailbox!=-1){ //if multiple @ symbols
                             return email + " <-- Email cannot have multiple @ symbols";
                         }
+                        mailbox=print.length();
+                        print+="@";
                     }else if(email.charAt(i)=='-'){
                         if(mailbox==1) return email + " <-- Email domain cannot use hyphens";
                         print+="-";
@@ -52,15 +50,15 @@ public class test {
 
                         if(email.charAt(i)=='_'){ //check for security measures + hyphen
                             if(email.substring(i,i+4).equals("_at_")){
-                                mailbox+=1;
-                                if(mailbox>1) return email + " <-- Email cannot have multiple @ symbols";
+                                if(mailbox!=-1) return email + " <-- Email cannot have multiple @ symbols";
+                                mailbox=print.length();
                                 i+=3;
                                 print+="@";
                             }else if(email.substring(i,i+5).equals("_dot_")){
                                 i+=4;
                                 if(print.endsWith(".")) return email + " <--- Email cannot have repeating non alphanumeric characters";
                                 print+=".";
-                            }else if(mailbox==1){
+                            }else if(mailbox!=-1){
                                 return email + " <-- Email domain cannot use underscores";
                             }else{
                                 print += "_";
@@ -79,15 +77,16 @@ public class test {
                 print += email.substring(i,i+1).toLowerCase(); //adds lowercase alphanumeric
             }
         }
-        if(mailbox==0) return email + " <-- Email requires an @ symbol";
+        if(mailbox==-1) return email + " <-- Email requires an @ symbol";
 
         //Todo: Domain numeric form
         //Research it and implement it
 
         if(print.endsWith("com.au")||print.endsWith("co.au")||print.endsWith("co.ca")||print.endsWith("co.nz")||print.endsWith("co.uk")||print.endsWith("com")){
-            return print;
+            if(print.substring(mailbox, print.length()-3).indexOf(".")!=-1) return print;
+            return print + "<-- Email requires domain name";
         }else{
-            return print + " <--- Invalid Extension";
+            return print + " <-- Invalid Extension";
         }
     }
     
