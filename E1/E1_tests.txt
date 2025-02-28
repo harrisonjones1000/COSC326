@@ -30,4 +30,8 @@ harrisonbjones_dot_
 harrison[]jones@gmail.com
 harrisonjones@[]gmail.com
 harrisonjones@[]gmail.com]
+harrisonjones@a[]gmail.com]
 cath@[139.80.91.50]
+cath@[139.80.-1.50]
+cath@[139.80a.12.50]
+cath@[139.80.96.500]
