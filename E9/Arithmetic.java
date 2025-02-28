@@ -54,7 +54,6 @@ public class Arithmetic {
         int lowerLimit=0;
         int upperLimit=0;
         int ones=0;
-
         int current_consec=0;
 
         for(int i=0; i<seq.length; i++){
@@ -92,6 +91,38 @@ public class Arithmetic {
     }
 
     public static String leftToRight(int target, int[] seq){
+        int lowerLimit=seq[0];
+        int upperLimit=seq[0];
+        int current_consec=0;
+        
+
+        for(int i=1; i<seq.length; i++){
+            //lower limit calculations
+            if(seq[i]!=1) lowerLimit = lowerLimit + seq[i];
+
+            //upper limit calculations
+            if(current_consec==0){
+                if(seq[i]!=1){
+                    current_consec=seq[i];
+                }else{
+                    upperLimit++;
+                }
+            }else{
+                if(seq[i]!=1){
+                    current_consec=current_consec*seq[i];
+                }else{
+                    upperLimit=upperLimit+current_consec+1;  
+                    current_consec=0;
+                }
+            }
+
+            if(i==seq.length-1) upperLimit=upperLimit+current_consec;
+            
+        }
+
+        System.out.println("LL=" + lowerLimit + " UL=" + upperLimit);
+
+        if(target>upperLimit || target<lowerLimit) return " impossible";
         return "";
     }
 }
