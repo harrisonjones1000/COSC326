@@ -6,16 +6,17 @@ import java.util.Scanner;
 public class test {
     public static void main(String[] args) {
         try{
+        
             Scanner testScan = new Scanner(new File("E1/E1_tests.txt"));
 
-            while(testScan.hasNext()){
-                System.out.println(method(testScan.nextLine()));
-
-            }
-
+            while(testScan.hasNext()) System.out.println(method(testScan.nextLine()));
+            
             testScan.close();
+
         }catch(FileNotFoundException e){
+
             System.out.println("No file of that name found");
+
         }
     }
 
@@ -30,31 +31,45 @@ public class test {
                     return email + " <-- Email cannot start with that symbol";
 
                 }else if(".-_@".indexOf(email.charAt(i))!=-1){ //if character is an allowed non alphanumeric
+                    
+                    if(".-_@".indexOf(print.charAt(print.length()-1))!=-1){ //if any of these characters are next to eachother
+                        return email + " <-- Email cannot have repeating non alphanumeric characters";
+                    
+                    }else if(email.charAt(i)=='@'){ 
+                        mailbox+=1;
+                        print+="@";
+                        if(mailbox>1){ //if multiple @ symbols
+                            return email + " <-- Email cannot have multiple @ symbols";
+                        }
+                    }else if(email.charAt(i)=='-'){
+                        if(mailbox==1) return email + " <-- Email domain cannot use hyphens";
+                        print+="-";
+                    }else if(email.charAt(i)=='.'){
+                        print+=".";
+                    }
+                    
                     try{
-                        if(".-_@".indexOf(email.charAt(i+1))!=-1){ //if any of these characters are next to eachother
-                            return email + " <-- Email cannot have repeating non alphanumeric characters";
 
-                        }else if(email.charAt(i)=='@'){
-                            mailbox+=1;
-                            print+="@";
-                            if(mailbox>1){ //if multiple @ symbols
-                                return email + " <-- Email cannot have multiple @ symbols";
-
-                            }
-
-                        }else if(email.charAt(i)=='_'){ //check for security measures
+                        if(email.charAt(i)=='_'){ //check for security measures + hyphen
                             if(email.substring(i,i+4).equals("_at_")){
                                 mailbox+=1;
+                                if(mailbox>1) return email + " <-- Email cannot have multiple @ symbols";
                                 i+=3;
                                 print+="@";
                             }else if(email.substring(i,i+5).equals("_dot_")){
                                 i+=4;
+                                if(print.endsWith(".")) return email + " <--- Email cannot have repeating non alphanumeric characters";
                                 print+=".";
+                            }else if(mailbox==1){
+                                return email + " <-- Email domain cannot use underscores";
+                            }else{
+                                print += "_";
                             }
                         }
 
                     }catch (IndexOutOfBoundsException e){
-                        return email + " <-- Email is not complete";
+                        if(mailbox==0) return email + " <--- Email requires an @ symbol";
+                        return email + " <-- Email domain is incomplete";
                     }
 
                 }else{ //if character isnt an allowed alphanumeric
