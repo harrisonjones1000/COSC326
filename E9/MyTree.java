@@ -1,5 +1,7 @@
 package E9;
 
+import java.util.Arrays;
+
 public class MyTree {
     private int target;
     private int[] sequence; // the order of the numbers
@@ -25,9 +27,10 @@ public class MyTree {
         if(left_subtree!=null) return left_subtree;
         
         order[0]=false;
-        boolean[] right_subtree = search(new Node(order, root, 1), true);
+        boolean[] right_subtree = search(new Node(order, root, 1), false);
         if(right_subtree!=null) return right_subtree;
-        return null;    }
+        return null;    
+    }
 
     private boolean[] search(Node n, boolean left){
         if(!normal){ //if left to right
@@ -37,11 +40,14 @@ public class MyTree {
                 n.value = n.parent.value * sequence[n.level]; //if multiply
             }
 
+            //System.out.println(n.value);
+
         }else if(n.level==height){ //if normal and leaf node, calc value
             n.value = normalValue(n.order);
         }
 
         if(n.level==height){ //if leaf node
+            System.out.println(Arrays.toString(n.order) + " " + n.value);
             if(n.value==target){
                 return n.order; //leaf node order produces target
             }else{
@@ -71,7 +77,7 @@ public class MyTree {
         for(int i=0; i<order.length; i++){
             if(order[i]){ //plus
                 if(current_consec!=0){ //last operation was multiply
-                    current_consec=current_consec*sequence[i-1];
+                    current_consec=current_consec*sequence[i];
                     value+=current_consec;
                     current_consec=0;
                 }else{
@@ -92,7 +98,7 @@ public class MyTree {
                 value+=current_consec;
             }
                 value+=sequence[order.length];
-                
+
         }else{ //final multiply
             current_consec=current_consec*sequence[order.length];
             value+=current_consec;

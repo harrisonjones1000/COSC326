@@ -21,7 +21,6 @@ public class Arithmetic2 {
         if(!parts[0].equals("N") && !parts[0].equals("L")) return input + " Invalid";
 
         if(parts.length==2) return input + " Invalid"; //0 numbers
-        if(parts.length==3 && parts[1]!=parts[2]) return input + " Invalid"; //1 number
 
         //2 numbers or more
         int n = parts.length-2;
@@ -31,6 +30,14 @@ public class Arithmetic2 {
         
         try{
             target = Integer.parseInt(parts[1]);
+
+            if(parts.length==3){
+                if(Integer.parseInt(parts[2])==target){
+                    return parts[0] + " " +  target + " = " +  target;
+                }else{
+                    return input + " Impossible";
+                }
+            }
 
             for(int i=0; i<n; i++){
                 a = Integer.parseInt(parts[i+2]);
