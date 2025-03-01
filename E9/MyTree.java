@@ -38,7 +38,7 @@ public class MyTree {
             }
 
         }else if(n.level==height){ //if normal and leaf node, calc value
-            n.value = 0;
+            n.value = normalValue(n.order);
         }
 
         if(n.level==height){ //if leaf node
@@ -62,9 +62,43 @@ public class MyTree {
 
             return null; //if both subtrees dont produce target, return null
         }
+    }
 
-        
+    private int normalValue(boolean[] order){
+        int current_consec=0;
+        int value=0;
 
+        for(int i=0; i<order.length; i++){
+            if(order[i]){ //plus
+                if(current_consec!=0){ //last operation was multiply
+                    current_consec=current_consec*sequence[i-1];
+                    value+=current_consec;
+                    current_consec=0;
+                }else{
+                    value+=sequence[i];
+                }
+            }else{ //multiply
+                if(current_consec==0){
+                    current_consec=sequence[i];
+                }else{
+                    current_consec=current_consec*sequence[i];
+                }
+            }
+        }
+
+        if(order[order.length-1]){ //final plus
+            if(current_consec!=0){ //second last operation was multiplication
+                current_consec=current_consec*sequence[order.length-1];
+                value+=current_consec;
+            }
+                value+=sequence[order.length];
+                
+        }else{ //final multiply
+            current_consec=current_consec*sequence[order.length];
+            value+=current_consec;
+        }
+
+        return value;
     }
 
     public static class Node{

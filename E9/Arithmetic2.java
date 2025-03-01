@@ -47,9 +47,9 @@ public class Arithmetic2 {
         MyTree tree = new MyTree(target, seq, parts[0].equals("N"));
         boolean[] result = tree.search();
 
-        if(result==null) return input + " impossible";
+        if(result==null) return input + " Impossible";
 
-        String print = parts[0] + " " + seq[0];
+        String print = parts[0] + " " + target + " = " + seq[0];
 
         for(int i=1; i<seq.length; i++){
             if(result[i-1]==true){
@@ -58,8 +58,6 @@ public class Arithmetic2 {
                 print += " * " + seq[i];
             }
         }
-
-        print += " = " + target;
 
         return print;
     }    
