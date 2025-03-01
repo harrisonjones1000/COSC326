@@ -29,7 +29,6 @@ public class Arithmetic2 {
         int target;
         int a;
         
-        
         try{
             target = Integer.parseInt(parts[1]);
 
@@ -46,18 +45,24 @@ public class Arithmetic2 {
         }
        
         MyTree tree = new MyTree(target, seq, parts[0].equals("N"));
-        
+        boolean[] result = tree.search();
 
-        return input;
-    }
+        if(result==null) return input + " impossible";
 
-    public static String leftToRight(int target, int[] seq){
-        
-        return "";
-    }
+        String print = parts[0] + " " + seq[0];
 
-    
-    
+        for(int i=1; i<seq.length; i++){
+            if(result[i-1]==true){
+                print += " + " + seq[i];
+            }else{
+                print += " * " + seq[i];
+            }
+        }
+
+        print += " = " + target;
+
+        return print;
+    }    
 
 }
 
