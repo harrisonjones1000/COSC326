@@ -1,7 +1,5 @@
 package E9;
 
-import java.util.Arrays;
-
 public class MyTree {
     private int target;
     private int[] sequence; // the order of the numbers
@@ -40,14 +38,11 @@ public class MyTree {
                 n.value = n.parent.value * sequence[n.level]; //if multiply
             }
 
-            //System.out.println(n.value);
-
         }else if(n.level==height){ //if normal and leaf node, calc value
             n.value = normalValue(n.order);
         }
 
         if(n.level==height){ //if leaf node
-            System.out.println(Arrays.toString(n.order) + " " + n.value);
             if(n.value==target){
                 return n.order; //leaf node order produces target
             }else{
