@@ -13,19 +13,40 @@ import java.util.Scanner;
 
 public class Etude2 {
     public static void main(String[] args) {
-        ArrayList<String[]> tokenList = new ArrayList<>();
+        ArrayList<String[]> dates = new ArrayList<>(); //Where we store our dates
+        int[][] values = new int[6][5]; //Where we keep track of the format that works for each date
+
         try {
             Scanner testScan = new Scanner(new File("test1.txt"));
-            while (testScan.hasNext())
-                tokenList.add(testScan.nextLine().split("/"));
+            while (testScan.hasNext()) dates.add(testScan.nextLine().split("/"));
             testScan.close();
 
         } catch (FileNotFoundException e) {
             System.out.println("No file of that name found");
         }
-        for (String[] tokens : tokenList) {
-            System.out.println(
-                    "First token: " + tokens[0] + "\nSecond token: " + tokens[1] + "\nThird token: " + tokens[2]);
+
+        boolean[] valid = new boolean[dates.size()]; //where we check if dates format to int/int/int
+        int a,b,c;
+
+        for(int i=0; i<dates.size(); i++){
+            String[] date = dates.get(i);
+
+            try{
+                if(date.length!=3){
+                    valid[i]=false;
+                }else{
+                    a = Integer.parseInt(date[0]);
+                    b = Integer.parseInt(date[1]);
+                    c = Integer.parseInt(date[2]);
+
+                    System.out.println(
+                    "First token: " + date[0] + "\nSecond token: " + date[1] + "\nThird token: " + date[2]);
+
+                }
+            }catch(NumberFormatException e){
+                valid[i]=false;
+            }
+            
         }
     }
 
