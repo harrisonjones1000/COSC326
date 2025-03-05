@@ -1,9 +1,10 @@
 /**
  * Harrison Jones and Ollie Hurst
  * Notes: assume each text file has the same format throughout
+ * 
+ * Note: we are running it via javac Etuide2.java
+ * java Etude2 (to run)
  */
-
-// package E2;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -25,5 +26,15 @@ public class Etude2 {
             System.out.println(
                     "First token: " + tokens[0] + "\nSecond token: " + tokens[1] + "\nThird token: " + tokens[2]);
         }
+    }
+
+    private boolean dmy(String[] tokens){
+        int d = Integer.parseInt(tokens[0]);
+        int m = Integer.parseInt(tokens[1]);
+        int y = Integer.parseInt(tokens[2]);
+
+        
+
+        return true;
     }
 }
