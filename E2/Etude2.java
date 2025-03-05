@@ -31,9 +31,11 @@ public class Etude2 {
 
         //where we store if our dates are valid int/int/int format
         boolean[] valid = new boolean[dates.size()]; 
+        String[] date;
+
 
         for(int i=0; i<dates.size(); i++){
-            String[] date = dates.get(i).split("/");
+            date = dates.get(i).split("/");
 
             int first, second, third;
             if(date.length!=3){
@@ -46,24 +48,26 @@ public class Etude2 {
 
                     valid[i]=true;
 
+                    //Note: need to check for cases such as 00003/002/2004
+
                     if(date[0].length()==4){ //first entry is yyyy
-                        values[4] += dateChecker(third, second, first, false); //4 - ymd
-                        values[5] += dateChecker(second, third, first, false); //5 - ydm
+                        if(dateChecker(third, second, first, false)==1) values[4] += 1; //4 - ymd
+                        if(dateChecker(second, third, first, false)==1) values[5] += 1; //5 - ydm
                     }else if(date[1].length()==4){ //second entry is yyyy
-                        values[1] += dateChecker(first, third, second, false); //1 - dym
-                        values[3] += dateChecker(third, first, second, false); //3 - myd
+                        if(dateChecker(first, third, second, false)==1) values[1] += 1; //1 - dym
+                        if(dateChecker(third, first, second, false)==1) values[3] += 1; //3 - myd
                         
                     }else if(date[2].length()==4){ //third entry is yyyy
-                        values[0] += dateChecker(first, second, third, false); //0 - dmy
-                        values[2] += dateChecker(second, first, third, false); //2 - mdy
+                        if(dateChecker(first, second, third, false)==1) values[0] += 1; //0 - dmy
+                        if(dateChecker(second, first, third, false)==1) values[2] += 1; //2 - mdy
                     }else{ //year is in yy format
-                        //note: could do more checks for single digit cases
-                        values[0] += dateChecker(first, second, third, true); //0 - dmy
-                        values[1] += dateChecker(first, third, second, true); //1 - dym
-                        values[2] += dateChecker(second, first, third, true); //2 - mdy
-                        values[3] += dateChecker(third, first, second, true); //3 - myd
-                        values[4] += dateChecker(third, second, first, true); //4 - ymd
-                        values[5] += dateChecker(second, third, first, true); //5 - ydm
+                        //note: could do more checks for single digit cases for efficiency
+                        if(dateChecker(first, second, third, true)==1) values[0] += 1; //0 - dmy
+                        if(dateChecker(first, third, second, true)==1) values[1] += 1; //1 - dym
+                        if(dateChecker(second, first, third, true)==1) values[2] += 1; //2 - mdy
+                        if(dateChecker(third, first, second, true)==1) values[3] += 1; //3 - myd
+                        if(dateChecker(third, second, first, true)==1) values[4] += 1; //4 - ymd
+                        if(dateChecker(second, third, first, true)==1) values[5] += 1; //5 - ydm
                     }
     
                 }catch(NumberFormatException e){
@@ -73,19 +77,71 @@ public class Etude2 {
         }
 
         System.out.println(Arrays.toString(values));
-        //Next: select most common format, then loop through and check if valid.
+
+        int maxIdx=0; //most common format
+        //0 - dmy, 1 - dym, 2 - mdy, 3 - myd, 4 - ymd, 5 - ydm
+        for(int i=1; i<6; i++){
+            if(values[i]>values[maxIdx]) maxIdx=i;
+        }
+
+        int[] input = new int[3];
+        boolean yy;
 
         for(int i=0; i<dates.size(); i++){
-            if(!valid[i]){
+            if(!valid[i]){ //if not int/int/int
                 System.out.println(dates.get(i) + " -  INVALID: Not of the form int/int/int");
             }else{
-                System.out.println(dates.get(i));
+                date = dates.get(i).split("/");
+                if(maxIdx==0){
+                    input[0]=Integer.parseInt(date[0]);
+                    input[1]=Integer.parseInt(date[1]);
+                    input[2]=Integer.parseInt(date[2]);
+                    yy= date[2].length()==2;
+                }else if(maxIdx==1){
+                    input[0]=Integer.parseInt(date[0]);
+                    input[1]=Integer.parseInt(date[2]);
+                    input[2]=Integer.parseInt(date[1]);
+                    yy= date[1].length()==2;
+                }else if(maxIdx==2){
+                    input[0]=Integer.parseInt(date[1]);
+                    input[1]=Integer.parseInt(date[0]);
+                    input[2]=Integer.parseInt(date[2]);
+                    yy= date[2].length()==2;
+                }else if(maxIdx==3){
+                    input[0]=Integer.parseInt(date[2]);
+                    input[1]=Integer.parseInt(date[0]);
+                    input[2]=Integer.parseInt(date[1]);
+                    yy= date[1].length()==2;
+                }else if(maxIdx==4){
+                    //0 - dmy, 1 - dym, 2 - mdy, 3 - myd, 4 - ymd, 5 - ydm
+                    input[0]=Integer.parseInt(date[2]);
+                    input[1]=Integer.parseInt(date[1]);
+                    input[2]=Integer.parseInt(date[0]);
+                    yy= date[0].length()==2;
+                }else{
+                    input[0]=Integer.parseInt(date[1]);
+                    input[1]=Integer.parseInt(date[2]);
+                    input[2]=Integer.parseInt(date[0]);
+                    yy= date[0].length()==2;
+                }
+                
+                int output= dateChecker(input[0], input[1], input[2], yy);
+
+                if(output==1){
+                    System.out.println(dates.get(i));
+                }else if(output==-3){
+                    System.out.println(dates.get(i) + " - INVALID: Year out of range");
+                }else if(output==-2){
+                    System.out.println(dates.get(i) + " - INVALID: Month out of range");
+                }else{
+                    System.out.println(dates.get(i) + " - INVALID: Day out of range");
+                }
+
+                
             }
         }
     }
 
-    //return 1 if valid date
-    //return 0 if invalid date
     private static int dateChecker(int dayInt, int monthInt, int yearInt, boolean yy) {
         if(yy){ //if yy format
             if (yearInt < 49) {
@@ -100,9 +156,9 @@ public class Etude2 {
             isLeapYear = true;
         }
 
-        if (monthInt < 1 || monthInt > 12) { // month out of range
-            return 0;
-        }
+        if (yearInt > 3000 || yearInt < 1753) return -3; //year out of range
+
+        if (monthInt < 1 || monthInt > 12) return -2; // month out of range
 
         // the max number of days by month (if not leap year)
         int[] daysInMonths = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
@@ -114,10 +170,8 @@ public class Etude2 {
             maxDays = daysInMonths[monthInt];
         }
 
-        if (dayInt < 1 || dayInt > maxDays) {
-            return 0;
-        }
+        if (dayInt < 1 || dayInt > maxDays) return -1; //day out of range
 
-        return 1;
+        return 1; //valid date
     }
 }
