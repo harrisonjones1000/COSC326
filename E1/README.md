@@ -2,7 +2,9 @@
 Harrison Jones
 
 Test cases I have come up with are in E1_tests.txt Also added at the bottom of this file.
-Code is run by running test.java. Should output fixed email outputs or indicate one way in which the current email fails.
+Code is run by running the follwing:
+javac Etude1.java
+java Etude1.java E1_tests.txt output.txt
 
 harrisonbjones1000@gmail.com
 Harrisonbjones1000@gmail.com
