@@ -23,21 +23,51 @@ public class Etude1 {
     }
 
     public static String method(String email){
-        int mailbox = -1;
+        int mailbox = -1; //location of @ symbol index
         String print = "";
+        String emailCopy = "";
+        int count = email.length() - email.replace("@", "").length();
 
-        for(int i = 0; i<email.length(); i++){
-            if(!Character.isLetterOrDigit(email.charAt(i))){ //if not alphanumeric
+        if(count>1){
+            return email + " <-- Email cannot have multiple @ symbols\n";
+        }else if(count==0){ //Handles no @ and adding _at_
+            for(int i=0; i<email.length(); i++){
+                try{
+                    if(email.substring(i,i+4).equals("_at_")){
+                        if(mailbox==-1){
+                            mailbox=i;
+                            i+=3;
+                            emailCopy+="@";
+                        }else{
+                            emailCopy = emailCopy.substring(0, mailbox) + "_at_" + emailCopy.substring(mailbox+1, emailCopy.length()) + "@";
+                            i+=3;
+                        }
+                        
+                    }else{
+                        emailCopy+=email.charAt(i);
+                    }
+                }catch(IndexOutOfBoundsException e){
+                    emailCopy+=email.charAt(i);
+                }
+            }
+            if(mailbox==-1) return email + " <-- Email must have an @ symbol\n";
+            mailbox=-1;
+        }else{//email has 1 @
+            emailCopy=email;
+        }
+
+        for(int i = 0; i<emailCopy.length(); i++){
+            if(!Character.isLetterOrDigit(emailCopy.charAt(i))){ //if not alphanumeric
                 if(i==0){ //if nonalphanumeric is first symbol
                     return email + " <-- Email cannot start with that symbol\n";
 
-                }else if(".-_@[".indexOf(email.charAt(i))!=-1){ //if character is an allowed non alphanumeric
-                    if(email.charAt(i)=='['){
-                        if(print.endsWith("@") && email.endsWith("]")){
+                }else if(".-_@[".indexOf(emailCopy.charAt(i))!=-1){ //if character is an allowed non alphanumeric
+                    if(emailCopy.charAt(i)=='['){
+                        if(print.endsWith("@") && emailCopy.endsWith("]")){
+                            //if valid domain
+                            if(validIPv4(emailCopy.substring(i+1, emailCopy.length()-1))) return print + emailCopy.substring(i, emailCopy.length()) + "\n";
                             
-                            if(validIPv4(email.substring(i+1, email.length()-1))) return print + email.substring(i, email.length());
-                            
-                            return email + " <-- Invalid domain\n";
+                            return email + " <-- Invalid domain\n"; //else invalid domain
                             
                         }else if(mailbox==-1){ //if '[' in mailbox name
                             return email + " <-- Email does not allow square brackets in the mailbox name\n";
@@ -48,56 +78,47 @@ public class Etude1 {
                     }else if(".-_@".indexOf(print.charAt(print.length()-1))!=-1){ //if any of these characters are next to eachother
                         return email + " <-- Email cannot have repeating non alphanumeric characters\n";
                     
-                    }else if(email.charAt(i)=='@'){ 
-                        if(mailbox!=-1){ //if multiple @ symbols
-                            return email + " <-- Email cannot have multiple @ symbols\n";
-                        }
+                    }else if(emailCopy.charAt(i)=='@'){ 
                         mailbox=print.length();
                         print+="@";
-                    }else if(email.charAt(i)=='-'){
+                    }else if(emailCopy.charAt(i)=='-'){
                         if(mailbox!=-1) return email + " <-- Email domain cannot use hyphens\n";
                         print+="-";
-                    }else if(email.charAt(i)=='.'){
+                    }else if(emailCopy.charAt(i)=='.'){
                         print+=".";
-                    }else{ //symbol is "_"
-                        try{
-                            if(email.substring(i,i+4).equals("_at_")){
-                                if(mailbox!=-1) return email + " <-- Email cannot have multiple @ symbols\n";
-                                mailbox=print.length();
-                                i+=3;
-                                print+="@";
-                            }else if(email.substring(i,i+5).equals("_dot_")){
-                                i+=4;
-                                print+=".";
-                            }else if(mailbox!=-1){
-                                return email + " <-- Email domain cannot use underscores\n";
-                            }else{
-                                print += "_";
-                            }
-                            
-    
-                        }catch (IndexOutOfBoundsException e){
-                            if(mailbox==-1) return email + " <--- Email requires an @ symbol\n";
-                            return email + " <-- Email domain is incomplete\n";
-                        }
+                    }else{  
+                        print += "_";
                     }
-                    
 
                 }else{ //if character isnt an allowed alphanumeric
                     return email + " <-- Email does not allow the character at position " + i +"\n";
                 }
             }else{
-                print += email.substring(i,i+1).toLowerCase(); //adds lowercase alphanumeric
+                print += emailCopy.substring(i,i+1).toLowerCase(); //adds lowercase alphanumeric
             }
         }
-        if(mailbox==-1) return print + " <-- Email requires an @ symbol\n";
 
-        if(print.endsWith("com.au")||print.endsWith("co.au")||print.endsWith("co.ca")||print.endsWith("co.nz")||print.endsWith("co.uk")||print.endsWith("com")){
-            if(print.substring(mailbox, print.length()-3).indexOf(".")!=-1) return print + "\n";
-            return print + "<-- Email requires domain name\n";
-        }else{
-            return print + " <-- Invalid Extension\n";
+        if(!(print.endsWith(".com.au")||print.endsWith(".co.au")||print.endsWith(".co.ca")||print.endsWith(".co.nz")||print.endsWith(".co.uk")||print.endsWith(".com"))){
+            System.out.println(print);
+            return email + " <-- Invalid Domain Extension\n";
         }
+
+        for(int i=0; i<print.length()-3; i++){
+            try{
+                if(print.substring(i,i+5).equals("_dot_")){ 
+                    print = print.substring(0, i) + "." + print.substring(i+5,print.length());
+                    i+=4;
+    
+                }else if(i>mailbox & print.charAt(i)=='_'){
+                    System.out.println(print);
+    
+                    return email + " <-- Email domain cannot use underscores\n";
+                }
+            }catch(IndexOutOfBoundsException e){}
+            
+        }
+
+        return print + "\n";
     }
 
     public static boolean validIPv4(String ip){
