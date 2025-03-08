@@ -51,3 +51,5 @@ harr[@[efir]
 harr_at_haha@gmail.com
 harr_dot_at_gmail.com
 harr_dot_at_gmail_at_haha.com
+harr@com
+harr@b.com

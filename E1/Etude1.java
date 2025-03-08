@@ -98,8 +98,7 @@ public class Etude1 {
             }
         }
 
-        if(!(print.endsWith(".com.au")||print.endsWith(".co.au")||print.endsWith(".co.ca")||print.endsWith(".co.nz")||print.endsWith(".co.uk")||print.endsWith(".com"))){
-            System.out.println(print);
+        if(!(print.endsWith("com.au")||print.endsWith("co.au")||print.endsWith("co.ca")||print.endsWith("co.nz")||print.endsWith("co.uk")||print.endsWith("com"))){
             return email + " <-- Invalid Domain Extension\n";
         }
 
@@ -110,15 +109,22 @@ public class Etude1 {
                     i+=4;
     
                 }else if(i>mailbox & print.charAt(i)=='_'){
-                    System.out.println(print);
-    
                     return email + " <-- Email domain cannot use underscores\n";
                 }
             }catch(IndexOutOfBoundsException e){}
             
         }
 
-        return print + "\n";
+        boolean hasDot = false;
+
+        for(int i=mailbox; i<print.length()-3; i++){
+            if(print.charAt(i)=='.') hasDot=true;
+        }
+
+        if(hasDot) return print + "\n";
+        return email + " <-- Email needs a domain name that ends with a dot\n";
+
+        
     }
 
     public static boolean validIPv4(String ip){

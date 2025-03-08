@@ -1,6 +1,6 @@
 harrisonbjones1000@gmail.com
 harrisonbjones1000@gmail.com
-harrisonbjones1000@gmail_dot_com <-- Invalid Domain Extension
+harrisonbjones1000@gmail.com
 harrisonbjones1000.gmail.com <-- Email must have an @ symbol
 .harrisonbjones1000@gmail.com <-- Email cannot start with that symbol
 harrisonb.jones1000@gmail.com
@@ -18,10 +18,10 @@ harrisonbjones1000@_at_gmail.com <-- Email cannot have repeating non alphanumeri
 harrisonbjones1000_at_@gmail.com <-- Email cannot have repeating non alphanumeric characters
 harrisonbjones1000@g_at_mail.com <-- Email domain cannot use underscores
 harrisonbjones1000@gmail.com_at_ <-- Invalid Domain Extension
-harrisonbjones@com <-- Invalid Domain Extension
-harrisonb.jones@com <-- Invalid Domain Extension
+harrisonbjones@com <-- Email needs a domain name that ends with a dot
+harrisonb.jones@com <-- Email needs a domain name that ends with a dot
 harrisonbjones@.com <-- Email cannot have repeating non alphanumeric characters
-harrisonbjones@co.nz <-- Invalid Domain Extension
+harrisonbjones@co.nz <-- Email needs a domain name that ends with a dot
 harrisonbjones@haha.co.nzz <-- Invalid Domain Extension
 harrisonbjones@haha-gmail.co.nz <-- Email domain cannot use hyphens
 harrisonbjones@haha_gmail.co.nz <-- Email domain cannot use underscores
@@ -37,7 +37,7 @@ cath@[139.80a.12.50] <-- Invalid domain
 cath@[139.80.96.500] <-- Invalid domain
 ceo@insurocorp.com
 maffu@cs.otago.ac.nz <-- Invalid Domain Extension
-gerry_at_research.techies_dot_co.uk <-- Invalid Domain Extension
+gerry@research.techies.co.uk
 bob.gmail.com <-- Email must have an @ symbol
 cath@[139.80.91.50]
 test@[] <-- Invalid domain
@@ -51,3 +51,5 @@ harr[@[efir] <-- Email does not allow square brackets in the mailbox name
 harr_at_haha@gmail.com
 harr_dot@gmail.com
 harr.at_gmail@haha.com
+harr@com <-- Email needs a domain name that ends with a dot
+harr@b.com
