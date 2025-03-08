@@ -1,5 +1,3 @@
-package E9;
-
 public class MyTree {
     private int target;
     private int[] sequence; // the order of the numbers

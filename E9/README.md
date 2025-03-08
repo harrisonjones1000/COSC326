@@ -1,14 +1,6 @@
-Test Cases:
-N 2 2
-N 2 1
-N 18 2 9
-N 11 2 9
-N 19 2 9
-N 7 1 2 3
-N 101 10 10 1
-N 20 9 2 2
-N 20 2 2 9
-N 67 6 7 17 4 2
-N 67 6 7 17 4 3
-L 9 1 2 3
-L 61 4 5 6 7
+Test cases tried are in E_9tests
+
+Code ran via the following commands:
+javac MyTree.java
+javac Arithmetic2.java
+java Arithmetic2.java E9_tests.txt output.txt
