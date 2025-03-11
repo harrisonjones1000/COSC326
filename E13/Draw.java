@@ -10,6 +10,7 @@ public class Draw extends JPanel{
     Draw(int order, double factor){
         Toolkit toolkit = Toolkit.getDefaultToolkit();
         Dimension screenSize = toolkit.getScreenSize();
+        screenSize = new Dimension(640,480);
 
         setPreferredSize(screenSize);
 
@@ -26,8 +27,8 @@ public class Draw extends JPanel{
         double widthfactor=0;
         
 
-        for(int i=1; i<order+1; i++){ 
-            if(i%2==1){ //odd
+        for(int i=0; i<order; i++){ 
+            if(i%2==0){ //odd
                 widthfactor+=Math.pow(factor,2*i);
             }else{//even
                 heightfactor += Math.pow(factor,2*i-1);
@@ -37,8 +38,8 @@ public class Draw extends JPanel{
         widthfactor = screenSize.getWidth()/widthfactor; //L to fit width ways
         heightfactor = screenSize.getWidth()/heightfactor; //L to fit height ways
 
-        this.length = heightfactor;
-        if(widthfactor<heightfactor) this.length = widthfactor; //pick smaller L to fit.
+        this.length = (0.9*heightfactor);
+        if(widthfactor<heightfactor) this.length = (0.9*widthfactor); //pick smaller L to fit.
 
     }
 
