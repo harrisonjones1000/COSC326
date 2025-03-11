@@ -52,7 +52,7 @@ public class Etude5 {
         
         System.out.println(g.toString());
 
-        //System.out.println(g.findPath());
+        System.out.println(g.findPath());
         
     }
 
