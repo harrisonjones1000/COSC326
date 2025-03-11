@@ -214,7 +214,7 @@ public class Etude2 {
         if (isLeapYear && monthInt == 2) {
             maxDays = 29;
         } else {
-            maxDays = daysInMonths[monthInt];
+            maxDays = daysInMonths[monthInt-1];
         }
 
         if (dayInt < 1 || dayInt > maxDays)
