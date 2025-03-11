@@ -165,7 +165,7 @@ public class Etude2 {
                     ylen = date[0].length();
                 }
 
-                if (!((dlen == 1 | dlen == 2) & (mlen == 1 | mlen == 2) & (ylen == 2 | ylen == 4))) {
+                if (!((dlen == 1 || dlen == 2) && (mlen == 1 || mlen == 2) && (ylen == 2 || ylen == 4))) {
                     System.out.print(dates.get(i)
                             + " - INVALID: date, month and/or year format is wrong, e.g. date should be 0d or dd, not 00d\n");
                 } else {
