@@ -8,15 +8,16 @@ public class Etude5 {
         Graph g = null;
 
         if(args.length==0){
-            System.out.println("No test file provided");
+            System.out.println("Invalid: No input");
+            return;
         }else{
             try{
                 Scanner testScan = new Scanner(new File(args[0]));
                 while(testScan.hasNext()){
                     if(!head){
-                        tokens = testScan.nextLine().split(", ");
+                        tokens = testScan.nextLine().toLowerCase().split(", ");
                         if(tokens.length!=2){
-                            System.out.println("Invalid input file");
+                            System.out.println("Invalid: route");
                             testScan.close();
                             return;
                         }else{
@@ -24,16 +25,19 @@ public class Etude5 {
                             head=true;
                         }
                     }else{
-                        tokens = testScan.nextLine().split(", ");
+                        tokens = testScan.nextLine().toLowerCase().split(", ");
                         if(tokens.length!=3){
-                            System.out.println("Invalid input file"); 
+                            System.out.println("Invalid: route set"); 
                             testScan.close();
                             return;
                         }else{
                             try{
-                                g.addEdge(tokens[0], tokens[1], Double.parseDouble(tokens[2]));
+                                if(g.addEdge(tokens[0], tokens[1], Double.parseDouble(tokens[2]))){
+                                    System.out.println("Invalid: Non-unique routes");
+                                    return;
+                                }
                             }catch(NumberFormatException e){
-                                System.out.println("Invalid input file");   
+                                System.out.println("Numer format exception");   
                                 testScan.close();
                                 return;
                             }
@@ -47,6 +51,8 @@ public class Etude5 {
         }  
         
         System.out.println(g.toString());
+
+        //System.out.println(g.findPath());
         
     }
 
@@ -65,27 +71,38 @@ public class Etude5 {
     static class Graph{
         private String source; //start location
         private String destination; //end desintation
+
         //Map of locations (Strings), and the list of routes leaving them (Edges)
-        private Map<String, ArrayList<Edge>> map = new HashMap<>(); 
+        private Map<String, ArrayList<Edge>> locations = new HashMap<>(); 
 
         Graph(String[] targets) {
             this.source=targets[0];
             this.destination=targets[1];
-            this.map.put(targets[0], new ArrayList<Edge>()); 
+            this.locations.put(targets[0], new ArrayList<Edge>()); 
         }
 
-        private void addEdge(String source, String destination, double value){
-            if(map.get(source)==null) map.put(source, new ArrayList<Edge>());
-            
-            map.get(source).add(new Edge(source, destination, value));
-            
+        private boolean addEdge(String source, String destination, double value){
+            if(locations.get(source)==null){ //Location not yet added to locations
+                locations.put(source, new ArrayList<Edge>());
+            }
+
+            //Check each edge 
+            for(Edge edge : locations.get(source)){
+                if(edge.destination.equals(destination)){ //edge already exists
+                    return true;
+                }
+            }
+            //Add new edge
+            locations.get(source).add(new Edge(source, destination, value));
+            return false;
         }
 
+        //Lists each location and their routes
         public String toString(){
             String print = "";
-            for (String location : map.keySet()) {
+            for (String location : locations.keySet()) {
                 print += location + " : ";    
-                List<Edge> edges = map.get(location);
+                List<Edge> edges = locations.get(location);
                 
                 for (Edge edge : edges) {
                     print += edge.destination + " " + edge.cost + ", ";
@@ -94,6 +111,16 @@ public class Etude5 {
             }
 
             return print;
+        }
+
+        //Dijkstra's shortest-path algorithm (weighted case)
+        private String findPath(){ 
+            //Cost to reach each node
+            Map<String, Double> costs = new HashMap<>(); 
+            costs.put(source, 0.0);
+
+
+            return "";
         }
 
     }
