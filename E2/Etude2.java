@@ -201,7 +201,7 @@ public class Etude2 {
             isLeapYear = true;
         }
 
-        if (yearInt > 3000 || yearInt < 1753)
+        if (yearInt >= 3000 || yearInt < 1753)
             return -3; // year out of range
 
         if (monthInt < 1 || monthInt > 12)
