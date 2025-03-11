@@ -21,10 +21,8 @@ public class Etude1 {
                     System.out.println("Invalid input");
                 }
                 testScan.close();
-            }
-            
+            }  
 
-            
         }catch(FileNotFoundException e){
             System.out.println("No file of that name found");
         }
