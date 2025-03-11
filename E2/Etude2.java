@@ -19,20 +19,15 @@ public class Etude2 {
         // Where we keep track of the format that works for each date
         int[] values = new int[6]; // 0 - dmy, 1 - dym, 2 - mdy, 3 - myd, 4 - ymd, 5 - ydm
 
-        if (args.length == 0) {
-            System.out.println("Invalid: No input");
-            return;
-        } else {
-            try {
-                Scanner testScan = new Scanner(new File(args[0]));
-                while (testScan.hasNext())
-                    dates.add(testScan.nextLine());
-                testScan.close();
-
-            } catch (FileNotFoundException e) {
-                System.out.println("No file of that name found");
-            }
+        // if (args.length == 0) {
+        // System.out.print("Invalid: No input");
+        // return;
+        // } else {
+        Scanner testScan = new Scanner(System.in);
+        while (testScan.hasNext()) {
+            dates.add(testScan.nextLine());
         }
+        testScan.close();
 
         // where we store if our dates are valid int/int/int format
         boolean[] valid = new boolean[dates.size()];
@@ -51,8 +46,6 @@ public class Etude2 {
                     third = Integer.parseInt(date[2]);
 
                     valid[i] = true;
-
-                    // Note: need to check for cases such as 00003/002/2004
 
                     if (date[0].length() == 4) { // first entry is yyyy
                         if (dateChecker(third, second, first, false) == 1)
@@ -89,10 +82,11 @@ public class Etude2 {
                 } catch (NumberFormatException e) {
                     valid[i] = false; // not int/int/int
                 }
+
             }
         }
 
-        // System.out.println(Arrays.toString(values));
+        // System.out.print(Arrays.toString(values));
 
         int maxIdx = 0; // most common format
 
@@ -104,93 +98,89 @@ public class Etude2 {
         int[] input = new int[3];
         boolean yy;
 
-        if (args.length == 2) {
-            int dlen;
-            int mlen;
-            int ylen;
-            try (FileWriter writer = new FileWriter(args[1], false)) {
-                // writer.write(method(testScan.nextLine()));
-                for (int i = 0; i < dates.size(); i++) {
-                    if (!valid[i]) { // if not int/int/int
-                        writer.write(dates.get(i) + " -  INVALID: inputs are not numbers or of format int/int/int\n");
+        int dlen;
+        int mlen;
+        int ylen;
+
+        // System.out.print(method(testScan.nextLine()));
+        for (int i = 0; i < dates.size(); i++) {
+            if (!valid[i]) { // if not int/int/int
+                System.out.print(dates.get(i) + " -  INVALID: inputs are not numbers or of format int/int/int\n");
+            } else {
+
+                date = dates.get(i).split("/");
+                if (maxIdx == 0) { // dmy
+                    input[0] = Integer.parseInt(date[0]);
+                    input[1] = Integer.parseInt(date[1]);
+                    input[2] = Integer.parseInt(date[2]);
+                    yy = date[2].length() == 2;
+
+                    dlen = date[0].length();
+                    mlen = date[1].length();
+                    ylen = date[2].length();
+                } else if (maxIdx == 1) { // dym
+                    input[0] = Integer.parseInt(date[0]);
+                    input[1] = Integer.parseInt(date[2]);
+                    input[2] = Integer.parseInt(date[1]);
+                    yy = date[1].length() == 2;
+
+                    dlen = date[0].length();
+                    mlen = date[2].length();
+                    ylen = date[1].length();
+                } else if (maxIdx == 2) { // mdy
+                    input[0] = Integer.parseInt(date[1]);
+                    input[1] = Integer.parseInt(date[0]);
+                    input[2] = Integer.parseInt(date[2]);
+                    yy = date[2].length() == 2;
+
+                    dlen = date[1].length();
+                    mlen = date[0].length();
+                    ylen = date[2].length();
+                } else if (maxIdx == 3) { // myd
+                    input[0] = Integer.parseInt(date[2]);
+                    input[1] = Integer.parseInt(date[0]);
+                    input[2] = Integer.parseInt(date[1]);
+                    yy = date[1].length() == 2;
+
+                    dlen = date[2].length();
+                    mlen = date[1].length();
+                    ylen = date[0].length();
+                } else if (maxIdx == 4) { // ymd
+                    input[0] = Integer.parseInt(date[2]);
+                    input[1] = Integer.parseInt(date[1]);
+                    input[2] = Integer.parseInt(date[0]);
+                    yy = date[0].length() == 2;
+
+                    dlen = date[2].length();
+                    mlen = date[1].length();
+                    ylen = date[0].length();
+                } else { // ydm
+                    input[0] = Integer.parseInt(date[1]);
+                    input[1] = Integer.parseInt(date[2]);
+                    input[2] = Integer.parseInt(date[0]);
+                    yy = date[0].length() == 2;
+
+                    dlen = date[1].length();
+                    mlen = date[2].length();
+                    ylen = date[0].length();
+                }
+
+                if (!((dlen == 1 | dlen == 2) & (mlen == 1 | mlen == 2) & (ylen == 2 | ylen == 4))) {
+                    System.out.print(dates.get(i)
+                            + " - INVALID: date, month and/or year format is wrong, e.g. date should be 0d or dd, not 00d\n");
+                } else {
+                    int output = dateChecker(input[0], input[1], input[2], yy);
+
+                    if (output == 1) {
+                        System.out.print(dates.get(i) + "\n");
+                    } else if (output == -3) {
+                        System.out.print(dates.get(i) + " - INVALID: Year out of range\n");
+                    } else if (output == -2) {
+                        System.out.print(dates.get(i) + " - INVALID: Month out of range\n");
                     } else {
-
-                        date = dates.get(i).split("/");
-                        if (maxIdx == 0) { // dmy
-                            input[0] = Integer.parseInt(date[0]);
-                            input[1] = Integer.parseInt(date[1]);
-                            input[2] = Integer.parseInt(date[2]);
-                            yy = date[2].length() == 2;
-
-                            dlen = date[0].length();
-                            mlen = date[1].length();
-                            ylen = date[2].length();
-                        } else if (maxIdx == 1) { // dym
-                            input[0] = Integer.parseInt(date[0]);
-                            input[1] = Integer.parseInt(date[2]);
-                            input[2] = Integer.parseInt(date[1]);
-                            yy = date[1].length() == 2;
-
-                            dlen = date[0].length();
-                            mlen = date[2].length();
-                            ylen = date[1].length();
-                        } else if (maxIdx == 2) { // mdy
-                            input[0] = Integer.parseInt(date[1]);
-                            input[1] = Integer.parseInt(date[0]);
-                            input[2] = Integer.parseInt(date[2]);
-                            yy = date[2].length() == 2;
-
-                            dlen = date[1].length();
-                            mlen = date[0].length();
-                            ylen = date[2].length();
-                        } else if (maxIdx == 3) { // myd
-                            input[0] = Integer.parseInt(date[2]);
-                            input[1] = Integer.parseInt(date[0]);
-                            input[2] = Integer.parseInt(date[1]);
-                            yy = date[1].length() == 2;
-
-                            dlen = date[2].length();
-                            mlen = date[1].length();
-                            ylen = date[0].length();
-                        } else if (maxIdx == 4) { // ymd
-                            input[0] = Integer.parseInt(date[2]);
-                            input[1] = Integer.parseInt(date[1]);
-                            input[2] = Integer.parseInt(date[0]);
-                            yy = date[0].length() == 2;
-
-                            dlen = date[2].length();
-                            mlen = date[1].length();
-                            ylen = date[0].length();
-                        } else { // ydm
-                            input[0] = Integer.parseInt(date[1]);
-                            input[1] = Integer.parseInt(date[2]);
-                            input[2] = Integer.parseInt(date[0]);
-                            yy = date[0].length() == 2;
-
-                            dlen = date[1].length();
-                            mlen = date[2].length();
-                            ylen = date[0].length();
-                        }
-
-                        if (!((dlen == 1 | dlen == 2) & (mlen == 1 | mlen == 2) & (ylen == 2 | ylen == 4))) {
-                            writer.write(dates.get(i)
-                                    + " - INVALID: date, month and/or year format is wrong, e.g. date should be 0d or dd, not 00d\n");
-                        } else {
-                            int output = dateChecker(input[0], input[1], input[2], yy);
-
-                            if (output == 1) {
-                                writer.write(dates.get(i) + "\n");
-                            } else if (output == -3) {
-                                writer.write(dates.get(i) + " - INVALID: Year out of range\n");
-                            } else if (output == -2) {
-                                writer.write(dates.get(i) + " - INVALID: Month out of range\n");
-                            } else {
-                                writer.write(dates.get(i) + " - INVALID: Day out of range\n");
-                            }
-                        }
+                        System.out.print(dates.get(i) + " - INVALID: Day out of range\n");
                     }
                 }
-            } catch (IOException e) {
             }
         }
     }
