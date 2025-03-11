@@ -1,0 +1,11 @@
+05/03/2025
+06/03/2025
+07/03/2025
+01/49/02 - INVALID: Month out of range
+02/49/02 - INVALID: Month out of range
+2008/01/01 - INVALID: date, month and/or year format is wrong, e.g. date should be 0d or dd, not 00d
+dwhgefvt -  INVALID: inputs are not numbers
+01/02/0a -  INVALID: inputs are not numbers
+00003/002/2004 - INVALID: date, month and/or year format is wrong, e.g. date should be 0d or dd, not 00d
+30/06/2003
+30/06/03
