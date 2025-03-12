@@ -102,6 +102,8 @@ public class Etude2 {
         int mlen;
         int ylen;
 
+        String[] monthLetters = { "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" };
+
         // System.out.print(method(testScan.nextLine()));
         for (int i = 0; i < dates.size(); i++) {
             if (!valid[i]) { // if not int/int/int
@@ -172,7 +174,22 @@ public class Etude2 {
                     int output = dateChecker(input[0], input[1], input[2], yy);
 
                     if (output == 1) {
-                        System.out.print(dates.get(i) + "\n");
+                        int yearInt = input[2];
+                        if (yy) {
+
+                            if (yearInt < 49) {
+                                yearInt = yearInt + 2000;
+                            } else if (yearInt >= 50) {
+                                yearInt = yearInt + 1900;
+                            }
+                        }
+
+                        String dayString = "" + input[0];
+                        if (dayString.length() < 2) {
+                            dayString = "0" + dayString;
+                        }
+                        System.out
+                                .print(dayString + " " + monthLetters[input[1] - 1] + " " + yearInt + "\n");
                     } else if (output == -3) {
                         System.out.print(dates.get(i) + " - INVALID: Year out of range\n");
                     } else if (output == -2) {
@@ -214,7 +231,7 @@ public class Etude2 {
         if (isLeapYear && monthInt == 2) {
             maxDays = 29;
         } else {
-            maxDays = daysInMonths[monthInt-1];
+            maxDays = daysInMonths[monthInt - 1];
         }
 
         if (dayInt < 1 || dayInt > maxDays)
