@@ -49,7 +49,7 @@ public class Arithmetic2 {
         MyTree tree = new MyTree(target, seq, parts[0].equals("N"));
         boolean[] result = tree.search();
 
-        if(result==null) return input + " Impossible\n";
+        if(result==null) return input + " impossible\n";
 
         String print = parts[0] + " " + target + " = " + seq[0];
 
