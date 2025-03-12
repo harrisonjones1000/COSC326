@@ -1,9 +1,1 @@
-p
-q
-r
-s
-pp
-Np
-NNNp
-NNNNq
-NN
+CpCpp
