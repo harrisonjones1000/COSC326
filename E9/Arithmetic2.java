@@ -30,7 +30,7 @@ public class Arithmetic2 {
                 if(Integer.parseInt(parts[2])==target){
                     return parts[0] + " " +  target + " = " +  target + "\n";
                 }else{
-                    return input + " Impossible\n";
+                    return input + " impossible\n";
                 }
             }
 
