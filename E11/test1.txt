@@ -1,1 +1,14 @@
+p
+q
+r
+s
+Np
+NNq
+NNNr
+NNNNs
+Cpp
+CpNq
 CpCpp
+CpNNNNs
+NCpp
+NNNCpNNNNs
