@@ -24,7 +24,6 @@ public class Draw extends JPanel{
         
 
         for(int i=0; i<order; i++){ 
-            //i=0 is order=1
             if(i%2==0){ //odd
                 widthfactor+=Math.pow(factor,i);
             }else{//even
@@ -37,11 +36,11 @@ public class Draw extends JPanel{
         this.length = widthfactor;
 
         if(order!=1){
-            heightfactor = screenSize.getWidth()/heightfactor; //L to fit height ways
+            heightfactor = screenSize.getHeight()/heightfactor; //L to fit height ways
             if(heightfactor<widthfactor) this.length = heightfactor; //L is smaller
         } 
 
-        this.length = (0.9*this.length);
+        this.length = (0.75*this.length);
     }
 
     public void paintComponent(Graphics g){
@@ -52,9 +51,9 @@ public class Draw extends JPanel{
     private void drawLine(Graphics g, int order, int x, int y){
         int a = (int)(Math.pow(this.factor, order-1)*this.length/2);
         if(a==0){
-            System.out.println("Order " + order + " is too small to draw");
             return; //Line is not worth drawing
         }
+
         if(order%2==1){ //odd, 1, 3, 5, draw horizontal
             g.drawLine(x-a,y,x+a,y);
         }else{ //even, 2, 4, 6, 8, draw vertical
