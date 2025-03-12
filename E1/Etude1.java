@@ -1,6 +1,5 @@
 //Harrison Jones
 
-import java.io.*;
 import java.util.Scanner;
 
 public class Etude1 {

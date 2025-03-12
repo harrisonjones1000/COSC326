@@ -10,7 +10,8 @@ public class Draw extends JPanel{
     Draw(int order, double factor){
         Toolkit toolkit = Toolkit.getDefaultToolkit();
         Dimension screenSize = toolkit.getScreenSize();
-        screenSize = new Dimension(640,480);
+
+        //screenSize.setSize(new Dimension((int)screenSize.getWidth(), (int)(0.9*screenSize.getHeight())));
 
         setPreferredSize(screenSize);
 
@@ -18,29 +19,29 @@ public class Draw extends JPanel{
         this.factor = factor;
         this.order = order;
 
-        double l = 0;
-
-        //Need to calculate how wide and tall a HV-tree of length L, order o and factor f would be.
-        //Then pick the largest L such that it doesnt get out of the screens bounds. 
-
         double heightfactor=0;
         double widthfactor=0;
         
 
         for(int i=0; i<order; i++){ 
+            //i=0 is order=1
             if(i%2==0){ //odd
-                widthfactor+=Math.pow(factor,2*i);
+                widthfactor+=Math.pow(factor,i);
             }else{//even
-                heightfactor += Math.pow(factor,2*i-1);
+                heightfactor+=Math.pow(factor,i);
             }   
         }
 
         widthfactor = screenSize.getWidth()/widthfactor; //L to fit width ways
-        heightfactor = screenSize.getWidth()/heightfactor; //L to fit height ways
 
-        this.length = (0.9*heightfactor);
-        if(widthfactor<heightfactor) this.length = (0.9*widthfactor); //pick smaller L to fit.
+        this.length = widthfactor;
 
+        if(order!=1){
+            heightfactor = screenSize.getWidth()/heightfactor; //L to fit height ways
+            if(heightfactor<widthfactor) this.length = heightfactor; //L is smaller
+        } 
+
+        this.length = (0.9*this.length);
     }
 
     public void paintComponent(Graphics g){
@@ -49,9 +50,11 @@ public class Draw extends JPanel{
     }
 
     private void drawLine(Graphics g, int order, int x, int y){
-        System.out.println(length);
-        System.out.println(screen.toString());
         int a = (int)(Math.pow(this.factor, order-1)*this.length/2);
+        if(a==0){
+            System.out.println("Order " + order + " is too small to draw");
+            return; //Line is not worth drawing
+        }
         if(order%2==1){ //odd, 1, 3, 5, draw horizontal
             g.drawLine(x-a,y,x+a,y);
         }else{ //even, 2, 4, 6, 8, draw vertical

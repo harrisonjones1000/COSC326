@@ -28,7 +28,7 @@ public class Etude13 {
 
         Draw d = new Draw(order, factor);
         frame.getContentPane().add(d);
-        frame.pack();
+        frame.setExtendedState(JFrame.MAXIMIZED_BOTH);
         frame.setVisible(true);
         
     }
