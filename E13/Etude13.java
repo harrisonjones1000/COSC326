@@ -22,6 +22,14 @@ public class Etude13 {
             }
         }
 
+        if(order<1){
+            System.out.println("Order must be a positive integer");
+            return;
+        }else if(factor<=0){
+            System.out.println("Factor must be a positive non zero value");
+            return;
+        }
+
         JFrame frame = new JFrame("My Frame");
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         frame.setLayout(new FlowLayout());
@@ -30,6 +38,5 @@ public class Etude13 {
         frame.getContentPane().add(d);
         frame.setExtendedState(JFrame.MAXIMIZED_BOTH);
         frame.setVisible(true);
-        
     }
 }

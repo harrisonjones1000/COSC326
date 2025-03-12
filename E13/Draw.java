@@ -50,7 +50,7 @@ public class Draw extends JPanel{
 
     private void drawLine(Graphics g, int order, int x, int y){
         int a = (int)(Math.pow(this.factor, order-1)*this.length/2);
-        if(a==0){
+        if(a==0 && factor<1){ 
             return; //Line is not worth drawing
         }
 
