@@ -47,6 +47,10 @@ public class Etude5 {
 
     }
 
+    /**
+     * An object that holds the triple of node, cumulative cost to that node and the
+     * associated path.
+     */
     static class NodeCostPath {
         String node;
         double cumCost;
@@ -79,17 +83,11 @@ public class Etude5 {
         String source;
         String destination;
         double cost;
-        private double cumCost;
-        private ArrayList<String> prevNodes;
 
         public Edge(String source, String destination, double cost) {
             this.source = source;
             this.destination = destination;
             this.cost = cost;
-        }
-
-        public String toString() {
-            return source + " -> " + destination + " [" + cost + "]";
         }
     }
 
@@ -139,8 +137,10 @@ public class Etude5 {
         }
 
         // Dijkstra's shortest-path algorithm (weighted case)
+        // Appends least-cost paths to target until one has a greater cost.
         private String findPath() {
 
+            // List of nodes to expand
             ArrayList<NodeCostPath> openArrayList = new ArrayList<>();
 
             String nName = source;
@@ -148,6 +148,7 @@ public class Etude5 {
             ArrayList<String> nPath = new ArrayList<>();
             nPath.add(nName);
 
+            // List of least-cost solutions
             ArrayList<NodeCostPath> solutions = new ArrayList<>();
 
             while (true) {
@@ -185,9 +186,16 @@ public class Etude5 {
 
             // sort solutions by shortest path (all solutions should have equal cost)
             Collections.sort(solutions, new SortByLength());
-            System.out.println(solutions.get(0));
+            ArrayList<String> solutionPath = solutions.get(0).path;
 
-            return "";
+            StringBuilder s = new StringBuilder();
+            for (String node : solutionPath) {
+                s.append(node);
+                s.append('-');
+            }
+            s.deleteCharAt(s.lastIndexOf("-"));
+
+            return s.toString();
         }
 
     }
