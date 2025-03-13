@@ -10,7 +10,7 @@ public class Etude5 {
         Scanner testScan = new Scanner(System.in);
         while (testScan.hasNext()) {
             if (!head) {
-                tokens = testScan.nextLine().toLowerCase().split(", ");
+                tokens = testScan.nextLine().strip().toLowerCase().split(", ");
                 if (tokens.length != 2) {
                     System.out.println("Invalid: route");
                     testScan.close();
@@ -20,7 +20,7 @@ public class Etude5 {
                     head = true;
                 }
             } else {
-                tokens = testScan.nextLine().toLowerCase().split(", ");
+                tokens = testScan.nextLine().strip().toLowerCase().split(", ");
                 if (tokens.length != 3) {
                     System.out.println("Invalid: route set");
                     testScan.close();
