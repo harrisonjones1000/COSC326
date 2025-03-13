@@ -140,9 +140,6 @@ public class Etude5 {
 
         // Dijkstra's shortest-path algorithm (weighted case)
         private String findPath() {
-            // Cost to reach each node
-            // Map<String, Double> openMap = new HashMap<>();
-            // List<Set<String, Double>> openList = new List();
 
             ArrayList<NodeCostPath> openArrayList = new ArrayList<>();
 
@@ -150,30 +147,24 @@ public class Etude5 {
             double nCost = 0.0;
             ArrayList<String> nPath = new ArrayList<>();
             nPath.add(nName);
-            // openArrayList.add(new NodeCostPath(nName, nCost, nPath));
 
             ArrayList<NodeCostPath> solutions = new ArrayList<>();
 
-            // double costOfFirstPath = -1;
             while (true) {
                 if (nName.equals(destination)) {
+                    // break if we have at least one solution, and the current solution is worse
                     if (solutions.size() > 0 && solutions.get(0).cumCost < nCost) {
                         break;
                     }
                     solutions.add(new NodeCostPath(nName, nCost, nPath));
                 } else {
-                    // System.out.println("Name: " + nName);
-                    // System.out.println(">" + locations.get(nName) + "<");
                     for (Edge edge : locations.get(nName)) {
-                        // System.out.println(edge.destination + ", " + edge.cost + ", " + nCost + ", "
-                        // + nPath);
                         openArrayList.add(new NodeCostPath(edge.destination, edge.cost + nCost, nPath));
                     }
                     Collections.sort(openArrayList, new SortByCost());
                 }
-                // System.out.println(openArrayList);
-                // System.out.println("Popping: " + n);
 
+                // break if we reach the end of the search
                 if (openArrayList.size() < 1) {
                     break;
                 }
@@ -192,20 +183,11 @@ public class Etude5 {
 
             }
 
+            // sort solutions by shortest path (all solutions should have equal cost)
             Collections.sort(solutions, new SortByLength());
             System.out.println(solutions.get(0));
-            // System.out.println(nPath.toString());
-            // System.out.println(nCost);
+
             return "";
-
-            // System.out.println(nName);
-            // System.out.println(nCost);
-            // System.out.println(nPath);
-
-            // System.out.println(openArrayList);
-
-            // System.out.println(openArrayList);
-
         }
 
     }
