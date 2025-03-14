@@ -35,11 +35,13 @@ public class Arithmetic3 {
             return input + " Invalid\n";
         }
 
-        int lowerBound = lower(seq);
-        long upperBound = upper(parts[0].equals("L"), seq);
+        //int lowerBound = lower(seq);
+        //long upperBound = upper(parts[0].equals("L"), seq);
+        //if(target < lowerBound || target > upperBound) return input + " impossible \t Lower bound: " + lowerBound + " Upper bound: " + upperBound + " \n";
         
-        if(target < lowerBound || target > upperBound) return input + " impossible \t Lower bound: " + lowerBound + " Upper bound: " + upperBound + " \n";
-        
+        //boolean[] a = genAlternating(seq.length-1);
+        //System.out.println(evaluate2(true, seq, a));
+
         boolean[] results = new boolean[seq.length-1];
         results = find(parts[0].equals("L"), seq, target, seq.length-2, results);
 
@@ -58,6 +60,21 @@ public class Arithmetic3 {
         return print + "\n";
     }
 
+    //Generates alternating pattern of addition and multiplication
+    public static boolean[] genAlternating(int n){
+        boolean[] a = new boolean[n];
+
+        for(int i=0; i<n; i++){  
+            if(i%2==0){ //0, 2, 4
+                a[i]=true;
+            }else{
+                a[i]=false;
+            }
+        }
+
+        return a;
+    }
+
     public static int lower(int[] parts){
         int lower = parts[0];
         for(int i=1; i<parts.length; i++){
@@ -71,8 +88,8 @@ public class Arithmetic3 {
         if(L){
             upper = parts[0];
             for(int i=1; i<parts.length; i++){
-                if(parts[i]==1){
-                    upper+=1;
+                if(parts[i]==1||upper==1){
+                    upper+=parts[i];
                 }else{
                     upper=upper*parts[i];
                 }        
@@ -104,10 +121,6 @@ public class Arithmetic3 {
     static boolean[] find(boolean L, int[] seq, long target, int pos, boolean[] results){
         if(L){
             if(pos==0){ //base case
-                results[pos]=true;
-                System.out.println(evaluate2(L, seq, results));
-                results[pos]=false;
-                System.out.println(evaluate2(L, seq, results));
                 if(target==seq[0]+seq[1]){
                     results[pos]=true;
                     return results;
@@ -119,10 +132,7 @@ public class Arithmetic3 {
                 }
             }else if(target<=0){
                 return null;
-            }else if(target % seq[pos+1] != 0){ //can't be times, is plus
-                results[pos] = true;
-                return find(L, seq, target-seq[pos+1], pos-1, results); //plus
-            }else{//ambiguous
+            }else if(target % seq[pos+1] == 0){ //could be times or plus
                 results[pos] = true; 
                 boolean[] temp = find(L, seq, target-seq[pos+1], pos-1, results); //plus
                 if(temp==null){ //not pluss
@@ -131,15 +141,18 @@ public class Arithmetic3 {
                 }else{
                     return temp; //correct answer
                 }
-            }
+            }else{//ambiguous
+                results[pos] = true;
+                return find(L, seq, target-seq[pos+1], pos-1, results); //plus
+            }   
         }else{
             return null;
         }
     }
 
-    public static int evaluate(boolean L, int[] sequence, boolean[] order){
+    public static long evaluate(boolean L, int[] sequence, boolean[] order){
         if(L){
-            int value=sequence[0];
+            long value=sequence[0];
             for(int i=1; i<sequence.length; i++){
                 if(order[i-1]){
                     value+=sequence[i];
@@ -187,7 +200,7 @@ public class Arithmetic3 {
     }
 
     public static String evaluate2(boolean L, int[] seq, boolean[] results){
-        int value = evaluate(L, seq, results);
+        long value = evaluate(L, seq, results);
         String print = value + " = " + seq[0];
         for(int i=1; i<seq.length; i++){
             if(results[i-1]==true){
