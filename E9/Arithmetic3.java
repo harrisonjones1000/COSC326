@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Arithmetic3 {
     public static void main(String[] args) {
         Scanner testScan = new Scanner(System.in);
-        while (testScan.hasNext()) {
+        while (testScan.hasNext()){
             System.out.print(e9(testScan.nextLine()));
         }
         testScan.close();
@@ -16,9 +16,18 @@ public class Arithmetic3 {
 
         int n = parts.length-2;
         int[] seq = new int[n];
-        int target;
+        long target;
         try{
-            target = Integer.parseInt(parts[1]);
+            target = Long.parseLong(parts[1]);
+
+            if(parts.length==3){
+                if(Long.parseLong(parts[2])==target){
+                    return parts[0] + " " +  target + " = " +  target + "\n";
+                }else{
+                    return input + " impossible\n";
+                }
+            }
+
             for(int i=0; i<n; i++){
                 seq[i]=Integer.parseInt(parts[i+2]);
             }
@@ -27,11 +36,26 @@ public class Arithmetic3 {
         }
 
         int lowerBound = lower(seq);
-        int upperBound = upper(parts[0].equals("L"), seq);
+        long upperBound = upper(parts[0].equals("L"), seq);
         
-        if(target < lowerBound || target > upperBound) return input + " impossible\n";
+        if(target < lowerBound || target > upperBound) return input + " impossible \t Lower bound: " + lowerBound + " Upper bound: " + upperBound + " \n";
+        
+        boolean[] results = new boolean[seq.length-1];
+        results = find(parts[0].equals("L"), seq, target, seq.length-2, results);
 
-        return input + "\tLower Bound: " + lowerBound +"  Upper Bound: " + upperBound + "\n";
+        if(results==null) return input + " impossible2\n";
+        
+        String print = parts[0] + " " + target + " = " + seq[0];
+
+        for(int i=1; i<seq.length; i++){
+            if(results[i-1]==true){
+                print += " + " + seq[i];
+            }else{
+                print += " * " + seq[i];
+            }
+        }
+
+        return print + "\n";
     }
 
     public static int lower(int[] parts){
@@ -42,8 +66,8 @@ public class Arithmetic3 {
         return lower;
     }
 
-    public static int upper(boolean L, int[] parts){
-        int upper;
+    public static long upper(boolean L, int[] parts){
+        long upper;
         if(L){
             upper = parts[0];
             for(int i=1; i<parts.length; i++){
@@ -75,6 +99,104 @@ public class Arithmetic3 {
             upper+=consec;
         }
         return upper;
+    }
+
+    static boolean[] find(boolean L, int[] seq, long target, int pos, boolean[] results){
+        if(L){
+            if(pos==0){ //base case
+                results[pos]=true;
+                System.out.println(evaluate2(L, seq, results));
+                results[pos]=false;
+                System.out.println(evaluate2(L, seq, results));
+                if(target==seq[0]+seq[1]){
+                    results[pos]=true;
+                    return results;
+                }else if(target==seq[0]*seq[1]){
+                    results[pos]=false;
+                    return results;
+                }else{
+                    return null;
+                }
+            }else if(target<=0){
+                return null;
+            }else if(target % seq[pos+1] != 0){ //can't be times, is plus
+                results[pos] = true;
+                return find(L, seq, target-seq[pos+1], pos-1, results); //plus
+            }else{//ambiguous
+                results[pos] = true; 
+                boolean[] temp = find(L, seq, target-seq[pos+1], pos-1, results); //plus
+                if(temp==null){ //not pluss
+                    results[pos] = false; //times
+                    return find(L, seq, target/seq[pos+1], pos-1, results);
+                }else{
+                    return temp; //correct answer
+                }
+            }
+        }else{
+            return null;
+        }
+    }
+
+    public static int evaluate(boolean L, int[] sequence, boolean[] order){
+        if(L){
+            int value=sequence[0];
+            for(int i=1; i<sequence.length; i++){
+                if(order[i-1]){
+                    value+=sequence[i];
+                }else{
+                    value=value*sequence[i];
+                }
+            }
+            return value;
+        }else{
+            int current_consec=0;
+            int value=0;
+    
+            for(int i=0; i<order.length; i++){
+                if(order[i]){ //plus
+                    if(current_consec!=0){ //last operation was multiply
+                        current_consec=current_consec*sequence[i];
+                        value+=current_consec;
+                        current_consec=0;
+                    }else{
+                        value+=sequence[i];
+                    }
+                }else{ //multiply
+                    if(current_consec==0){
+                        current_consec=sequence[i];
+                    }else{
+                        current_consec=current_consec*sequence[i];
+                    }
+                }
+            }
+    
+            if(order[order.length-1]){ //final plus
+                if(current_consec!=0){ //second last operation was multiplication
+                    current_consec=current_consec*sequence[order.length-1];
+                    value+=current_consec;
+                }
+                    value+=sequence[order.length];
+    
+            }else{ //final multiply
+                current_consec=current_consec*sequence[order.length];
+                value+=current_consec;
+            }
+            
+            return value;
+        }
+    }
+
+    public static String evaluate2(boolean L, int[] seq, boolean[] results){
+        int value = evaluate(L, seq, results);
+        String print = value + " = " + seq[0];
+        for(int i=1; i<seq.length; i++){
+            if(results[i-1]==true){
+                print += " + " + seq[i];
+            }else{
+                print += " * " + seq[i];
+            }
+        }
+        return print;
     }
 }
 
