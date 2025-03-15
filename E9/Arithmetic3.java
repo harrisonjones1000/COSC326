@@ -50,7 +50,7 @@ public class Arithmetic3 {
             results = findN2(seq, target, 0, results);
         }
 
-        if(results==null) return input + " impossible2\n";
+        if(results==null) return input + " impossible\n";
         
         String print = parts[0] + " " + target + " = " + seq[0];
 
