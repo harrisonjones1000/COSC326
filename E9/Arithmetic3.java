@@ -35,15 +35,21 @@ public class Arithmetic3 {
             return input + " Invalid\n";
         }
 
-        //int lowerBound = lower(seq);
-        //long upperBound = upper(parts[0].equals("L"), seq);
-        //if(target < lowerBound || target > upperBound) return input + " impossible \t Lower bound: " + lowerBound + " Upper bound: " + upperBound + " \n";
+        int lowerBound = lower(seq);
+        long upperBound = upper(parts[0].equals("L"), seq);
+        System.out.println(lowerBound);
+        System.out.println(upperBound);
+        if(target < lowerBound || target > upperBound) return input + " impossible \t Lower bound: " + lowerBound + " Upper bound: " + upperBound + " \n";
         
         //boolean[] a = genAlternating(seq.length-1);
         //System.out.println(evaluate2(true, seq, a));
 
         boolean[] results = new boolean[seq.length-1];
-        results = find(parts[0].equals("L"), seq, target, seq.length-2, results);
+        if(parts[0].equals("L")){
+            results = findL(seq, target, seq.length-2, results);
+        }else{
+            results = findN2(seq, target, seq.length-2, results);
+        }
 
         if(results==null) return input + " impossible2\n";
         
@@ -118,34 +124,79 @@ public class Arithmetic3 {
         return upper;
     }
 
-    static boolean[] find(boolean L, int[] seq, long target, int pos, boolean[] results){
-        if(L){
-            if(pos==0){ //base case
-                if(target==seq[0]+seq[1]){
-                    results[pos]=true;
-                    return results;
-                }else if(target==seq[0]*seq[1]){
+    static boolean[] findL(int[] seq, long target, int pos, boolean[] results){
+        if(pos==0){ //base case
+            if(target==seq[0]+seq[1]){
+                results[pos]=true;
+                return results;
+            }else if(target==seq[0]*seq[1]){
+                results[pos]=false;
+                return results;
+            }else{
+                return null;
+            }
+        }else if(target<=0){
+            return null;
+        }else if(target % seq[pos+1] == 0){ //could be times or plus
+            results[pos] = true; 
+            boolean[] temp = findL(seq, target-seq[pos+1], pos-1, results); //plus
+            if(temp==null){ //not pluss
+                results[pos] = false; //times
+                return findL(seq, target/seq[pos+1], pos-1, results);
+            }else{
+                return temp; //correct answer
+            }
+        }else{//has to plus
+            results[pos] = true;
+            return findL(seq, target-seq[pos+1], pos-1, results); //plus
+        }   
+    }
+
+    static boolean[] findN2(int[] seq, long target, int pos, boolean[] results){
+        if(pos==results.length-1){
+            int consec=0;
+            for(int i=pos-1; i>0; i--){
+                if(!results[i]){//multiplication
+                    if(consec==0){
+                        consec=seq[i]*seq[i+1];
+                    }else{
+                        consec=consec*seq[i];
+                    }
+                }else{//addition
+                    break;
+                }
+            }
+            
+            if(consec==0){ //last operation was addition
+                if(target==seq[pos]*seq[pos+1]){
                     results[pos]=false;
+                    return results;
+                }else if(target==seq[pos]+seq[pos+1]){
+                    results[pos]=true;
                     return results;
                 }else{
                     return null;
                 }
-            }else if(target<=0){
+            }
+            return null;
+        }else if(pos==0){
+            long upper = upper(false, seq);
+            long lower = lower(seq);
+            if(target>upper || target<lower){
                 return null;
-            }else if(target % seq[pos+1] == 0){ //could be times or plus
-                results[pos] = true; 
-                boolean[] temp = find(L, seq, target-seq[pos+1], pos-1, results); //plus
-                if(temp==null){ //not pluss
-                    results[pos] = false; //times
-                    return find(L, seq, target/seq[pos+1], pos-1, results);
+            }else{//in range
+                results[0]=true; //plus
+                boolean[] temp;
+                temp = findN2(seq, target-seq[0], pos+1, results);
+                if(temp==null){
+                    results[0]=false; //multiplication
+                    return findN2(seq, target, pos+1, results);
                 }else{
-                    return temp; //correct answer
+                    return temp;
                 }
-            }else{//ambiguous
-                results[pos] = true;
-                return find(L, seq, target-seq[pos+1], pos-1, results); //plus
-            }   
+            }
         }else{
+            //normal. 
             return null;
         }
     }
