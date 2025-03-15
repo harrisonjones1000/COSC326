@@ -36,12 +36,12 @@ public class Arithmetic3 {
             return input + " Invalid\n";
         }
 
-        int lowerBound = lower(seq);
-        long upperBound = upper(parts[0].equals("L"), seq);
+        //int lowerBound = lower(seq);
+        //long upperBound = upper(parts[0].equals("L"), seq);
         //if(target < lowerBound || target > upperBound) return input + " impossible \t Lower bound: " + lowerBound + " Upper bound: " + upperBound + " \n";
         
         //boolean[] a = genAlternating(seq.length-1);
-        //System.out.println(evaluate2(true, seq, a));
+        //System.out.println(evaluate2(parts[0].equals("L"), seq, a));
 
         boolean[] results = new boolean[seq.length-1];
         if(parts[0].equals("L")){
@@ -216,6 +216,7 @@ public class Arithmetic3 {
                     break;
                 }
             }
+            if(consec>target) return null;
             
             if(consec==0){ //last operation was plus
                 int[] seq2 = Arrays.copyOfRange(seq, pos, seq.length);
