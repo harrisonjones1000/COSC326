@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Arithmetic3 {
@@ -37,9 +38,7 @@ public class Arithmetic3 {
 
         int lowerBound = lower(seq);
         long upperBound = upper(parts[0].equals("L"), seq);
-        System.out.println(lowerBound);
-        System.out.println(upperBound);
-        if(target < lowerBound || target > upperBound) return input + " impossible \t Lower bound: " + lowerBound + " Upper bound: " + upperBound + " \n";
+        //if(target < lowerBound || target > upperBound) return input + " impossible \t Lower bound: " + lowerBound + " Upper bound: " + upperBound + " \n";
         
         //boolean[] a = genAlternating(seq.length-1);
         //System.out.println(evaluate2(true, seq, a));
@@ -48,7 +47,7 @@ public class Arithmetic3 {
         if(parts[0].equals("L")){
             results = findL(seq, target, seq.length-2, results);
         }else{
-            results = findN2(seq, target, seq.length-2, results);
+            results = findN2(seq, target, 0, results);
         }
 
         if(results==null) return input + " impossible2\n";
@@ -77,7 +76,6 @@ public class Arithmetic3 {
                 a[i]=false;
             }
         }
-
         return a;
     }
 
@@ -88,7 +86,7 @@ public class Arithmetic3 {
         }
         return lower;
     }
-
+    
     public static long upper(boolean L, int[] parts){
         long upper;
         if(L){
@@ -153,9 +151,10 @@ public class Arithmetic3 {
     }
 
     static boolean[] findN2(int[] seq, long target, int pos, boolean[] results){
-        if(pos==results.length-1){
+        if(pos==results.length-1){ //base case
             int consec=0;
-            for(int i=pos-1; i>0; i--){
+            for(int i=pos-1; i>=0; i--){
+                //System.out.println("a");
                 if(!results[i]){//multiplication
                     if(consec==0){
                         consec=seq[i]*seq[i+1];
@@ -177,9 +176,18 @@ public class Arithmetic3 {
                 }else{
                     return null;
                 }
+            }else{ //last operation was multiplication
+                if(target==consec*seq[pos+1]){
+                    results[pos]=false;
+                    return results;
+                }else if(target==consec+seq[pos+1]){
+                    results[pos]=true;
+                    return results;
+                }else{
+                    return null;
+                }
             }
-            return null;
-        }else if(pos==0){
+        }else if(pos==0){ //first call
             long upper = upper(false, seq);
             long lower = lower(seq);
             if(target>upper || target<lower){
@@ -196,8 +204,49 @@ public class Arithmetic3 {
                 }
             }
         }else{
-            //normal. 
-            return null;
+            int consec=0;
+            for(int i=pos-1; i>=0; i--){
+                if(!results[i]){//multiplication
+                    if(consec==0){
+                        consec=seq[i]*seq[i+1];
+                    }else{
+                        consec=consec*seq[i];
+                    }
+                }else{//addition
+                    break;
+                }
+            }
+            
+            if(consec==0){ //last operation was plus
+                int[] seq2 = Arrays.copyOfRange(seq, pos, seq.length);
+                long upper = upper(false, seq2);
+                long lower = lower(seq2);
+                
+
+                if(target>upper || target<lower){
+                    return null;
+                }else{//in range
+                    results[pos]=false; //multiply
+                    boolean[] temp;
+                    temp = findN2(seq, target, pos+1, results);
+                    if(temp==null){
+                        results[pos]=true; //add
+                        return findN2(seq, target-seq[pos], pos+1, results);
+                    }else{
+                        return temp;
+                    }
+                } 
+            }else{ //last operation was multiplication
+                results[pos]=false; //multiply
+                boolean[] temp;
+                temp = findN2(seq, target, pos+1, results);
+                if(temp==null){
+                    results[pos]=true; //add
+                    return findN2(seq, target-consec, pos+1, results);
+                }else{
+                    return temp;
+                }
+            }
         }
     }
 
