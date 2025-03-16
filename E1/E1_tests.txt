@@ -17,6 +17,7 @@ harrisonbjones1000@gmail.com@
 harrisonbjones1000@_at_gmail.com
 harrisonbjones1000_at_@gmail.com
 harrisonbjones1000@g_at_mail.com
+harrisonbjones1000@g_dot_mail.com
 harrisonbjones1000@gmail.com_at_
 harrisonbjones@com
 harrisonb.jones@com
@@ -44,7 +45,7 @@ test@[]
 a_dot_at_
 harrison_dot_h@gmail.com
 harrison_at_a@gmail.com
-harrison_at_a_at_gmail_at_a.com 
+harrison_at_a_at_gmail_at_a.com
 harrison_at_a_at_gmail@a.com
 harrison@[]
 harr[@[efir]
