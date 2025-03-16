@@ -54,10 +54,13 @@ public class Etude1 {
                     if(emailCopy.charAt(i)=='['){
                         if(print.endsWith("@") && emailCopy.endsWith("]")){
                             //if valid domain
-                            if(validIPv4(emailCopy.substring(i+1, emailCopy.length()-1))) return print + emailCopy.substring(i, emailCopy.length()) + "\n";
-                            
-                            return email + " <-- Invalid domain\n"; //else invalid domain
-                            
+                            String domain = validIPv4(emailCopy.substring(i+1, emailCopy.length()-1));
+                            if(domain.equals("")){
+                                return email + " <-- Invalid domain\n"; //else invalid domain
+
+                            }else{
+                                return print + "[" + domain + "]\n";
+                            }                            
                         }else if(mailbox==-1){ //if '[' in mailbox name
                             return email + " <-- Email does not allow square brackets in the mailbox name\n";
                         }else{ //if '[' somewhere in domain / domain extension
@@ -116,21 +119,30 @@ public class Etude1 {
         
     }
 
-    public static boolean validIPv4(String ip){
+    public static String validIPv4(String ip){
+        for(int i=0; i<ip.length()-3; i++){
+            try{
+                if(ip.substring(i,i+5).equals("_dot_")){ 
+                    ip = ip.substring(0, i) + "." + ip.substring(i+5,ip.length());
+                    i+=4;
+                }
+            }catch(IndexOutOfBoundsException e){}
+        }
+
         String[] parts = ip.split("\\.");
 
-        if (parts.length != 4) return false;
+        if (parts.length != 4) return "";
 
         for(int i=0; i<4; i++){
             try{
                 int n = Integer.parseInt(parts[i]);
-                if(n<0 || n>255) return false;
+                if(n<0 || n>255) return "";
             }catch(NumberFormatException e){
-                return false;
+                return "";
             } 
         }
 
-        return true;
+        return ip;
     }
     
 }

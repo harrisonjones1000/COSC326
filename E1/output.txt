@@ -53,3 +53,5 @@ harr_dot@gmail.com
 harr.at_gmail@haha.com
 harr@com <-- Email needs a domain name that ends with a dot
 harr@b.com
+ha rr@b.com <-- Email does not allow the character at position 2
+cath@[139.80.91.50]
