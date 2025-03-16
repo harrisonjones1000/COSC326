@@ -3,6 +3,7 @@ q
 r
 s
 Np
+NCpp
 NNq
 NNNr
 NNNNs
@@ -12,3 +13,9 @@ CpCpp
 CpNNNNs
 NCpp
 NNNCpNNNNs
+NNNC
+NCp
+CCppp
+CCppp
+CCppNNNNNNp
+CpCpp
