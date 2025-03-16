@@ -7,7 +7,6 @@
  * java Etude2 (to run)
  */
 
-import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -19,10 +18,6 @@ public class Etude2 {
         // Where we keep track of the format that works for each date
         int[] values = new int[6]; // 0 - dmy, 1 - dym, 2 - mdy, 3 - myd, 4 - ymd, 5 - ydm
 
-        // if (args.length == 0) {
-        // System.out.print("Invalid: No input");
-        // return;
-        // } else {
         Scanner testScan = new Scanner(System.in);
         while (testScan.hasNext()) {
             dates.add(testScan.nextLine());
@@ -36,57 +31,50 @@ public class Etude2 {
         for (int i = 0; i < dates.size(); i++) {
             date = dates.get(i).split("/");
 
-            int first, second, third;
             if (date.length != 3) {
                 valid[i] = false; // not length of 3
             } else {
-                try {
-                    first = Integer.parseInt(date[0]);
-                    second = Integer.parseInt(date[1]);
-                    third = Integer.parseInt(date[2]);
+                String first = date[0];
+                String second = date[1];
+                String third = date[2];
 
-                    valid[i] = true;
+                valid[i] = true;
 
-                    if (date[0].length() == 4) { // first entry is yyyy
-                        if (dateChecker(third, second, first, false) == 1)
-                            values[4] += 1; // 4 - ymd
-                        if (dateChecker(second, third, first, false) == 1)
-                            values[5] += 1; // 5 - ydm
-                    } else if (date[1].length() == 4) { // second entry is yyyy
-                        if (dateChecker(first, third, second, false) == 1)
-                            values[1] += 1; // 1 - dym
-                        if (dateChecker(third, first, second, false) == 1)
-                            values[3] += 1; // 3 - myd
+                if (date[0].length() == 4) { // first entry is yyyy
+                    if (dateChecker(third, second, first) == 1)
+                        values[4] += 1; // 4 - ymd
+                    if (dateChecker(second, third, first) == 1)
+                        values[5] += 1; // 5 - ydm
+                } else if (date[1].length() == 4) { // second entry is yyyy
+                    if (dateChecker(first, third, second) == 1)
+                        values[1] += 1; // 1 - dym
+                    if (dateChecker(third, first, second) == 1)
+                        values[3] += 1; // 3 - myd
 
-                    } else if (date[2].length() == 4) { // third entry is yyyy
-                        if (dateChecker(first, second, third, false) == 1)
-                            values[0] += 1; // 0 - dmy
-                        if (dateChecker(second, first, third, false) == 1)
-                            values[2] += 1; // 2 - mdy
-                    } else { // year is in yy format
-                             // note: could do more checks for single digit cases for efficiency
-                        if (dateChecker(first, second, third, true) == 1)
-                            values[0] += 1; // 0 - dmy
-                        if (dateChecker(first, third, second, true) == 1)
-                            values[1] += 1; // 1 - dym
-                        if (dateChecker(second, first, third, true) == 1)
-                            values[2] += 1; // 2 - mdy
-                        if (dateChecker(third, first, second, true) == 1)
-                            values[3] += 1; // 3 - myd
-                        if (dateChecker(third, second, first, true) == 1)
-                            values[4] += 1; // 4 - ymd
-                        if (dateChecker(second, third, first, true) == 1)
-                            values[5] += 1; // 5 - ydm
-                    }
-
-                } catch (NumberFormatException e) {
-                    valid[i] = false; // not int/int/int
+                } else if (date[2].length() == 4) { // third entry is yyyy
+                    if (dateChecker(first, second, third) == 1)
+                        values[0] += 1; // 0 - dmy
+                    if (dateChecker(second, first, third) == 1)
+                        values[2] += 1; // 2 - mdy
+                } else { // year is in yy format
+                            // note: could do more checks for single digit cases for efficiency
+                    if (dateChecker(first, second, third) == 1)
+                        values[0] += 1; // 0 - dmy
+                    if (dateChecker(first, third, second) == 1)
+                        values[1] += 1; // 1 - dym
+                    if (dateChecker(second, first, third) == 1)
+                        values[2] += 1; // 2 - mdy
+                    if (dateChecker(third, first, second) == 1)
+                        values[3] += 1; // 3 - myd
+                    if (dateChecker(third, second, first) == 1)
+                        values[4] += 1; // 4 - ymd
+                    if (dateChecker(second, third, first) == 1)
+                        values[5] += 1; // 5 - ydm
                 }
-
             }
         }
 
-        // System.out.print(Arrays.toString(values));
+        //System.out.print(Arrays.toString(values));
 
         int maxIdx = 0; // most common format
 
@@ -95,114 +83,83 @@ public class Etude2 {
                 maxIdx = i;
         }
 
-        int[] input = new int[3];
-        boolean yy;
-
-        int dlen;
-        int mlen;
-        int ylen;
-
         String[] monthLetters = { "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" };
 
-        // System.out.print(method(testScan.nextLine()));
         for (int i = 0; i < dates.size(); i++) {
-            if (!valid[i]) { // if not int/int/int
-                System.out.print(dates.get(i) + " -  INVALID: inputs are not numbers or of format int/int/int\n");
-            } else {
+            if (!valid[i]) { //spluts into 3.
+                System.out.print(dates.get(i) + " -  INVALID: inputs are not of length 3\n");
+            }else {
 
                 date = dates.get(i).split("/");
+                int output;
                 if (maxIdx == 0) { // dmy
-                    input[0] = Integer.parseInt(date[0]);
-                    input[1] = Integer.parseInt(date[1]);
-                    input[2] = Integer.parseInt(date[2]);
-                    yy = date[2].length() == 2;
-
-                    dlen = date[0].length();
-                    mlen = date[1].length();
-                    ylen = date[2].length();
+                    output = dateChecker(date[0], date[1], date[2]);
                 } else if (maxIdx == 1) { // dym
-                    input[0] = Integer.parseInt(date[0]);
-                    input[1] = Integer.parseInt(date[2]);
-                    input[2] = Integer.parseInt(date[1]);
-                    yy = date[1].length() == 2;
-
-                    dlen = date[0].length();
-                    mlen = date[2].length();
-                    ylen = date[1].length();
+                    output = dateChecker(date[0], date[2], date[1]);
                 } else if (maxIdx == 2) { // mdy
-                    input[0] = Integer.parseInt(date[1]);
-                    input[1] = Integer.parseInt(date[0]);
-                    input[2] = Integer.parseInt(date[2]);
-                    yy = date[2].length() == 2;
-
-                    dlen = date[1].length();
-                    mlen = date[0].length();
-                    ylen = date[2].length();
+                    output = dateChecker(date[1], date[0], date[2]);
                 } else if (maxIdx == 3) { // myd
-                    input[0] = Integer.parseInt(date[2]);
-                    input[1] = Integer.parseInt(date[0]);
-                    input[2] = Integer.parseInt(date[1]);
-                    yy = date[1].length() == 2;
-
-                    dlen = date[2].length();
-                    mlen = date[1].length();
-                    ylen = date[0].length();
+                    output = dateChecker(date[2], date[0], date[1]);
                 } else if (maxIdx == 4) { // ymd
-                    input[0] = Integer.parseInt(date[2]);
-                    input[1] = Integer.parseInt(date[1]);
-                    input[2] = Integer.parseInt(date[0]);
-                    yy = date[0].length() == 2;
-
-                    dlen = date[2].length();
-                    mlen = date[1].length();
-                    ylen = date[0].length();
+                    output = dateChecker(date[2], date[1], date[0]);
                 } else { // ydm
-                    input[0] = Integer.parseInt(date[1]);
-                    input[1] = Integer.parseInt(date[2]);
-                    input[2] = Integer.parseInt(date[0]);
-                    yy = date[0].length() == 2;
-
-                    dlen = date[1].length();
-                    mlen = date[2].length();
-                    ylen = date[0].length();
+                    output = dateChecker(date[1], date[2], date[0]);
                 }
 
-                if (!((dlen == 1 || dlen == 2) && (mlen == 1 || mlen == 2) && (ylen == 2 || ylen == 4))) {
-                    System.out.print(dates.get(i)
-                            + " - INVALID: date, month and/or year format is wrong, e.g. date should be 0d or dd, not 00d\n");
-                } else {
-                    int output = dateChecker(input[0], input[1], input[2], yy);
+                if (output == 1) {
+                    System.out.println("1");
+                    /*
+                    int yearInt = input[2];
+                    if (yy) {
 
-                    if (output == 1) {
-                        int yearInt = input[2];
-                        if (yy) {
-
-                            if (yearInt < 49) {
-                                yearInt = yearInt + 2000;
-                            } else if (yearInt >= 50) {
-                                yearInt = yearInt + 1900;
-                            }
+                        if (yearInt < 49) {
+                            yearInt = yearInt + 2000;
+                        } else if (yearInt >= 50) {
+                            yearInt = yearInt + 1900;
                         }
-
-                        String dayString = "" + input[0];
-                        if (dayString.length() < 2) {
-                            dayString = "0" + dayString;
-                        }
-                        System.out
-                                .print(dayString + " " + monthLetters[input[1] - 1] + " " + yearInt + "\n");
-                    } else if (output == -3) {
-                        System.out.print(dates.get(i) + " - INVALID: Year out of range\n");
-                    } else if (output == -2) {
-                        System.out.print(dates.get(i) + " - INVALID: Month out of range\n");
-                    } else {
-                        System.out.print(dates.get(i) + " - INVALID: Day out of range\n");
                     }
+
+                    String dayString = "" + input[0];
+                    if (dayString.length() < 2) {
+                        dayString = "0" + dayString;
+                    }
+                    System.out.print(dayString + " " + monthLetters[input[1] - 1] + " " + yearInt + "\n");
+                     */
+                }else if(output == -4){
+                    System.out.println("4");
+                }else if(output == -5){
+                    System.out.println("5");
+                }else if (output == -3) {
+                    System.out.print(dates.get(i) + " - INVALID: Year out of range\n");
+                }else if (output == -2) {
+                    System.out.print(dates.get(i) + " - INVALID: Month out of range\n");
+                }else {
+                    System.out.print(dates.get(i) + " - INVALID: Day out of range\n");
                 }
             }
         }
     }
 
-    private static int dateChecker(int dayInt, int monthInt, int yearInt, boolean yy) {
+    private static int dateChecker(String day, String month, String year) {
+        int dayInt, monthInt, yearInt;
+        try {
+            dayInt = Integer.parseInt(day);
+            monthInt = Integer.parseInt(month);
+            yearInt = Integer.parseInt(year);
+        }catch(NumberFormatException e){
+            return -4; //number format exception
+        }
+
+        int dlen = day.length();
+        int mlen = month.length();
+        int ylen = year.length();
+
+        if (!((dlen == 1 || dlen == 2) && (mlen == 1 || mlen == 2) && (ylen == 2 || ylen == 4))){
+            return -5; //wrong length of strings.
+        }
+
+        boolean yy = (year.length()==2);
+
         if (yy) { // if yy format
             if (yearInt < 49) {
                 yearInt = yearInt + 2000;
