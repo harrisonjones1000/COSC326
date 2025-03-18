@@ -32,7 +32,7 @@ public class Etude5 {
                             return;
                         }
                     } catch (NumberFormatException e) {
-                        System.out.println("Numer format exception");
+                        System.out.println("Number format exception");
                         testScan.close();
                         return;
                     }
