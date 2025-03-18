@@ -1,58 +1,6 @@
-harrisonbjones1000@gmail.com
-harrisonbjones1000@gmail.com
-harrisonbjones1000@gmail.com
-harrisonbjones1000.gmail.com <-- Email must have an @ symbol
-.harrisonbjones1000@gmail.com <-- Email cannot start with that symbol
-harrisonb.jones1000@gmail.com
-harrisonb..jones1000@gmail.com <-- Email cannot have repeating non alphanumeric characters
-harrisonb._dot_jones1000@gmail.com <-- Email cannot have repeating non alphanumeric characters
-harrisonb_dot_.jones1000@gmail.com <-- Email cannot have repeating non alphanumeric characters
-harrisonb.-jones1000@gmail.com <-- Email cannot have repeating non alphanumeric characters
-harrisonb-.jones1000@gmail.com <-- Email cannot have repeating non alphanumeric characters
-harrisonb_.jones1000@gmail.com <-- Email cannot have repeating non alphanumeric characters
-harrisonb._jones1000@gmail.com <-- Email cannot have repeating non alphanumeric characters
-harrisonbjones1000@@gmail.com <-- Email cannot have multiple @ symbols
-harrisonbjones1000@g@mail.com <-- Email cannot have multiple @ symbols
-harrisonbjones1000@gmail.com@ <-- Email cannot have multiple @ symbols
-harrisonbjones1000@_at_gmail.com <-- Email cannot have repeating non alphanumeric characters
-harrisonbjones1000_at_@gmail.com <-- Email cannot have repeating non alphanumeric characters
-harrisonbjones1000@g_at_mail.com <-- Email domain cannot use underscores
-harrisonbjones1000@g.mail.com
-harrisonbjones1000@gmail.com_at_ <-- Invalid Domain Extension
-harrisonbjones@com <-- Dot must be after the domain extension and be after the domain name
-harrisonb.jones@com <-- Dot must be after the domain extension and be after the domain name
-harrisonbjones@.com <-- Email cannot have repeating non alphanumeric characters
-harrisonbjones@co.nz <-- Dot must be after the domain extension and be after the domain name
-harrisonbjones@haha.co.nzz <-- Invalid Domain Extension
-harrisonbjones@haha-gmail.co.nz <-- Email domain cannot use hyphens
-harrisonbjones@haha_gmail.co.nz <-- Email domain cannot use underscores
-harrisonbjones_at_ <-- Invalid Domain Extension
-harrisonbjones_dot_ <-- Email must have an @ symbol
-harrison[]jones@gmail.com <-- Email does not allow square brackets in the mailbox name
-harrisonjones@[]gmail.com <-- Invalid domain
-harrisonjones@[]gmail.com] <-- Invalid domain
-harrisonjones@a[]gmail.com] <-- Invalid domain
-cath@[139.80.91.50]
-cath@[139.80.-1.50] <-- Invalid domain
-cath@[139.80a.12.50] <-- Invalid domain
-cath@[139.80.96.500] <-- Invalid domain
 ceo@insurocorp.com
 maffu@cs.otago.ac.nz <-- Invalid Domain Extension
 gerry@research.techies.co.uk
 bob.gmail.com <-- Email must have an @ symbol
 cath@[139.80.91.50]
-test@[] <-- Invalid domain
-a_dot_at_ <-- Invalid Domain Extension
-harrison.h@gmail.com
-harrison_at_a@gmail.com
-harrison_at_a_at_gmail@a.com
-harrison_at_a_at_gmail@a.com
-harrison@[] <-- Invalid domain
-harr[@[efir] <-- Email does not allow square brackets in the mailbox name
-harr_at_haha@gmail.com
-harr_dot@gmail.com
-harr.at_gmail@haha.com
-harr@com <-- Dot must be after the domain extension and be after the domain name
-harr@b.com
-ha rr@b.com <-- Email does not allow the character at position 2
-cath@[139.80.91.50]
+andrew@cs.co.us

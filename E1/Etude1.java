@@ -103,11 +103,11 @@ public class Etude1 {
             }catch(IndexOutOfBoundsException e){}
         }
 
-        if(!(print.endsWith("com.au")||print.endsWith("co.au")||print.endsWith("co.ca")||print.endsWith("co.nz")||print.endsWith("co.uk")||print.endsWith("com"))){
+        if(!(print.endsWith("co.nz")||print.endsWith("com.au")||print.endsWith("co.ca")||print.endsWith("com")||print.endsWith("co.us")||print.endsWith("co.uk"))){
             return email + " <-- Invalid Domain Extension\n";
         }
 
-        if(!(print.endsWith(".com.au")||print.endsWith(".co.au")||print.endsWith(".co.ca")||print.endsWith(".co.nz")||print.endsWith(".co.uk")||print.endsWith(".com"))){
+        if(!(print.endsWith(".co.nz")||print.endsWith(".com.au")||print.endsWith(".co.ca")||print.endsWith(".com")||print.endsWith(".co.us")||print.endsWith(".co.uk"))){
             return email + " <-- Dot must be after the domain extension and be after the domain name\n";
         }
 
