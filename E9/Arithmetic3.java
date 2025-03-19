@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -37,10 +38,6 @@ public class Arithmetic3 {
             return input + " Invalid\n";
         }
 
-        //int lowerBound = lower(seq);
-        //long upperBound = upper(parts[0].equals("L"), seq);
-        //if(target < lowerBound || target > upperBound) return input + " impossible \t Lower bound: " + lowerBound + " Upper bound: " + upperBound + " \n";
-
         boolean[] results = new boolean[seq.length-1];
         if(parts[0].equals("L")){
             results = findL(seq, target, seq.length-2, results);
@@ -49,6 +46,7 @@ public class Arithmetic3 {
         }
 
         if(results==null) return input + " impossible\n";
+
         
         String print = parts[0] + " " + target + " = " + seq[0];
 
@@ -61,66 +59,6 @@ public class Arithmetic3 {
         }
 
         return print + "\n";
-    }
-
-
-    public static int lower(int[] parts){
-        int lower = parts[0];
-        for(int i=1; i<parts.length; i++){
-            if(lower==1){
-                lower=lower*parts[i];
-            }else{
-                if(parts[i]!=1){
-                    lower+=parts[i];
-                }
-            }
-        }
-        return lower;
-    }
-    
-    public static long upper(boolean L, int[] parts){ 
-        long upper;
-        if(L){
-            upper = parts[0];
-            for(int i=1; i<parts.length; i++){
-                if(parts[i]==1||upper==1){
-                    upper+=parts[i];
-                }else{
-                    upper=upper*parts[i];
-                }        
-            }
-        }else{ 
-            //6 4 1 -> 25
-            //6 1 4 -> 24
-            //1 3 1 6 -> 19
-            upper=0;
-            int consec=0;
-            for(int i=1; i<parts.length; i++){
-                
-                //upper limit calc is harder than i thought
-
-                if(consec==0){
-                    if(parts[i]==1){
-                        upper+=1;
-                    }else{
-                        consec=parts[i];
-                    }
-                }else{ 
-                    if(parts[i]==1){
-                        if(upper==0){ 
-                            consec++;
-                        }else{
-                            upper+=consec+1;
-                            consec=0; 
-                        }
-                    }else{
-                        consec=consec*parts[i];
-                    }
-                }
-            }
-            upper+=consec;
-        }
-        return upper;
     }
 
     static boolean[] findL(int[] seq, long target, int pos, boolean[] results){
@@ -152,7 +90,7 @@ public class Arithmetic3 {
     }
 
     static boolean[] findN2(int[] seq, long target, int pos, boolean[] results){
-        System.out.println(pos + " " + Arrays.toString(results));
+        System.out.println(Arrays.toString(results));
         if(pos==results.length-1){ 
             int consec=0;
             for(int i=pos-1; i>=0; i--){
@@ -175,7 +113,7 @@ public class Arithmetic3 {
                     results[pos]=true;
                     return results;
                 }else{
-                    System.out.println("1: " + Arrays.toString(results));
+                    //System.out.println("1: " + Arrays.toString(results));
                     return null;
                 }
             }else{ //last operation was multiplication
@@ -186,15 +124,14 @@ public class Arithmetic3 {
                     results[pos]=true;
                     return results;
                 }else{
-                    System.out.println("2: " + Arrays.toString(results));
+                    //System.out.println("2: " + Arrays.toString(results));
                     return null;
                 }
             }
         }else if(pos==0){ //first call
             long upper = upper(false, seq);
             long lower = lower(seq);
-            if(target>upper || target<lower){
-                System.out.println("Lower: " + lower + " Upper: " + upper);
+            if((target>upper || target<lower) && upper>0){ //prevents long overflow
                 return null;
             }else{//in range
                 results[0]=true; //plus
@@ -220,8 +157,9 @@ public class Arithmetic3 {
                     break;
                 }
             }
+
             if(consec>target){
-                System.out.println("4");
+                //System.out.println("3");
                 return null;
             }
             
@@ -231,7 +169,7 @@ public class Arithmetic3 {
                 long lower = lower(seq2);                
 
                 if(target>upper || target<lower){
-                    System.out.println("5: " + lower + " < " + target + " < " + upper);
+                    //System.out.println("2");
                     return null;
                 }else{//in range
                     results[pos]=false; //multiply
@@ -256,6 +194,71 @@ public class Arithmetic3 {
                 }
             }
         }
+    }
+
+    public static int lower(int[] parts){
+        int lower = parts[0];
+        for(int i=1; i<parts.length; i++){
+            if(lower==1){
+                lower=lower*parts[i];
+            }else{
+                if(parts[i]!=1){
+                    lower+=parts[i];
+                }
+            }
+        }
+        return lower;
+    }
+    
+    public static long upper(boolean L, int[] parts){ 
+        long upper;
+        if(L){
+            upper = parts[0];
+            for(int i=1; i<parts.length; i++){
+                if(parts[i]==1||upper==1){
+                    upper+=parts[i];
+                }else{
+                    upper=upper*parts[i];
+                }        
+            }
+        }else{  //N
+            upper=1;
+            int oneCount=0;
+            long consec=0;
+
+            ArrayList<Long> numbers = new ArrayList<>();
+
+            for(int i=0; i<parts.length; i++){ 
+                if(consec==0){
+                    if(parts[i]==1){
+                        oneCount++;
+                    }else{
+                        consec=parts[i];
+                    }
+                }else{
+                    if(parts[i]==1){
+                        numbers.add(consec);
+                        consec=0;
+                        oneCount++;
+                    }else{
+                        consec *= parts[i];
+                    }
+                }
+            }
+
+            if(consec!=0) numbers.add(consec);
+        
+            for (long num : numbers) {
+                upper *= num;
+            }
+
+            if(upper==1){
+                upper = oneCount; //1 1 1 1 
+            }else{
+                upper += oneCount;             
+            }
+        }
+        return upper;
     }
 }
 

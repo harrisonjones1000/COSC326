@@ -23,7 +23,7 @@ public class Number {
             }else{
                 System.out.println("N " + evaluate(L, seq, a) + s);
             }
-            //System.out.println(evaluate2(L, seq, a));
+            System.out.println(evaluate2(L, seq, a));
         }
         
     }
