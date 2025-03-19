@@ -1,3 +1,6 @@
+// By Harrison Jones and Oliver Hurst
+// COSC326 Etude 5 - Bus Routes
+
 import java.util.*;
 
 public class Etude5 {
@@ -8,7 +11,7 @@ public class Etude5 {
 
         try {
             if (System.in.available() == 0) {
-                System.out.println("Invalid: No input");
+                System.out.print("Invalid: No input");
                 return;
             }
         } catch (Exception e) {
@@ -20,7 +23,7 @@ public class Etude5 {
             if (!head) {
                 tokens = testScan.nextLine().strip().toLowerCase().split(", ");
                 if (tokens.length != 2) {
-                    System.out.println("Invalid: route");
+                    System.out.print("Invalid: route");
                     testScan.close();
                     return;
                 } else {
@@ -30,13 +33,13 @@ public class Etude5 {
             } else {
                 tokens = testScan.nextLine().strip().toLowerCase().split(", ");
                 if (tokens.length != 3) {
-                    System.out.println("Invalid: route set");
+                    System.out.print("Invalid: route set");
                     testScan.close();
                     return;
                 } else {
                     try {
                         if (g.addEdge(tokens[0], tokens[1], Double.parseDouble(tokens[2]))) {
-                            System.out.println("Invalid: Non-unique routes");
+                            System.out.print("Invalid: Non-unique routes");
                             testScan.close();
                             return;
                         }
@@ -51,7 +54,7 @@ public class Etude5 {
 
         // System.out.println(g.toString());
 
-        System.out.println(g.findPath());
+        System.out.print(g.findPath());
 
     }
 
@@ -115,6 +118,8 @@ public class Etude5 {
         private boolean addEdge(String source, String destination, double value) {
             if (locations.get(source) == null) { // Location not yet added to locations
                 locations.put(source, new ArrayList<Edge>());
+            }
+            if (locations.get(destination) == null) {
                 locations.put(destination, new ArrayList<Edge>());
             }
 
