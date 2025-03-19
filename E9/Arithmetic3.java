@@ -90,7 +90,6 @@ public class Arithmetic3 {
     }
 
     static boolean[] findN2(int[] seq, long target, int pos, boolean[] results){
-        System.out.println(Arrays.toString(results));
         if(pos==results.length-1){ 
             int consec=0;
             for(int i=pos-1; i>=0; i--){
@@ -113,7 +112,6 @@ public class Arithmetic3 {
                     results[pos]=true;
                     return results;
                 }else{
-                    //System.out.println("1: " + Arrays.toString(results));
                     return null;
                 }
             }else{ //last operation was multiplication
@@ -124,7 +122,6 @@ public class Arithmetic3 {
                     results[pos]=true;
                     return results;
                 }else{
-                    //System.out.println("2: " + Arrays.toString(results));
                     return null;
                 }
             }
@@ -159,7 +156,6 @@ public class Arithmetic3 {
             }
 
             if(consec>target){
-                //System.out.println("3");
                 return null;
             }
             
@@ -168,8 +164,7 @@ public class Arithmetic3 {
                 long upper = upper(false, seq2);
                 long lower = lower(seq2);                
 
-                if(target>upper || target<lower){
-                    //System.out.println("2");
+                if((target>upper || target<lower) && upper>0){
                     return null;
                 }else{//in range
                     results[pos]=false; //multiply
