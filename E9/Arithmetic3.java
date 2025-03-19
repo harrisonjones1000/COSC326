@@ -150,7 +150,7 @@ public class Arithmetic3 {
     }
 
     static boolean[] findN2(int[] seq, long target, int pos, boolean[] results){
-        if(pos==results.length-1){ //base case
+        if(pos==results.length-1){ 
             int consec=0;
             for(int i=pos-1; i>=0; i--){
                 //System.out.println("a");
@@ -173,7 +173,7 @@ public class Arithmetic3 {
                     results[pos]=true;
                     return results;
                 }else{
-                    System.out.println("1");
+                    System.out.println("1: " + Arrays.toString(results));
                     return null;
                 }
             }else{ //last operation was multiplication
@@ -184,7 +184,7 @@ public class Arithmetic3 {
                     results[pos]=true;
                     return results;
                 }else{
-                    System.out.println("2");
+                    System.out.println("2: " + Arrays.toString(results));
                     return null;
                 }
             }
@@ -230,7 +230,7 @@ public class Arithmetic3 {
                 
 
                 if(target>upper || target<lower){
-                    System.out.println("5");
+                    System.out.println("5: " + lower + " < " + target + " < " + upper);
                     return null;
                 }else{//in range
                     results[pos]=false; //multiply
