@@ -17,3 +17,9 @@ for dirpath, dirnames, filenames in os.walk(dir[1]):
 
 for p in list_paths:
     print(p)
+
+list_paths.sort(key=lambda x: (x[0][0:2], x[0][3:5], x[0][6:8]))
+
+print("***")
+for p in list_paths:
+    print(p)
