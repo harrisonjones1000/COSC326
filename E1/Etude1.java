@@ -92,11 +92,11 @@ public class Etude1 {
         }
 
         for(int i=0; i<print.length()-4; i++){
+            
             try{
                 if(print.substring(i,i+5).equals("_dot_")){ 
                     print = print.substring(0, i) + "." + print.substring(i+5,print.length());
-                    i+=4;
-    
+                    
                 }else if(i>mailbox & print.charAt(i)=='_'){
                     return email + " <-- Email domain cannot use underscores\n";
                 }

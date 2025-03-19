@@ -1,6 +1,3 @@
-ceo@insurocorp.com
-maffu@cs.otago.ac.nz <-- Invalid Domain Extension
-gerry@research.techies.co.uk
-bob.gmail.com <-- Email must have an @ symbol
-cath@[139.80.91.50]
-andrew@cs.co.us
+a@a.b.c.cs.com
+cath@[139.80.91.50]ahgweud+++] <-- Invalid domain
+cath@[1*1.80.91.50] <-- Invalid domain
