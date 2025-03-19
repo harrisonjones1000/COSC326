@@ -80,7 +80,11 @@ public class Etude5 {
 
     static class SortByCost implements Comparator<NodeCostPath> {
         public int compare(NodeCostPath a, NodeCostPath b) {
-            return (int) (a.cumCost - b.cumCost);
+            if (a.cumCost < b.cumCost) {
+                return -1;
+            } else {
+                return 1;
+            }
         }
     }
 
@@ -148,16 +152,16 @@ public class Etude5 {
                 }
                 print += "\n";
             }
-
             return print;
         }
 
-        // Dijkstra's shortest-path algorithm (weighted case)
-        // Appends least-cost paths to target until one has a greater cost.
+        // Appends least-cost paths to target until one has a greater cost, then returns
+        // shortest least-cost solution.
         private String findPath() {
 
             // List of nodes to expand
             ArrayList<NodeCostPath> openArrayList = new ArrayList<>();
+            // NodeCostPath n = null;
 
             String nName = source;
             double nCost = 0.0;
@@ -176,17 +180,19 @@ public class Etude5 {
                     solutions.add(new NodeCostPath(nName, nCost, nPath));
                 } else {
                     for (Edge edge : locations.get(nName)) {
+                        if (nPath.contains(edge.destination)) {
+                            continue;
+                        }
                         openArrayList.add(new NodeCostPath(edge.destination, edge.cost + nCost, nPath));
                     }
-                    Collections.sort(openArrayList, new SortByCost());
                 }
+                Collections.sort(openArrayList, new SortByCost());
 
                 // break if we reach the end of the search
                 if (openArrayList.size() < 1) {
                     break;
                 }
                 NodeCostPath n = openArrayList.remove(0);
-
                 nName = n.node;
                 nCost = n.cumCost;
                 nPath = n.path;
@@ -199,9 +205,9 @@ public class Etude5 {
                 nPath = newPath;
 
             }
-
             // sort solutions by shortest path (all solutions should have equal cost)
             Collections.sort(solutions, new SortByLength());
+
             ArrayList<String> solutionPath = solutions.get(0).path;
 
             StringBuilder s = new StringBuilder();
