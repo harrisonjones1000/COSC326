@@ -1,1 +1,6 @@
 CCCpppp
+CpCpp
+CpCpCpp
+CCppp
+CCppNNNNNNp
+CpCpp
