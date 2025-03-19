@@ -16,6 +16,10 @@ public class Etude11 {
         testScan.close();
     }
 
+    public static boolean woofv2(String word){
+        return true;
+    }
+
     public static boolean woof(String word){
         Pattern woof = Pattern.compile("[pqrs]|N(N*)([pqrs]|[CAKE])|[CAKE]");
         Matcher m = woof.matcher(word);

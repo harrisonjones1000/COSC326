@@ -125,6 +125,12 @@ public class Etude1 {
             }catch(IndexOutOfBoundsException e){}
         }
 
+        for(int i = 0; i<ip.length(); i++){
+            if(!Character.isDigit(ip.charAt(i))){
+                if(!(ip.charAt(i) == '.')) return "";
+            }
+        }
+
         String[] parts = ip.split("\\.");
 
         if (parts.length != 4) return "";
@@ -132,6 +138,7 @@ public class Etude1 {
         for(int i=0; i<4; i++){
             try{
                 int n = Integer.parseInt(parts[i]);
+                System.out.println(n);
                 if(n<0 || n>255) return "";
             }catch(NumberFormatException e){
                 return "";

@@ -1,3 +1,7 @@
 a@a.b.c.cs.com
 cath@[139.80.91.50]ahgweud+++] <-- Invalid domain
-cath@[1*1.80.91.50] <-- Invalid domain
+cath@[*11.80.91.50] <-- Invalid domain
+andrew@[139.80.91.+50] <-- Invalid domain
+andrew@[139.80.&91.50] <-- Invalid domain
+andrew@[139.(80).91.+50] <-- Invalid domain
+andrew@[139.-0.91.+50] <-- Invalid domain
