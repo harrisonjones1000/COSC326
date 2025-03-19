@@ -92,23 +92,42 @@ public class Etude2 {
 
                 date = dates.get(i).split("/");
                 int output;
+                String[] input2 = new String[3];
+
                 if (maxIdx == 0) { // dmy
-                    output = dateChecker(date[0], date[1], date[2]);
+                    input2[0] = date[0];
+                    input2[1]=date[1];
+                    input2[2]=date[2];
                 } else if (maxIdx == 1) { // dym
-                    output = dateChecker(date[0], date[2], date[1]);
+                    input2[0] = date[0];
+                    input2[1]=date[2];
+                    input2[2]=date[1];
                 } else if (maxIdx == 2) { // mdy
-                    output = dateChecker(date[1], date[0], date[2]);
+                    input2[0] = date[1];
+                    input2[1]=date[0];
+                    input2[2]=date[2];
                 } else if (maxIdx == 3) { // myd
-                    output = dateChecker(date[2], date[0], date[1]);
+                    input2[0] = date[2];
+                    input2[1]=date[0];
+                    input2[2]=date[1];
                 } else if (maxIdx == 4) { // ymd
-                    output = dateChecker(date[2], date[1], date[0]);
+                    input2[0] = date[2];
+                    input2[1]=date[1];
+                    input2[2]=date[0];
                 } else { // ydm
-                    output = dateChecker(date[1], date[2], date[0]);
+                    input2[0] = date[1];
+                    input2[1]=date[2];
+                    input2[2]=date[0];
                 }
 
+                output = dateChecker(input2[0], input2[1], input2[2]);    
+
+
                 if (output == 1) {
-                    System.out.println("1");
-                    /*
+                    int[] input = {Integer.parseInt(input2[0]), Integer.parseInt(input2[1]), Integer.parseInt(input2[2])};
+
+                    boolean yy = input2[2].length()==2;
+                    
                     int yearInt = input[2];
                     if (yy) {
 
@@ -124,11 +143,11 @@ public class Etude2 {
                         dayString = "0" + dayString;
                     }
                     System.out.print(dayString + " " + monthLetters[input[1] - 1] + " " + yearInt + "\n");
-                     */
-                }else if(output == -4){
-                    System.out.println("4");
+                    
+                }else if(output == -4){ //
+                    System.out.print(dates.get(i) + " - INVALID: Inputs not numbers\n");
                 }else if(output == -5){
-                    System.out.println("5");
+                    System.out.print(dates.get(i) + " - INVALID: Strings of wrong length\n");
                 }else if (output == -3) {
                     System.out.print(dates.get(i) + " - INVALID: Year out of range\n");
                 }else if (output == -2) {
@@ -150,6 +169,8 @@ public class Etude2 {
             return -4; //number format exception
         }
 
+        //
+
         int dlen = day.length();
         int mlen = month.length();
         int ylen = year.length();
@@ -157,8 +178,21 @@ public class Etude2 {
         if (!((dlen == 1 || dlen == 2) && (mlen == 1 || mlen == 2) && (ylen == 2 || ylen == 4))){
             return -5; //wrong length of strings.
         }
-
+        
         boolean yy = (year.length()==2);
+
+        if(!yy){
+            int count=0;
+            for (int i = 0; i < year.length(); i++) {
+                if (year.charAt(i) == '0') {
+                    count++;
+                }
+            }
+            //catches "0003" and "0000"
+            if(count>2){
+                if(year.charAt(0) == '0') return -5;
+            }
+        }
 
         if (yy) { // if yy format
             if (yearInt < 49) {
