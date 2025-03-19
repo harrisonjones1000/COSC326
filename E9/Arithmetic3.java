@@ -89,10 +89,16 @@ public class Arithmetic3 {
                     upper=upper*parts[i];
                 }        
             }
-        }else{
+        }else{ 
+            //6 4 1 -> 25
+            //6 1 4 -> 24
+            //1 3 1 6 -> 19
             upper=0;
             int consec=0;
-            for(int i=0; i<parts.length; i++){
+            for(int i=1; i<parts.length; i++){
+                
+                //upper limit calc is harder than i thought
+
                 if(consec==0){
                     if(parts[i]==1){
                         upper+=1;
@@ -100,12 +106,8 @@ public class Arithmetic3 {
                         consec=parts[i];
                     }
                 }else{ 
-                    //6 4 1 -> 25
-
-                    //6 1 4 -> 24
                     if(parts[i]==1){
-                        if(upper==0){
-                            //System.out.println(i + " " + parts[i]);
+                        if(upper==0){ 
                             consec++;
                         }else{
                             upper+=consec+1;
@@ -150,10 +152,10 @@ public class Arithmetic3 {
     }
 
     static boolean[] findN2(int[] seq, long target, int pos, boolean[] results){
+        System.out.println(pos + " " + Arrays.toString(results));
         if(pos==results.length-1){ 
             int consec=0;
             for(int i=pos-1; i>=0; i--){
-                //System.out.println("a");
                 if(!results[i]){//multiplication
                     if(consec==0){
                         consec=seq[i]*seq[i+1];
@@ -226,8 +228,7 @@ public class Arithmetic3 {
             if(consec==0){ //last operation was plus
                 int[] seq2 = Arrays.copyOfRange(seq, pos, seq.length);
                 long upper = upper(false, seq2);
-                long lower = lower(seq2);
-                
+                long lower = lower(seq2);                
 
                 if(target>upper || target<lower){
                     System.out.println("5: " + lower + " < " + target + " < " + upper);
