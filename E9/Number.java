@@ -1,21 +1,31 @@
-import java.util.Arrays;
+//args[0], 0=L, 1=N
+//args[0], n
+//args[1], trials
+
 import java.util.Random;
 
 public class Number {
     public static void main(String[] args) {
-        int n = Integer.parseInt(args[0]);
-        boolean[] a = genRandom(n-1);
-        int[] seq = genRandomNums(n);
-        
-        String s = " ";
-        for(int num : seq){
-            s+=num + " ";
+        for(int i = 0; i< Integer.parseInt(args[2]); i++){
+            int n = Integer.parseInt(args[1]);
+            boolean[] a = genRandom(n-1);
+            int[] seq = genRandomNums(n);
+            
+            String s = " ";
+            for(int num : seq){
+                s+=num + " ";
+            }
+
+            boolean L = Integer.parseInt(args[0])==0;
+
+            if(L){
+                System.out.println("L " + evaluate(L, seq, a) + s);
+            }else{
+                System.out.println("N " + evaluate(L, seq, a) + s);
+            }
+            //System.out.println(evaluate2(L, seq, a));
         }
-
-        boolean L = true;
-
-        System.out.println("N " + evaluate(L, seq, a) + s);
-        System.out.println(evaluate2(L, seq, a));
+        
     }
 
     public static boolean[] genRandom(int n){
@@ -33,7 +43,7 @@ public class Number {
         Random rand = new Random();
 
         for (int i = 0; i < n; i++) {
-            a[i] = rand.nextInt(1,20);
+            a[i] = rand.nextInt(1,7);
         }
         return a;
     }

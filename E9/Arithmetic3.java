@@ -1,5 +1,4 @@
 import java.util.Arrays;
-import java.util.Random;
 import java.util.Scanner;
 
 public class Arithmetic3 {
@@ -68,12 +67,18 @@ public class Arithmetic3 {
     public static int lower(int[] parts){
         int lower = parts[0];
         for(int i=1; i<parts.length; i++){
-            if(parts[i]!=1) lower+=parts[i];
+            if(lower==1){
+                lower=lower*parts[i];
+            }else{
+                if(parts[i]!=1){
+                    lower+=parts[i];
+                }
+            }
         }
         return lower;
     }
     
-    public static long upper(boolean L, int[] parts){
+    public static long upper(boolean L, int[] parts){ 
         long upper;
         if(L){
             upper = parts[0];
@@ -84,7 +89,7 @@ public class Arithmetic3 {
                     upper=upper*parts[i];
                 }        
             }
-        }else{//N upper limit, sum consec non 1's, plus 1's
+        }else{
             upper=0;
             int consec=0;
             for(int i=0; i<parts.length; i++){
@@ -94,10 +99,18 @@ public class Arithmetic3 {
                     }else{
                         consec=parts[i];
                     }
-                }else{
+                }else{ 
+                    //6 4 1 -> 25
+
+                    //6 1 4 -> 24
                     if(parts[i]==1){
-                        upper+=consec+1;
-                        consec=0;
+                        if(upper==0){
+                            //System.out.println(i + " " + parts[i]);
+                            consec++;
+                        }else{
+                            upper+=consec+1;
+                            consec=0; 
+                        }
                     }else{
                         consec=consec*parts[i];
                     }
@@ -160,6 +173,7 @@ public class Arithmetic3 {
                     results[pos]=true;
                     return results;
                 }else{
+                    System.out.println("1");
                     return null;
                 }
             }else{ //last operation was multiplication
@@ -170,6 +184,7 @@ public class Arithmetic3 {
                     results[pos]=true;
                     return results;
                 }else{
+                    System.out.println("2");
                     return null;
                 }
             }
@@ -177,6 +192,7 @@ public class Arithmetic3 {
             long upper = upper(false, seq);
             long lower = lower(seq);
             if(target>upper || target<lower){
+                System.out.println("Lower: " + lower + " Upper: " + upper);
                 return null;
             }else{//in range
                 results[0]=true; //plus
@@ -202,7 +218,10 @@ public class Arithmetic3 {
                     break;
                 }
             }
-            if(consec>target) return null;
+            if(consec>target){
+                System.out.println("4");
+                return null;
+            }
             
             if(consec==0){ //last operation was plus
                 int[] seq2 = Arrays.copyOfRange(seq, pos, seq.length);
@@ -211,6 +230,7 @@ public class Arithmetic3 {
                 
 
                 if(target>upper || target<lower){
+                    System.out.println("5");
                     return null;
                 }else{//in range
                     results[pos]=false; //multiply
