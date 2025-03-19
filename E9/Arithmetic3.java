@@ -41,10 +41,6 @@ public class Arithmetic3 {
         //int lowerBound = lower(seq);
         //long upperBound = upper(parts[0].equals("L"), seq);
         //if(target < lowerBound || target > upperBound) return input + " impossible \t Lower bound: " + lowerBound + " Upper bound: " + upperBound + " \n";
-        
-        //boolean[] a = genAlternating(seq.length-1);
-        //boolean[] a = genRandom(seq.length-1);
-        //System.out.println(evaluate2(parts[0].equals("L"), seq, a));
 
         boolean[] results = new boolean[seq.length-1];
         if(parts[0].equals("L")){
@@ -68,15 +64,6 @@ public class Arithmetic3 {
         return print + "\n";
     }
 
-    public static boolean[] genRandom(int n){
-        boolean[] a = new boolean[n];
-        Random rand = new Random();
-
-        for (int i = 0; i < n; i++) {
-            a[i] = rand.nextBoolean();
-        }
-        return a;
-    }
 
     public static int lower(int[] parts){
         int lower = parts[0];
@@ -248,68 +235,6 @@ public class Arithmetic3 {
                 }
             }
         }
-    }
-
-    public static long evaluate(boolean L, int[] sequence, boolean[] order){
-        if(L){
-            long value=sequence[0];
-            for(int i=1; i<sequence.length; i++){
-                if(order[i-1]){
-                    value+=sequence[i];
-                }else{
-                    value=value*sequence[i];
-                }
-            }
-            return value;
-        }else{
-            int current_consec=0;
-            int value=0;
-    
-            for(int i=0; i<order.length; i++){
-                if(order[i]){ //plus
-                    if(current_consec!=0){ //last operation was multiply
-                        current_consec=current_consec*sequence[i];
-                        value+=current_consec;
-                        current_consec=0;
-                    }else{
-                        value+=sequence[i];
-                    }
-                }else{ //multiply
-                    if(current_consec==0){
-                        current_consec=sequence[i];
-                    }else{
-                        current_consec=current_consec*sequence[i];
-                    }
-                }
-            }
-    
-            if(order[order.length-1]){ //final plus
-                if(current_consec!=0){ //second last operation was multiplication
-                    current_consec=current_consec*sequence[order.length-1];
-                    value+=current_consec;
-                }
-                    value+=sequence[order.length];
-    
-            }else{ //final multiply
-                current_consec=current_consec*sequence[order.length];
-                value+=current_consec;
-            }
-            
-            return value;
-        }
-    }
-
-    public static String evaluate2(boolean L, int[] seq, boolean[] results){
-        long value = evaluate(L, seq, results);
-        String print = value + " = " + seq[0];
-        for(int i=1; i<seq.length; i++){
-            if(results[i-1]==true){
-                print += " + " + seq[i];
-            }else{
-                print += " * " + seq[i];
-            }
-        }
-        return print;
     }
 }
 
