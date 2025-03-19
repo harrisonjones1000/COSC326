@@ -19,3 +19,9 @@ CCppp
 CCppp
 CCppNNNNNNp
 CpCpp
+CCCpppp
+CpCpp
+CpCpCpp
+CCppp
+CCppNNNNNNp
+CpCpp

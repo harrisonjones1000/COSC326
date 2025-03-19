@@ -17,21 +17,28 @@ public class Etude11 {
     }
 
     public static boolean woofv2(String word){
-        for(int i=word.length()-1; i<0; i--){
+        //Goes down and replaces woof3's to woof1
+        for(int i=word.length()-1; i>0; i--){
             if(word.charAt(i)=='C' || word.charAt(i)=='A' || word.charAt(i)=='K' || word.charAt(i)=='E'){
                 if(woof3v2(word.substring(i+1))){
                     word = word.substring(0,i) + "p";
                 }else{
                     return false; //Not a valid woof3
                 }
-                
-                //check if woof3, if, then remove it and the simplest woof, p, in its place
-                //we know where it starts
-                //woof 3 should return 
-                //we know there are no woof 3's in front of it, so just a reg exp of woof1 and woof2
+
             }
         }
-        return true;
+
+        Pattern woof = Pattern.compile("[pqrs]|N*([pqrs])");
+        Matcher m = woof.matcher(word);
+
+        if(m.find()){
+            if (m.start()!=0) return false; //pattern does not start at first index
+            if(m.end() != word.length()) return false;
+            return true;
+        }else{
+            return false; //pattern not found
+        }
     }
 
     public static boolean woof3v2(String word){
