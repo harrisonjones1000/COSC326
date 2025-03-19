@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Random;
 import java.util.Scanner;
 
 public class Arithmetic3 {
@@ -18,6 +19,7 @@ public class Arithmetic3 {
         int n = parts.length-2;
         int[] seq = new int[n];
         long target;
+
         try{
             target = Long.parseLong(parts[1]);
 
@@ -41,6 +43,7 @@ public class Arithmetic3 {
         //if(target < lowerBound || target > upperBound) return input + " impossible \t Lower bound: " + lowerBound + " Upper bound: " + upperBound + " \n";
         
         //boolean[] a = genAlternating(seq.length-1);
+        //boolean[] a = genRandom(seq.length-1);
         //System.out.println(evaluate2(parts[0].equals("L"), seq, a));
 
         boolean[] results = new boolean[seq.length-1];
@@ -65,16 +68,12 @@ public class Arithmetic3 {
         return print + "\n";
     }
 
-    //Generates alternating pattern of addition and multiplication
-    public static boolean[] genAlternating(int n){
+    public static boolean[] genRandom(int n){
         boolean[] a = new boolean[n];
+        Random rand = new Random();
 
-        for(int i=0; i<n; i++){  
-            if(i%2==0){ //0, 2, 4
-                a[i]=true;
-            }else{
-                a[i]=false;
-            }
+        for (int i = 0; i < n; i++) {
+            a[i] = rand.nextBoolean();
         }
         return a;
     }
