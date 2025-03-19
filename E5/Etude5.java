@@ -1,4 +1,3 @@
-import java.io.*;
 import java.util.*;
 
 public class Etude5 {
@@ -7,7 +6,16 @@ public class Etude5 {
         boolean head = false;
         Graph g = null;
 
+        try {
+            if (System.in.available() == 0) {
+                System.out.println("Invalid: No input");
+                return;
+            }
+        } catch (Exception e) {
+        }
+
         Scanner testScan = new Scanner(System.in);
+
         while (testScan.hasNext()) {
             if (!head) {
                 tokens = testScan.nextLine().strip().toLowerCase().split(", ");
@@ -29,10 +37,10 @@ public class Etude5 {
                     try {
                         if (g.addEdge(tokens[0], tokens[1], Double.parseDouble(tokens[2]))) {
                             System.out.println("Invalid: Non-unique routes");
+                            testScan.close();
                             return;
                         }
                     } catch (NumberFormatException e) {
-                        System.out.println("Numer format exception");
                         testScan.close();
                         return;
                     }
@@ -41,7 +49,7 @@ public class Etude5 {
         }
         testScan.close();
 
-        System.out.println(g.toString());
+        // System.out.println(g.toString());
 
         System.out.println(g.findPath());
 
@@ -107,16 +115,19 @@ public class Etude5 {
         private boolean addEdge(String source, String destination, double value) {
             if (locations.get(source) == null) { // Location not yet added to locations
                 locations.put(source, new ArrayList<Edge>());
+                locations.put(destination, new ArrayList<Edge>());
             }
 
-            // Check each edge
+            // // Check each edge
             for (Edge edge : locations.get(source)) {
-                if (edge.destination.equals(destination)) { // edge already exists
+                if (edge.destination.equals(destination)) {
                     return true;
                 }
             }
             // Add new edge
             locations.get(source).add(new Edge(source, destination, value));
+            locations.get(destination).add(new Edge(destination, source, value));
+
             return false;
         }
 
@@ -197,6 +208,5 @@ public class Etude5 {
 
             return s.toString();
         }
-
     }
 }
