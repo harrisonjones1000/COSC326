@@ -142,7 +142,7 @@ public class Arithmetic3 {
                 }
             }
         }else{
-            int consec=0;
+            long consec=0;
             for(int i=pos-1; i>=0; i--){
                 if(!results[i]){//multiplication
                     if(consec==0){
@@ -167,23 +167,24 @@ public class Arithmetic3 {
                 if((target>upper || target<lower) && upper>0){
                     return null;
                 }else{//in range
-                    results[pos]=false; //multiply
+                    results[pos]=true; //add
                     boolean[] temp;
-                    temp = findN2(seq, target, pos+1, results);
+                    temp = findN2(seq, target-seq[pos], pos+1, results);
+
                     if(temp==null){
-                        results[pos]=true; //add
-                        return findN2(seq, target-seq[pos], pos+1, results);
+                        results[pos]=false; //multiply
+                        return findN2(seq, target, pos+1, results);
                     }else{
                         return temp;
                     }
                 } 
             }else{ //last operation was multiplication
-                results[pos]=false; //multiply
+                results[pos]=true; //add
                 boolean[] temp;
-                temp = findN2(seq, target, pos+1, results);
+                temp = findN2(seq, target-consec, pos+1, results);
                 if(temp==null){
-                    results[pos]=true; //add
-                    return findN2(seq, target-consec, pos+1, results);
+                    results[pos]=false; //multiply
+                    return findN2(seq, target, pos+1, results);
                 }else{
                     return temp;
                 }
@@ -217,11 +218,9 @@ public class Arithmetic3 {
                 }        
             }
         }else{  //N
-            upper=1;
+            upper=0;
             int oneCount=0;
             long consec=0;
-
-            ArrayList<Long> numbers = new ArrayList<>();
 
             for(int i=0; i<parts.length; i++){ 
                 if(consec==0){
@@ -232,8 +231,6 @@ public class Arithmetic3 {
                     }
                 }else{
                     if(parts[i]==1){
-                        numbers.add(consec);
-                        consec=0;
                         oneCount++;
                     }else{
                         consec *= parts[i];
@@ -241,17 +238,7 @@ public class Arithmetic3 {
                 }
             }
 
-            if(consec!=0) numbers.add(consec);
-        
-            for (long num : numbers) {
-                upper *= num;
-            }
-
-            if(upper==1){
-                upper = oneCount; //1 1 1 1 
-            }else{
-                upper += oneCount;             
-            }
+            upper = consec + oneCount;
         }
         return upper;
     }
