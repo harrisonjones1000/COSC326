@@ -1,3 +1,4 @@
+woofs
 p
 q
 r
@@ -13,11 +14,8 @@ CpCpp
 CpNNNNs
 NCpp
 NNNCpNNNNs
-NNNC
-NCp
 CCppp
-CCppp
-CCppNNNNNNp
+CCppNNNNNNCpp
 CpCpp
 CCCpppp
 CpCpp

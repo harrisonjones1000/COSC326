@@ -18,10 +18,11 @@ public class Etude11 {
 
     public static boolean woofv2(String word){
         //Goes down and replaces woof3's to woof1
-        for(int i=word.length()-1; i>0; i--){
+        for(int i=word.length()-1; i>=0; i--){
             if(word.charAt(i)=='C' || word.charAt(i)=='A' || word.charAt(i)=='K' || word.charAt(i)=='E'){
-                if(woof3v2(word.substring(i+1))){
-                    word = word.substring(0,i) + "p";
+                int a = woof3v2(word.substring(i+1));
+                if(a!=-1){
+                    word = word.substring(0,i) + "p" + word.substring(i+a+1);
                 }else{
                     return false; //Not a valid woof3
                 }
@@ -41,90 +42,16 @@ public class Etude11 {
         }
     }
 
-    public static boolean woof3v2(String word){
+    public static int woof3v2(String word){
         Pattern woof = Pattern.compile("([pqrs]|N(N*)([pqrs]))([pqrs]|N(N*)([pqrs]))");
         Matcher m = woof.matcher(word);
 
         if(m.find()){
-            if (m.start()!=0) return false; //pattern does not start at first index
+            if (m.start()!=0) return -1; //pattern does not start at first index
 
-            return true;
+            return m.end();
         }else{
-            return false; //pattern not found
-        }
-    }
-
-    public static boolean woof(String word){
-        Pattern woof = Pattern.compile("[pqrs]|N(N*)([pqrs]|[CAKE])|[CAKE]");
-        Matcher m = woof.matcher(word);
-
-        if(m.find()){
-            if (m.start()!=0) return false; //pattern does not start
-
-            int endPos = m.end();
-
-            char ch = word.charAt(endPos-1);
-
-            if(m.end()==word.length()){
-                if(ch == 'C' || ch == 'A' || ch == 'K' || ch == 'E') return false;
-                return true;
-            }else{
-                if (ch == 'C' || ch == 'A' || ch == 'K' || ch == 'E'){ //we have woof3
-                    
-                    word = word.substring(endPos,word.length());
-
-                    //This method checks if we have 1 woof following the C
-                    //Returns the end position in our string
-                    endPos = woof3(word); 
-
-                    if(endPos==-1){ //no woof or only one woof
-                        return false;
-                    }else{//Check for final woof
-                        //System.out.println(word + " " + endPos);
-                        word = word.substring(endPos+1, word.length());
-                        //System.out.println(word);
-                        if(woof(word)) return true; //check for second woof
-                        return false; //no second woof
-                    }
-                }else{
-                    return false;
-                }
-            }
-        }else{
-            return false;
-        }
-    }
-
-    //Method that finds the first woof it sees, and returns its end position from the word
-    public static int woof3(String word){
-        Pattern woof = Pattern.compile("[pqrs]|N(N*)([pqrs]|[CAKE])|[CAKE]");
-        Matcher m = woof.matcher(word);
-
-        System.out.println(word);
-
-        if(m.find()){
-            if (m.start()!=0) return -1; //no woof
-
-            int endPos = m.end();
-
-            char ch = word.charAt(endPos-1);
-
-            if (ch == 'C' || ch == 'A' || ch == 'K' || ch == 'E'){ 
-                
-                word = word.substring(endPos,word.length());
-                endPos = woof3(word); //Check for first woof
-                if(endPos==-1) return -1;
-
-                word = word.substring(endPos, word.length());
-                int temp = woof3(word); //check for second woof
-                if(temp==-1) return -1; //no second woof
-                
-                return endPos+temp;
-            }else{
-                return endPos;
-            }
-        }else{
-            return -1; //no woof
+            return -1; //pattern not found
         }
     }
 }
