@@ -1,10 +1,6 @@
-
 /**
  * Harrison Jones and Ollie Hurst
  * Notes: assume each text file has the same format throughout
- * 
- * Note: we are running it via javac Etuide2.java
- * java Etude2 (to run)
  */
 
 import java.util.ArrayList;
@@ -33,63 +29,35 @@ public class Etude2 {
 
             if (date.length != 3) {
                 valid[i] = false; // not length of 3
-            } else {
+            }else {
                 String first = date[0];
                 String second = date[1];
                 String third = date[2];
 
                 valid[i] = true;
 
-                if (date[0].length() == 4) { // first entry is yyyy
-                    if (dateChecker(third, second, first) == 1)
-                        values[4] += 1; // 4 - ymd
-                    if (dateChecker(second, third, first) == 1)
-                        values[5] += 1; // 5 - ydm
-                } else if (date[1].length() == 4) { // second entry is yyyy
-                    if (dateChecker(first, third, second) == 1)
-                        values[1] += 1; // 1 - dym
-                    if (dateChecker(third, first, second) == 1)
-                        values[3] += 1; // 3 - myd
-
-                } else if (date[2].length() == 4) { // third entry is yyyy
-                    if (dateChecker(first, second, third) == 1)
-                        values[0] += 1; // 0 - dmy
-                    if (dateChecker(second, first, third) == 1)
-                        values[2] += 1; // 2 - mdy
-                } else { // year is in yy format
-                            // note: could do more checks for single digit cases for efficiency
-                    if (dateChecker(first, second, third) == 1)
-                        values[0] += 1; // 0 - dmy
-                    if (dateChecker(first, third, second) == 1)
-                        values[1] += 1; // 1 - dym
-                    if (dateChecker(second, first, third) == 1)
-                        values[2] += 1; // 2 - mdy
-                    if (dateChecker(third, first, second) == 1)
-                        values[3] += 1; // 3 - myd
-                    if (dateChecker(third, second, first) == 1)
-                        values[4] += 1; // 4 - ymd
-                    if (dateChecker(second, third, first) == 1)
-                        values[5] += 1; // 5 - ydm
-                }
+                //date checker takes format dmy
+                if (dateChecker(first, second, third) == 1) values[0] += 1; // 0 - dmy
+                if (dateChecker(first, third, second) == 1) values[1] += 1; // 1 - dym
+                if (dateChecker(second, first, third) == 1) values[2] += 1; // 2 - mdy
+                if (dateChecker(third, first, second) == 1) values[3] += 1; // 3 - myd
+                if (dateChecker(third, second, first) == 1) values[4] += 1; // 4 - ymd
+                if (dateChecker(second, third, first) == 1) values[5] += 1; // 5 - ydm
             }
         }
-
-        //System.out.print(Arrays.toString(values));
 
         int maxIdx = 0; // most common format
 
         for (int i = 1; i < 6; i++) {
-            if (values[i] > values[maxIdx])
-                maxIdx = i;
+            if (values[i] > values[maxIdx]) maxIdx = i;
         }
 
         String[] monthLetters = { "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" };
 
         for (int i = 0; i < dates.size(); i++) {
-            if (!valid[i]) { //spluts into 3.
-                System.out.print(dates.get(i) + " -  INVALID: inputs are not of length 3\n");
+            if (!valid[i]) { //splits into 3.
+                System.out.print(dates.get(i) + " - INVALID: inputs are not of length 3\n");
             }else {
-
                 date = dates.get(i).split("/");
                 int output;
                 String[] input2 = new String[3];
@@ -120,6 +88,7 @@ public class Etude2 {
                     input2[2]=date[0];
                 }
 
+                
                 output = dateChecker(input2[0], input2[1], input2[2]);    
 
 
@@ -127,10 +96,9 @@ public class Etude2 {
                     int[] input = {Integer.parseInt(input2[0]), Integer.parseInt(input2[1]), Integer.parseInt(input2[2])};
 
                     boolean yy = input2[2].length()==2;
-                    
                     int yearInt = input[2];
-                    if (yy) {
 
+                    if (yy) {
                         if (yearInt < 49) {
                             yearInt = yearInt + 2000;
                         } else if (yearInt >= 50) {
@@ -169,8 +137,6 @@ public class Etude2 {
             return -4; //number format exception
         }
 
-        //
-
         int dlen = day.length();
         int mlen = month.length();
         int ylen = year.length();
@@ -189,8 +155,10 @@ public class Etude2 {
                 }
             }
             //catches "0003" and "0000"
+            //wont catch "2000"
             if(count>2){
-                if(year.charAt(0) == '0') return -5;
+                //System.out.println("4");
+                if(year.charAt(0) != '2') return -5;
             }
         }
 
