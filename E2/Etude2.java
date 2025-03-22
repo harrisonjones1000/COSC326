@@ -99,7 +99,7 @@ public class Etude2 {
                     int yearInt = input[2];
 
                     if (yy) {
-                        if (yearInt < 49) {
+                        if (yearInt <= 49) {
                             yearInt = yearInt + 2000;
                         } else if (yearInt >= 50) {
                             yearInt = yearInt + 1900;
@@ -163,11 +163,12 @@ public class Etude2 {
         }
 
         if (yy) { // if yy format
-            if (yearInt < 49) {
+            if (yearInt <= 49) { //49 -> 2049
                 yearInt = yearInt + 2000;
-            } else if (yearInt >= 50) {
+            } else if (yearInt >= 50) { //50 -> 1950
                 yearInt = yearInt + 1900;
             }
+            //System.out.println("lol " + year + " " + yearInt);
         }
 
         boolean isLeapYear = false;
