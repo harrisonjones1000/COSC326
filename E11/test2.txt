@@ -1,1 +1,4 @@
-CCppp
+Np
+NP
+NNNN NNp
+NNNNN Cpp
