@@ -1,22 +1,20 @@
 // By Harrison Jones and Oliver Hurst
 // COSC326 Etude 5 - Bus Routes
 
+import java.io.IOException;
 import java.util.*;
 
 public class Etude5 {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         String[] tokens;
         boolean head = false;
         Graph g = null;
 
-        try {
-            if (System.in.available() == 0) {
-                System.out.print("Invalid: No input");
-                return;
-            }
-        } catch (Exception e) {
+        if (System.in.available() == 0) {
+            System.out.print("Invalid: No input");
+            System.exit(1);
         }
-
+        
         Scanner testScan = new Scanner(System.in);
 
         while (testScan.hasNext()) {
@@ -52,7 +50,7 @@ public class Etude5 {
         }
         testScan.close();
 
-        // System.out.println(g.toString());
+        //System.out.println(g.toString());
 
         System.out.print(g.findPath());
 
