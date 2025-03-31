@@ -1,10 +1,11 @@
-I go
 I am going
-I am making
-We (2 excl) are seeing
-You (2 excl) are wanting
-You (2 excl) are not wanting
-He is calling
-She is asking
-They (2 excl) are reading
-You (3 excl) are learning
+You are going
+He is going
+We (2 incl) are going
+We (2 excl) are going
+You (2 excl) are going
+They (2 excl) are going
+We (3 incl) are going
+We (3 excl) are going
+You (3 excl) are going
+They (3 excl) are going

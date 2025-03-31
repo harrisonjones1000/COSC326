@@ -56,7 +56,6 @@ public class E7 {
         starters.put("He", "ia"); //has, is, will
         starters.put("She", "ia"); //has, is, will
 
-
         String object = "";
         String[] sentence;
         int pos;
@@ -93,14 +92,37 @@ public class E7 {
             
             verb = sentence[sentence.length-1];
 
-            if(verbsPast.get(verb)!=null){
+            if(verbsPast.get(verb)!=null){ //past
                 tense=0;
                 verb = verbsPast.get(verb);
 
-            }else if(verbsPresent.get(verb)!=null){
+                if(!(pos==sentence.length-1)){
+                    System.out.println("INVALID");
+                    continue;
+                }else{
+
+                }
+
+            }else if(verbsPresent.get(verb)!=null){ //present
                 tense=1;
                 verb = verbsPresent.get(verb);
 
+                if(object.equals("au")){ //am
+                    if(!sentence[pos].equals("am") || sentence.length-2!=pos){
+                        System.out.println("INVALID");
+                        continue;
+                    }
+                }else if(object.equals("ia")){ //is
+                    if(!sentence[pos].equals("is") || sentence.length-2!=pos){
+                        System.out.println("INVALID");
+                        continue;
+                    }
+                }else{ //are
+                    if(!sentence[pos].equals("are") || sentence.length-2!=pos){
+                        System.out.println("INVALID");
+                        continue;
+                    }
+                }
 
             }else if(verbsFuture.get(verb)!=null){ //Future done
                 tense=2;
