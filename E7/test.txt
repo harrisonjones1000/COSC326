@@ -1,7 +1,2 @@
-We (3 excl) are going
-I am going
-They (2 excl) are reading
-You (2 incl) are reading
-I went
-I will go
-gibberish
+We (3 excl) go
+We (3 excl) have called
