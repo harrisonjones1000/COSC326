@@ -1,0 +1,17 @@
+I will go
+You will go
+He will go
+We (2 incl) will go
+We (2 excl) will go
+You (2 excl) will go
+They (2 excl) will go
+We (3 incl) will go
+We (3 excl) will go
+You (3 excl) will go
+They (3 excl) will go
+I will not go
+You not will go
+We (2 incl) will not go
+We (2 excl) not will go
+We (3 incl) will not go
+We (3 excl) not will go

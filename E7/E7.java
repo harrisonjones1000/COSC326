@@ -38,18 +38,24 @@ public class E7 {
         verbsFuture.put("learn", "ako");
 
         Map<String, String> starters = new HashMap<>();
-        starters.put("We (2 incl)", "taua");
-        starters.put("We (2 excl)", "maua");
-        starters.put("You (2 incl)", "korua");
-        starters.put("They (2 excl)", "raua");
-        starters.put("We (3 incl)", "tatou");
-        starters.put("We (3 excl)", "matou");
-        starters.put("You (3 incl)", "koutou");
-        starters.put("They (3 excl)", "ratou");
-        starters.put("I", "au");
-        starters.put("You", "koe");
-        starters.put("He", "ia");
-        starters.put("She", "ia");
+        starters.put("We (2 incl)", "taua"); //have, are, will
+        starters.put("We (3 incl)", "tatou"); //have, are, will
+
+        starters.put("We (2 excl)", "maua"); //have, are, will
+        starters.put("We (3 excl)", "matou"); //have, are, will
+
+        starters.put("You", "koe"); //have, are, will
+        starters.put("You (2 excl)", "korua"); //have, are, will
+        starters.put("You (3 excl)", "koutou"); //have, are, will
+
+        starters.put("They (2 excl)", "raua"); //have, are, will
+        starters.put("They (3 excl)", "ratou"); //have, are, will
+
+        starters.put("I", "au"); //have, am, will
+
+        starters.put("He", "ia"); //has, is, will
+        starters.put("She", "ia"); //has, is, will
+
 
         String object = "";
         String[] sentence;
@@ -84,10 +90,6 @@ public class E7 {
                 }
             }
 
-            // if((sentence.length-1 - pos)==1 || sentence.length-1 - pos != 0){
-            //     System.out.println("INVALID");
-            //     continue;
-            // }
             
             verb = sentence[sentence.length-1];
 
@@ -100,12 +102,17 @@ public class E7 {
                 verb = verbsPresent.get(verb);
 
 
-            }else if(verbsFuture.get(verb)!=null){
+            }else if(verbsFuture.get(verb)!=null){ //Future done
                 tense=2;
                 verb = verbsFuture.get(verb);
 
+                if(!sentence[pos].equals("will") || sentence.length-2!=pos){
+                    System.out.println("INVALID");
+                    continue;
+                }
+
             }else{
-                System.out.println(verb + " INVALID");
+                System.out.println("INVALID");
                 continue;
             }
 
