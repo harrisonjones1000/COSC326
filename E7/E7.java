@@ -33,23 +33,23 @@ public class E7 {
         verbsFuture.put("see", "kite");
         verbsFuture.put("want", "hiahia");
         verbsFuture.put("call", "karanga");
-        verbsFuture.put("ask", "patai");
-        verbsFuture.put("read", "panui");
+        verbsFuture.put("ask", "p\u0101tai");
+        verbsFuture.put("read", "p\u0101nui");
         verbsFuture.put("learn", "ako");
 
         Map<String, String> starters = new HashMap<>();
-        starters.put("We (2 incl)", "taua"); //have, are, will
-        starters.put("We (3 incl)", "tatou"); //have, are, will
+        starters.put("We (2 incl)", "t\u0101ua"); //have, are, will
+        starters.put("We (3 incl)", "t\u0101tou"); //have, are, will
 
-        starters.put("We (2 excl)", "maua"); //have, are, will
-        starters.put("We (3 excl)", "matou"); //have, are, will
+        starters.put("We (2 excl)", "m\u0101ua"); //have, are, will
+        starters.put("We (3 excl)", "m\u0101tou"); //have, are, will
 
         starters.put("You", "koe"); //have, are, will
-        starters.put("You (2 excl)", "korua"); //have, are, will
+        starters.put("You (2 excl)", "k\u014Drua"); //have, are, will
         starters.put("You (3 excl)", "koutou"); //have, are, will
 
-        starters.put("They (2 excl)", "raua"); //have, are, will
-        starters.put("They (3 excl)", "ratou"); //have, are, will
+        starters.put("They (2 excl)", "r\u0101ua"); //have, are, will
+        starters.put("They (3 excl)", "r\u0101tou"); //have, are, will
 
         starters.put("I", "au"); //have, am, will
 
