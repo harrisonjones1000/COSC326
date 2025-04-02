@@ -24,6 +24,8 @@ class Telephone {
         double[][] coordArray = new double[coordList.size()][2];
         coordList.toArray(coordArray);
 
+        GUI gui = new GUI(coordArray);
+
         ArrayList<TriplePoint> combList = new ArrayList<>();
         for (int i_1 = 0; i_1 < coordArray.length; i_1++) {
             for (int i_2 = i_1 + 1; i_2 < coordArray.length; i_2++) {
@@ -57,7 +59,9 @@ class Telephone {
             RealVector solution = solver.solve(constants);
             RealVector point_1 = new ArrayRealVector(combArray[0].p_1, true);
 
-            circleList.add(new Circle(solution.toArray(), solution.getDistance(point_1)));
+            double circleCenter[] = solution.toArray();
+            double radius = solution.getDistance(point_1);
+            circleList.add(new Circle(circleCenter, radius));
 
         }
 
@@ -72,6 +76,7 @@ class Telephone {
             }
             if (pInCircle >= 12) {
                 System.out.println("Max range: " + circle.radius + "m");
+                gui.drawCircle(circle.origin[0], circle.origin[1], circle.radius);
                 break;
             }
         }
