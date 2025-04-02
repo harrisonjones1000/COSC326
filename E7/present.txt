@@ -1,3 +1,14 @@
+I go
+You go
+He go
+We (2 incl) go
+We (2 excl) go
+You (2 excl) go
+They (2 excl) go
+We (3 incl) go
+We (3 excl) go
+You (3 excl) go
+They (3 excl) go
 I am going
 You are going
 He is going

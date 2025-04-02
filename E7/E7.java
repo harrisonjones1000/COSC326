@@ -17,15 +17,15 @@ public class E7 {
         verbsPast.put("read", "panui");
         verbsPast.put("learnt", "ako");
 
-        Map<String, String> verbsPresent = new HashMap<>();
-        verbsPresent.put("going", "haere");
-        verbsPresent.put("making", "hanga");
-        verbsPresent.put("seeing", "kite");
-        verbsPresent.put("wanting", "hiahia");
-        verbsPresent.put("calling", "karanga");
-        verbsPresent.put("asking", "patai");
-        verbsPresent.put("reading", "panui");
-        verbsPresent.put("learning", "ako");
+        // Map<String, String> verbsPresent = new HashMap<>();
+        // verbsPresent.put("going", "haere");
+        // verbsPresent.put("making", "hanga");
+        // verbsPresent.put("seeing", "kite");
+        // verbsPresent.put("wanting", "hiahia");
+        // verbsPresent.put("calling", "karanga");
+        // verbsPresent.put("asking", "patai");
+        // verbsPresent.put("reading", "panui");
+        // verbsPresent.put("learning", "ako");
 
         Map<String, String> verbsFuture = new HashMap<>();
         verbsFuture.put("go", "haere");
@@ -102,35 +102,48 @@ public class E7 {
                 }else{
 
                 }
+            
+            // }else if(verbsPresent.get(verb)!=null){ //present
+            //     tense=1;
+            //     verb = verbsPresent.get(verb);
 
-            }else if(verbsPresent.get(verb)!=null){ //present
-                tense=1;
-                verb = verbsPresent.get(verb);
+            //     if(object.equals("au")){ //am
+            //         if(!sentence[pos].equals("am") || sentence.length-2!=pos){
+            //             System.out.println("INVALID");
+            //             continue;
+            //         }
+            //     }else if(object.equals("ia")){ //is
+            //         if(!sentence[pos].equals("is") || sentence.length-2!=pos){
+            //             System.out.println("INVALID");
+            //             continue;
+            //         }
+            //     }else{ //are
+            //         if(!sentence[pos].equals("are") || sentence.length-2!=pos){
+            //             System.out.println("INVALID");
+            //             continue;
+            //         }
+            //     }
 
-                if(object.equals("au")){ //am
-                    if(!sentence[pos].equals("am") || sentence.length-2!=pos){
+            }else if(verbsFuture.get(verb)!=null){ //future or past
+                //I will go
+                //I go
+
+                if(sentence[pos].equals("will")){ //future
+                    tense=2;
+                    verb = verbsFuture.get(verb);
+
+                    if(sentence.length-2!=pos){
                         System.out.println("INVALID");
                         continue;
                     }
-                }else if(object.equals("ia")){ //is
-                    if(!sentence[pos].equals("is") || sentence.length-2!=pos){
+
+                }else{ //present
+                    
+                    tense = 1;
+                    if(sentence.length-1!=pos){
                         System.out.println("INVALID");
                         continue;
                     }
-                }else{ //are
-                    if(!sentence[pos].equals("are") || sentence.length-2!=pos){
-                        System.out.println("INVALID");
-                        continue;
-                    }
-                }
-
-            }else if(verbsFuture.get(verb)!=null){ //Future done
-                tense=2;
-                verb = verbsFuture.get(verb);
-
-                if(!sentence[pos].equals("will") || sentence.length-2!=pos){
-                    System.out.println("INVALID");
-                    continue;
                 }
 
             }else{
