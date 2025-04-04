@@ -1,1 +1,10 @@
-Invalid: Non-unique routes
+timaru : temuka 16.5, oamaru 27.0, laketaupo 5.0, 
+dunedin : palmerston 23.0, 
+palmerston : oamaru 21.5, dunedin 23.0, christchurch 85.5, 
+rolleston : christchurch 10.0, temuka 15.0, 
+oamaru : timaru 27.0, palmerston 21.5, 
+temuka : rolleston 15.0, timaru 16.5, 
+laketaupo : timaru 5.0, 
+christchurch : rolleston 10.0, palmerston 85.5, 
+
+christchurch-palmerston-dunedin

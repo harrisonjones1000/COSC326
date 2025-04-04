@@ -115,7 +115,7 @@ public class Etude5 {
         Graph(String[] targets) {
             this.source = targets[0].replaceAll("\\s","");
             this.destination = targets[1].replaceAll("\\s","");
-            this.locations.put(targets[0], new ArrayList<Edge>());
+            this.locations.put(targets[0].replaceAll("\\s", ""), new ArrayList<Edge>());
         }
 
         private boolean addEdge(String source, String destination, double value) {
@@ -133,7 +133,8 @@ public class Etude5 {
                 }
             }
             // Add new edge
-            locations.get(source).add(new Edge(source, destination, value));
+            locations.get(source).add(new Edge(source, destination
+            , value));
             locations.get(destination).add(new Edge(destination, source, value));
 
             return false;
@@ -151,6 +152,7 @@ public class Etude5 {
                 }
                 print += "\n";
             }
+            
             return print;
         }
 

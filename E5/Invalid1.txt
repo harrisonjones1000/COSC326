@@ -7,4 +7,3 @@ Oamaru, Palmerston, 21.5
 Palmerston, Dunedin, 23
 Christchurch, Palmerston, 85.5
  Lake   Taupo,  Timaru, 5
-Timaru, laketaupo, 5
