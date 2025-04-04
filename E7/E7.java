@@ -1,11 +1,14 @@
-import java.util.ArrayList;
-import java.util.Arrays;
+import java.io.PrintStream;
+import java.nio.charset.StandardCharsets;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
 public class E7 {
     public static void main(String[] args){
+        System.setOut(new PrintStream(System.out, true, StandardCharsets.UTF_8));
+        System.out.println("p\u0101tai");
+
 
         Map<String, String> verbsPast = new HashMap<>();
         verbsPast.put("went", "haere");
@@ -13,8 +16,8 @@ public class E7 {
         verbsPast.put("saw", "kite");
         verbsPast.put("wanted", "hiahia");
         verbsPast.put("called", "karanga");
-        verbsPast.put("asked", "patai");
-        verbsPast.put("read", "panui");
+        verbsPast.put("asked", "pātai");
+        verbsPast.put("read", "pānui");
         verbsPast.put("learnt", "ako");
 
         // Map<String, String> verbsPresent = new HashMap<>();
@@ -33,23 +36,23 @@ public class E7 {
         verbsFuture.put("see", "kite");
         verbsFuture.put("want", "hiahia");
         verbsFuture.put("call", "karanga");
-        verbsFuture.put("ask", "p\u0101tai");
-        verbsFuture.put("read", "p\u0101nui");
+        verbsFuture.put("ask", "pātai");
+        verbsFuture.put("read", "pānui");
         verbsFuture.put("learn", "ako");
 
         Map<String, String> starters = new HashMap<>();
-        starters.put("We (2 incl)", "t\u0101ua"); //have, are, will
-        starters.put("We (3 incl)", "t\u0101tou"); //have, are, will
+        starters.put("We (2 incl)", "tāua"); //have, are, will
+        starters.put("We (3 incl)", "tātou"); //have, are, will
 
-        starters.put("We (2 excl)", "m\u0101ua"); //have, are, will
-        starters.put("We (3 excl)", "m\u0101tou"); //have, are, will
+        starters.put("We (2 excl)", "māua"); //have, are, will
+        starters.put("We (3 excl)", "mātou"); //have, are, will
 
         starters.put("You", "koe"); //have, are, will
-        starters.put("You (2 excl)", "k\u014Drua"); //have, are, will
+        starters.put("You (2 excl)", "kōrua"); //have, are, will
         starters.put("You (3 excl)", "koutou"); //have, are, will
 
-        starters.put("They (2 excl)", "r\u0101ua"); //have, are, will
-        starters.put("They (3 excl)", "r\u0101tou"); //have, are, will
+        starters.put("They (2 excl)", "rāua"); //have, are, will
+        starters.put("They (3 excl)", "rātou"); //have, are, will
 
         starters.put("I", "au"); //have, am, will
 
