@@ -41,7 +41,7 @@ public class Arithmetic3 {
         if(parts[0].equals("L")){
             results = findL(seq, target, seq.length-2, results);
         }else{
-            results = findN2(seq, target, 0, results);
+            results = findN2(seq, target, 0, results, 0, 0);
         }
 
         if(results==null) return input + " impossible\n";
@@ -90,7 +90,7 @@ public class Arithmetic3 {
 
     //N2 stuff down here
 
-    public static boolean[] findN2(int[] seq, long target, int pos, boolean[] results){
+    public static boolean[] findN2(int[] seq, long target, int pos, boolean[] results, long value, long consec){
         if(pos == seq.length-2){
             results[pos]=true; //addition
             if(eval(seq, results) == target) return results;
@@ -100,49 +100,51 @@ public class Arithmetic3 {
             return null;
 
         }else if(pos==0){
-            if((upper(seq)<target || lower(seq)>target) && upper(seq) > 0){
-                // System.out.println(upper(seq)+ " < " + target);
-                // System.out.println(lower(seq)+ " > " + target);
-                return null;
-            }
+            if((upper(seq)<target || lower(seq)>target) && upper(seq) > 0) return null; //out of range
                 
             boolean[] resultsCopy = results;
 
             resultsCopy[0] = true; //addition
-            resultsCopy = findN2(seq, target, 1, results);
+            resultsCopy = findN2(seq, target, 1, resultsCopy, seq[0], 0);
             if(resultsCopy!=null) return resultsCopy;
 
             results[0] = false; //multiplication
-            results = findN2(seq, target, 1, results);
-            return results;
-            
-        }else{
-            long currentConsec = seq[0]; 
-            long value = 0;
+            return findN2(seq, target, 1, results, 0, seq[0]);
 
-            for(int i=1; i<=pos; i++){
-                if(!results[i-1]){ //multiplication
-                    currentConsec *= seq[i];
-                }else{ //addition
-                    value += currentConsec;
-                    currentConsec = seq[i];
-                }
+        }else{
+            int[] seqCopy = Arrays.copyOfRange(seq, pos+1, seq.length);
+            
+            //Addition
+            boolean[] resultsCopy = results;
+            resultsCopy[pos]=true; 
+        
+            if(consec!=0){
+                value += consec*seq[pos];
+            }else{
+                value += seq[pos];
             }
 
-            int[] seqCopy = Arrays.copyOfRange(seq, pos, seq.length);
-            seqCopy[0]=(int)currentConsec;
+            if(!((upper(seqCopy) < target-value || lower(seqCopy) > target-value) && upper(seqCopy) > 0)){ //if within range
+                resultsCopy = findN2(seq, target, pos+1, resultsCopy, value, 0);
+                if(resultsCopy!=null) return resultsCopy;
+            }
 
-            if((upper(seqCopy)< target-value || lower(seqCopy) > target-value) && upper(seqCopy)>0) return null;
+            //Multiplication
+            results[pos]=false;
 
-            boolean[] resultsCopy = results;
+            if(consec!=0){
+                value = value - consec*seq[pos];
+                consec *= seq[pos];
+            }else{
+                value = value - seq[pos];
+                consec = seq[pos];
+            }
 
-            resultsCopy[pos] = true; //addition
-            resultsCopy = findN2(seq, target, pos+1, results);
-            if(resultsCopy!=null) return resultsCopy;
+            seqCopy[0] *= consec;
 
-            results[pos] = false; //multiplication
-            results = findN2(seq, target, pos+1, results);
-            return results;
+            if((upper(seqCopy) < target-value || lower(seqCopy) > target-value) && upper(seqCopy) > 0) return null;
+
+            return findN2(seq, target, pos+1, results, value, consec);
         }
     }
 
