@@ -2,62 +2,91 @@ import java.util.Scanner;
 
 public class E4{
     public static void main(String[] args){
-        String[] parts;
-        Scanner testScan = new Scanner(System.in);
-        while (testScan.hasNext()) {
-            parts = testScan.nextLine().split(" ");
-            System.out.println(method(parts[0], parts[1], Integer.parseInt(parts[2].substring(0,parts[2].length()-2)), Integer.parseInt(parts[3])));
-        }
-        testScan.close();
+        method();
+
+        //easter(2050);
     }
 
+    //31st Decemeber 2049 is a Friday.
+    //all leap days will be added to December
+
     //Takes an old calendar, and must convert to new calendar
-    private static String method(String time, String month, int day, int year){
+    private static void method(){
         String[]  oldMonths ={"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
+        int[] daysInMonths = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
+
         String[]  newMonths = {"January", "March", "April", "May", "June", "August", "September", "October", "November", "December"};
 
-        String[] dow = {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Xtraday", "Superday", "Holyday"};
+        String[] dow = {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Xtraday", "Superday", "Holyday", "Sunday"};
 
-        boolean isLeapYear = (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+        int daysSince;
+        int monthIdx = -1;
 
-        boolean morning = time.substring(time.length()-2).equals("am"); //both tests are pm
+        int totalDays = 1;
+        int m = 0;
+        int d = 1;
+        int y = 2050;
 
-        int hour = Integer.parseInt((time.substring(0,time.length()-2)).split(":")[0]);
-        int min = Integer.parseInt(time.substring(0, time.length()-2).split(":")[1]);
+        int nm = 0;
+        int nd = 1;
+        int ny = 2050;
 
-        int NH; 
-        double a=0;
-        int b;
-
-        if(!morning){ //afternoon
-            NH=5;
-            
-            if(hour!=12){
-                System.out.println(hour);
-                a = hour*5/12 + min/(12*60); //NH
-                System.out.println(a);
-                b = (int)Math.floor(a); 
-                NH += b;
-                a = a-b; 
-                a = a*100; //NM
-            }else{
-                a=min*100/144;
+        while(y<2053){
+            if(y==2050){
+                //System.out.println(d + " " + oldMonths[m] + " " + y + "\t ---> \t " + dow[(totalDays+4)%10]+ " " + nd + " " + newMonths[nm] + " " + ny);
+                System.out.println(dow[(totalDays+4)%10]+ " " + nd + " " + newMonths[nm] + " " + ny);
+                //System.out.println(d + " " + oldMonths[m] + " " + y);
             }
-        }else{ //morning
-            NH=0;
+
+            if(nd<36){
+                nd++;
+            }else if(nm == 9){
+                if(((y % 4 == 0 && y % 100 != 0) || (y % 400 == 0)) && nd == 36){
+                    nd++;
+                }else{
+                    ny++;
+                    nm=0;
+                    nd=1;
+                }
+            }else{
+                nm++;
+                nd=1;
+            }
+            
+            if(daysInMonths[m]>d){
+                d++;
+            }else if(m==11){
+                y++;
+                m=0;
+                d=1;
+                if((y % 4 == 0 && y % 100 != 0) || (y % 400 == 0)){
+                    daysInMonths[1]++;
+                }else if(((y+1) % 4 == 0 && (y+1) % 100 != 0) || ((y+1) % 400 == 0)){
+                    daysInMonths[1]--;
+                }
+            }else{
+                m++;
+                d=1;
+            }
+
+            totalDays++;
         }
 
+        return;
+    }
 
-        System.out.println(NH + ":" + (int)a);
+    public static void easter(int y){
+        int a = y%19;
+        int b = y%4;
+        int c = y%7;
+        int d = (19*a + 24)%30;
+        int e = (2*b + 4*c + 6*d +5) % 7;
+        int easter = 22 + d + e;
 
-        //31st Decemeber 2049 is a Friday.
-        //all leap days will be added to December
-
-        //NOTE: check if December is to have 36+5 days and 36+6 days in leap years
-        //OR: if this calendar now lags. 
-
-        return "";
-
-        //return "time: " + time + "\nmonth: " + month + "\nday: " + day + "\nyear: " + year;
+        if(easter>31){
+            System.out.println("April " + easter%31);
+        }else{
+            System.out.println("March " + easter);
+        }
     }
 }
