@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -89,158 +88,102 @@ public class Arithmetic3 {
         }   
     }
 
-    static boolean[] findN2(int[] seq, long target, int pos, boolean[] results){
-        if(pos==results.length-1){ 
-            int consec=0;
-            for(int i=pos-1; i>=0; i--){
-                if(!results[i]){//multiplication
-                    if(consec==0){
-                        consec=seq[i]*seq[i+1];
-                    }else{
-                        consec=consec*seq[i];
-                    }
-                }else{//addition
-                    break;
-                }
-            }
-            
-            if(consec==0){ //last operation was addition
-                if(target==seq[pos]*seq[pos+1]){
-                    results[pos]=false;
-                    return results;
-                }else if(target==seq[pos]+seq[pos+1]){
-                    results[pos]=true;
-                    return results;
-                }else{
-                    return null;
-                }
-            }else{ //last operation was multiplication
-                if(target==consec*seq[pos+1]){
-                    results[pos]=false;
-                    return results;
-                }else if(target==consec+seq[pos+1]){
-                    results[pos]=true;
-                    return results;
-                }else{
-                    return null;
-                }
-            }
-        }else if(pos==0){ //first call
-            long upper = upper(false, seq);
-            long lower = lower(seq);
-            if((target>upper || target<lower) && upper>0){ //prevents long overflow
+    //N2 stuff down here
+
+    public static boolean[] findN2(int[] seq, long target, int pos, boolean[] results){
+        if(pos == seq.length-2){
+            results[pos]=true; //addition
+            if(eval(seq, results) == target) return results;
+
+            results[pos]=false; //multiplication
+            if(eval(seq, results) == target) return results;
+            return null;
+
+        }else if(pos==0){
+            int[] seqCopy = Arrays.copyOfRange(seq, pos, seq.length);
+            if(upper(seqCopy)<target || lower(seqCopy)>target){
                 return null;
-            }else{//in range
-                results[0]=true; //plus
-                boolean[] temp;
-                temp = findN2(seq, target-seq[0], pos+1, results);
-                if(temp==null){
-                    results[0]=false; //multiplication
-                    return findN2(seq, target, pos+1, results);
-                }else{
-                    return temp;
-                }
             }
+
+            boolean[] resultsCopy = results;
+
+            resultsCopy[0] = true; //addition
+            resultsCopy = findN2(seq, target, 1, results);
+            if(resultsCopy!=null) return resultsCopy;
+
+            results[0] = false; //multiplication
+            results = findN2(seq, target, 1, results);
+            return results;
+            
         }else{
-            long consec=0;
-            for(int i=pos-1; i>=0; i--){
-                if(!results[i]){//multiplication
-                    if(consec==0){
-                        consec=seq[i]*seq[i+1];
-                    }else{
-                        consec=consec*seq[i];
-                    }
-                }else{//addition
-                    break;
+            long currentConsec = seq[0]; 
+            long value = 0;
+
+            for(int i=1; i< seq.length; i++){
+                if(!results[i-1]){ //multiplication
+                    currentConsec *= seq[i];
+                }else{ //addition
+                    value += currentConsec;
+                    currentConsec = seq[i];
                 }
             }
 
-            if(consec>target){
-                return null;
-            }
-            
-            if(consec==0){ //last operation was plus
-                int[] seq2 = Arrays.copyOfRange(seq, pos, seq.length);
-                long upper = upper(false, seq2);
-                long lower = lower(seq2);                
+            value+=currentConsec;
 
-                if((target>upper || target<lower) && upper>0){
-                    return null;
-                }else{//in range
-                    results[pos]=true; //add
-                    boolean[] temp;
-                    temp = findN2(seq, target-seq[pos], pos+1, results);
+            //Check if addition, in range
+            //Check if multiplication, in range
+                
 
-                    if(temp==null){
-                        results[pos]=false; //multiply
-                        return findN2(seq, target, pos+1, results);
-                    }else{
-                        return temp;
-                    }
-                } 
-            }else{ //last operation was multiplication
-                results[pos]=true; //add
-                boolean[] temp;
-                temp = findN2(seq, target-consec, pos+1, results);
-                if(temp==null){
-                    results[pos]=false; //multiply
-                    return findN2(seq, target, pos+1, results);
-                }else{
-                    return temp;
-                }
-            }
+            return null; 
         }
     }
 
     public static int lower(int[] parts){
-        int lower = parts[0];
-        for(int i=1; i<parts.length; i++){
-            if(lower==1){
-                lower=lower*parts[i];
-            }else{
-                if(parts[i]!=1){
-                    lower+=parts[i];
+        int result = 1;
+        for(int i=0; i<parts.length; i++){
+            if(parts[i]!=1){
+                if(result==1){
+                    result = parts[i];
+                }else{
+                    result += parts[i];
                 }
             }
         }
-        return lower;
+        return result;
     }
-    
-    public static long upper(boolean L, int[] parts){ 
-        long upper;
-        if(L){
-            upper = parts[0];
-            for(int i=1; i<parts.length; i++){
-                if(parts[i]==1||upper==1){
-                    upper+=parts[i];
-                }else{
-                    upper=upper*parts[i];
-                }        
-            }
-        }else{  //N
-            upper=0;
-            int oneCount=0;
-            long consec=0;
 
-            for(int i=0; i<parts.length; i++){ 
-                if(consec==0){
-                    if(parts[i]==1){
-                        oneCount++;
-                    }else{
-                        consec=parts[i];
-                    }
-                }else{
-                    if(parts[i]==1){
-                        oneCount++;
-                    }else{
-                        consec *= parts[i];
-                    }
-                }
-            }
+    public static long upper(int[] parts){ 
+        long upper=0;
+        long consec=1;
 
-            upper = consec + oneCount;
+        for(int i=0; i<parts.length; i++){
+            if(parts[i]==1){
+                upper++;
+            }else{
+                consec *= parts[i];
+            }
         }
+        upper += consec;
+        
         return upper;
+    }
+
+    public static long eval(int[] sequence, boolean[] order){
+        long currentConsec = sequence[0]; 
+        long value = 0;
+
+        for(int i=1; i< sequence.length; i++){
+            if(!order[i-1]){ //multiplication
+                currentConsec *= sequence[i];
+            }else{ //addition
+                value += currentConsec;
+                currentConsec = sequence[i];
+            }
+        }
+
+        value+=currentConsec;
+
+        return value;
     }
 }
 
