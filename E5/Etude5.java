@@ -7,7 +7,6 @@ import java.util.*;
 public class Etude5 {
     public static void main(String[] args) throws IOException {
         String[] tokens;
-        boolean head = false;
         Graph g = null;
 
         if (System.in.available() == 0) {
@@ -17,26 +16,28 @@ public class Etude5 {
         
         Scanner testScan = new Scanner(System.in);
 
+        boolean head = false;
+
         while (testScan.hasNext()) {
-            if (!head) {
-                tokens = testScan.nextLine().strip().toLowerCase().split(", ");
-                if (tokens.length != 2) {
+            if(!head){ //no head
+                tokens = testScan.nextLine().strip().toLowerCase().split(",");
+                if(tokens.length != 2){
                     System.out.print("Invalid: route");
                     testScan.close();
                     return;
-                } else {
+                }else{
                     g = new Graph(tokens);
                     head = true;
                 }
-            } else {
-                tokens = testScan.nextLine().strip().toLowerCase().split(", ");
-                if (tokens.length != 3) {
+            }else{
+                tokens = testScan.nextLine().strip().toLowerCase().split(",");
+                if (tokens.length != 3){
                     System.out.print("Invalid: route set");
                     testScan.close();
                     return;
                 } else {
                     try {
-                        if (g.addEdge(tokens[0], tokens[1], Double.parseDouble(tokens[2]))) {
+                        if(g.addEdge(tokens[0].replaceAll("\\s",""), tokens[1].replaceAll("\\s+",""), Double.parseDouble(tokens[2]))) {
                             System.out.print("Invalid: Non-unique routes");
                             testScan.close();
                             return;
@@ -50,7 +51,7 @@ public class Etude5 {
         }
         testScan.close();
 
-        //System.out.println(g.toString());
+        System.out.println(g.toString());
 
         System.out.print(g.findPath());
 
@@ -112,8 +113,8 @@ public class Etude5 {
         private Map<String, ArrayList<Edge>> locations = new HashMap<>();
 
         Graph(String[] targets) {
-            this.source = targets[0];
-            this.destination = targets[1];
+            this.source = targets[0].replaceAll("\\s","");
+            this.destination = targets[1].replaceAll("\\s","");
             this.locations.put(targets[0], new ArrayList<Edge>());
         }
 
