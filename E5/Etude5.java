@@ -51,7 +51,7 @@ public class Etude5 {
         }
         testScan.close();
 
-        System.out.println(g.toString());
+        //System.out.println(g.toString());
 
         System.out.print(g.findPath());
 
