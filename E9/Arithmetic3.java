@@ -100,11 +100,12 @@ public class Arithmetic3 {
             return null;
 
         }else if(pos==0){
-            int[] seqCopy = Arrays.copyOfRange(seq, pos, seq.length);
-            if(upper(seqCopy)<target || lower(seqCopy)>target){
+            if((upper(seq)<target || lower(seq)>target) && upper(seq) > 0){
+                // System.out.println(upper(seq)+ " < " + target);
+                // System.out.println(lower(seq)+ " > " + target);
                 return null;
             }
-
+                
             boolean[] resultsCopy = results;
 
             resultsCopy[0] = true; //addition
@@ -119,7 +120,7 @@ public class Arithmetic3 {
             long currentConsec = seq[0]; 
             long value = 0;
 
-            for(int i=1; i< seq.length; i++){
+            for(int i=1; i<=pos; i++){
                 if(!results[i-1]){ //multiplication
                     currentConsec *= seq[i];
                 }else{ //addition
@@ -128,13 +129,20 @@ public class Arithmetic3 {
                 }
             }
 
-            value+=currentConsec;
+            int[] seqCopy = Arrays.copyOfRange(seq, pos, seq.length);
+            seqCopy[0]=(int)currentConsec;
 
-            //Check if addition, in range
-            //Check if multiplication, in range
-                
+            if((upper(seqCopy)< target-value || lower(seqCopy) > target-value) && upper(seqCopy)>0) return null;
 
-            return null; 
+            boolean[] resultsCopy = results;
+
+            resultsCopy[pos] = true; //addition
+            resultsCopy = findN2(seq, target, pos+1, results);
+            if(resultsCopy!=null) return resultsCopy;
+
+            results[pos] = false; //multiplication
+            results = findN2(seq, target, pos+1, results);
+            return results;
         }
     }
 

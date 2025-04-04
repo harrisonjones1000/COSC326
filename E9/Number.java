@@ -21,7 +21,9 @@ public class Number {
             if(L){
                 System.out.println("L " + evaluate(L, seq, a) + s);
             }else{
-                System.out.println("N " + evaluate(L, seq, a) + s);
+                if(evaluate(L, seq, a) < 66000){
+                    System.out.println("N " + evaluate(L, seq, a) + s);
+                }
             }
             //System.out.println(evaluate2(L, seq, a));
         }
