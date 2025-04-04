@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class E4{
     public static void main(String[] args){
         method();
@@ -18,9 +16,6 @@ public class E4{
         String[]  newMonths = {"January", "March", "April", "May", "June", "August", "September", "October", "November", "December"};
 
         String[] dow = {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Xtraday", "Superday", "Holyday", "Sunday"};
-
-        int daysSince;
-        int monthIdx = -1;
 
         int totalDays = 1;
         int m = 0;
