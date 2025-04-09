@@ -8,6 +8,11 @@ import java.io.*;
 import java.util.random.*;
 import org.apache.commons.math3.linear.*;
 
+/**
+ * Class for finding the maximum range of cordless phones from a list of
+ * coordinates of phones such that, no matter
+ * a person is, no more than 11 phones are in range.
+ */
 class TelephoneImproved {
     public static void main(String[] args) {
 
@@ -33,6 +38,14 @@ class TelephoneImproved {
         System.out.println("Maximum Range: " + finalRad + " meters");
     }
 
+    /**
+     * Takes a list of points, returns the radius of a circle that can be moved to
+     * enclose at least 12 points.
+     * 
+     * @param pointList An arraylist of points.
+     * @return The radius of a circle that can be moved to enclose at least 12
+     *         points.
+     */
     static double getFirstRad(ArrayList<Point2D> pointList) {
 
         double currentRadius = 0;
@@ -53,6 +66,19 @@ class TelephoneImproved {
         return currentRadius;
     }
 
+    /**
+     * Takes a list of points and a radius that is known to be larger than the
+     * radius of the largest circle that when placed anywhere on the points, cannot
+     * enclose more than 11 points. Returns the radius of the largest circle that
+     * when placed anywhere, will not enclose more than 11 points.
+     * 
+     * @param pointList     The arraylist of points.
+     * @param currentRadius A radius that is known to be larger than the radius of
+     *                      the largest circle that when placed anywhere on the
+     *                      points will not enclose more than 11.
+     * @return The radius of the largest circle that when placed anywhere will not
+     *         enclose more that 11 points.
+     */
     static double getBestRad(ArrayList<Point2D> pointList, double currentRadius) {
 
         // Circle bestCircle = new Circle(new Point2D(0, 0), 1);
@@ -88,14 +114,14 @@ class TelephoneImproved {
     }
 
     /**
-     * Takes an array of points sorted by x value and the radius of the best circle
+     * Takes an array of all points and an origin, radius. Returns the set of points
+     * that are contained in a circle centred on the origin, with radius = 2*radius.
      * so far
      * 
-     * @param points The array of points, sorted by x value.
-     * @param origin The middle of the square.
-     * @param radius The radius of the best circle thus far.
-     * @return An array of points that are contained within a square, centred on a
-     *         point with width equal to two times radius.
+     * @param points The array of all points.
+     * @param origin The center of the circle.
+     * @param radius Half the radius of the circle.
+     * @return An array of points that are contained within the circle.
      */
     static ArrayList<Point2D> FindPoints(ArrayList<Point2D> points, Point2D origin, double radius) {
 
@@ -108,6 +134,15 @@ class TelephoneImproved {
         return pointsInCircle;
     }
 
+    /**
+     * Takes an arraylist of points and two empty arraylists. Adds all unique
+     * triples of points to one arraylist and all unique pairs of points to the
+     * other.
+     * 
+     * @param coordList      The arraylist of points.
+     * @param tripleCombList The empty arraylist to get unique triples.
+     * @param doubleCombList The empty arraylist to get unique pairs.
+     */
     static void addCircles(ArrayList<Point2D> coordList, ArrayList<ArrayList<Point2D>> tripleCombList,
             ArrayList<ArrayList<Point2D>> doubleCombList) {
 
@@ -129,6 +164,13 @@ class TelephoneImproved {
 
     }
 
+    /**
+     * Takes an arraylist of pairs of points, returns and arraylist of circles
+     * defined by each pair.
+     * 
+     * @param circlePoints An arraylist of pairs of points.
+     * @return An arraylist of circles defined by pairs of points.
+     */
     static ArrayList<Circle> solve2PCircles(ArrayList<ArrayList<Point2D>> circlePoints) {
         ArrayList<Circle> circleList = new ArrayList<>();
         for (int i = 0; i < circlePoints.size(); i++) {
@@ -147,6 +189,13 @@ class TelephoneImproved {
         return circleList;
     }
 
+    /**
+     * Takes an arraylist of triples of points, returns and arraylist of circles
+     * defined by each triple.
+     * 
+     * @param circlePoints An arraylist of triples of points.
+     * @return An arraylist of circles, each defined by a triple of points.
+     */
     static ArrayList<Circle> solve3PCircles(ArrayList<ArrayList<Point2D>> circlePoints) {
 
         ArrayList<Circle> circleList = new ArrayList<>();
@@ -176,10 +225,20 @@ class TelephoneImproved {
         return circleList;
     }
 
+    /**
+     * Calculates and returns the L2 norm of the difference of two (2D) vectors.
+     * 
+     * @param a Vector a.
+     * @param b Vector b.
+     * @return The L2 norm of the difference of a and and b.
+     */
     static double PointNormDist(Point2D a, Point2D b) {
         return Math.sqrt(Math.pow(a.x - b.x, 2) + Math.pow(a.y - b.y, 2));
     }
 
+    /**
+     * A class to represent a 2D point.
+     */
     static class Point2D {
         double x;
         double y;
@@ -194,6 +253,9 @@ class TelephoneImproved {
         }
     }
 
+    /**
+     * A class to represent a circle, each described by their origin and radius.
+     */
     static class Circle {
         Point2D origin;
         double radius;
@@ -208,6 +270,9 @@ class TelephoneImproved {
         }
     }
 
+    /**
+     * Used to sort points by their x value.
+     */
     static class SortByX implements Comparator<Point2D> {
         public int compare(Point2D a, Point2D b) {
             if (a.x > b.x) {
