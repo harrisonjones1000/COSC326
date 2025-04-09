@@ -2,7 +2,10 @@
     6 hours = 6 * 2.4NH = 14.4NH
 
 2. How will you determine North using an analogue Nuwatch?
-    https://www.wikihow.com/Use-an-Analog-Watch-as-a-Compass
+    First, know what hemisphere you are in.
+    Next, hold your Nuwatch horizontally and such that its hour hand points to the sun.
+    Bisect the angle between the hour hand and the 10 o'clock mark.
+    If you're in the Northern Hemisphere the middle point between the two makrs South, while the point directly across from it marks North. It is the opposite for the Southern Hemisphere.
 
 3. How fast is 60 mph in km/NH?
     60 * 1.609344 km/h = 60 * 1.609344 km/hr * 2.4hr/NH = 231.745536 km/NH
@@ -18,5 +21,8 @@
     date: 16 September 2101
 
 6. Print a calendar for the year 2050. What date is Easter?
-    Friday 28 April 2050 (New Calendar)
+    javac E4.java
+    java E4
+
     10 April 2050 (Old Calendar)
+    Friday 28 April 2050 (New Calendar)
