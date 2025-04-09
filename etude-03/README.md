@@ -5,7 +5,7 @@ We used the Apache Commons Math library to solve a simple set of linear equation
 
 ### How to run:
 1. Clone the repo.  
-2. Navigate to the project level directory `/etude-03` (the directory that contains `/src` and `/lib` as direct descendents)
+2. Navigate to the project level directory `/etude-03` (the directory that contains `/src`, `/lib`, `/bin`, etc as direct descendents)
 <!-- Key: unix | windows
 ```
 python3 -m venv venv | python -m venv C:\path\to\new\virtual\environment
