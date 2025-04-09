@@ -1,4 +1,9 @@
 
+/*Compile with GUI:
+javac -cp lib/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1.jar -d bin src/*.java
+Run with:
+java -cp bin:lib/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1.jar Telephone < test-input.txt 
+*/
 import java.util.*;
 import java.math.*;
 import java.io.*;
