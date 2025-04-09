@@ -9,8 +9,8 @@ import java.util.random.*;
 import org.apache.commons.math3.linear.*;
 
 /**
- * Class for finding the maximum range of cordless phones from a list of
- * coordinates of phones such that, no matter
+ * Class for finding the maximum range of cordless phones from a text file
+ * containing coordinates of phones such that, no matter
  * a person is, no more than 11 phones are in range.
  */
 class TelephoneImproved {
