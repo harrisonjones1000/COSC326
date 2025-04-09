@@ -1,10 +1,3 @@
-
-/* Compile with: 
- * javac -cp lib/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1.jar -d bin src/TelephoneImproved.java 
-*/
-/* Run with:
- * java -cp bin:lib/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1.jar TelephoneImproved < test-input.txt 
- */
 // By Oliver Hurst, Harrison Jones, Jack Bredenbeck and Ben Darlington
 // Etude 3 - Cordless Phones
 // 2025-04-09
@@ -34,20 +27,11 @@ class TelephoneImproved {
             pointList.add(point);
         }
         Collections.sort(pointList, new SortByX());
+        // Get starting radius
         double startRad = getFirstRad(pointList);
-
-        double finalRad = getRadGreaterEleven(pointList, startRad);
-        System.out.println("Final radius: " + finalRad);
-    }
-
-    static int fastFindNextRad(ArrayList<Point2D> pointList, int fewestPoints, double currentRadius) {
-        for (int i = 0; i < pointList.size(); i++) {
-            ArrayList<Point2D> pointsInCircle = FindPoints(pointList, pointList.get(i), currentRadius);
-            if (pointsInCircle.size() < fewestPoints && pointsInCircle.size() > 11) {
-                return pointsInCircle.size();
-            }
-        }
-        return fewestPoints;
+        // Get final radius
+        double finalRad = getBestRad(pointList, startRad);
+        System.out.println("Maximum Range: " + finalRad + " meters");
     }
 
     static double getFirstRad(ArrayList<Point2D> pointList) {
@@ -70,7 +54,7 @@ class TelephoneImproved {
         return currentRadius;
     }
 
-    static double getRadGreaterEleven(ArrayList<Point2D> pointList, double currentRadius) {
+    static double getBestRad(ArrayList<Point2D> pointList, double currentRadius) {
 
         // Circle bestCircle = new Circle(new Point2D(0, 0), 1);
         for (int i = 0; i < pointList.size(); i++) {
@@ -81,7 +65,9 @@ class TelephoneImproved {
 
             // Adds points of all circles that can be defined by pointsInBox
             addCircles(pointsInCheckCircle, tripleCombList, doubleCombList);
+            // For every unique pair of points, solve the circle and add them to arraylist
             ArrayList<Circle> circleList = solve2PCircles(doubleCombList);
+            // Repeat last step but with triples of points
             circleList.addAll(solve3PCircles(tripleCombList));
 
             for (Circle circle : circleList) {
@@ -100,31 +86,6 @@ class TelephoneImproved {
         }
         // System.out.println("Best circle: " + bestCircle);
         return currentRadius;
-    }
-
-    static double getNextRad(ArrayList<Point2D> pointList, double currentRadius) {
-
-        ArrayList<Double> bestRadii = new ArrayList<>();
-        bestRadii.add(currentRadius);
-        Comparator<Circle> sortByRad = new SortByRadius();
-        for (int i = 0; i < pointList.size(); i++) {
-
-            ArrayList<Point2D> pointsInCheckCircle = FindPoints(pointList, pointList.get(i), currentRadius);
-
-            ArrayList<ArrayList<Point2D>> tripleCombList = new ArrayList<>();
-            ArrayList<ArrayList<Point2D>> doubleCombList = new ArrayList<>();
-            // Adds all circles that can be defined by pointsInBox
-            addCircles(pointsInCheckCircle, tripleCombList, doubleCombList);
-
-            ArrayList<Circle> circleList = solve2PCircles(doubleCombList);
-            circleList.addAll(solve3PCircles(tripleCombList));
-            Collections.sort(circleList, sortByRad);
-            double newRadius = getSmallestRad(circleList, pointList);
-            if (newRadius < bestRadii.get(bestRadii.size() - 1)) {
-                bestRadii.add(newRadius);
-            }
-        }
-        return bestRadii.get(bestRadii.size() - 1);
     }
 
     /**
@@ -220,24 +181,6 @@ class TelephoneImproved {
         return Math.sqrt(Math.pow(a.x - b.x, 2) + Math.pow(a.y - b.y, 2));
     }
 
-    static double getSmallestRad(ArrayList<Circle> circleList, ArrayList<Point2D> points) {
-        for (Circle circle : circleList) {
-            int pInCircle = 0;
-            for (int i = 0; i < points.size(); i++) {
-                if (PointNormDist(circle.origin, points.get(i)) <= circle.radius + 0.00001) {
-                    pInCircle++;
-                }
-            }
-            if (pInCircle >= 12) {
-                // System.out.println("New circle: " + circle);
-                return circle.radius;
-            }
-        }
-        System.out.println("ERROR, no circle contains 12 points");
-        return 0;
-
-    }
-
     static class Point2D {
         double x;
         double y;
@@ -266,18 +209,6 @@ class TelephoneImproved {
         }
     }
 
-    static class SortByRadius implements Comparator<Circle> {
-        public int compare(Circle a, Circle b) {
-            if (a.radius > b.radius) {
-                return 1;
-            } else if (a.radius < b.radius) {
-                return -1;
-            } else {
-                return 0;
-            }
-        }
-    }
-
     static class SortByX implements Comparator<Point2D> {
         public int compare(Point2D a, Point2D b) {
             if (a.x > b.x) {
@@ -287,16 +218,6 @@ class TelephoneImproved {
             } else {
                 return 0;
             }
-        }
-    }
-
-    static class ReturnTuple {
-        int fewestPoints;
-        double currentRadius;
-
-        public ReturnTuple(int fewestPoints, double currentRadius) {
-            this.fewestPoints = fewestPoints;
-            this.currentRadius = currentRadius;
         }
     }
 }
