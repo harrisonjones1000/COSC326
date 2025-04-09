@@ -11,9 +11,11 @@ pip install -r requirements.txt
 python random-points.py {n-points} > input.txt
 python etude-03.py < input.txt
 ``` -->
+Compile: 
 ```
-Compile with: 
 javac -cp lib/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1.jar -d bin src/TelephoneImproved.java
-Run with:
+```
+Run:
+```
 java -cp bin:lib/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1.jar TelephoneImproved < input_data.txt 
  ```
