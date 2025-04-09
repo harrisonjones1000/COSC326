@@ -4,7 +4,6 @@
 
 import java.util.*;
 import java.math.*;
-import java.awt.geom.Point2D;
 import java.io.*;
 import java.util.random.*;
 import org.apache.commons.math3.linear.*;
