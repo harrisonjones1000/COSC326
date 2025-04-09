@@ -8,14 +8,14 @@ for line in sys.stdin:
     coords.append(np.array(list(map(float, line.strip().split(", ")))))
 c_a = np.array(coords)
 
-circle_1 = plt.Circle((-1.59059905e1,  6.14693521), radius=2.59387165e+01, fill=False, color='blue')
-# circle_2 = plt.Circle((-15.905990501764084, 6.146935209547194), radius=25.9387164966376, fill=False, color='red')
+circle_1 = plt.Circle((-7.9783441, -7.10660146), radius=0.12988796, fill=False, color='blue')
+# circle_2 = plt.Circle((0.483, -0.698), radius=9.030, fill=False, color='red')
 
 figure, axes = plt.subplots()
 axes.set_aspect('equal')
-axes.scatter(c_a[:, 0], c_a[:, 1])
-
 axes.add_artist(circle_1)
+axes.scatter(c_a[:, 0], c_a[:, 1], s=1, c='red', marker="s")
+
 # axes.add_artist(circle_2)
 # for c in circles:
     # print(f"{c=}")
