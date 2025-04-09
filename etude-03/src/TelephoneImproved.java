@@ -48,6 +48,7 @@ class TelephoneImproved {
      */
     static double getFirstRad(ArrayList<Point2D> pointList) {
 
+        // If dataset has only 11 points, this method needs to communicate that.
         double currentRadius = 0;
         double minX = pointList.get(0).x;
         double maxX = pointList.get(pointList.size() - 1).x;
@@ -58,7 +59,7 @@ class TelephoneImproved {
             currentRadius += xDiff / pointList.size();
             if (PointNormDist(pointList.get(0), pointList.get(i)) < 2 * currentRadius) {
                 pointsInCircle.add(pointList.get(i));
-                if (pointsInCircle.size() > 12) {
+                if (pointsInCircle.size() > 11) {
                     return currentRadius;
                 }
             }
@@ -83,6 +84,13 @@ class TelephoneImproved {
 
         // Circle bestCircle = new Circle(new Point2D(0, 0), 1);
         for (int i = 0; i < pointList.size(); i++) {
+            // To improve performance, keep track of i.x, then use i.x - 2*radius to get min
+            // x, i.x + 2*radius to get max x.
+            // Then pass limits into find points, or make sublist here and pass sublist into
+            // find points.
+            // Could even store points in a treemap using floor key, ceiling key and finally
+            // submap(fromkey, tokey) to get a sorted map of points in the x range. Then you
+            // could repeat this somehow to get points in the y range.
             ArrayList<Point2D> pointsInCheckCircle = FindPoints(pointList, pointList.get(i), currentRadius);
 
             ArrayList<ArrayList<Point2D>> tripleCombList = new ArrayList<>();
@@ -96,13 +104,17 @@ class TelephoneImproved {
             circleList.addAll(solve3PCircles(tripleCombList));
 
             for (Circle circle : circleList) {
+                if (circle.radius >= currentRadius) {
+                    continue;
+                }
                 int nPoints = 0;
                 for (Point2D point : pointsInCheckCircle) {
                     if (PointNormDist(circle.origin, point) < circle.radius + 0.00001) {
                         nPoints++;
                     }
                 }
-                if (nPoints > 11 && circle.radius < currentRadius) {
+                if (nPoints > 11) { // If there are more than 11 points and the radius is smaller than the current
+                                    // best radius.
                     currentRadius = circle.radius;
                     // bestCircle = circle;
                 }
