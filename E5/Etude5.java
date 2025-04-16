@@ -30,14 +30,14 @@ public class Etude5 {
                     head = true;
                 }
             }else{
-                tokens = testScan.nextLine().strip().toLowerCase().split(",");
+                tokens = testScan.nextLine().toLowerCase().split(","); 
                 if (tokens.length != 3){
                     System.out.print("Invalid: route set");
                     testScan.close();
                     return;
                 } else {
                     try {
-                        if(g.addEdge(tokens[0].replaceAll("\\s",""), tokens[1].replaceAll("\\s+",""), Double.parseDouble(tokens[2]))) {
+                        if(g.addEdge(tokens[0].trim().replaceAll("\\s+"," "), tokens[0].trim().replaceAll("\\s+"," "), Double.parseDouble(tokens[2]))) {
                             System.out.print("Invalid: Non-unique routes");
                             testScan.close();
                             return;
@@ -133,8 +133,7 @@ public class Etude5 {
                 }
             }
             // Add new edge
-            locations.get(source).add(new Edge(source, destination
-            , value));
+            locations.get(source).add(new Edge(source, destination, value));
             locations.get(destination).add(new Edge(destination, source, value));
 
             return false;
