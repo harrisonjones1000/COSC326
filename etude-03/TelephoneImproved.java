@@ -27,7 +27,7 @@ class TelephoneImproved {
 
         ArrayList<Point2D> pointList = new ArrayList<>();
         for (String line : linesIn) {
-            String[] sPoints = line.split(", ");
+            String[] sPoints = line.split(" ");
             Point2D point = new Point2D(Double.parseDouble(sPoints[0]), Double.parseDouble(sPoints[1]));
             pointList.add(point);
         }
