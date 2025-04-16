@@ -13,19 +13,19 @@ public class Etude5 {
             System.out.print("Invalid: No input");
             System.exit(1);
         }
-        
+
         Scanner testScan = new Scanner(System.in);
 
         boolean head = false;
 
         while (testScan.hasNext()) {
-            if(!head){ //no head
+            if (!head) { // no head
                 tokens = testScan.nextLine().strip().toLowerCase().split(",");
-                if(tokens.length != 2){
+                if (tokens.length != 2) {
                     System.out.print("Invalid: route");
                     testScan.close();
                     return;
-                }else{
+                } else {
                     g = new Graph(tokens);
                     head = true;
                 }
@@ -51,7 +51,7 @@ public class Etude5 {
         }
         testScan.close();
 
-        //System.out.println(g.toString());
+        // System.out.println(g.toString());
 
         System.out.print(g.findPath());
 
@@ -81,8 +81,10 @@ public class Etude5 {
         public int compare(NodeCostPath a, NodeCostPath b) {
             if (a.cumCost < b.cumCost) {
                 return -1;
-            } else {
+            } else if (a.cumCost > b.cumCost) {
                 return 1;
+            } else {
+                return 0;
             }
         }
     }
@@ -113,8 +115,8 @@ public class Etude5 {
         private Map<String, ArrayList<Edge>> locations = new HashMap<>();
 
         Graph(String[] targets) {
-            this.source = targets[0].replaceAll("\\s","");
-            this.destination = targets[1].replaceAll("\\s","");
+            this.source = targets[0].replaceAll("\\s", "");
+            this.destination = targets[1].replaceAll("\\s", "");
             this.locations.put(targets[0].replaceAll("\\s", ""), new ArrayList<Edge>());
         }
 
@@ -151,7 +153,7 @@ public class Etude5 {
                 }
                 print += "\n";
             }
-            
+
             return print;
         }
 
