@@ -94,10 +94,10 @@ public class E9 {
         ArrayList<Head> heads = new ArrayList<Head>();
         ArrayList<Head> headsCopy = new ArrayList<Head>();
 
-        results[0]=true;
-        heads.add(new Head(results.clone()));
+        results[0]=true; //addition
+        heads.add(new Head(results.clone(), seq[0], seq[1]));
         results[0]=false;
-        heads.add(new Head(results.clone()));
+        heads.add(new Head(results.clone(), 0, seq[0]*seq[1]));
 
         int pos = 1;
 
@@ -105,13 +105,15 @@ public class E9 {
             if(pos==results.length+1){
                 return null;
             }else if(pos==results.length){
+                System.out.println(heads.size() + " " + (int)(Math.pow(2, pos)));
+                //System.out.println(heads.size()/(Math.pow(2, pos)));
                 for(Head head : heads){
-                    if(target==evaluateSolution(seq, head.order)) return head.order;
+                    if(head.value + head.currentConsec == target) return head.order;
                 }
             }else{
                 headsCopy = new ArrayList<Head>();
                 for(Head head : heads){
-                    if(evaluate(head, seq, target)) headsCopy.add(head); //if in range, add to copy
+                    if(evaluate(head, seq, target, pos)) headsCopy.add(head); //if in range, add to copy
                 }
 
                 heads = new ArrayList<Head>();
@@ -120,48 +122,47 @@ public class E9 {
                 for(Head head : headsCopy){
                     order = head.order;
 
-                    order[pos]=true;
-                    heads.add(new Head(order.clone()));
+                    order[pos]=true; //addition
+                    heads.add(new Head(order.clone(), head.value + head.currentConsec, seq[pos+1]));
                     order[pos]=false;
-                    heads.add(new Head(order.clone()));
-                    //for each head, add a multiplication and addition to heads
+                    heads.add(new Head(order.clone(), head.value, head.currentConsec*seq[pos+1]));
                 }
             }
-
             pos++;
         }
     }
 
-    public static boolean evaluate(Head head, int[] seq, long target){
-        return true;
-    }
+    public static boolean evaluate(Head head, int[] seq, long target, int pos){
+        seq = Arrays.copyOfRange(seq, pos, seq.length);
+        long[] copy = new long[seq.length];
 
-    public static long evaluateSolution(int[] sequence, boolean[] order){
-        long currentConsec = sequence[0]; 
-        long value = 0;
-
-        for(int i=1; i < sequence.length; i++){
-            if(!order[i-1]){ //multiplication
-                currentConsec *= sequence[i];
-            }else{ //addition
-                value += currentConsec;
-                currentConsec = sequence[i];
-            }
+        for(int i=0; i<seq.length; i++){
+            copy[i] = seq[i];
         }
-        value+=currentConsec;
-        return value;
+
+        copy[0] = head.currentConsec;
+
+        if(!(head.value + lower(copy) <= target && target <= head.value + upper(copy))){   
+            return false;
+        }else{
+            return true;
+        }
     }
 
     static class Head{
         boolean[] order;
+        long value;
+        long currentConsec;
     
-        Head(boolean[] order){
+        Head(boolean[] order, long value, long currentConsec){
             this.order = order;
+            this.value = value;
+            this.currentConsec= currentConsec;
         }
     }
 
-    public static int lower(int[] parts){
-        int result = 1;
+    public static long lower(long[] parts){
+        long result = 1;
         for(int i=0; i<parts.length; i++){
             if(parts[i]!=1){
                 if(result==1){
@@ -174,7 +175,7 @@ public class E9 {
         return result;
     }
 
-    public static long upper(int[] parts){ 
+    public static long upper(long[] parts){ 
         long upper=0;
         long consec=1;
 
@@ -189,23 +190,4 @@ public class E9 {
         
         return upper;
     }
-
-    public static long eval(int[] sequence, boolean[] order){
-        long currentConsec = sequence[0]; 
-        long value = 0;
-
-        for(int i=1; i< sequence.length; i++){
-            if(!order[i-1]){ //multiplication
-                currentConsec *= sequence[i];
-            }else{ //addition
-                value += currentConsec;
-                currentConsec = sequence[i];
-            }
-        }
-
-        value+=currentConsec;
-
-        return value;
-    }
 }
-
