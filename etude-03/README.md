@@ -1,8 +1,5 @@
 # COSC326 Etude 03
 
-### External Libraries:
-We used the Apache Commons Math library to solve a simple set of linear equations. While we could written the code ourselves, we decided to use the library and focus our attention on the more interesting parts of this problem.
-
 ### How to run:
 1. Clone the repo.  
 <!-- Key: unix | windows
