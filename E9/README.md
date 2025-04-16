@@ -1,5 +1,5 @@
 Code ran by the following:
-javac Arithmetic3.java
-java Arithmetic3 < testL.txt > output.txt
+javac E9.java
+java E9 < testL.txt > output.txt
 
 Test case generator in Number.java

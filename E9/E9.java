@@ -42,7 +42,8 @@ public class E9 {
         if(parts[0].equals("L")){
             results = findL(seq, target, seq.length-2, results);
         }else{
-            results = N3(seq, target);
+            //results = N3(seq, target);
+            results = N3(seq, target, null, 0);
         }
 
         if(results==null) return input + " impossible\n";
@@ -89,46 +90,75 @@ public class E9 {
         }   
     }
 
-    private static boolean[] N3(int[] seq, long target){
-        boolean[] results = new boolean[seq.length-1];
-        ArrayList<Head> heads = new ArrayList<Head>();
-        ArrayList<Head> headsCopy = new ArrayList<Head>();
+    // private static boolean[] N3(int[] seq, long target){
+    //     boolean[] results = new boolean[seq.length-1];
+    //     ArrayList<Head> heads = new ArrayList<Head>();
+    //     ArrayList<Head> headsCopy = new ArrayList<Head>();
 
-        results[0]=true; //addition
-        heads.add(new Head(results.clone(), seq[0], seq[1]));
-        results[0]=false;
-        heads.add(new Head(results.clone(), 0, seq[0]*seq[1]));
+    //     results[0]=true; //addition
+    //     heads.add(new Head(results.clone(), seq[0], seq[1]));
+    //     results[0]=false;
+    //     heads.add(new Head(results.clone(), 0, seq[0]*seq[1]));
 
-        int pos = 1;
+    //     int pos = 1;
 
-        while(true){
-            if(pos==results.length+1){
-                return null;
-            }else if(pos==results.length){
-                System.out.println(heads.size() + " " + (int)(Math.pow(2, pos)));
-                //System.out.println(heads.size()/(Math.pow(2, pos)));
-                for(Head head : heads){
-                    if(head.value + head.currentConsec == target) return head.order;
-                }
+    //     while(true){
+    //         if(pos==results.length+1){
+    //             return null;
+    //         }else if(pos==results.length){
+    //             System.out.println(heads.size() + " " + (int)(Math.pow(2, pos)));
+    //             //System.out.println(heads.size()/(Math.pow(2, pos)));
+    //             for(Head head : heads){
+    //                 if(head.value + head.currentConsec == target) return head.order;
+    //             }
+    //         }else{
+    //             headsCopy = new ArrayList<Head>();
+    //             for(Head head : heads){
+    //                 if(evaluate(head, seq, target, pos)) headsCopy.add(head); //if in range, add to copy
+    //             }
+
+    //             heads = new ArrayList<Head>();
+    //             boolean[] order;
+
+    //             for(Head head : headsCopy){
+    //                 order = head.order;
+
+    //                 order[pos]=true; //addition
+    //                 heads.add(new Head(order.clone(), head.value + head.currentConsec, seq[pos+1]));
+    //                 order[pos]=false;
+    //                 heads.add(new Head(order.clone(), head.value, head.currentConsec*seq[pos+1]));
+    //             }
+    //         }
+    //         pos++;
+    //     }
+    // }
+
+    private static boolean[] N3(int[] seq, long target, Head head, int pos){
+        if(pos == 0){
+            boolean[] results = new boolean[seq.length-1];
+
+            results[0]=true; //addition
+            results = N3(seq, target, new Head(results.clone(), seq[0], seq[1]), 1);
+            if(results != null) return results;
+
+            results = new boolean[seq.length-1];
+            results[0]=false;
+            return N3(seq, target, new Head(results.clone(), 0, seq[0]*seq[1]), 1);
+
+        }else if(pos==seq.length-1){
+            if(head.value + head.currentConsec == target) return head.order;
+            return null;
+        }else{
+            if(evaluate(head, seq, target, pos)){
+                head.order[pos] = true;
+                boolean[] temp = N3(seq, target, new Head(head.order.clone(), head.value + head.currentConsec, seq[pos+1]), pos+1);
+                if(temp!= null) return temp;
+
+                head.order[pos] = false;
+                return N3(seq, target, new Head(head.order.clone(), head.value, head.currentConsec*seq[pos+1]), pos+1);
             }else{
-                headsCopy = new ArrayList<Head>();
-                for(Head head : heads){
-                    if(evaluate(head, seq, target, pos)) headsCopy.add(head); //if in range, add to copy
-                }
-
-                heads = new ArrayList<Head>();
-                boolean[] order;
-
-                for(Head head : headsCopy){
-                    order = head.order;
-
-                    order[pos]=true; //addition
-                    heads.add(new Head(order.clone(), head.value + head.currentConsec, seq[pos+1]));
-                    order[pos]=false;
-                    heads.add(new Head(order.clone(), head.value, head.currentConsec*seq[pos+1]));
-                }
+                return null;
             }
-            pos++;
         }
     }
 
@@ -142,7 +172,11 @@ public class E9 {
 
         copy[0] = head.currentConsec;
 
+        //System.out.println(pos + " : " + Arrays.toString(head.order));
+
         if(!(head.value + lower(copy) <= target && target <= head.value + upper(copy))){   
+            if(upper(copy)<0) return true;
+            //System.out.println((head.value + lower(copy)) + " <= " + target + " <= " + (head.value + upper(copy)));
             return false;
         }else{
             return true;
