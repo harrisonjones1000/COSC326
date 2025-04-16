@@ -48,13 +48,14 @@ def print_song_results(song_name):
         note = get_note(key_number)
         notes.append(note)
 
+    print(f"Song: {song_name}")
     print("-".join(notes))
     if male_notes > female_notes:
         print("Male voice")
     else:
         print("Female voice")
-    print()
 
 print_song_results('song1.wav')
+print()
 print_song_results('song2.wav')
 
