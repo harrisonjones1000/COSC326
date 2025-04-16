@@ -17,9 +17,9 @@ python etude-03.py < input.txt
 
 3. Compile: 
 ```
-javac -cp lib/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1.jar -d bin src/TelephoneImproved.java
+javac TelephoneImproved.java
 ```
 4. Run:
 ```
-java -cp bin:lib/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1.jar TelephoneImproved < input_data.txt 
+java TelephoneImproved < input_data.txt 
  ```
