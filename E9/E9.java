@@ -1,7 +1,8 @@
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Arithmetic3 {
+public class E9 {
     public static void main(String[] args) {
         Scanner testScan = new Scanner(System.in);
         while (testScan.hasNext()){
@@ -41,7 +42,7 @@ public class Arithmetic3 {
         if(parts[0].equals("L")){
             results = findL(seq, target, seq.length-2, results);
         }else{
-            results = findN2(seq, target, 0, results, 0, 0);
+            results = N3(seq, target);
         }
 
         if(results==null) return input + " impossible\n";
@@ -88,63 +89,74 @@ public class Arithmetic3 {
         }   
     }
 
-    //N2 stuff down here
+    private static boolean[] N3(int[] seq, long target){
+        boolean[] results = new boolean[seq.length-1];
+        ArrayList<Head> heads = new ArrayList<Head>();
+        ArrayList<Head> headsCopy = new ArrayList<Head>();
 
-    public static boolean[] findN2(int[] seq, long target, int pos, boolean[] results, long value, long consec){
-        if(pos == seq.length-2){
-            results[pos]=true; //addition
-            if(eval(seq, results) == target) return results;
+        results[0]=true;
+        heads.add(new Head(results.clone()));
+        results[0]=false;
+        heads.add(new Head(results.clone()));
 
-            results[pos]=false; //multiplication
-            if(eval(seq, results) == target) return results;
-            return null;
+        int pos = 1;
 
-        }else if(pos==0){
-            if((upper(seq)<target || lower(seq)>target) && upper(seq) > 0) return null; //out of range
-                
-            boolean[] resultsCopy = results;
-
-            resultsCopy[0] = true; //addition
-            resultsCopy = findN2(seq, target, 1, resultsCopy, seq[0], 0);
-            if(resultsCopy!=null) return resultsCopy;
-
-            results[0] = false; //multiplication
-            return findN2(seq, target, 1, results, 0, seq[0]);
-
-        }else{
-            int[] seqCopy = Arrays.copyOfRange(seq, pos+1, seq.length);
-            
-            //Addition
-            boolean[] resultsCopy = results;
-            resultsCopy[pos]=true; 
-        
-            if(consec!=0){
-                value += consec*seq[pos];
+        while(true){
+            if(pos==results.length+1){
+                return null;
+            }else if(pos==results.length){
+                for(Head head : heads){
+                    if(target==evaluateSolution(seq, head.order)) return head.order;
+                }
             }else{
-                value += seq[pos];
+                headsCopy = new ArrayList<Head>();
+                for(Head head : heads){
+                    if(evaluate(head, seq, target)) headsCopy.add(head); //if in range, add to copy
+                }
+
+                heads = new ArrayList<Head>();
+                boolean[] order;
+
+                for(Head head : headsCopy){
+                    order = head.order;
+
+                    order[pos]=true;
+                    heads.add(new Head(order.clone()));
+                    order[pos]=false;
+                    heads.add(new Head(order.clone()));
+                    //for each head, add a multiplication and addition to heads
+                }
             }
 
-            if(!((upper(seqCopy) < target-value || lower(seqCopy) > target-value) && upper(seqCopy) > 0)){ //if within range
-                resultsCopy = findN2(seq, target, pos+1, resultsCopy, value, 0);
-                if(resultsCopy!=null) return resultsCopy;
+            pos++;
+        }
+    }
+
+    public static boolean evaluate(Head head, int[] seq, long target){
+        return true;
+    }
+
+    public static long evaluateSolution(int[] sequence, boolean[] order){
+        long currentConsec = sequence[0]; 
+        long value = 0;
+
+        for(int i=1; i < sequence.length; i++){
+            if(!order[i-1]){ //multiplication
+                currentConsec *= sequence[i];
+            }else{ //addition
+                value += currentConsec;
+                currentConsec = sequence[i];
             }
+        }
+        value+=currentConsec;
+        return value;
+    }
 
-            //Multiplication
-            results[pos]=false;
-
-            if(consec!=0){
-                value = value - consec*seq[pos];
-                consec *= seq[pos];
-            }else{
-                value = value - seq[pos];
-                consec = seq[pos];
-            }
-
-            seqCopy[0] *= consec;
-
-            if((upper(seqCopy) < target-value || lower(seqCopy) > target-value) && upper(seqCopy) > 0) return null;
-
-            return findN2(seq, target, pos+1, results, value, consec);
+    static class Head{
+        boolean[] order;
+    
+        Head(boolean[] order){
+            this.order = order;
         }
     }
 
