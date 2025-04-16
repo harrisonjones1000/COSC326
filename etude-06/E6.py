@@ -6,11 +6,8 @@ import numpy as np
 from scipy.io import wavfile
 from scipy.fft import rfft
 import warnings
+
 warnings.filterwarnings("ignore")
-# women are typically in the soprano to contralto range,
-# this includes notes from F#3 (key 34) to C#6 (key 64),
-# men are typically in the countertenor to bass range,
-# this includes notes from E2 (key 20) to F#5 (key 58)
 
 def get_key_number(frequency):
     return round(12*np.log2(frequency/440)+49)
