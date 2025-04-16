@@ -5,7 +5,6 @@ We used the Apache Commons Math library to solve a simple set of linear equation
 
 ### How to run:
 1. Clone the repo.  
-2. Navigate to the project level directory `/etude-03` (the directory that contains `/src`, `/lib` as direct descendents)
 <!-- Key: unix | windows
 ```
 python3 -m venv venv | python -m venv C:\path\to\new\virtual\environment
@@ -15,11 +14,11 @@ python random-points.py {n-points} > input.txt
 python etude-03.py < input.txt
 ``` -->
 
-3. Compile: 
+2. Compile: 
 ```
 javac TelephoneImproved.java
 ```
-4. Run:
+3. Run:
 ```
 java TelephoneImproved < input_data.txt 
  ```
