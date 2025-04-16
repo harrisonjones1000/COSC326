@@ -20,13 +20,13 @@ public class Etude5 {
 
         while (testScan.hasNext()) {
             if (!head) { // no head
-                tokens = testScan.nextLine().strip().toLowerCase().split(",");
+                tokens = testScan.nextLine().toLowerCase().split(",");
                 if (tokens.length != 2) {
                     System.out.print("Invalid: route");
                     testScan.close();
                     return;
                 } else {
-                    g = new Graph(tokens);
+                    g = new Graph(tokens[0].trim().replaceAll("\\s+"," "), tokens[1].trim().replaceAll("\\s+"," "));
                     head = true;
                 }
             }else{
@@ -37,7 +37,7 @@ public class Etude5 {
                     return;
                 } else {
                     try {
-                        if(g.addEdge(tokens[0].trim().replaceAll("\\s+"," "), tokens[0].trim().replaceAll("\\s+"," "), Double.parseDouble(tokens[2]))) {
+                        if(g.addEdge(tokens[0].trim().replaceAll("\\s+"," "), tokens[1].trim().replaceAll("\\s+"," "), Double.parseDouble(tokens[2]))) {
                             System.out.print("Invalid: Non-unique routes");
                             testScan.close();
                             return;
@@ -51,10 +51,9 @@ public class Etude5 {
         }
         testScan.close();
 
-        // System.out.println(g.toString());
+        //System.out.println(g.toString());
 
-        System.out.print(g.findPath());
-
+        System.out.println(g.findPath());
     }
 
     /**
@@ -114,10 +113,10 @@ public class Etude5 {
         // Map of locations (Strings), and the list of routes leaving them (Edges)
         private Map<String, ArrayList<Edge>> locations = new HashMap<>();
 
-        Graph(String[] targets) {
-            this.source = targets[0].replaceAll("\\s", "");
-            this.destination = targets[1].replaceAll("\\s", "");
-            this.locations.put(targets[0].replaceAll("\\s", ""), new ArrayList<Edge>());
+        Graph(String source, String destination) {
+            this.source = source;
+            this.destination = destination;
+            this.locations.put(source, new ArrayList<Edge>());
         }
 
         private boolean addEdge(String source, String destination, double value) {
@@ -128,7 +127,7 @@ public class Etude5 {
                 locations.put(destination, new ArrayList<Edge>());
             }
 
-            // // Check each edge
+            // Check each edge
             for (Edge edge : locations.get(source)) {
                 if (edge.destination.equals(destination)) {
                     return true;
