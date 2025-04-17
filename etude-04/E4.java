@@ -32,12 +32,34 @@ public class E4{
                 leap=false;
             }
             
-            //System.out.println(d + " " + oldMonths[m-1] + " " + y + "\t ---> \t " + dow[(totalDays+4)%10]+ " " + nd + " " + newMonths[nm-1] + " " + ny);
 
-            if(y==2050){
+            if(ny==2050){
                 //System.out.println(d + " " + oldMonths[m-1] + " " + y + "\t ---> \t " + dow[(totalDays+4)%10]+ " " + nd + " " + newMonths[nm-1] + " " + ny);
-                System.out.println(dow[(totalDays+4)%10]+ " " + nd + " " + newMonths[nm-1] + " " + ny);
+                //System.out.println(dow[(totalDays+4)%10]+ " " + nd + " " + newMonths[nm-1] + " " + ny);
                 //System.out.println(d + " " + oldMonths[m-1] + " " + y);
+
+                if (nd == 1) {  // New Month starts
+                    System.out.println("\n" + newMonths[nm-1] + " " + ny);
+                    System.out.println("-------------------------------------------");
+                    System.out.println("Mon Tue Wed Thu Fri Sat Xtr Sup Hol Sun");
+                
+                    int dayIndex = (totalDays + 4) % 10;
+                    
+                    // Print empty spaces for alignment
+                    for (int i = 0; i < dayIndex; i++) {
+                        System.out.print("    ");  // 4 spaces to match day format
+                    }
+                }
+                
+                System.out.print(String.format("%3d ", nd));
+                
+                if (dow[(totalDays + 4) % 10].equals("Sunday")) {
+                    System.out.println();  // Newline at end of week
+                }
+                
+                
+                
+
             }
             
             if(daysInMonths[m-1] > d){
@@ -52,10 +74,10 @@ public class E4{
             }
             
             if(leap){
-                if(nd < 37){
+                if(nd < 36){
                     nd++;
                 }else if(nm==10){
-                    if(nd < 38){
+                    if(nd < 37){
                         nd++;
                     }else{
                         nd=1;

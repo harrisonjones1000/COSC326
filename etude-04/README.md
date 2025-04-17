@@ -14,17 +14,19 @@
 
 4. What time, day and date in the new calendar is Noon on April 1st, 2051 (old calendar)?
     time: 5:00:00 (NH:NM:NS)
-    day: Sunday
-    date: 23 April 2051
+    day: Monday
+    date: 24 April 2051
 
 5. What time, day and date in the new calendar is 4:25pm on January 1st, 2101 (old calendar)?
-    time: 6:66:66.67 (NH:NM:NS)
+    time: 6:84:03 (NH:NM:NS)
     day: Wednesday
-    date: 29 May 2101
+    date: 4 October 2101
 
 6. Print a calendar for the year 2050. What date is Easter?
     javac E4.java
     java E4
+
+    ![Alt text](calendar.png)
 
     Easter Sunday:
 

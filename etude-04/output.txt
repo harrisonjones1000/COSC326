@@ -1,365 +1,77 @@
-Saturday 1 January 2050
-Xtraday 2 January 2050
-Superday 3 January 2050
-Holyday 4 January 2050
-Sunday 5 January 2050
-Monday 6 January 2050
-Tuesday 7 January 2050
-Wednesday 8 January 2050
-Thursday 9 January 2050
-Friday 10 January 2050
-Saturday 11 January 2050
-Xtraday 12 January 2050
-Superday 13 January 2050
-Holyday 14 January 2050
-Sunday 15 January 2050
-Monday 16 January 2050
-Tuesday 17 January 2050
-Wednesday 18 January 2050
-Thursday 19 January 2050
-Friday 20 January 2050
-Saturday 21 January 2050
-Xtraday 22 January 2050
-Superday 23 January 2050
-Holyday 24 January 2050
-Sunday 25 January 2050
-Monday 26 January 2050
-Tuesday 27 January 2050
-Wednesday 28 January 2050
-Thursday 29 January 2050
-Friday 30 January 2050
-Saturday 31 January 2050
-Xtraday 32 January 2050
-Superday 33 January 2050
-Holyday 34 January 2050
-Sunday 35 January 2050
-Monday 36 January 2050
-Tuesday 1 March 2050
-Wednesday 2 March 2050
-Thursday 3 March 2050
-Friday 4 March 2050
-Saturday 5 March 2050
-Xtraday 6 March 2050
-Superday 7 March 2050
-Holyday 8 March 2050
-Sunday 9 March 2050
-Monday 10 March 2050
-Tuesday 11 March 2050
-Wednesday 12 March 2050
-Thursday 13 March 2050
-Friday 14 March 2050
-Saturday 15 March 2050
-Xtraday 16 March 2050
-Superday 17 March 2050
-Holyday 18 March 2050
-Sunday 19 March 2050
-Monday 20 March 2050
-Tuesday 21 March 2050
-Wednesday 22 March 2050
-Thursday 23 March 2050
-Friday 24 March 2050
-Saturday 25 March 2050
-Xtraday 26 March 2050
-Superday 27 March 2050
-Holyday 28 March 2050
-Sunday 29 March 2050
-Monday 30 March 2050
-Tuesday 31 March 2050
-Wednesday 32 March 2050
-Thursday 33 March 2050
-Friday 34 March 2050
-Saturday 35 March 2050
-Xtraday 36 March 2050
-Superday 1 April 2050
-Holyday 2 April 2050
-Sunday 3 April 2050
-Monday 4 April 2050
-Tuesday 5 April 2050
-Wednesday 6 April 2050
-Thursday 7 April 2050
-Friday 8 April 2050
-Saturday 9 April 2050
-Xtraday 10 April 2050
-Superday 11 April 2050
-Holyday 12 April 2050
-Sunday 13 April 2050
-Monday 14 April 2050
-Tuesday 15 April 2050
-Wednesday 16 April 2050
-Thursday 17 April 2050
-Friday 18 April 2050
-Saturday 19 April 2050
-Xtraday 20 April 2050
-Superday 21 April 2050
-Holyday 22 April 2050
-Sunday 23 April 2050
-Monday 24 April 2050
-Tuesday 25 April 2050
-Wednesday 26 April 2050
-Thursday 27 April 2050
-Friday 28 April 2050
-Saturday 29 April 2050
-Xtraday 30 April 2050
-Superday 31 April 2050
-Holyday 32 April 2050
-Sunday 33 April 2050
-Monday 34 April 2050
-Tuesday 35 April 2050
-Wednesday 36 April 2050
-Thursday 1 May 2050
-Friday 2 May 2050
-Saturday 3 May 2050
-Xtraday 4 May 2050
-Superday 5 May 2050
-Holyday 6 May 2050
-Sunday 7 May 2050
-Monday 8 May 2050
-Tuesday 9 May 2050
-Wednesday 10 May 2050
-Thursday 11 May 2050
-Friday 12 May 2050
-Saturday 13 May 2050
-Xtraday 14 May 2050
-Superday 15 May 2050
-Holyday 16 May 2050
-Sunday 17 May 2050
-Monday 18 May 2050
-Tuesday 19 May 2050
-Wednesday 20 May 2050
-Thursday 21 May 2050
-Friday 22 May 2050
-Saturday 23 May 2050
-Xtraday 24 May 2050
-Superday 25 May 2050
-Holyday 26 May 2050
-Sunday 27 May 2050
-Monday 28 May 2050
-Tuesday 29 May 2050
-Wednesday 30 May 2050
-Thursday 31 May 2050
-Friday 32 May 2050
-Saturday 33 May 2050
-Xtraday 34 May 2050
-Superday 35 May 2050
-Holyday 36 May 2050
-Sunday 1 June 2050
-Monday 2 June 2050
-Tuesday 3 June 2050
-Wednesday 4 June 2050
-Thursday 5 June 2050
-Friday 6 June 2050
-Saturday 7 June 2050
-Xtraday 8 June 2050
-Superday 9 June 2050
-Holyday 10 June 2050
-Sunday 11 June 2050
-Monday 12 June 2050
-Tuesday 13 June 2050
-Wednesday 14 June 2050
-Thursday 15 June 2050
-Friday 16 June 2050
-Saturday 17 June 2050
-Xtraday 18 June 2050
-Superday 19 June 2050
-Holyday 20 June 2050
-Sunday 21 June 2050
-Monday 22 June 2050
-Tuesday 23 June 2050
-Wednesday 24 June 2050
-Thursday 25 June 2050
-Friday 26 June 2050
-Saturday 27 June 2050
-Xtraday 28 June 2050
-Superday 29 June 2050
-Holyday 30 June 2050
-Sunday 31 June 2050
-Monday 32 June 2050
-Tuesday 33 June 2050
-Wednesday 34 June 2050
-Thursday 35 June 2050
-Friday 36 June 2050
-Saturday 1 August 2050
-Xtraday 2 August 2050
-Superday 3 August 2050
-Holyday 4 August 2050
-Sunday 5 August 2050
-Monday 6 August 2050
-Tuesday 7 August 2050
-Wednesday 8 August 2050
-Thursday 9 August 2050
-Friday 10 August 2050
-Saturday 11 August 2050
-Xtraday 12 August 2050
-Superday 13 August 2050
-Holyday 14 August 2050
-Sunday 15 August 2050
-Monday 16 August 2050
-Tuesday 17 August 2050
-Wednesday 18 August 2050
-Thursday 19 August 2050
-Friday 20 August 2050
-Saturday 21 August 2050
-Xtraday 22 August 2050
-Superday 23 August 2050
-Holyday 24 August 2050
-Sunday 25 August 2050
-Monday 26 August 2050
-Tuesday 27 August 2050
-Wednesday 28 August 2050
-Thursday 29 August 2050
-Friday 30 August 2050
-Saturday 31 August 2050
-Xtraday 32 August 2050
-Superday 33 August 2050
-Holyday 34 August 2050
-Sunday 35 August 2050
-Monday 36 August 2050
-Tuesday 1 September 2050
-Wednesday 2 September 2050
-Thursday 3 September 2050
-Friday 4 September 2050
-Saturday 5 September 2050
-Xtraday 6 September 2050
-Superday 7 September 2050
-Holyday 8 September 2050
-Sunday 9 September 2050
-Monday 10 September 2050
-Tuesday 11 September 2050
-Wednesday 12 September 2050
-Thursday 13 September 2050
-Friday 14 September 2050
-Saturday 15 September 2050
-Xtraday 16 September 2050
-Superday 17 September 2050
-Holyday 18 September 2050
-Sunday 19 September 2050
-Monday 20 September 2050
-Tuesday 21 September 2050
-Wednesday 22 September 2050
-Thursday 23 September 2050
-Friday 24 September 2050
-Saturday 25 September 2050
-Xtraday 26 September 2050
-Superday 27 September 2050
-Holyday 28 September 2050
-Sunday 29 September 2050
-Monday 30 September 2050
-Tuesday 31 September 2050
-Wednesday 32 September 2050
-Thursday 33 September 2050
-Friday 34 September 2050
-Saturday 35 September 2050
-Xtraday 36 September 2050
-Superday 1 October 2050
-Holyday 2 October 2050
-Sunday 3 October 2050
-Monday 4 October 2050
-Tuesday 5 October 2050
-Wednesday 6 October 2050
-Thursday 7 October 2050
-Friday 8 October 2050
-Saturday 9 October 2050
-Xtraday 10 October 2050
-Superday 11 October 2050
-Holyday 12 October 2050
-Sunday 13 October 2050
-Monday 14 October 2050
-Tuesday 15 October 2050
-Wednesday 16 October 2050
-Thursday 17 October 2050
-Friday 18 October 2050
-Saturday 19 October 2050
-Xtraday 20 October 2050
-Superday 21 October 2050
-Holyday 22 October 2050
-Sunday 23 October 2050
-Monday 24 October 2050
-Tuesday 25 October 2050
-Wednesday 26 October 2050
-Thursday 27 October 2050
-Friday 28 October 2050
-Saturday 29 October 2050
-Xtraday 30 October 2050
-Superday 31 October 2050
-Holyday 32 October 2050
-Sunday 33 October 2050
-Monday 34 October 2050
-Tuesday 35 October 2050
-Wednesday 36 October 2050
-Thursday 1 November 2050
-Friday 2 November 2050
-Saturday 3 November 2050
-Xtraday 4 November 2050
-Superday 5 November 2050
-Holyday 6 November 2050
-Sunday 7 November 2050
-Monday 8 November 2050
-Tuesday 9 November 2050
-Wednesday 10 November 2050
-Thursday 11 November 2050
-Friday 12 November 2050
-Saturday 13 November 2050
-Xtraday 14 November 2050
-Superday 15 November 2050
-Holyday 16 November 2050
-Sunday 17 November 2050
-Monday 18 November 2050
-Tuesday 19 November 2050
-Wednesday 20 November 2050
-Thursday 21 November 2050
-Friday 22 November 2050
-Saturday 23 November 2050
-Xtraday 24 November 2050
-Superday 25 November 2050
-Holyday 26 November 2050
-Sunday 27 November 2050
-Monday 28 November 2050
-Tuesday 29 November 2050
-Wednesday 30 November 2050
-Thursday 31 November 2050
-Friday 32 November 2050
-Saturday 33 November 2050
-Xtraday 34 November 2050
-Superday 35 November 2050
-Holyday 36 November 2050
-Sunday 1 December 2050
-Monday 2 December 2050
-Tuesday 3 December 2050
-Wednesday 4 December 2050
-Thursday 5 December 2050
-Friday 6 December 2050
-Saturday 7 December 2050
-Xtraday 8 December 2050
-Superday 9 December 2050
-Holyday 10 December 2050
-Sunday 11 December 2050
-Monday 12 December 2050
-Tuesday 13 December 2050
-Wednesday 14 December 2050
-Thursday 15 December 2050
-Friday 16 December 2050
-Saturday 17 December 2050
-Xtraday 18 December 2050
-Superday 19 December 2050
-Holyday 20 December 2050
-Sunday 21 December 2050
-Monday 22 December 2050
-Tuesday 23 December 2050
-Wednesday 24 December 2050
-Thursday 25 December 2050
-Friday 26 December 2050
-Saturday 27 December 2050
-Xtraday 28 December 2050
-Superday 29 December 2050
-Holyday 30 December 2050
-Sunday 31 December 2050
-Monday 32 December 2050
-Tuesday 33 December 2050
-Wednesday 34 December 2050
-Thursday 35 December 2050
-Friday 36 December 2050
-Saturday 1 January 2051
-Xtraday 2 January 2051
-Superday 3 January 2051
-Holyday 4 January 2051
-Sunday 5 January 2051
+
+January 2050
+-------------------------------------------
+Mon Tue Wed Thu Fri Sat Xtr Sup Hol Sun
+                      1   2   3   4   5 
+  6   7   8   9  10  11  12  13  14  15 
+ 16  17  18  19  20  21  22  23  24  25 
+ 26  27  28  29  30  31  32  33  34  35 
+ 36 
+March 2050
+-------------------------------------------
+Mon Tue Wed Thu Fri Sat Xtr Sup Hol Sun
+      1   2   3   4   5   6   7   8   9 
+ 10  11  12  13  14  15  16  17  18  19 
+ 20  21  22  23  24  25  26  27  28  29 
+ 30  31  32  33  34  35  36 
+April 2050
+-------------------------------------------
+Mon Tue Wed Thu Fri Sat Xtr Sup Hol Sun
+                              1   2   3 
+  4   5   6   7   8   9  10  11  12  13 
+ 14  15  16  17  18  19  20  21  22  23 
+ 24  25  26  27  28  29  30  31  32  33 
+ 34  35  36 
+May 2050
+-------------------------------------------
+Mon Tue Wed Thu Fri Sat Xtr Sup Hol Sun
+              1   2   3   4   5   6   7 
+  8   9  10  11  12  13  14  15  16  17 
+ 18  19  20  21  22  23  24  25  26  27 
+ 28  29  30  31  32  33  34  35  36 
+June 2050
+-------------------------------------------
+Mon Tue Wed Thu Fri Sat Xtr Sup Hol Sun
+                                      1 
+  2   3   4   5   6   7   8   9  10  11 
+ 12  13  14  15  16  17  18  19  20  21 
+ 22  23  24  25  26  27  28  29  30  31 
+ 32  33  34  35  36 
+August 2050
+-------------------------------------------
+Mon Tue Wed Thu Fri Sat Xtr Sup Hol Sun
+                      1   2   3   4   5 
+  6   7   8   9  10  11  12  13  14  15 
+ 16  17  18  19  20  21  22  23  24  25 
+ 26  27  28  29  30  31  32  33  34  35 
+ 36 
+September 2050
+-------------------------------------------
+Mon Tue Wed Thu Fri Sat Xtr Sup Hol Sun
+      1   2   3   4   5   6   7   8   9 
+ 10  11  12  13  14  15  16  17  18  19 
+ 20  21  22  23  24  25  26  27  28  29 
+ 30  31  32  33  34  35  36 
+October 2050
+-------------------------------------------
+Mon Tue Wed Thu Fri Sat Xtr Sup Hol Sun
+                              1   2   3 
+  4   5   6   7   8   9  10  11  12  13 
+ 14  15  16  17  18  19  20  21  22  23 
+ 24  25  26  27  28  29  30  31  32  33 
+ 34  35  36 
+November 2050
+-------------------------------------------
+Mon Tue Wed Thu Fri Sat Xtr Sup Hol Sun
+              1   2   3   4   5   6   7 
+  8   9  10  11  12  13  14  15  16  17 
+ 18  19  20  21  22  23  24  25  26  27 
+ 28  29  30  31  32  33  34  35  36 
+December 2050
+-------------------------------------------
+Mon Tue Wed Thu Fri Sat Xtr Sup Hol Sun
+                                      1 
+  2   3   4   5   6   7   8   9  10  11 
+ 12  13  14  15  16  17  18  19  20  21 
+ 22  23  24  25  26  27  28  29  30  31 
+ 32  33  34  35  36 
