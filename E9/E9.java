@@ -174,13 +174,13 @@ public class E9 {
 
         //System.out.println(pos + " : " + Arrays.toString(head.order));
 
-        if(!(head.value + lower(copy) <= target && target <= head.value + upper(copy))){   
-            if(upper(copy)<0) return true;
-            //System.out.println((head.value + lower(copy)) + " <= " + target + " <= " + (head.value + upper(copy)));
+        if(head.value + lower(copy) > target) return false; //sequence is too large
+
+        if(head.value + upper(copy) < target){
+            if(upper(copy)<=0) return true;
             return false;
-        }else{
-            return true;
         }
+        return true;
     }
 
     static class Head{
@@ -219,6 +219,8 @@ public class E9 {
             }else{
                 consec *= parts[i];
             }
+
+            if(consec<=0) return -1;
         }
         upper += consec;
         
