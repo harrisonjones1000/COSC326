@@ -1,6 +1,5 @@
 import java.io.PrintStream;
 import java.nio.charset.StandardCharsets;
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
@@ -20,12 +19,12 @@ public class E72 {
         String tense = "";
         String verb = "";
 
-        boolean start, end;
+        boolean start;
 
         String object = "";
 
         Map<String, String> one = new HashMap<>();
-        one.put("I", "ahau");
+        one.put("I", "au");
         one.put("You", "koe");
         one.put("He", "ia");
         one.put("She", "ia");
@@ -90,7 +89,6 @@ public class E72 {
 
         while(testScan.hasNext()){
             start=false;
-            end=false;
 
             sentence = testScan.nextLine().split(" ");
 
@@ -99,7 +97,7 @@ public class E72 {
             try{
                 num = Integer.parseInt(sentence[1].substring(1));
                 if(num<=1){
-                    System.out.println("INVALID1");
+                    System.out.println("INVALID");
                     continue;
                 }else if(num==2){//Two people
                     subject = two.get(sentence[0] + " " + sentence[1] + " " + sentence[2]);
@@ -117,12 +115,12 @@ public class E72 {
                     pos=1;
                 }
             }catch(IndexOutOfBoundsException e){
-                System.out.println("INVALID2");
+                System.out.println("INVALID");
                 continue;
             }
 
             if(subject==null){
-                System.out.println("INVALID3");
+                System.out.println("INVALID");
                 continue;
             }
 
@@ -141,7 +139,7 @@ public class E72 {
                         verb = present.get(sentence[pos+1]);
                         pos+=2;
                     }else{
-                        System.out.println("INVALID4");
+                        System.out.println("INVALID");
                         continue;
                     }
                 }else if(sentence[pos].equals("are")){
@@ -149,21 +147,21 @@ public class E72 {
                     verb = present.get(sentence[pos+1]);
                     pos+=2;
                 }else{
-                    System.out.println("INVALID5");
+                    System.out.println("INVALID");
                     continue;
                 }
             }catch(IndexOutOfBoundsException e){
-                System.out.println("INVALID6");
+                System.out.println("INVALID");
                 continue;
             }
    
             try{
                 object = sentence[pos];
                 if((object.equals("me") | object.equals("us")) & start){
-                    System.out.println("INVALID7"); //subject and object shouldnt be the same
+                    System.out.println("INVALID"); //subject and object shouldnt be the same
                     continue;
                 }else if(verb.equals("haere ") | verb.equals("pānui ") | verb.equals("ako ")){
-                    System.out.println("INVALID8"); //objects for these verbs don't make sense
+                    System.out.println("INVALID"); //objects for these verbs don't make sense
                     continue;
                 }
             }catch(IndexOutOfBoundsException e){
@@ -173,7 +171,7 @@ public class E72 {
             
             if(!object.isEmpty()){
                 if(!Character.isLowerCase(object.charAt(0))){
-                    System.out.println("INVALID9"); //allows us to keep using same HashMaps
+                    System.out.println("INVALID"); //allows us to keep using same HashMaps
                     continue; 
                 }
             }
@@ -184,7 +182,7 @@ public class E72 {
                 }else if(sentence.length-pos == 3){
                     num = Integer.parseInt(sentence[pos+1].substring(1));
                     if(num<=1){
-                        System.out.println("INVALID11");
+                        System.out.println("INVALID");
                         continue;
                     }else if(num==2){//Two people
                         object = two.get(object + " " + sentence[pos+1] + " " + sentence[pos+2]);
@@ -198,7 +196,7 @@ public class E72 {
                     object = "kōrua";
                 }
             }catch(NumberFormatException e){
-                System.out.println("INVALID12");
+                System.out.println("INVALID");
                 continue; 
             }
 
