@@ -1,1 +1,2880 @@
-We (2 incl) asked
+I went 
+I made 
+I wanted 
+I saw 
+I called 
+I asked 
+I read 
+I learnt 
+I go 
+I make 
+I see 
+I want 
+I call 
+I ask 
+I read 
+I learn 
+I will go 
+I will make 
+I will see 
+I will want 
+I will call 
+I will ask 
+I will read 
+I will learn 
+I went me
+I made me
+I wanted me
+I saw me
+I called me
+I asked me
+I read me
+I learnt me
+I go me
+I make me
+I see me
+I want me
+I call me
+I ask me
+I read me
+I learn me
+I will go me
+I will make me
+I will see me
+I will want me
+I will call me
+I will ask me
+I will read me
+I will learn me
+I went you
+I made you
+I wanted you
+I saw you
+I called you
+I asked you
+I read you
+I learnt you
+I go you
+I make you
+I see you
+I want you
+I call you
+I ask you
+I read you
+I learn you
+I will go you
+I will make you
+I will see you
+I will want you
+I will call you
+I will ask you
+I will read you
+I will learn you
+I went him
+I made him
+I wanted him
+I saw him
+I called him
+I asked him
+I read him
+I learnt him
+I go him
+I make him
+I see him
+I want him
+I call him
+I ask him
+I read him
+I learn him
+I will go him
+I will make him
+I will see him
+I will want him
+I will call him
+I will ask him
+I will read him
+I will learn him
+I went her
+I made her
+I wanted her
+I saw her
+I called her
+I asked her
+I read her
+I learnt her
+I go her
+I make her
+I see her
+I want her
+I call her
+I ask her
+I read her
+I learn her
+I will go her
+I will make her
+I will see her
+I will want her
+I will call her
+I will ask her
+I will read her
+I will learn her
+I went you two
+I made you two
+I wanted you two
+I saw you two
+I called you two
+I asked you two
+I read you two
+I learnt you two
+I go you two
+I make you two
+I see you two
+I want you two
+I call you two
+I ask you two
+I read you two
+I learn you two
+I will go you two
+I will make you two
+I will see you two
+I will want you two
+I will call you two
+I will ask you two
+I will read you two
+I will learn you two
+I went them
+I made them
+I wanted them
+I saw them
+I called them
+I asked them
+I read them
+I learnt them
+I go them
+I make them
+I see them
+I want them
+I call them
+I ask them
+I read them
+I learn them
+I will go them
+I will make them
+I will see them
+I will want them
+I will call them
+I will ask them
+I will read them
+I will learn them
+I went us
+I made us
+I wanted us
+I saw us
+I called us
+I asked us
+I read us
+I learnt us
+I go us
+I make us
+I see us
+I want us
+I call us
+I ask us
+I read us
+I learn us
+I will go us
+I will make us
+I will see us
+I will want us
+I will call us
+I will ask us
+I will read us
+I will learn us
+I went you
+I made you
+I wanted you
+I saw you
+I called you
+I asked you
+I read you
+I learnt you
+I go you
+I make you
+I see you
+I want you
+I call you
+I ask you
+I read you
+I learn you
+I will go you
+I will make you
+I will see you
+I will want you
+I will call you
+I will ask you
+I will read you
+I will learn you
+I went them
+I made them
+I wanted them
+I saw them
+I called them
+I asked them
+I read them
+I learnt them
+I go them
+I make them
+I see them
+I want them
+I call them
+I ask them
+I read them
+I learn them
+I will go them
+I will make them
+I will see them
+I will want them
+I will call them
+I will ask them
+I will read them
+I will learn them
+You went 
+You made 
+You wanted 
+You saw 
+You called 
+You asked 
+You read 
+You learnt 
+You go 
+You make 
+You see 
+You want 
+You call 
+You ask 
+You read 
+You learn 
+You will go 
+You will make 
+You will see 
+You will want 
+You will call 
+You will ask 
+You will read 
+You will learn 
+You went me
+You made me
+You wanted me
+You saw me
+You called me
+You asked me
+You read me
+You learnt me
+You go me
+You make me
+You see me
+You want me
+You call me
+You ask me
+You read me
+You learn me
+You will go me
+You will make me
+You will see me
+You will want me
+You will call me
+You will ask me
+You will read me
+You will learn me
+You went you
+You made you
+You wanted you
+You saw you
+You called you
+You asked you
+You read you
+You learnt you
+You go you
+You make you
+You see you
+You want you
+You call you
+You ask you
+You read you
+You learn you
+You will go you
+You will make you
+You will see you
+You will want you
+You will call you
+You will ask you
+You will read you
+You will learn you
+You went him
+You made him
+You wanted him
+You saw him
+You called him
+You asked him
+You read him
+You learnt him
+You go him
+You make him
+You see him
+You want him
+You call him
+You ask him
+You read him
+You learn him
+You will go him
+You will make him
+You will see him
+You will want him
+You will call him
+You will ask him
+You will read him
+You will learn him
+You went her
+You made her
+You wanted her
+You saw her
+You called her
+You asked her
+You read her
+You learnt her
+You go her
+You make her
+You see her
+You want her
+You call her
+You ask her
+You read her
+You learn her
+You will go her
+You will make her
+You will see her
+You will want her
+You will call her
+You will ask her
+You will read her
+You will learn her
+You went you two
+You made you two
+You wanted you two
+You saw you two
+You called you two
+You asked you two
+You read you two
+You learnt you two
+You go you two
+You make you two
+You see you two
+You want you two
+You call you two
+You ask you two
+You read you two
+You learn you two
+You will go you two
+You will make you two
+You will see you two
+You will want you two
+You will call you two
+You will ask you two
+You will read you two
+You will learn you two
+You went them
+You made them
+You wanted them
+You saw them
+You called them
+You asked them
+You read them
+You learnt them
+You go them
+You make them
+You see them
+You want them
+You call them
+You ask them
+You read them
+You learn them
+You will go them
+You will make them
+You will see them
+You will want them
+You will call them
+You will ask them
+You will read them
+You will learn them
+You went us
+You made us
+You wanted us
+You saw us
+You called us
+You asked us
+You read us
+You learnt us
+You go us
+You make us
+You see us
+You want us
+You call us
+You ask us
+You read us
+You learn us
+You will go us
+You will make us
+You will see us
+You will want us
+You will call us
+You will ask us
+You will read us
+You will learn us
+You went you
+You made you
+You wanted you
+You saw you
+You called you
+You asked you
+You read you
+You learnt you
+You go you
+You make you
+You see you
+You want you
+You call you
+You ask you
+You read you
+You learn you
+You will go you
+You will make you
+You will see you
+You will want you
+You will call you
+You will ask you
+You will read you
+You will learn you
+You went them
+You made them
+You wanted them
+You saw them
+You called them
+You asked them
+You read them
+You learnt them
+You go them
+You make them
+You see them
+You want them
+You call them
+You ask them
+You read them
+You learn them
+You will go them
+You will make them
+You will see them
+You will want them
+You will call them
+You will ask them
+You will read them
+You will learn them
+He went 
+He made 
+He wanted 
+He saw 
+He called 
+He asked 
+He read 
+He learnt 
+He go 
+He make 
+He see 
+He want 
+He call 
+He ask 
+He read 
+He learn 
+He will go 
+He will make 
+He will see 
+He will want 
+He will call 
+He will ask 
+He will read 
+He will learn 
+He went me
+He made me
+He wanted me
+He saw me
+He called me
+He asked me
+He read me
+He learnt me
+He go me
+He make me
+He see me
+He want me
+He call me
+He ask me
+He read me
+He learn me
+He will go me
+He will make me
+He will see me
+He will want me
+He will call me
+He will ask me
+He will read me
+He will learn me
+He went you
+He made you
+He wanted you
+He saw you
+He called you
+He asked you
+He read you
+He learnt you
+He go you
+He make you
+He see you
+He want you
+He call you
+He ask you
+He read you
+He learn you
+He will go you
+He will make you
+He will see you
+He will want you
+He will call you
+He will ask you
+He will read you
+He will learn you
+He went him
+He made him
+He wanted him
+He saw him
+He called him
+He asked him
+He read him
+He learnt him
+He go him
+He make him
+He see him
+He want him
+He call him
+He ask him
+He read him
+He learn him
+He will go him
+He will make him
+He will see him
+He will want him
+He will call him
+He will ask him
+He will read him
+He will learn him
+He went her
+He made her
+He wanted her
+He saw her
+He called her
+He asked her
+He read her
+He learnt her
+He go her
+He make her
+He see her
+He want her
+He call her
+He ask her
+He read her
+He learn her
+He will go her
+He will make her
+He will see her
+He will want her
+He will call her
+He will ask her
+He will read her
+He will learn her
+He went you two
+He made you two
+He wanted you two
+He saw you two
+He called you two
+He asked you two
+He read you two
+He learnt you two
+He go you two
+He make you two
+He see you two
+He want you two
+He call you two
+He ask you two
+He read you two
+He learn you two
+He will go you two
+He will make you two
+He will see you two
+He will want you two
+He will call you two
+He will ask you two
+He will read you two
+He will learn you two
+He went them
+He made them
+He wanted them
+He saw them
+He called them
+He asked them
+He read them
+He learnt them
+He go them
+He make them
+He see them
+He want them
+He call them
+He ask them
+He read them
+He learn them
+He will go them
+He will make them
+He will see them
+He will want them
+He will call them
+He will ask them
+He will read them
+He will learn them
+He went us
+He made us
+He wanted us
+He saw us
+He called us
+He asked us
+He read us
+He learnt us
+He go us
+He make us
+He see us
+He want us
+He call us
+He ask us
+He read us
+He learn us
+He will go us
+He will make us
+He will see us
+He will want us
+He will call us
+He will ask us
+He will read us
+He will learn us
+He went you
+He made you
+He wanted you
+He saw you
+He called you
+He asked you
+He read you
+He learnt you
+He go you
+He make you
+He see you
+He want you
+He call you
+He ask you
+He read you
+He learn you
+He will go you
+He will make you
+He will see you
+He will want you
+He will call you
+He will ask you
+He will read you
+He will learn you
+He went them
+He made them
+He wanted them
+He saw them
+He called them
+He asked them
+He read them
+He learnt them
+He go them
+He make them
+He see them
+He want them
+He call them
+He ask them
+He read them
+He learn them
+He will go them
+He will make them
+He will see them
+He will want them
+He will call them
+He will ask them
+He will read them
+He will learn them
+She went 
+She made 
+She wanted 
+She saw 
+She called 
+She asked 
+She read 
+She learnt 
+She go 
+She make 
+She see 
+She want 
+She call 
+She ask 
+She read 
+She learn 
+She will go 
+She will make 
+She will see 
+She will want 
+She will call 
+She will ask 
+She will read 
+She will learn 
+She went me
+She made me
+She wanted me
+She saw me
+She called me
+She asked me
+She read me
+She learnt me
+She go me
+She make me
+She see me
+She want me
+She call me
+She ask me
+She read me
+She learn me
+She will go me
+She will make me
+She will see me
+She will want me
+She will call me
+She will ask me
+She will read me
+She will learn me
+She went you
+She made you
+She wanted you
+She saw you
+She called you
+She asked you
+She read you
+She learnt you
+She go you
+She make you
+She see you
+She want you
+She call you
+She ask you
+She read you
+She learn you
+She will go you
+She will make you
+She will see you
+She will want you
+She will call you
+She will ask you
+She will read you
+She will learn you
+She went him
+She made him
+She wanted him
+She saw him
+She called him
+She asked him
+She read him
+She learnt him
+She go him
+She make him
+She see him
+She want him
+She call him
+She ask him
+She read him
+She learn him
+She will go him
+She will make him
+She will see him
+She will want him
+She will call him
+She will ask him
+She will read him
+She will learn him
+She went her
+She made her
+She wanted her
+She saw her
+She called her
+She asked her
+She read her
+She learnt her
+She go her
+She make her
+She see her
+She want her
+She call her
+She ask her
+She read her
+She learn her
+She will go her
+She will make her
+She will see her
+She will want her
+She will call her
+She will ask her
+She will read her
+She will learn her
+She went you two
+She made you two
+She wanted you two
+She saw you two
+She called you two
+She asked you two
+She read you two
+She learnt you two
+She go you two
+She make you two
+She see you two
+She want you two
+She call you two
+She ask you two
+She read you two
+She learn you two
+She will go you two
+She will make you two
+She will see you two
+She will want you two
+She will call you two
+She will ask you two
+She will read you two
+She will learn you two
+She went them
+She made them
+She wanted them
+She saw them
+She called them
+She asked them
+She read them
+She learnt them
+She go them
+She make them
+She see them
+She want them
+She call them
+She ask them
+She read them
+She learn them
+She will go them
+She will make them
+She will see them
+She will want them
+She will call them
+She will ask them
+She will read them
+She will learn them
+She went us
+She made us
+She wanted us
+She saw us
+She called us
+She asked us
+She read us
+She learnt us
+She go us
+She make us
+She see us
+She want us
+She call us
+She ask us
+She read us
+She learn us
+She will go us
+She will make us
+She will see us
+She will want us
+She will call us
+She will ask us
+She will read us
+She will learn us
+She went you
+She made you
+She wanted you
+She saw you
+She called you
+She asked you
+She read you
+She learnt you
+She go you
+She make you
+She see you
+She want you
+She call you
+She ask you
+She read you
+She learn you
+She will go you
+She will make you
+She will see you
+She will want you
+She will call you
+She will ask you
+She will read you
+She will learn you
+She went them
+She made them
+She wanted them
+She saw them
+She called them
+She asked them
+She read them
+She learnt them
+She go them
+She make them
+She see them
+She want them
+She call them
+She ask them
+She read them
+She learn them
+She will go them
+She will make them
+She will see them
+She will want them
+She will call them
+She will ask them
+She will read them
+She will learn them
+We (3 incl) went 
+We (3 incl) made 
+We (3 incl) wanted 
+We (3 incl) saw 
+We (3 incl) called 
+We (3 incl) asked 
+We (3 incl) read 
+We (3 incl) learnt 
+We (3 incl) go 
+We (3 incl) make 
+We (3 incl) see 
+We (3 incl) want 
+We (3 incl) call 
+We (3 incl) ask 
+We (3 incl) read 
+We (3 incl) learn 
+We (3 incl) will go 
+We (3 incl) will make 
+We (3 incl) will see 
+We (3 incl) will want 
+We (3 incl) will call 
+We (3 incl) will ask 
+We (3 incl) will read 
+We (3 incl) will learn 
+We (3 incl) went me
+We (3 incl) made me
+We (3 incl) wanted me
+We (3 incl) saw me
+We (3 incl) called me
+We (3 incl) asked me
+We (3 incl) read me
+We (3 incl) learnt me
+We (3 incl) go me
+We (3 incl) make me
+We (3 incl) see me
+We (3 incl) want me
+We (3 incl) call me
+We (3 incl) ask me
+We (3 incl) read me
+We (3 incl) learn me
+We (3 incl) will go me
+We (3 incl) will make me
+We (3 incl) will see me
+We (3 incl) will want me
+We (3 incl) will call me
+We (3 incl) will ask me
+We (3 incl) will read me
+We (3 incl) will learn me
+We (3 incl) went you
+We (3 incl) made you
+We (3 incl) wanted you
+We (3 incl) saw you
+We (3 incl) called you
+We (3 incl) asked you
+We (3 incl) read you
+We (3 incl) learnt you
+We (3 incl) go you
+We (3 incl) make you
+We (3 incl) see you
+We (3 incl) want you
+We (3 incl) call you
+We (3 incl) ask you
+We (3 incl) read you
+We (3 incl) learn you
+We (3 incl) will go you
+We (3 incl) will make you
+We (3 incl) will see you
+We (3 incl) will want you
+We (3 incl) will call you
+We (3 incl) will ask you
+We (3 incl) will read you
+We (3 incl) will learn you
+We (3 incl) went him
+We (3 incl) made him
+We (3 incl) wanted him
+We (3 incl) saw him
+We (3 incl) called him
+We (3 incl) asked him
+We (3 incl) read him
+We (3 incl) learnt him
+We (3 incl) go him
+We (3 incl) make him
+We (3 incl) see him
+We (3 incl) want him
+We (3 incl) call him
+We (3 incl) ask him
+We (3 incl) read him
+We (3 incl) learn him
+We (3 incl) will go him
+We (3 incl) will make him
+We (3 incl) will see him
+We (3 incl) will want him
+We (3 incl) will call him
+We (3 incl) will ask him
+We (3 incl) will read him
+We (3 incl) will learn him
+We (3 incl) went her
+We (3 incl) made her
+We (3 incl) wanted her
+We (3 incl) saw her
+We (3 incl) called her
+We (3 incl) asked her
+We (3 incl) read her
+We (3 incl) learnt her
+We (3 incl) go her
+We (3 incl) make her
+We (3 incl) see her
+We (3 incl) want her
+We (3 incl) call her
+We (3 incl) ask her
+We (3 incl) read her
+We (3 incl) learn her
+We (3 incl) will go her
+We (3 incl) will make her
+We (3 incl) will see her
+We (3 incl) will want her
+We (3 incl) will call her
+We (3 incl) will ask her
+We (3 incl) will read her
+We (3 incl) will learn her
+We (3 incl) went you two
+We (3 incl) made you two
+We (3 incl) wanted you two
+We (3 incl) saw you two
+We (3 incl) called you two
+We (3 incl) asked you two
+We (3 incl) read you two
+We (3 incl) learnt you two
+We (3 incl) go you two
+We (3 incl) make you two
+We (3 incl) see you two
+We (3 incl) want you two
+We (3 incl) call you two
+We (3 incl) ask you two
+We (3 incl) read you two
+We (3 incl) learn you two
+We (3 incl) will go you two
+We (3 incl) will make you two
+We (3 incl) will see you two
+We (3 incl) will want you two
+We (3 incl) will call you two
+We (3 incl) will ask you two
+We (3 incl) will read you two
+We (3 incl) will learn you two
+We (3 incl) went them
+We (3 incl) made them
+We (3 incl) wanted them
+We (3 incl) saw them
+We (3 incl) called them
+We (3 incl) asked them
+We (3 incl) read them
+We (3 incl) learnt them
+We (3 incl) go them
+We (3 incl) make them
+We (3 incl) see them
+We (3 incl) want them
+We (3 incl) call them
+We (3 incl) ask them
+We (3 incl) read them
+We (3 incl) learn them
+We (3 incl) will go them
+We (3 incl) will make them
+We (3 incl) will see them
+We (3 incl) will want them
+We (3 incl) will call them
+We (3 incl) will ask them
+We (3 incl) will read them
+We (3 incl) will learn them
+We (3 incl) went us
+We (3 incl) made us
+We (3 incl) wanted us
+We (3 incl) saw us
+We (3 incl) called us
+We (3 incl) asked us
+We (3 incl) read us
+We (3 incl) learnt us
+We (3 incl) go us
+We (3 incl) make us
+We (3 incl) see us
+We (3 incl) want us
+We (3 incl) call us
+We (3 incl) ask us
+We (3 incl) read us
+We (3 incl) learn us
+We (3 incl) will go us
+We (3 incl) will make us
+We (3 incl) will see us
+We (3 incl) will want us
+We (3 incl) will call us
+We (3 incl) will ask us
+We (3 incl) will read us
+We (3 incl) will learn us
+We (3 incl) went you
+We (3 incl) made you
+We (3 incl) wanted you
+We (3 incl) saw you
+We (3 incl) called you
+We (3 incl) asked you
+We (3 incl) read you
+We (3 incl) learnt you
+We (3 incl) go you
+We (3 incl) make you
+We (3 incl) see you
+We (3 incl) want you
+We (3 incl) call you
+We (3 incl) ask you
+We (3 incl) read you
+We (3 incl) learn you
+We (3 incl) will go you
+We (3 incl) will make you
+We (3 incl) will see you
+We (3 incl) will want you
+We (3 incl) will call you
+We (3 incl) will ask you
+We (3 incl) will read you
+We (3 incl) will learn you
+We (3 incl) went them
+We (3 incl) made them
+We (3 incl) wanted them
+We (3 incl) saw them
+We (3 incl) called them
+We (3 incl) asked them
+We (3 incl) read them
+We (3 incl) learnt them
+We (3 incl) go them
+We (3 incl) make them
+We (3 incl) see them
+We (3 incl) want them
+We (3 incl) call them
+We (3 incl) ask them
+We (3 incl) read them
+We (3 incl) learn them
+We (3 incl) will go them
+We (3 incl) will make them
+We (3 incl) will see them
+We (3 incl) will want them
+We (3 incl) will call them
+We (3 incl) will ask them
+We (3 incl) will read them
+We (3 incl) will learn them
+We (3 excl) went 
+We (3 excl) made 
+We (3 excl) wanted 
+We (3 excl) saw 
+We (3 excl) called 
+We (3 excl) asked 
+We (3 excl) read 
+We (3 excl) learnt 
+We (3 excl) go 
+We (3 excl) make 
+We (3 excl) see 
+We (3 excl) want 
+We (3 excl) call 
+We (3 excl) ask 
+We (3 excl) read 
+We (3 excl) learn 
+We (3 excl) will go 
+We (3 excl) will make 
+We (3 excl) will see 
+We (3 excl) will want 
+We (3 excl) will call 
+We (3 excl) will ask 
+We (3 excl) will read 
+We (3 excl) will learn 
+We (3 excl) went me
+We (3 excl) made me
+We (3 excl) wanted me
+We (3 excl) saw me
+We (3 excl) called me
+We (3 excl) asked me
+We (3 excl) read me
+We (3 excl) learnt me
+We (3 excl) go me
+We (3 excl) make me
+We (3 excl) see me
+We (3 excl) want me
+We (3 excl) call me
+We (3 excl) ask me
+We (3 excl) read me
+We (3 excl) learn me
+We (3 excl) will go me
+We (3 excl) will make me
+We (3 excl) will see me
+We (3 excl) will want me
+We (3 excl) will call me
+We (3 excl) will ask me
+We (3 excl) will read me
+We (3 excl) will learn me
+We (3 excl) went you
+We (3 excl) made you
+We (3 excl) wanted you
+We (3 excl) saw you
+We (3 excl) called you
+We (3 excl) asked you
+We (3 excl) read you
+We (3 excl) learnt you
+We (3 excl) go you
+We (3 excl) make you
+We (3 excl) see you
+We (3 excl) want you
+We (3 excl) call you
+We (3 excl) ask you
+We (3 excl) read you
+We (3 excl) learn you
+We (3 excl) will go you
+We (3 excl) will make you
+We (3 excl) will see you
+We (3 excl) will want you
+We (3 excl) will call you
+We (3 excl) will ask you
+We (3 excl) will read you
+We (3 excl) will learn you
+We (3 excl) went him
+We (3 excl) made him
+We (3 excl) wanted him
+We (3 excl) saw him
+We (3 excl) called him
+We (3 excl) asked him
+We (3 excl) read him
+We (3 excl) learnt him
+We (3 excl) go him
+We (3 excl) make him
+We (3 excl) see him
+We (3 excl) want him
+We (3 excl) call him
+We (3 excl) ask him
+We (3 excl) read him
+We (3 excl) learn him
+We (3 excl) will go him
+We (3 excl) will make him
+We (3 excl) will see him
+We (3 excl) will want him
+We (3 excl) will call him
+We (3 excl) will ask him
+We (3 excl) will read him
+We (3 excl) will learn him
+We (3 excl) went her
+We (3 excl) made her
+We (3 excl) wanted her
+We (3 excl) saw her
+We (3 excl) called her
+We (3 excl) asked her
+We (3 excl) read her
+We (3 excl) learnt her
+We (3 excl) go her
+We (3 excl) make her
+We (3 excl) see her
+We (3 excl) want her
+We (3 excl) call her
+We (3 excl) ask her
+We (3 excl) read her
+We (3 excl) learn her
+We (3 excl) will go her
+We (3 excl) will make her
+We (3 excl) will see her
+We (3 excl) will want her
+We (3 excl) will call her
+We (3 excl) will ask her
+We (3 excl) will read her
+We (3 excl) will learn her
+We (3 excl) went you two
+We (3 excl) made you two
+We (3 excl) wanted you two
+We (3 excl) saw you two
+We (3 excl) called you two
+We (3 excl) asked you two
+We (3 excl) read you two
+We (3 excl) learnt you two
+We (3 excl) go you two
+We (3 excl) make you two
+We (3 excl) see you two
+We (3 excl) want you two
+We (3 excl) call you two
+We (3 excl) ask you two
+We (3 excl) read you two
+We (3 excl) learn you two
+We (3 excl) will go you two
+We (3 excl) will make you two
+We (3 excl) will see you two
+We (3 excl) will want you two
+We (3 excl) will call you two
+We (3 excl) will ask you two
+We (3 excl) will read you two
+We (3 excl) will learn you two
+We (3 excl) went them
+We (3 excl) made them
+We (3 excl) wanted them
+We (3 excl) saw them
+We (3 excl) called them
+We (3 excl) asked them
+We (3 excl) read them
+We (3 excl) learnt them
+We (3 excl) go them
+We (3 excl) make them
+We (3 excl) see them
+We (3 excl) want them
+We (3 excl) call them
+We (3 excl) ask them
+We (3 excl) read them
+We (3 excl) learn them
+We (3 excl) will go them
+We (3 excl) will make them
+We (3 excl) will see them
+We (3 excl) will want them
+We (3 excl) will call them
+We (3 excl) will ask them
+We (3 excl) will read them
+We (3 excl) will learn them
+We (3 excl) went us
+We (3 excl) made us
+We (3 excl) wanted us
+We (3 excl) saw us
+We (3 excl) called us
+We (3 excl) asked us
+We (3 excl) read us
+We (3 excl) learnt us
+We (3 excl) go us
+We (3 excl) make us
+We (3 excl) see us
+We (3 excl) want us
+We (3 excl) call us
+We (3 excl) ask us
+We (3 excl) read us
+We (3 excl) learn us
+We (3 excl) will go us
+We (3 excl) will make us
+We (3 excl) will see us
+We (3 excl) will want us
+We (3 excl) will call us
+We (3 excl) will ask us
+We (3 excl) will read us
+We (3 excl) will learn us
+We (3 excl) went you
+We (3 excl) made you
+We (3 excl) wanted you
+We (3 excl) saw you
+We (3 excl) called you
+We (3 excl) asked you
+We (3 excl) read you
+We (3 excl) learnt you
+We (3 excl) go you
+We (3 excl) make you
+We (3 excl) see you
+We (3 excl) want you
+We (3 excl) call you
+We (3 excl) ask you
+We (3 excl) read you
+We (3 excl) learn you
+We (3 excl) will go you
+We (3 excl) will make you
+We (3 excl) will see you
+We (3 excl) will want you
+We (3 excl) will call you
+We (3 excl) will ask you
+We (3 excl) will read you
+We (3 excl) will learn you
+We (3 excl) went them
+We (3 excl) made them
+We (3 excl) wanted them
+We (3 excl) saw them
+We (3 excl) called them
+We (3 excl) asked them
+We (3 excl) read them
+We (3 excl) learnt them
+We (3 excl) go them
+We (3 excl) make them
+We (3 excl) see them
+We (3 excl) want them
+We (3 excl) call them
+We (3 excl) ask them
+We (3 excl) read them
+We (3 excl) learn them
+We (3 excl) will go them
+We (3 excl) will make them
+We (3 excl) will see them
+We (3 excl) will want them
+We (3 excl) will call them
+We (3 excl) will ask them
+We (3 excl) will read them
+We (3 excl) will learn them
+They (3 excl) went 
+They (3 excl) made 
+They (3 excl) wanted 
+They (3 excl) saw 
+They (3 excl) called 
+They (3 excl) asked 
+They (3 excl) read 
+They (3 excl) learnt 
+They (3 excl) go 
+They (3 excl) make 
+They (3 excl) see 
+They (3 excl) want 
+They (3 excl) call 
+They (3 excl) ask 
+They (3 excl) read 
+They (3 excl) learn 
+They (3 excl) will go 
+They (3 excl) will make 
+They (3 excl) will see 
+They (3 excl) will want 
+They (3 excl) will call 
+They (3 excl) will ask 
+They (3 excl) will read 
+They (3 excl) will learn 
+They (3 excl) went me
+They (3 excl) made me
+They (3 excl) wanted me
+They (3 excl) saw me
+They (3 excl) called me
+They (3 excl) asked me
+They (3 excl) read me
+They (3 excl) learnt me
+They (3 excl) go me
+They (3 excl) make me
+They (3 excl) see me
+They (3 excl) want me
+They (3 excl) call me
+They (3 excl) ask me
+They (3 excl) read me
+They (3 excl) learn me
+They (3 excl) will go me
+They (3 excl) will make me
+They (3 excl) will see me
+They (3 excl) will want me
+They (3 excl) will call me
+They (3 excl) will ask me
+They (3 excl) will read me
+They (3 excl) will learn me
+They (3 excl) went you
+They (3 excl) made you
+They (3 excl) wanted you
+They (3 excl) saw you
+They (3 excl) called you
+They (3 excl) asked you
+They (3 excl) read you
+They (3 excl) learnt you
+They (3 excl) go you
+They (3 excl) make you
+They (3 excl) see you
+They (3 excl) want you
+They (3 excl) call you
+They (3 excl) ask you
+They (3 excl) read you
+They (3 excl) learn you
+They (3 excl) will go you
+They (3 excl) will make you
+They (3 excl) will see you
+They (3 excl) will want you
+They (3 excl) will call you
+They (3 excl) will ask you
+They (3 excl) will read you
+They (3 excl) will learn you
+They (3 excl) went him
+They (3 excl) made him
+They (3 excl) wanted him
+They (3 excl) saw him
+They (3 excl) called him
+They (3 excl) asked him
+They (3 excl) read him
+They (3 excl) learnt him
+They (3 excl) go him
+They (3 excl) make him
+They (3 excl) see him
+They (3 excl) want him
+They (3 excl) call him
+They (3 excl) ask him
+They (3 excl) read him
+They (3 excl) learn him
+They (3 excl) will go him
+They (3 excl) will make him
+They (3 excl) will see him
+They (3 excl) will want him
+They (3 excl) will call him
+They (3 excl) will ask him
+They (3 excl) will read him
+They (3 excl) will learn him
+They (3 excl) went her
+They (3 excl) made her
+They (3 excl) wanted her
+They (3 excl) saw her
+They (3 excl) called her
+They (3 excl) asked her
+They (3 excl) read her
+They (3 excl) learnt her
+They (3 excl) go her
+They (3 excl) make her
+They (3 excl) see her
+They (3 excl) want her
+They (3 excl) call her
+They (3 excl) ask her
+They (3 excl) read her
+They (3 excl) learn her
+They (3 excl) will go her
+They (3 excl) will make her
+They (3 excl) will see her
+They (3 excl) will want her
+They (3 excl) will call her
+They (3 excl) will ask her
+They (3 excl) will read her
+They (3 excl) will learn her
+They (3 excl) went you two
+They (3 excl) made you two
+They (3 excl) wanted you two
+They (3 excl) saw you two
+They (3 excl) called you two
+They (3 excl) asked you two
+They (3 excl) read you two
+They (3 excl) learnt you two
+They (3 excl) go you two
+They (3 excl) make you two
+They (3 excl) see you two
+They (3 excl) want you two
+They (3 excl) call you two
+They (3 excl) ask you two
+They (3 excl) read you two
+They (3 excl) learn you two
+They (3 excl) will go you two
+They (3 excl) will make you two
+They (3 excl) will see you two
+They (3 excl) will want you two
+They (3 excl) will call you two
+They (3 excl) will ask you two
+They (3 excl) will read you two
+They (3 excl) will learn you two
+They (3 excl) went them
+They (3 excl) made them
+They (3 excl) wanted them
+They (3 excl) saw them
+They (3 excl) called them
+They (3 excl) asked them
+They (3 excl) read them
+They (3 excl) learnt them
+They (3 excl) go them
+They (3 excl) make them
+They (3 excl) see them
+They (3 excl) want them
+They (3 excl) call them
+They (3 excl) ask them
+They (3 excl) read them
+They (3 excl) learn them
+They (3 excl) will go them
+They (3 excl) will make them
+They (3 excl) will see them
+They (3 excl) will want them
+They (3 excl) will call them
+They (3 excl) will ask them
+They (3 excl) will read them
+They (3 excl) will learn them
+They (3 excl) went us
+They (3 excl) made us
+They (3 excl) wanted us
+They (3 excl) saw us
+They (3 excl) called us
+They (3 excl) asked us
+They (3 excl) read us
+They (3 excl) learnt us
+They (3 excl) go us
+They (3 excl) make us
+They (3 excl) see us
+They (3 excl) want us
+They (3 excl) call us
+They (3 excl) ask us
+They (3 excl) read us
+They (3 excl) learn us
+They (3 excl) will go us
+They (3 excl) will make us
+They (3 excl) will see us
+They (3 excl) will want us
+They (3 excl) will call us
+They (3 excl) will ask us
+They (3 excl) will read us
+They (3 excl) will learn us
+They (3 excl) went you
+They (3 excl) made you
+They (3 excl) wanted you
+They (3 excl) saw you
+They (3 excl) called you
+They (3 excl) asked you
+They (3 excl) read you
+They (3 excl) learnt you
+They (3 excl) go you
+They (3 excl) make you
+They (3 excl) see you
+They (3 excl) want you
+They (3 excl) call you
+They (3 excl) ask you
+They (3 excl) read you
+They (3 excl) learn you
+They (3 excl) will go you
+They (3 excl) will make you
+They (3 excl) will see you
+They (3 excl) will want you
+They (3 excl) will call you
+They (3 excl) will ask you
+They (3 excl) will read you
+They (3 excl) will learn you
+They (3 excl) went them
+They (3 excl) made them
+They (3 excl) wanted them
+They (3 excl) saw them
+They (3 excl) called them
+They (3 excl) asked them
+They (3 excl) read them
+They (3 excl) learnt them
+They (3 excl) go them
+They (3 excl) make them
+They (3 excl) see them
+They (3 excl) want them
+They (3 excl) call them
+They (3 excl) ask them
+They (3 excl) read them
+They (3 excl) learn them
+They (3 excl) will go them
+They (3 excl) will make them
+They (3 excl) will see them
+They (3 excl) will want them
+They (3 excl) will call them
+They (3 excl) will ask them
+They (3 excl) will read them
+They (3 excl) will learn them
+You (3 excl) went 
+You (3 excl) made 
+You (3 excl) wanted 
+You (3 excl) saw 
+You (3 excl) called 
+You (3 excl) asked 
+You (3 excl) read 
+You (3 excl) learnt 
+You (3 excl) go 
+You (3 excl) make 
+You (3 excl) see 
+You (3 excl) want 
+You (3 excl) call 
+You (3 excl) ask 
+You (3 excl) read 
+You (3 excl) learn 
+You (3 excl) will go 
+You (3 excl) will make 
+You (3 excl) will see 
+You (3 excl) will want 
+You (3 excl) will call 
+You (3 excl) will ask 
+You (3 excl) will read 
+You (3 excl) will learn 
+You (3 excl) went me
+You (3 excl) made me
+You (3 excl) wanted me
+You (3 excl) saw me
+You (3 excl) called me
+You (3 excl) asked me
+You (3 excl) read me
+You (3 excl) learnt me
+You (3 excl) go me
+You (3 excl) make me
+You (3 excl) see me
+You (3 excl) want me
+You (3 excl) call me
+You (3 excl) ask me
+You (3 excl) read me
+You (3 excl) learn me
+You (3 excl) will go me
+You (3 excl) will make me
+You (3 excl) will see me
+You (3 excl) will want me
+You (3 excl) will call me
+You (3 excl) will ask me
+You (3 excl) will read me
+You (3 excl) will learn me
+You (3 excl) went you
+You (3 excl) made you
+You (3 excl) wanted you
+You (3 excl) saw you
+You (3 excl) called you
+You (3 excl) asked you
+You (3 excl) read you
+You (3 excl) learnt you
+You (3 excl) go you
+You (3 excl) make you
+You (3 excl) see you
+You (3 excl) want you
+You (3 excl) call you
+You (3 excl) ask you
+You (3 excl) read you
+You (3 excl) learn you
+You (3 excl) will go you
+You (3 excl) will make you
+You (3 excl) will see you
+You (3 excl) will want you
+You (3 excl) will call you
+You (3 excl) will ask you
+You (3 excl) will read you
+You (3 excl) will learn you
+You (3 excl) went him
+You (3 excl) made him
+You (3 excl) wanted him
+You (3 excl) saw him
+You (3 excl) called him
+You (3 excl) asked him
+You (3 excl) read him
+You (3 excl) learnt him
+You (3 excl) go him
+You (3 excl) make him
+You (3 excl) see him
+You (3 excl) want him
+You (3 excl) call him
+You (3 excl) ask him
+You (3 excl) read him
+You (3 excl) learn him
+You (3 excl) will go him
+You (3 excl) will make him
+You (3 excl) will see him
+You (3 excl) will want him
+You (3 excl) will call him
+You (3 excl) will ask him
+You (3 excl) will read him
+You (3 excl) will learn him
+You (3 excl) went her
+You (3 excl) made her
+You (3 excl) wanted her
+You (3 excl) saw her
+You (3 excl) called her
+You (3 excl) asked her
+You (3 excl) read her
+You (3 excl) learnt her
+You (3 excl) go her
+You (3 excl) make her
+You (3 excl) see her
+You (3 excl) want her
+You (3 excl) call her
+You (3 excl) ask her
+You (3 excl) read her
+You (3 excl) learn her
+You (3 excl) will go her
+You (3 excl) will make her
+You (3 excl) will see her
+You (3 excl) will want her
+You (3 excl) will call her
+You (3 excl) will ask her
+You (3 excl) will read her
+You (3 excl) will learn her
+You (3 excl) went you two
+You (3 excl) made you two
+You (3 excl) wanted you two
+You (3 excl) saw you two
+You (3 excl) called you two
+You (3 excl) asked you two
+You (3 excl) read you two
+You (3 excl) learnt you two
+You (3 excl) go you two
+You (3 excl) make you two
+You (3 excl) see you two
+You (3 excl) want you two
+You (3 excl) call you two
+You (3 excl) ask you two
+You (3 excl) read you two
+You (3 excl) learn you two
+You (3 excl) will go you two
+You (3 excl) will make you two
+You (3 excl) will see you two
+You (3 excl) will want you two
+You (3 excl) will call you two
+You (3 excl) will ask you two
+You (3 excl) will read you two
+You (3 excl) will learn you two
+You (3 excl) went them
+You (3 excl) made them
+You (3 excl) wanted them
+You (3 excl) saw them
+You (3 excl) called them
+You (3 excl) asked them
+You (3 excl) read them
+You (3 excl) learnt them
+You (3 excl) go them
+You (3 excl) make them
+You (3 excl) see them
+You (3 excl) want them
+You (3 excl) call them
+You (3 excl) ask them
+You (3 excl) read them
+You (3 excl) learn them
+You (3 excl) will go them
+You (3 excl) will make them
+You (3 excl) will see them
+You (3 excl) will want them
+You (3 excl) will call them
+You (3 excl) will ask them
+You (3 excl) will read them
+You (3 excl) will learn them
+You (3 excl) went us
+You (3 excl) made us
+You (3 excl) wanted us
+You (3 excl) saw us
+You (3 excl) called us
+You (3 excl) asked us
+You (3 excl) read us
+You (3 excl) learnt us
+You (3 excl) go us
+You (3 excl) make us
+You (3 excl) see us
+You (3 excl) want us
+You (3 excl) call us
+You (3 excl) ask us
+You (3 excl) read us
+You (3 excl) learn us
+You (3 excl) will go us
+You (3 excl) will make us
+You (3 excl) will see us
+You (3 excl) will want us
+You (3 excl) will call us
+You (3 excl) will ask us
+You (3 excl) will read us
+You (3 excl) will learn us
+You (3 excl) went you
+You (3 excl) made you
+You (3 excl) wanted you
+You (3 excl) saw you
+You (3 excl) called you
+You (3 excl) asked you
+You (3 excl) read you
+You (3 excl) learnt you
+You (3 excl) go you
+You (3 excl) make you
+You (3 excl) see you
+You (3 excl) want you
+You (3 excl) call you
+You (3 excl) ask you
+You (3 excl) read you
+You (3 excl) learn you
+You (3 excl) will go you
+You (3 excl) will make you
+You (3 excl) will see you
+You (3 excl) will want you
+You (3 excl) will call you
+You (3 excl) will ask you
+You (3 excl) will read you
+You (3 excl) will learn you
+You (3 excl) went them
+You (3 excl) made them
+You (3 excl) wanted them
+You (3 excl) saw them
+You (3 excl) called them
+You (3 excl) asked them
+You (3 excl) read them
+You (3 excl) learnt them
+You (3 excl) go them
+You (3 excl) make them
+You (3 excl) see them
+You (3 excl) want them
+You (3 excl) call them
+You (3 excl) ask them
+You (3 excl) read them
+You (3 excl) learn them
+You (3 excl) will go them
+You (3 excl) will make them
+You (3 excl) will see them
+You (3 excl) will want them
+You (3 excl) will call them
+You (3 excl) will ask them
+You (3 excl) will read them
+You (3 excl) will learn them
+We (2 incl) went 
+We (2 incl) made 
+We (2 incl) wanted 
+We (2 incl) saw 
+We (2 incl) called 
+We (2 incl) asked 
+We (2 incl) read 
+We (2 incl) learnt 
+We (2 incl) go 
+We (2 incl) make 
+We (2 incl) see 
+We (2 incl) want 
+We (2 incl) call 
+We (2 incl) ask 
+We (2 incl) read 
+We (2 incl) learn 
+We (2 incl) will go 
+We (2 incl) will make 
+We (2 incl) will see 
+We (2 incl) will want 
+We (2 incl) will call 
+We (2 incl) will ask 
+We (2 incl) will read 
+We (2 incl) will learn 
+We (2 incl) went me
+We (2 incl) made me
+We (2 incl) wanted me
+We (2 incl) saw me
+We (2 incl) called me
+We (2 incl) asked me
+We (2 incl) read me
+We (2 incl) learnt me
+We (2 incl) go me
+We (2 incl) make me
+We (2 incl) see me
+We (2 incl) want me
+We (2 incl) call me
+We (2 incl) ask me
+We (2 incl) read me
+We (2 incl) learn me
+We (2 incl) will go me
+We (2 incl) will make me
+We (2 incl) will see me
+We (2 incl) will want me
+We (2 incl) will call me
+We (2 incl) will ask me
+We (2 incl) will read me
+We (2 incl) will learn me
+We (2 incl) went you
+We (2 incl) made you
+We (2 incl) wanted you
+We (2 incl) saw you
+We (2 incl) called you
+We (2 incl) asked you
+We (2 incl) read you
+We (2 incl) learnt you
+We (2 incl) go you
+We (2 incl) make you
+We (2 incl) see you
+We (2 incl) want you
+We (2 incl) call you
+We (2 incl) ask you
+We (2 incl) read you
+We (2 incl) learn you
+We (2 incl) will go you
+We (2 incl) will make you
+We (2 incl) will see you
+We (2 incl) will want you
+We (2 incl) will call you
+We (2 incl) will ask you
+We (2 incl) will read you
+We (2 incl) will learn you
+We (2 incl) went him
+We (2 incl) made him
+We (2 incl) wanted him
+We (2 incl) saw him
+We (2 incl) called him
+We (2 incl) asked him
+We (2 incl) read him
+We (2 incl) learnt him
+We (2 incl) go him
+We (2 incl) make him
+We (2 incl) see him
+We (2 incl) want him
+We (2 incl) call him
+We (2 incl) ask him
+We (2 incl) read him
+We (2 incl) learn him
+We (2 incl) will go him
+We (2 incl) will make him
+We (2 incl) will see him
+We (2 incl) will want him
+We (2 incl) will call him
+We (2 incl) will ask him
+We (2 incl) will read him
+We (2 incl) will learn him
+We (2 incl) went her
+We (2 incl) made her
+We (2 incl) wanted her
+We (2 incl) saw her
+We (2 incl) called her
+We (2 incl) asked her
+We (2 incl) read her
+We (2 incl) learnt her
+We (2 incl) go her
+We (2 incl) make her
+We (2 incl) see her
+We (2 incl) want her
+We (2 incl) call her
+We (2 incl) ask her
+We (2 incl) read her
+We (2 incl) learn her
+We (2 incl) will go her
+We (2 incl) will make her
+We (2 incl) will see her
+We (2 incl) will want her
+We (2 incl) will call her
+We (2 incl) will ask her
+We (2 incl) will read her
+We (2 incl) will learn her
+We (2 incl) went you two
+We (2 incl) made you two
+We (2 incl) wanted you two
+We (2 incl) saw you two
+We (2 incl) called you two
+We (2 incl) asked you two
+We (2 incl) read you two
+We (2 incl) learnt you two
+We (2 incl) go you two
+We (2 incl) make you two
+We (2 incl) see you two
+We (2 incl) want you two
+We (2 incl) call you two
+We (2 incl) ask you two
+We (2 incl) read you two
+We (2 incl) learn you two
+We (2 incl) will go you two
+We (2 incl) will make you two
+We (2 incl) will see you two
+We (2 incl) will want you two
+We (2 incl) will call you two
+We (2 incl) will ask you two
+We (2 incl) will read you two
+We (2 incl) will learn you two
+We (2 incl) went them
+We (2 incl) made them
+We (2 incl) wanted them
+We (2 incl) saw them
+We (2 incl) called them
+We (2 incl) asked them
+We (2 incl) read them
+We (2 incl) learnt them
+We (2 incl) go them
+We (2 incl) make them
+We (2 incl) see them
+We (2 incl) want them
+We (2 incl) call them
+We (2 incl) ask them
+We (2 incl) read them
+We (2 incl) learn them
+We (2 incl) will go them
+We (2 incl) will make them
+We (2 incl) will see them
+We (2 incl) will want them
+We (2 incl) will call them
+We (2 incl) will ask them
+We (2 incl) will read them
+We (2 incl) will learn them
+We (2 incl) went us
+We (2 incl) made us
+We (2 incl) wanted us
+We (2 incl) saw us
+We (2 incl) called us
+We (2 incl) asked us
+We (2 incl) read us
+We (2 incl) learnt us
+We (2 incl) go us
+We (2 incl) make us
+We (2 incl) see us
+We (2 incl) want us
+We (2 incl) call us
+We (2 incl) ask us
+We (2 incl) read us
+We (2 incl) learn us
+We (2 incl) will go us
+We (2 incl) will make us
+We (2 incl) will see us
+We (2 incl) will want us
+We (2 incl) will call us
+We (2 incl) will ask us
+We (2 incl) will read us
+We (2 incl) will learn us
+We (2 incl) went you
+We (2 incl) made you
+We (2 incl) wanted you
+We (2 incl) saw you
+We (2 incl) called you
+We (2 incl) asked you
+We (2 incl) read you
+We (2 incl) learnt you
+We (2 incl) go you
+We (2 incl) make you
+We (2 incl) see you
+We (2 incl) want you
+We (2 incl) call you
+We (2 incl) ask you
+We (2 incl) read you
+We (2 incl) learn you
+We (2 incl) will go you
+We (2 incl) will make you
+We (2 incl) will see you
+We (2 incl) will want you
+We (2 incl) will call you
+We (2 incl) will ask you
+We (2 incl) will read you
+We (2 incl) will learn you
+We (2 incl) went them
+We (2 incl) made them
+We (2 incl) wanted them
+We (2 incl) saw them
+We (2 incl) called them
+We (2 incl) asked them
+We (2 incl) read them
+We (2 incl) learnt them
+We (2 incl) go them
+We (2 incl) make them
+We (2 incl) see them
+We (2 incl) want them
+We (2 incl) call them
+We (2 incl) ask them
+We (2 incl) read them
+We (2 incl) learn them
+We (2 incl) will go them
+We (2 incl) will make them
+We (2 incl) will see them
+We (2 incl) will want them
+We (2 incl) will call them
+We (2 incl) will ask them
+We (2 incl) will read them
+We (2 incl) will learn them
+We (2 excl) went 
+We (2 excl) made 
+We (2 excl) wanted 
+We (2 excl) saw 
+We (2 excl) called 
+We (2 excl) asked 
+We (2 excl) read 
+We (2 excl) learnt 
+We (2 excl) go 
+We (2 excl) make 
+We (2 excl) see 
+We (2 excl) want 
+We (2 excl) call 
+We (2 excl) ask 
+We (2 excl) read 
+We (2 excl) learn 
+We (2 excl) will go 
+We (2 excl) will make 
+We (2 excl) will see 
+We (2 excl) will want 
+We (2 excl) will call 
+We (2 excl) will ask 
+We (2 excl) will read 
+We (2 excl) will learn 
+We (2 excl) went me
+We (2 excl) made me
+We (2 excl) wanted me
+We (2 excl) saw me
+We (2 excl) called me
+We (2 excl) asked me
+We (2 excl) read me
+We (2 excl) learnt me
+We (2 excl) go me
+We (2 excl) make me
+We (2 excl) see me
+We (2 excl) want me
+We (2 excl) call me
+We (2 excl) ask me
+We (2 excl) read me
+We (2 excl) learn me
+We (2 excl) will go me
+We (2 excl) will make me
+We (2 excl) will see me
+We (2 excl) will want me
+We (2 excl) will call me
+We (2 excl) will ask me
+We (2 excl) will read me
+We (2 excl) will learn me
+We (2 excl) went you
+We (2 excl) made you
+We (2 excl) wanted you
+We (2 excl) saw you
+We (2 excl) called you
+We (2 excl) asked you
+We (2 excl) read you
+We (2 excl) learnt you
+We (2 excl) go you
+We (2 excl) make you
+We (2 excl) see you
+We (2 excl) want you
+We (2 excl) call you
+We (2 excl) ask you
+We (2 excl) read you
+We (2 excl) learn you
+We (2 excl) will go you
+We (2 excl) will make you
+We (2 excl) will see you
+We (2 excl) will want you
+We (2 excl) will call you
+We (2 excl) will ask you
+We (2 excl) will read you
+We (2 excl) will learn you
+We (2 excl) went him
+We (2 excl) made him
+We (2 excl) wanted him
+We (2 excl) saw him
+We (2 excl) called him
+We (2 excl) asked him
+We (2 excl) read him
+We (2 excl) learnt him
+We (2 excl) go him
+We (2 excl) make him
+We (2 excl) see him
+We (2 excl) want him
+We (2 excl) call him
+We (2 excl) ask him
+We (2 excl) read him
+We (2 excl) learn him
+We (2 excl) will go him
+We (2 excl) will make him
+We (2 excl) will see him
+We (2 excl) will want him
+We (2 excl) will call him
+We (2 excl) will ask him
+We (2 excl) will read him
+We (2 excl) will learn him
+We (2 excl) went her
+We (2 excl) made her
+We (2 excl) wanted her
+We (2 excl) saw her
+We (2 excl) called her
+We (2 excl) asked her
+We (2 excl) read her
+We (2 excl) learnt her
+We (2 excl) go her
+We (2 excl) make her
+We (2 excl) see her
+We (2 excl) want her
+We (2 excl) call her
+We (2 excl) ask her
+We (2 excl) read her
+We (2 excl) learn her
+We (2 excl) will go her
+We (2 excl) will make her
+We (2 excl) will see her
+We (2 excl) will want her
+We (2 excl) will call her
+We (2 excl) will ask her
+We (2 excl) will read her
+We (2 excl) will learn her
+We (2 excl) went you two
+We (2 excl) made you two
+We (2 excl) wanted you two
+We (2 excl) saw you two
+We (2 excl) called you two
+We (2 excl) asked you two
+We (2 excl) read you two
+We (2 excl) learnt you two
+We (2 excl) go you two
+We (2 excl) make you two
+We (2 excl) see you two
+We (2 excl) want you two
+We (2 excl) call you two
+We (2 excl) ask you two
+We (2 excl) read you two
+We (2 excl) learn you two
+We (2 excl) will go you two
+We (2 excl) will make you two
+We (2 excl) will see you two
+We (2 excl) will want you two
+We (2 excl) will call you two
+We (2 excl) will ask you two
+We (2 excl) will read you two
+We (2 excl) will learn you two
+We (2 excl) went them
+We (2 excl) made them
+We (2 excl) wanted them
+We (2 excl) saw them
+We (2 excl) called them
+We (2 excl) asked them
+We (2 excl) read them
+We (2 excl) learnt them
+We (2 excl) go them
+We (2 excl) make them
+We (2 excl) see them
+We (2 excl) want them
+We (2 excl) call them
+We (2 excl) ask them
+We (2 excl) read them
+We (2 excl) learn them
+We (2 excl) will go them
+We (2 excl) will make them
+We (2 excl) will see them
+We (2 excl) will want them
+We (2 excl) will call them
+We (2 excl) will ask them
+We (2 excl) will read them
+We (2 excl) will learn them
+We (2 excl) went us
+We (2 excl) made us
+We (2 excl) wanted us
+We (2 excl) saw us
+We (2 excl) called us
+We (2 excl) asked us
+We (2 excl) read us
+We (2 excl) learnt us
+We (2 excl) go us
+We (2 excl) make us
+We (2 excl) see us
+We (2 excl) want us
+We (2 excl) call us
+We (2 excl) ask us
+We (2 excl) read us
+We (2 excl) learn us
+We (2 excl) will go us
+We (2 excl) will make us
+We (2 excl) will see us
+We (2 excl) will want us
+We (2 excl) will call us
+We (2 excl) will ask us
+We (2 excl) will read us
+We (2 excl) will learn us
+We (2 excl) went you
+We (2 excl) made you
+We (2 excl) wanted you
+We (2 excl) saw you
+We (2 excl) called you
+We (2 excl) asked you
+We (2 excl) read you
+We (2 excl) learnt you
+We (2 excl) go you
+We (2 excl) make you
+We (2 excl) see you
+We (2 excl) want you
+We (2 excl) call you
+We (2 excl) ask you
+We (2 excl) read you
+We (2 excl) learn you
+We (2 excl) will go you
+We (2 excl) will make you
+We (2 excl) will see you
+We (2 excl) will want you
+We (2 excl) will call you
+We (2 excl) will ask you
+We (2 excl) will read you
+We (2 excl) will learn you
+We (2 excl) went them
+We (2 excl) made them
+We (2 excl) wanted them
+We (2 excl) saw them
+We (2 excl) called them
+We (2 excl) asked them
+We (2 excl) read them
+We (2 excl) learnt them
+We (2 excl) go them
+We (2 excl) make them
+We (2 excl) see them
+We (2 excl) want them
+We (2 excl) call them
+We (2 excl) ask them
+We (2 excl) read them
+We (2 excl) learn them
+We (2 excl) will go them
+We (2 excl) will make them
+We (2 excl) will see them
+We (2 excl) will want them
+We (2 excl) will call them
+We (2 excl) will ask them
+We (2 excl) will read them
+We (2 excl) will learn them
+They (2 excl) went 
+They (2 excl) made 
+They (2 excl) wanted 
+They (2 excl) saw 
+They (2 excl) called 
+They (2 excl) asked 
+They (2 excl) read 
+They (2 excl) learnt 
+They (2 excl) go 
+They (2 excl) make 
+They (2 excl) see 
+They (2 excl) want 
+They (2 excl) call 
+They (2 excl) ask 
+They (2 excl) read 
+They (2 excl) learn 
+They (2 excl) will go 
+They (2 excl) will make 
+They (2 excl) will see 
+They (2 excl) will want 
+They (2 excl) will call 
+They (2 excl) will ask 
+They (2 excl) will read 
+They (2 excl) will learn 
+They (2 excl) went me
+They (2 excl) made me
+They (2 excl) wanted me
+They (2 excl) saw me
+They (2 excl) called me
+They (2 excl) asked me
+They (2 excl) read me
+They (2 excl) learnt me
+They (2 excl) go me
+They (2 excl) make me
+They (2 excl) see me
+They (2 excl) want me
+They (2 excl) call me
+They (2 excl) ask me
+They (2 excl) read me
+They (2 excl) learn me
+They (2 excl) will go me
+They (2 excl) will make me
+They (2 excl) will see me
+They (2 excl) will want me
+They (2 excl) will call me
+They (2 excl) will ask me
+They (2 excl) will read me
+They (2 excl) will learn me
+They (2 excl) went you
+They (2 excl) made you
+They (2 excl) wanted you
+They (2 excl) saw you
+They (2 excl) called you
+They (2 excl) asked you
+They (2 excl) read you
+They (2 excl) learnt you
+They (2 excl) go you
+They (2 excl) make you
+They (2 excl) see you
+They (2 excl) want you
+They (2 excl) call you
+They (2 excl) ask you
+They (2 excl) read you
+They (2 excl) learn you
+They (2 excl) will go you
+They (2 excl) will make you
+They (2 excl) will see you
+They (2 excl) will want you
+They (2 excl) will call you
+They (2 excl) will ask you
+They (2 excl) will read you
+They (2 excl) will learn you
+They (2 excl) went him
+They (2 excl) made him
+They (2 excl) wanted him
+They (2 excl) saw him
+They (2 excl) called him
+They (2 excl) asked him
+They (2 excl) read him
+They (2 excl) learnt him
+They (2 excl) go him
+They (2 excl) make him
+They (2 excl) see him
+They (2 excl) want him
+They (2 excl) call him
+They (2 excl) ask him
+They (2 excl) read him
+They (2 excl) learn him
+They (2 excl) will go him
+They (2 excl) will make him
+They (2 excl) will see him
+They (2 excl) will want him
+They (2 excl) will call him
+They (2 excl) will ask him
+They (2 excl) will read him
+They (2 excl) will learn him
+They (2 excl) went her
+They (2 excl) made her
+They (2 excl) wanted her
+They (2 excl) saw her
+They (2 excl) called her
+They (2 excl) asked her
+They (2 excl) read her
+They (2 excl) learnt her
+They (2 excl) go her
+They (2 excl) make her
+They (2 excl) see her
+They (2 excl) want her
+They (2 excl) call her
+They (2 excl) ask her
+They (2 excl) read her
+They (2 excl) learn her
+They (2 excl) will go her
+They (2 excl) will make her
+They (2 excl) will see her
+They (2 excl) will want her
+They (2 excl) will call her
+They (2 excl) will ask her
+They (2 excl) will read her
+They (2 excl) will learn her
+They (2 excl) went you two
+They (2 excl) made you two
+They (2 excl) wanted you two
+They (2 excl) saw you two
+They (2 excl) called you two
+They (2 excl) asked you two
+They (2 excl) read you two
+They (2 excl) learnt you two
+They (2 excl) go you two
+They (2 excl) make you two
+They (2 excl) see you two
+They (2 excl) want you two
+They (2 excl) call you two
+They (2 excl) ask you two
+They (2 excl) read you two
+They (2 excl) learn you two
+They (2 excl) will go you two
+They (2 excl) will make you two
+They (2 excl) will see you two
+They (2 excl) will want you two
+They (2 excl) will call you two
+They (2 excl) will ask you two
+They (2 excl) will read you two
+They (2 excl) will learn you two
+They (2 excl) went them
+They (2 excl) made them
+They (2 excl) wanted them
+They (2 excl) saw them
+They (2 excl) called them
+They (2 excl) asked them
+They (2 excl) read them
+They (2 excl) learnt them
+They (2 excl) go them
+They (2 excl) make them
+They (2 excl) see them
+They (2 excl) want them
+They (2 excl) call them
+They (2 excl) ask them
+They (2 excl) read them
+They (2 excl) learn them
+They (2 excl) will go them
+They (2 excl) will make them
+They (2 excl) will see them
+They (2 excl) will want them
+They (2 excl) will call them
+They (2 excl) will ask them
+They (2 excl) will read them
+They (2 excl) will learn them
+They (2 excl) went us
+They (2 excl) made us
+They (2 excl) wanted us
+They (2 excl) saw us
+They (2 excl) called us
+They (2 excl) asked us
+They (2 excl) read us
+They (2 excl) learnt us
+They (2 excl) go us
+They (2 excl) make us
+They (2 excl) see us
+They (2 excl) want us
+They (2 excl) call us
+They (2 excl) ask us
+They (2 excl) read us
+They (2 excl) learn us
+They (2 excl) will go us
+They (2 excl) will make us
+They (2 excl) will see us
+They (2 excl) will want us
+They (2 excl) will call us
+They (2 excl) will ask us
+They (2 excl) will read us
+They (2 excl) will learn us
+They (2 excl) went you
+They (2 excl) made you
+They (2 excl) wanted you
+They (2 excl) saw you
+They (2 excl) called you
+They (2 excl) asked you
+They (2 excl) read you
+They (2 excl) learnt you
+They (2 excl) go you
+They (2 excl) make you
+They (2 excl) see you
+They (2 excl) want you
+They (2 excl) call you
+They (2 excl) ask you
+They (2 excl) read you
+They (2 excl) learn you
+They (2 excl) will go you
+They (2 excl) will make you
+They (2 excl) will see you
+They (2 excl) will want you
+They (2 excl) will call you
+They (2 excl) will ask you
+They (2 excl) will read you
+They (2 excl) will learn you
+They (2 excl) went them
+They (2 excl) made them
+They (2 excl) wanted them
+They (2 excl) saw them
+They (2 excl) called them
+They (2 excl) asked them
+They (2 excl) read them
+They (2 excl) learnt them
+They (2 excl) go them
+They (2 excl) make them
+They (2 excl) see them
+They (2 excl) want them
+They (2 excl) call them
+They (2 excl) ask them
+They (2 excl) read them
+They (2 excl) learn them
+They (2 excl) will go them
+They (2 excl) will make them
+They (2 excl) will see them
+They (2 excl) will want them
+They (2 excl) will call them
+They (2 excl) will ask them
+They (2 excl) will read them
+They (2 excl) will learn them
+You two went 
+You two made 
+You two wanted 
+You two saw 
+You two called 
+You two asked 
+You two read 
+You two learnt 
+You two go 
+You two make 
+You two see 
+You two want 
+You two call 
+You two ask 
+You two read 
+You two learn 
+You two will go 
+You two will make 
+You two will see 
+You two will want 
+You two will call 
+You two will ask 
+You two will read 
+You two will learn 
+You two went me
+You two made me
+You two wanted me
+You two saw me
+You two called me
+You two asked me
+You two read me
+You two learnt me
+You two go me
+You two make me
+You two see me
+You two want me
+You two call me
+You two ask me
+You two read me
+You two learn me
+You two will go me
+You two will make me
+You two will see me
+You two will want me
+You two will call me
+You two will ask me
+You two will read me
+You two will learn me
+You two went you
+You two made you
+You two wanted you
+You two saw you
+You two called you
+You two asked you
+You two read you
+You two learnt you
+You two go you
+You two make you
+You two see you
+You two want you
+You two call you
+You two ask you
+You two read you
+You two learn you
+You two will go you
+You two will make you
+You two will see you
+You two will want you
+You two will call you
+You two will ask you
+You two will read you
+You two will learn you
+You two went him
+You two made him
+You two wanted him
+You two saw him
+You two called him
+You two asked him
+You two read him
+You two learnt him
+You two go him
+You two make him
+You two see him
+You two want him
+You two call him
+You two ask him
+You two read him
+You two learn him
+You two will go him
+You two will make him
+You two will see him
+You two will want him
+You two will call him
+You two will ask him
+You two will read him
+You two will learn him
+You two went her
+You two made her
+You two wanted her
+You two saw her
+You two called her
+You two asked her
+You two read her
+You two learnt her
+You two go her
+You two make her
+You two see her
+You two want her
+You two call her
+You two ask her
+You two read her
+You two learn her
+You two will go her
+You two will make her
+You two will see her
+You two will want her
+You two will call her
+You two will ask her
+You two will read her
+You two will learn her
+You two went you two
+You two made you two
+You two wanted you two
+You two saw you two
+You two called you two
+You two asked you two
+You two read you two
+You two learnt you two
+You two go you two
+You two make you two
+You two see you two
+You two want you two
+You two call you two
+You two ask you two
+You two read you two
+You two learn you two
+You two will go you two
+You two will make you two
+You two will see you two
+You two will want you two
+You two will call you two
+You two will ask you two
+You two will read you two
+You two will learn you two
+You two went them
+You two made them
+You two wanted them
+You two saw them
+You two called them
+You two asked them
+You two read them
+You two learnt them
+You two go them
+You two make them
+You two see them
+You two want them
+You two call them
+You two ask them
+You two read them
+You two learn them
+You two will go them
+You two will make them
+You two will see them
+You two will want them
+You two will call them
+You two will ask them
+You two will read them
+You two will learn them
+You two went us
+You two made us
+You two wanted us
+You two saw us
+You two called us
+You two asked us
+You two read us
+You two learnt us
+You two go us
+You two make us
+You two see us
+You two want us
+You two call us
+You two ask us
+You two read us
+You two learn us
+You two will go us
+You two will make us
+You two will see us
+You two will want us
+You two will call us
+You two will ask us
+You two will read us
+You two will learn us
+You two went you
+You two made you
+You two wanted you
+You two saw you
+You two called you
+You two asked you
+You two read you
+You two learnt you
+You two go you
+You two make you
+You two see you
+You two want you
+You two call you
+You two ask you
+You two read you
+You two learn you
+You two will go you
+You two will make you
+You two will see you
+You two will want you
+You two will call you
+You two will ask you
+You two will read you
+You two will learn you
+You two went them
+You two made them
+You two wanted them
+You two saw them
+You two called them
+You two asked them
+You two read them
+You two learnt them
+You two go them
+You two make them
+You two see them
+You two want them
+You two call them
+You two ask them
+You two read them
+You two learn them
+You two will go them
+You two will make them
+You two will see them
+You two will want them
+You two will call them
+You two will ask them
+You two will read them
+You two will learn them
