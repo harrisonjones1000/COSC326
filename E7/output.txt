@@ -1,2880 +1,4368 @@
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
-I haere
-I hanga
-I hiahia
-I kite
-I karanga
-I pātai
-Kei te pānui
-I ako
-Kei te haere
-Kei te hanga
-Kei te kite
-Kei te hiahia
-Kei te karanga
-Kei te pātai
-Kei te pānui
-Kei te ako
-Ka haere
-Ka hanga
-Ka kite
-Ka hiahia
-Ka karanga
-Ka pātai
-Ka pānui
-Ka ako
+I haere ahau
+I hanga ahau
+I hiahia ahau
+I kite ahau
+I karanga ahau
+I pātai ahau
+I pānui ahau
+I ako ahau
+Kei te haere ahau
+Kei te hanga ahau
+Kei te kite ahau
+Kei te hiahia ahau
+Kei te karanga ahau
+Kei te pātai ahau
+Kei te pānui ahau
+Kei te ako ahau
+Ka haere ahau
+Ka hanga ahau
+Ka kite ahau
+Ka hiahia ahau
+Ka karanga ahau
+Ka pātai ahau
+Ka pānui ahau
+Ka ako ahau
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+I hanga ahau ia
+I hiahia ahau ia
+I kite ahau ia
+I karanga ahau ia
+I pātai ahau ia
+INVALID8
+INVALID8
+INVALID8
+I hanga ahau ia
+I hiahia ahau ia
+I kite ahau ia
+I karanga ahau ia
+I pātai ahau ia
+INVALID8
+INVALID8
+INVALID8
+I hanga ahau ia
+I hiahia ahau ia
+I kite ahau ia
+I karanga ahau ia
+I pātai ahau ia
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Kei te hanga ahau ia
+Kei te kite ahau ia
+Kei te hiahia ahau ia
+Kei te karanga ahau ia
+Kei te pātai ahau ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ahau ia
+Kei te kite ahau ia
+Kei te hiahia ahau ia
+Kei te karanga ahau ia
+Kei te pātai ahau ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ahau ia
+Kei te kite ahau ia
+Kei te hiahia ahau ia
+Kei te karanga ahau ia
+Kei te pātai ahau ia
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Ka hanga ahau ia
+Ka kite ahau ia
+Ka hiahia ahau ia
+Ka karanga ahau ia
+Ka pātai ahau ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ahau ia
+Ka kite ahau ia
+Ka hiahia ahau ia
+Ka karanga ahau ia
+Ka pātai ahau ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ahau ia
+Ka kite ahau ia
+Ka hiahia ahau ia
+Ka karanga ahau ia
+Ka pātai ahau ia
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+I hanga ahau kōrua
+I hiahia ahau kōrua
+I kite ahau kōrua
+I karanga ahau kōrua
+I pātai ahau kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga ahau kōrua
+I hiahia ahau kōrua
+I kite ahau kōrua
+I karanga ahau kōrua
+I pātai ahau kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga ahau rāua
+I hiahia ahau rāua
+I kite ahau rāua
+I karanga ahau rāua
+I pātai ahau rāua
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Kei te hanga ahau kōrua
+Kei te kite ahau kōrua
+Kei te hiahia ahau kōrua
+Kei te karanga ahau kōrua
+Kei te pātai ahau kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ahau kōrua
+Kei te kite ahau kōrua
+Kei te hiahia ahau kōrua
+Kei te karanga ahau kōrua
+Kei te pātai ahau kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ahau rāua
+Kei te kite ahau rāua
+Kei te hiahia ahau rāua
+Kei te karanga ahau rāua
+Kei te pātai ahau rāua
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Ka hanga ahau kōrua
+Ka kite ahau kōrua
+Ka hiahia ahau kōrua
+Ka karanga ahau kōrua
+Ka pātai ahau kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ahau kōrua
+Ka kite ahau kōrua
+Ka hiahia ahau kōrua
+Ka karanga ahau kōrua
+Ka pātai ahau kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ahau rāua
+Ka kite ahau rāua
+Ka hiahia ahau rāua
+Ka karanga ahau rāua
+Ka pātai ahau rāua
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+I hanga ahau null
+I hiahia ahau null
+I kite ahau null
+I karanga ahau null
+I pātai ahau null
+INVALID8
+INVALID8
+INVALID8
+I hanga ahau rātou
+I hiahia ahau rātou
+I kite ahau rātou
+I karanga ahau rātou
+I pātai ahau rātou
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Kei te hanga ahau null
+Kei te kite ahau null
+Kei te hiahia ahau null
+Kei te karanga ahau null
+Kei te pātai ahau null
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ahau rātou
+Kei te kite ahau rātou
+Kei te hiahia ahau rātou
+Kei te karanga ahau rātou
+Kei te pātai ahau rātou
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Ka hanga ahau null
+Ka kite ahau null
+Ka hiahia ahau null
+Ka karanga ahau null
+Ka pātai ahau null
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ahau rātou
+Ka kite ahau rātou
+Ka hiahia ahau rātou
+Ka karanga ahau rātou
+Ka pātai ahau rātou
+INVALID8
+INVALID8
+I haere koe
+I hanga koe
+I hiahia koe
+I kite koe
+I karanga koe
+I pātai koe
+I pānui koe
+I ako koe
+Kei te haere koe
+Kei te hanga koe
+Kei te kite koe
+Kei te hiahia koe
+Kei te karanga koe
+Kei te pātai koe
+Kei te pānui koe
+Kei te ako koe
+Ka haere koe
+Ka hanga koe
+Ka kite koe
+Ka hiahia koe
+Ka karanga koe
+Ka pātai koe
+Ka pānui koe
+Ka ako koe
+INVALID8
+I hanga koe ahau
+I hiahia koe ahau
+I kite koe ahau
+I karanga koe ahau
+I pātai koe ahau
+INVALID8
+INVALID8
+INVALID8
+I hanga koe ia
+I hiahia koe ia
+I kite koe ia
+I karanga koe ia
+I pātai koe ia
+INVALID8
+INVALID8
+INVALID8
+I hanga koe ia
+I hiahia koe ia
+I kite koe ia
+I karanga koe ia
+I pātai koe ia
+INVALID8
+INVALID8
+INVALID8
+I hanga koe ia
+I hiahia koe ia
+I kite koe ia
+I karanga koe ia
+I pātai koe ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koe ahau
+Kei te kite koe ahau
+Kei te hiahia koe ahau
+Kei te karanga koe ahau
+Kei te pātai koe ahau
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koe ia
+Kei te kite koe ia
+Kei te hiahia koe ia
+Kei te karanga koe ia
+Kei te pātai koe ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koe ia
+Kei te kite koe ia
+Kei te hiahia koe ia
+Kei te karanga koe ia
+Kei te pātai koe ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koe ia
+Kei te kite koe ia
+Kei te hiahia koe ia
+Kei te karanga koe ia
+Kei te pātai koe ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koe ahau
+Ka kite koe ahau
+Ka hiahia koe ahau
+Ka karanga koe ahau
+Ka pātai koe ahau
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koe ia
+Ka kite koe ia
+Ka hiahia koe ia
+Ka karanga koe ia
+Ka pātai koe ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koe ia
+Ka kite koe ia
+Ka hiahia koe ia
+Ka karanga koe ia
+Ka pātai koe ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koe ia
+Ka kite koe ia
+Ka hiahia koe ia
+Ka karanga koe ia
+Ka pātai koe ia
+INVALID8
+INVALID8
+INVALID8
+I hanga koe tāua
+I hiahia koe tāua
+I kite koe tāua
+I karanga koe tāua
+I pātai koe tāua
+INVALID8
+INVALID8
+INVALID8
+I hanga koe māua
+I hiahia koe māua
+I kite koe māua
+I karanga koe māua
+I pātai koe māua
+INVALID8
+INVALID8
+INVALID8
+I hanga koe kōrua
+I hiahia koe kōrua
+I kite koe kōrua
+I karanga koe kōrua
+I pātai koe kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga koe kōrua
+I hiahia koe kōrua
+I kite koe kōrua
+I karanga koe kōrua
+I pātai koe kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga koe rāua
+I hiahia koe rāua
+I kite koe rāua
+I karanga koe rāua
+I pātai koe rāua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koe tāua
+Kei te kite koe tāua
+Kei te hiahia koe tāua
+Kei te karanga koe tāua
+Kei te pātai koe tāua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koe māua
+Kei te kite koe māua
+Kei te hiahia koe māua
+Kei te karanga koe māua
+Kei te pātai koe māua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koe kōrua
+Kei te kite koe kōrua
+Kei te hiahia koe kōrua
+Kei te karanga koe kōrua
+Kei te pātai koe kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koe kōrua
+Kei te kite koe kōrua
+Kei te hiahia koe kōrua
+Kei te karanga koe kōrua
+Kei te pātai koe kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koe rāua
+Kei te kite koe rāua
+Kei te hiahia koe rāua
+Kei te karanga koe rāua
+Kei te pātai koe rāua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koe tāua
+Ka kite koe tāua
+Ka hiahia koe tāua
+Ka karanga koe tāua
+Ka pātai koe tāua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koe māua
+Ka kite koe māua
+Ka hiahia koe māua
+Ka karanga koe māua
+Ka pātai koe māua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koe kōrua
+Ka kite koe kōrua
+Ka hiahia koe kōrua
+Ka karanga koe kōrua
+Ka pātai koe kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koe kōrua
+Ka kite koe kōrua
+Ka hiahia koe kōrua
+Ka karanga koe kōrua
+Ka pātai koe kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koe rāua
+Ka kite koe rāua
+Ka hiahia koe rāua
+Ka karanga koe rāua
+Ka pātai koe rāua
+INVALID8
+INVALID8
+INVALID8
+I hanga koe tātou
+I hiahia koe tātou
+I kite koe tātou
+I karanga koe tātou
+I pātai koe tātou
+INVALID8
+INVALID8
+INVALID8
+I hanga koe mātou
+I hiahia koe mātou
+I kite koe mātou
+I karanga koe mātou
+I pātai koe mātou
+INVALID8
+INVALID8
+INVALID8
+I hanga koe null
+I hiahia koe null
+I kite koe null
+I karanga koe null
+I pātai koe null
+INVALID8
+INVALID8
+INVALID8
+I hanga koe rātou
+I hiahia koe rātou
+I kite koe rātou
+I karanga koe rātou
+I pātai koe rātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koe tātou
+Kei te kite koe tātou
+Kei te hiahia koe tātou
+Kei te karanga koe tātou
+Kei te pātai koe tātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koe mātou
+Kei te kite koe mātou
+Kei te hiahia koe mātou
+Kei te karanga koe mātou
+Kei te pātai koe mātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koe null
+Kei te kite koe null
+Kei te hiahia koe null
+Kei te karanga koe null
+Kei te pātai koe null
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koe rātou
+Kei te kite koe rātou
+Kei te hiahia koe rātou
+Kei te karanga koe rātou
+Kei te pātai koe rātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koe tātou
+Ka kite koe tātou
+Ka hiahia koe tātou
+Ka karanga koe tātou
+Ka pātai koe tātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koe mātou
+Ka kite koe mātou
+Ka hiahia koe mātou
+Ka karanga koe mātou
+Ka pātai koe mātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koe null
+Ka kite koe null
+Ka hiahia koe null
+Ka karanga koe null
+Ka pātai koe null
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koe rātou
+Ka kite koe rātou
+Ka hiahia koe rātou
+Ka karanga koe rātou
+Ka pātai koe rātou
+INVALID8
+INVALID8
+I haere ia
+I hanga ia
+I hiahia ia
+I kite ia
+I karanga ia
+I pātai ia
+I pānui ia
+I ako ia
+Kei te haere ia
+Kei te hanga ia
+Kei te kite ia
+Kei te hiahia ia
+Kei te karanga ia
+Kei te pātai ia
+Kei te pānui ia
+Kei te ako ia
+Ka haere ia
+Ka hanga ia
+Ka kite ia
+Ka hiahia ia
+Ka karanga ia
+Ka pātai ia
+Ka pānui ia
+Ka ako ia
+INVALID8
+I hanga ia ahau
+I hiahia ia ahau
+I kite ia ahau
+I karanga ia ahau
+I pātai ia ahau
+INVALID8
+INVALID8
+INVALID8
+I hanga ia ia
+I hiahia ia ia
+I kite ia ia
+I karanga ia ia
+I pātai ia ia
+INVALID8
+INVALID8
+INVALID8
+I hanga ia ia
+I hiahia ia ia
+I kite ia ia
+I karanga ia ia
+I pātai ia ia
+INVALID8
+INVALID8
+INVALID8
+I hanga ia ia
+I hiahia ia ia
+I kite ia ia
+I karanga ia ia
+I pātai ia ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia ahau
+Kei te kite ia ahau
+Kei te hiahia ia ahau
+Kei te karanga ia ahau
+Kei te pātai ia ahau
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia ia
+Kei te kite ia ia
+Kei te hiahia ia ia
+Kei te karanga ia ia
+Kei te pātai ia ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia ia
+Kei te kite ia ia
+Kei te hiahia ia ia
+Kei te karanga ia ia
+Kei te pātai ia ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia ia
+Kei te kite ia ia
+Kei te hiahia ia ia
+Kei te karanga ia ia
+Kei te pātai ia ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia ahau
+Ka kite ia ahau
+Ka hiahia ia ahau
+Ka karanga ia ahau
+Ka pātai ia ahau
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia ia
+Ka kite ia ia
+Ka hiahia ia ia
+Ka karanga ia ia
+Ka pātai ia ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia ia
+Ka kite ia ia
+Ka hiahia ia ia
+Ka karanga ia ia
+Ka pātai ia ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia ia
+Ka kite ia ia
+Ka hiahia ia ia
+Ka karanga ia ia
+Ka pātai ia ia
+INVALID8
+INVALID8
+INVALID8
+I hanga ia tāua
+I hiahia ia tāua
+I kite ia tāua
+I karanga ia tāua
+I pātai ia tāua
+INVALID8
+INVALID8
+INVALID8
+I hanga ia māua
+I hiahia ia māua
+I kite ia māua
+I karanga ia māua
+I pātai ia māua
+INVALID8
+INVALID8
+INVALID8
+I hanga ia kōrua
+I hiahia ia kōrua
+I kite ia kōrua
+I karanga ia kōrua
+I pātai ia kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga ia kōrua
+I hiahia ia kōrua
+I kite ia kōrua
+I karanga ia kōrua
+I pātai ia kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga ia rāua
+I hiahia ia rāua
+I kite ia rāua
+I karanga ia rāua
+I pātai ia rāua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia tāua
+Kei te kite ia tāua
+Kei te hiahia ia tāua
+Kei te karanga ia tāua
+Kei te pātai ia tāua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia māua
+Kei te kite ia māua
+Kei te hiahia ia māua
+Kei te karanga ia māua
+Kei te pātai ia māua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia kōrua
+Kei te kite ia kōrua
+Kei te hiahia ia kōrua
+Kei te karanga ia kōrua
+Kei te pātai ia kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia kōrua
+Kei te kite ia kōrua
+Kei te hiahia ia kōrua
+Kei te karanga ia kōrua
+Kei te pātai ia kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia rāua
+Kei te kite ia rāua
+Kei te hiahia ia rāua
+Kei te karanga ia rāua
+Kei te pātai ia rāua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia tāua
+Ka kite ia tāua
+Ka hiahia ia tāua
+Ka karanga ia tāua
+Ka pātai ia tāua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia māua
+Ka kite ia māua
+Ka hiahia ia māua
+Ka karanga ia māua
+Ka pātai ia māua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia kōrua
+Ka kite ia kōrua
+Ka hiahia ia kōrua
+Ka karanga ia kōrua
+Ka pātai ia kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia kōrua
+Ka kite ia kōrua
+Ka hiahia ia kōrua
+Ka karanga ia kōrua
+Ka pātai ia kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia rāua
+Ka kite ia rāua
+Ka hiahia ia rāua
+Ka karanga ia rāua
+Ka pātai ia rāua
+INVALID8
+INVALID8
+INVALID8
+I hanga ia tātou
+I hiahia ia tātou
+I kite ia tātou
+I karanga ia tātou
+I pātai ia tātou
+INVALID8
+INVALID8
+INVALID8
+I hanga ia mātou
+I hiahia ia mātou
+I kite ia mātou
+I karanga ia mātou
+I pātai ia mātou
+INVALID8
+INVALID8
+INVALID8
+I hanga ia null
+I hiahia ia null
+I kite ia null
+I karanga ia null
+I pātai ia null
+INVALID8
+INVALID8
+INVALID8
+I hanga ia rātou
+I hiahia ia rātou
+I kite ia rātou
+I karanga ia rātou
+I pātai ia rātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia tātou
+Kei te kite ia tātou
+Kei te hiahia ia tātou
+Kei te karanga ia tātou
+Kei te pātai ia tātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia mātou
+Kei te kite ia mātou
+Kei te hiahia ia mātou
+Kei te karanga ia mātou
+Kei te pātai ia mātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia null
+Kei te kite ia null
+Kei te hiahia ia null
+Kei te karanga ia null
+Kei te pātai ia null
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia rātou
+Kei te kite ia rātou
+Kei te hiahia ia rātou
+Kei te karanga ia rātou
+Kei te pātai ia rātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia tātou
+Ka kite ia tātou
+Ka hiahia ia tātou
+Ka karanga ia tātou
+Ka pātai ia tātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia mātou
+Ka kite ia mātou
+Ka hiahia ia mātou
+Ka karanga ia mātou
+Ka pātai ia mātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia null
+Ka kite ia null
+Ka hiahia ia null
+Ka karanga ia null
+Ka pātai ia null
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia rātou
+Ka kite ia rātou
+Ka hiahia ia rātou
+Ka karanga ia rātou
+Ka pātai ia rātou
+INVALID8
+INVALID8
+I haere ia
+I hanga ia
+I hiahia ia
+I kite ia
+I karanga ia
+I pātai ia
+I pānui ia
+I ako ia
+Kei te haere ia
+Kei te hanga ia
+Kei te kite ia
+Kei te hiahia ia
+Kei te karanga ia
+Kei te pātai ia
+Kei te pānui ia
+Kei te ako ia
+Ka haere ia
+Ka hanga ia
+Ka kite ia
+Ka hiahia ia
+Ka karanga ia
+Ka pātai ia
+Ka pānui ia
+Ka ako ia
+INVALID8
+I hanga ia ahau
+I hiahia ia ahau
+I kite ia ahau
+I karanga ia ahau
+I pātai ia ahau
+INVALID8
+INVALID8
+INVALID8
+I hanga ia ia
+I hiahia ia ia
+I kite ia ia
+I karanga ia ia
+I pātai ia ia
+INVALID8
+INVALID8
+INVALID8
+I hanga ia ia
+I hiahia ia ia
+I kite ia ia
+I karanga ia ia
+I pātai ia ia
+INVALID8
+INVALID8
+INVALID8
+I hanga ia ia
+I hiahia ia ia
+I kite ia ia
+I karanga ia ia
+I pātai ia ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia ahau
+Kei te kite ia ahau
+Kei te hiahia ia ahau
+Kei te karanga ia ahau
+Kei te pātai ia ahau
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia ia
+Kei te kite ia ia
+Kei te hiahia ia ia
+Kei te karanga ia ia
+Kei te pātai ia ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia ia
+Kei te kite ia ia
+Kei te hiahia ia ia
+Kei te karanga ia ia
+Kei te pātai ia ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia ia
+Kei te kite ia ia
+Kei te hiahia ia ia
+Kei te karanga ia ia
+Kei te pātai ia ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia ahau
+Ka kite ia ahau
+Ka hiahia ia ahau
+Ka karanga ia ahau
+Ka pātai ia ahau
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia ia
+Ka kite ia ia
+Ka hiahia ia ia
+Ka karanga ia ia
+Ka pātai ia ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia ia
+Ka kite ia ia
+Ka hiahia ia ia
+Ka karanga ia ia
+Ka pātai ia ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia ia
+Ka kite ia ia
+Ka hiahia ia ia
+Ka karanga ia ia
+Ka pātai ia ia
+INVALID8
+INVALID8
+INVALID8
+I hanga ia tāua
+I hiahia ia tāua
+I kite ia tāua
+I karanga ia tāua
+I pātai ia tāua
+INVALID8
+INVALID8
+INVALID8
+I hanga ia māua
+I hiahia ia māua
+I kite ia māua
+I karanga ia māua
+I pātai ia māua
+INVALID8
+INVALID8
+INVALID8
+I hanga ia kōrua
+I hiahia ia kōrua
+I kite ia kōrua
+I karanga ia kōrua
+I pātai ia kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga ia kōrua
+I hiahia ia kōrua
+I kite ia kōrua
+I karanga ia kōrua
+I pātai ia kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga ia rāua
+I hiahia ia rāua
+I kite ia rāua
+I karanga ia rāua
+I pātai ia rāua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia tāua
+Kei te kite ia tāua
+Kei te hiahia ia tāua
+Kei te karanga ia tāua
+Kei te pātai ia tāua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia māua
+Kei te kite ia māua
+Kei te hiahia ia māua
+Kei te karanga ia māua
+Kei te pātai ia māua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia kōrua
+Kei te kite ia kōrua
+Kei te hiahia ia kōrua
+Kei te karanga ia kōrua
+Kei te pātai ia kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia kōrua
+Kei te kite ia kōrua
+Kei te hiahia ia kōrua
+Kei te karanga ia kōrua
+Kei te pātai ia kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia rāua
+Kei te kite ia rāua
+Kei te hiahia ia rāua
+Kei te karanga ia rāua
+Kei te pātai ia rāua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia tāua
+Ka kite ia tāua
+Ka hiahia ia tāua
+Ka karanga ia tāua
+Ka pātai ia tāua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia māua
+Ka kite ia māua
+Ka hiahia ia māua
+Ka karanga ia māua
+Ka pātai ia māua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia kōrua
+Ka kite ia kōrua
+Ka hiahia ia kōrua
+Ka karanga ia kōrua
+Ka pātai ia kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia kōrua
+Ka kite ia kōrua
+Ka hiahia ia kōrua
+Ka karanga ia kōrua
+Ka pātai ia kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia rāua
+Ka kite ia rāua
+Ka hiahia ia rāua
+Ka karanga ia rāua
+Ka pātai ia rāua
+INVALID8
+INVALID8
+INVALID8
+I hanga ia tātou
+I hiahia ia tātou
+I kite ia tātou
+I karanga ia tātou
+I pātai ia tātou
+INVALID8
+INVALID8
+INVALID8
+I hanga ia mātou
+I hiahia ia mātou
+I kite ia mātou
+I karanga ia mātou
+I pātai ia mātou
+INVALID8
+INVALID8
+INVALID8
+I hanga ia null
+I hiahia ia null
+I kite ia null
+I karanga ia null
+I pātai ia null
+INVALID8
+INVALID8
+INVALID8
+I hanga ia rātou
+I hiahia ia rātou
+I kite ia rātou
+I karanga ia rātou
+I pātai ia rātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia tātou
+Kei te kite ia tātou
+Kei te hiahia ia tātou
+Kei te karanga ia tātou
+Kei te pātai ia tātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia mātou
+Kei te kite ia mātou
+Kei te hiahia ia mātou
+Kei te karanga ia mātou
+Kei te pātai ia mātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia null
+Kei te kite ia null
+Kei te hiahia ia null
+Kei te karanga ia null
+Kei te pātai ia null
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga ia rātou
+Kei te kite ia rātou
+Kei te hiahia ia rātou
+Kei te karanga ia rātou
+Kei te pātai ia rātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia tātou
+Ka kite ia tātou
+Ka hiahia ia tātou
+Ka karanga ia tātou
+Ka pātai ia tātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia mātou
+Ka kite ia mātou
+Ka hiahia ia mātou
+Ka karanga ia mātou
+Ka pātai ia mātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia null
+Ka kite ia null
+Ka hiahia ia null
+Ka karanga ia null
+Ka pātai ia null
+INVALID8
+INVALID8
+INVALID8
+Ka hanga ia rātou
+Ka kite ia rātou
+Ka hiahia ia rātou
+Ka karanga ia rātou
+Ka pātai ia rātou
+INVALID8
+INVALID8
+I haere tātou
+I hanga tātou
+I hiahia tātou
+I kite tātou
+I karanga tātou
+I pātai tātou
+I pānui tātou
+I ako tātou
+Kei te haere tātou
+Kei te hanga tātou
+Kei te kite tātou
+Kei te hiahia tātou
+Kei te karanga tātou
+Kei te pātai tātou
+Kei te pānui tātou
+Kei te ako tātou
+Ka haere tātou
+Ka hanga tātou
+Ka kite tātou
+Ka hiahia tātou
+Ka karanga tātou
+Ka pātai tātou
+Ka pānui tātou
+Ka ako tātou
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+I hanga tātou ia
+I hiahia tātou ia
+I kite tātou ia
+I karanga tātou ia
+I pātai tātou ia
+INVALID8
+INVALID8
+INVALID8
+I hanga tātou ia
+I hiahia tātou ia
+I kite tātou ia
+I karanga tātou ia
+I pātai tātou ia
+INVALID8
+INVALID8
+INVALID8
+I hanga tātou ia
+I hiahia tātou ia
+I kite tātou ia
+I karanga tātou ia
+I pātai tātou ia
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Kei te hanga tātou ia
+Kei te kite tātou ia
+Kei te hiahia tātou ia
+Kei te karanga tātou ia
+Kei te pātai tātou ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga tātou ia
+Kei te kite tātou ia
+Kei te hiahia tātou ia
+Kei te karanga tātou ia
+Kei te pātai tātou ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga tātou ia
+Kei te kite tātou ia
+Kei te hiahia tātou ia
+Kei te karanga tātou ia
+Kei te pātai tātou ia
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Ka hanga tātou ia
+Ka kite tātou ia
+Ka hiahia tātou ia
+Ka karanga tātou ia
+Ka pātai tātou ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga tātou ia
+Ka kite tātou ia
+Ka hiahia tātou ia
+Ka karanga tātou ia
+Ka pātai tātou ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga tātou ia
+Ka kite tātou ia
+Ka hiahia tātou ia
+Ka karanga tātou ia
+Ka pātai tātou ia
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+I hanga tātou kōrua
+I hiahia tātou kōrua
+I kite tātou kōrua
+I karanga tātou kōrua
+I pātai tātou kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga tātou kōrua
+I hiahia tātou kōrua
+I kite tātou kōrua
+I karanga tātou kōrua
+I pātai tātou kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga tātou rāua
+I hiahia tātou rāua
+I kite tātou rāua
+I karanga tātou rāua
+I pātai tātou rāua
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Kei te hanga tātou kōrua
+Kei te kite tātou kōrua
+Kei te hiahia tātou kōrua
+Kei te karanga tātou kōrua
+Kei te pātai tātou kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga tātou kōrua
+Kei te kite tātou kōrua
+Kei te hiahia tātou kōrua
+Kei te karanga tātou kōrua
+Kei te pātai tātou kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga tātou rāua
+Kei te kite tātou rāua
+Kei te hiahia tātou rāua
+Kei te karanga tātou rāua
+Kei te pātai tātou rāua
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Ka hanga tātou kōrua
+Ka kite tātou kōrua
+Ka hiahia tātou kōrua
+Ka karanga tātou kōrua
+Ka pātai tātou kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga tātou kōrua
+Ka kite tātou kōrua
+Ka hiahia tātou kōrua
+Ka karanga tātou kōrua
+Ka pātai tātou kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga tātou rāua
+Ka kite tātou rāua
+Ka hiahia tātou rāua
+Ka karanga tātou rāua
+Ka pātai tātou rāua
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+I hanga tātou null
+I hiahia tātou null
+I kite tātou null
+I karanga tātou null
+I pātai tātou null
+INVALID8
+INVALID8
+INVALID8
+I hanga tātou rātou
+I hiahia tātou rātou
+I kite tātou rātou
+I karanga tātou rātou
+I pātai tātou rātou
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Kei te hanga tātou null
+Kei te kite tātou null
+Kei te hiahia tātou null
+Kei te karanga tātou null
+Kei te pātai tātou null
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga tātou rātou
+Kei te kite tātou rātou
+Kei te hiahia tātou rātou
+Kei te karanga tātou rātou
+Kei te pātai tātou rātou
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Ka hanga tātou null
+Ka kite tātou null
+Ka hiahia tātou null
+Ka karanga tātou null
+Ka pātai tātou null
+INVALID8
+INVALID8
+INVALID8
+Ka hanga tātou rātou
+Ka kite tātou rātou
+Ka hiahia tātou rātou
+Ka karanga tātou rātou
+Ka pātai tātou rātou
+INVALID8
+INVALID8
+I haere mātou
+I hanga mātou
+I hiahia mātou
+I kite mātou
+I karanga mātou
+I pātai mātou
+I pānui mātou
+I ako mātou
+Kei te haere mātou
+Kei te hanga mātou
+Kei te kite mātou
+Kei te hiahia mātou
+Kei te karanga mātou
+Kei te pātai mātou
+Kei te pānui mātou
+Kei te ako mātou
+Ka haere mātou
+Ka hanga mātou
+Ka kite mātou
+Ka hiahia mātou
+Ka karanga mātou
+Ka pātai mātou
+Ka pānui mātou
+Ka ako mātou
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+I hanga mātou ia
+I hiahia mātou ia
+I kite mātou ia
+I karanga mātou ia
+I pātai mātou ia
+INVALID8
+INVALID8
+INVALID8
+I hanga mātou ia
+I hiahia mātou ia
+I kite mātou ia
+I karanga mātou ia
+I pātai mātou ia
+INVALID8
+INVALID8
+INVALID8
+I hanga mātou ia
+I hiahia mātou ia
+I kite mātou ia
+I karanga mātou ia
+I pātai mātou ia
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Kei te hanga mātou ia
+Kei te kite mātou ia
+Kei te hiahia mātou ia
+Kei te karanga mātou ia
+Kei te pātai mātou ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga mātou ia
+Kei te kite mātou ia
+Kei te hiahia mātou ia
+Kei te karanga mātou ia
+Kei te pātai mātou ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga mātou ia
+Kei te kite mātou ia
+Kei te hiahia mātou ia
+Kei te karanga mātou ia
+Kei te pātai mātou ia
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Ka hanga mātou ia
+Ka kite mātou ia
+Ka hiahia mātou ia
+Ka karanga mātou ia
+Ka pātai mātou ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga mātou ia
+Ka kite mātou ia
+Ka hiahia mātou ia
+Ka karanga mātou ia
+Ka pātai mātou ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga mātou ia
+Ka kite mātou ia
+Ka hiahia mātou ia
+Ka karanga mātou ia
+Ka pātai mātou ia
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+I hanga mātou kōrua
+I hiahia mātou kōrua
+I kite mātou kōrua
+I karanga mātou kōrua
+I pātai mātou kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga mātou kōrua
+I hiahia mātou kōrua
+I kite mātou kōrua
+I karanga mātou kōrua
+I pātai mātou kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga mātou rāua
+I hiahia mātou rāua
+I kite mātou rāua
+I karanga mātou rāua
+I pātai mātou rāua
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Kei te hanga mātou kōrua
+Kei te kite mātou kōrua
+Kei te hiahia mātou kōrua
+Kei te karanga mātou kōrua
+Kei te pātai mātou kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga mātou kōrua
+Kei te kite mātou kōrua
+Kei te hiahia mātou kōrua
+Kei te karanga mātou kōrua
+Kei te pātai mātou kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga mātou rāua
+Kei te kite mātou rāua
+Kei te hiahia mātou rāua
+Kei te karanga mātou rāua
+Kei te pātai mātou rāua
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Ka hanga mātou kōrua
+Ka kite mātou kōrua
+Ka hiahia mātou kōrua
+Ka karanga mātou kōrua
+Ka pātai mātou kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga mātou kōrua
+Ka kite mātou kōrua
+Ka hiahia mātou kōrua
+Ka karanga mātou kōrua
+Ka pātai mātou kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga mātou rāua
+Ka kite mātou rāua
+Ka hiahia mātou rāua
+Ka karanga mātou rāua
+Ka pātai mātou rāua
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+I hanga mātou null
+I hiahia mātou null
+I kite mātou null
+I karanga mātou null
+I pātai mātou null
+INVALID8
+INVALID8
+INVALID8
+I hanga mātou rātou
+I hiahia mātou rātou
+I kite mātou rātou
+I karanga mātou rātou
+I pātai mātou rātou
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Kei te hanga mātou null
+Kei te kite mātou null
+Kei te hiahia mātou null
+Kei te karanga mātou null
+Kei te pātai mātou null
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga mātou rātou
+Kei te kite mātou rātou
+Kei te hiahia mātou rātou
+Kei te karanga mātou rātou
+Kei te pātai mātou rātou
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Ka hanga mātou null
+Ka kite mātou null
+Ka hiahia mātou null
+Ka karanga mātou null
+Ka pātai mātou null
+INVALID8
+INVALID8
+INVALID8
+Ka hanga mātou rātou
+Ka kite mātou rātou
+Ka hiahia mātou rātou
+Ka karanga mātou rātou
+Ka pātai mātou rātou
+INVALID8
+INVALID8
+I haere koutou
+I hanga koutou
+I hiahia koutou
+I kite koutou
+I karanga koutou
+I pātai koutou
+I pānui koutou
+I ako koutou
+Kei te haere koutou
+Kei te hanga koutou
+Kei te kite koutou
+Kei te hiahia koutou
+Kei te karanga koutou
+Kei te pātai koutou
+Kei te pānui koutou
+Kei te ako koutou
+Ka haere koutou
+Ka hanga koutou
+Ka kite koutou
+Ka hiahia koutou
+Ka karanga koutou
+Ka pātai koutou
+Ka pānui koutou
+Ka ako koutou
+INVALID8
+I hanga koutou ahau
+I hiahia koutou ahau
+I kite koutou ahau
+I karanga koutou ahau
+I pātai koutou ahau
+INVALID8
+INVALID8
+INVALID8
+I hanga koutou ia
+I hiahia koutou ia
+I kite koutou ia
+I karanga koutou ia
+I pātai koutou ia
+INVALID8
+INVALID8
+INVALID8
+I hanga koutou ia
+I hiahia koutou ia
+I kite koutou ia
+I karanga koutou ia
+I pātai koutou ia
+INVALID8
+INVALID8
+INVALID8
+I hanga koutou ia
+I hiahia koutou ia
+I kite koutou ia
+I karanga koutou ia
+I pātai koutou ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koutou ahau
+Kei te kite koutou ahau
+Kei te hiahia koutou ahau
+Kei te karanga koutou ahau
+Kei te pātai koutou ahau
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koutou ia
+Kei te kite koutou ia
+Kei te hiahia koutou ia
+Kei te karanga koutou ia
+Kei te pātai koutou ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koutou ia
+Kei te kite koutou ia
+Kei te hiahia koutou ia
+Kei te karanga koutou ia
+Kei te pātai koutou ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koutou ia
+Kei te kite koutou ia
+Kei te hiahia koutou ia
+Kei te karanga koutou ia
+Kei te pātai koutou ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koutou ahau
+Ka kite koutou ahau
+Ka hiahia koutou ahau
+Ka karanga koutou ahau
+Ka pātai koutou ahau
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koutou ia
+Ka kite koutou ia
+Ka hiahia koutou ia
+Ka karanga koutou ia
+Ka pātai koutou ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koutou ia
+Ka kite koutou ia
+Ka hiahia koutou ia
+Ka karanga koutou ia
+Ka pātai koutou ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koutou ia
+Ka kite koutou ia
+Ka hiahia koutou ia
+Ka karanga koutou ia
+Ka pātai koutou ia
+INVALID8
+INVALID8
+INVALID8
+I hanga koutou tāua
+I hiahia koutou tāua
+I kite koutou tāua
+I karanga koutou tāua
+I pātai koutou tāua
+INVALID8
+INVALID8
+INVALID8
+I hanga koutou māua
+I hiahia koutou māua
+I kite koutou māua
+I karanga koutou māua
+I pātai koutou māua
+INVALID8
+INVALID8
+INVALID8
+I hanga koutou kōrua
+I hiahia koutou kōrua
+I kite koutou kōrua
+I karanga koutou kōrua
+I pātai koutou kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga koutou kōrua
+I hiahia koutou kōrua
+I kite koutou kōrua
+I karanga koutou kōrua
+I pātai koutou kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga koutou rāua
+I hiahia koutou rāua
+I kite koutou rāua
+I karanga koutou rāua
+I pātai koutou rāua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koutou tāua
+Kei te kite koutou tāua
+Kei te hiahia koutou tāua
+Kei te karanga koutou tāua
+Kei te pātai koutou tāua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koutou māua
+Kei te kite koutou māua
+Kei te hiahia koutou māua
+Kei te karanga koutou māua
+Kei te pātai koutou māua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koutou kōrua
+Kei te kite koutou kōrua
+Kei te hiahia koutou kōrua
+Kei te karanga koutou kōrua
+Kei te pātai koutou kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koutou kōrua
+Kei te kite koutou kōrua
+Kei te hiahia koutou kōrua
+Kei te karanga koutou kōrua
+Kei te pātai koutou kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koutou rāua
+Kei te kite koutou rāua
+Kei te hiahia koutou rāua
+Kei te karanga koutou rāua
+Kei te pātai koutou rāua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koutou tāua
+Ka kite koutou tāua
+Ka hiahia koutou tāua
+Ka karanga koutou tāua
+Ka pātai koutou tāua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koutou māua
+Ka kite koutou māua
+Ka hiahia koutou māua
+Ka karanga koutou māua
+Ka pātai koutou māua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koutou kōrua
+Ka kite koutou kōrua
+Ka hiahia koutou kōrua
+Ka karanga koutou kōrua
+Ka pātai koutou kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koutou kōrua
+Ka kite koutou kōrua
+Ka hiahia koutou kōrua
+Ka karanga koutou kōrua
+Ka pātai koutou kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koutou rāua
+Ka kite koutou rāua
+Ka hiahia koutou rāua
+Ka karanga koutou rāua
+Ka pātai koutou rāua
+INVALID8
+INVALID8
+INVALID8
+I hanga koutou tātou
+I hiahia koutou tātou
+I kite koutou tātou
+I karanga koutou tātou
+I pātai koutou tātou
+INVALID8
+INVALID8
+INVALID8
+I hanga koutou mātou
+I hiahia koutou mātou
+I kite koutou mātou
+I karanga koutou mātou
+I pātai koutou mātou
+INVALID8
+INVALID8
+INVALID8
+I hanga koutou null
+I hiahia koutou null
+I kite koutou null
+I karanga koutou null
+I pātai koutou null
+INVALID8
+INVALID8
+INVALID8
+I hanga koutou rātou
+I hiahia koutou rātou
+I kite koutou rātou
+I karanga koutou rātou
+I pātai koutou rātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koutou tātou
+Kei te kite koutou tātou
+Kei te hiahia koutou tātou
+Kei te karanga koutou tātou
+Kei te pātai koutou tātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koutou mātou
+Kei te kite koutou mātou
+Kei te hiahia koutou mātou
+Kei te karanga koutou mātou
+Kei te pātai koutou mātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koutou null
+Kei te kite koutou null
+Kei te hiahia koutou null
+Kei te karanga koutou null
+Kei te pātai koutou null
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga koutou rātou
+Kei te kite koutou rātou
+Kei te hiahia koutou rātou
+Kei te karanga koutou rātou
+Kei te pātai koutou rātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koutou tātou
+Ka kite koutou tātou
+Ka hiahia koutou tātou
+Ka karanga koutou tātou
+Ka pātai koutou tātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koutou mātou
+Ka kite koutou mātou
+Ka hiahia koutou mātou
+Ka karanga koutou mātou
+Ka pātai koutou mātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koutou null
+Ka kite koutou null
+Ka hiahia koutou null
+Ka karanga koutou null
+Ka pātai koutou null
+INVALID8
+INVALID8
+INVALID8
+Ka hanga koutou rātou
+Ka kite koutou rātou
+Ka hiahia koutou rātou
+Ka karanga koutou rātou
+Ka pātai koutou rātou
+INVALID8
+INVALID8
+I haere rātou
+I hanga rātou
+I hiahia rātou
+I kite rātou
+I karanga rātou
+I pātai rātou
+I pānui rātou
+I ako rātou
+Kei te haere rātou
+Kei te hanga rātou
+Kei te kite rātou
+Kei te hiahia rātou
+Kei te karanga rātou
+Kei te pātai rātou
+Kei te pānui rātou
+Kei te ako rātou
+Ka haere rātou
+Ka hanga rātou
+Ka kite rātou
+Ka hiahia rātou
+Ka karanga rātou
+Ka pātai rātou
+Ka pānui rātou
+Ka ako rātou
+INVALID8
+I hanga rātou ahau
+I hiahia rātou ahau
+I kite rātou ahau
+I karanga rātou ahau
+I pātai rātou ahau
+INVALID8
+INVALID8
+INVALID8
+I hanga rātou ia
+I hiahia rātou ia
+I kite rātou ia
+I karanga rātou ia
+I pātai rātou ia
+INVALID8
+INVALID8
+INVALID8
+I hanga rātou ia
+I hiahia rātou ia
+I kite rātou ia
+I karanga rātou ia
+I pātai rātou ia
+INVALID8
+INVALID8
+INVALID8
+I hanga rātou ia
+I hiahia rātou ia
+I kite rātou ia
+I karanga rātou ia
+I pātai rātou ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rātou ahau
+Kei te kite rātou ahau
+Kei te hiahia rātou ahau
+Kei te karanga rātou ahau
+Kei te pātai rātou ahau
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rātou ia
+Kei te kite rātou ia
+Kei te hiahia rātou ia
+Kei te karanga rātou ia
+Kei te pātai rātou ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rātou ia
+Kei te kite rātou ia
+Kei te hiahia rātou ia
+Kei te karanga rātou ia
+Kei te pātai rātou ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rātou ia
+Kei te kite rātou ia
+Kei te hiahia rātou ia
+Kei te karanga rātou ia
+Kei te pātai rātou ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rātou ahau
+Ka kite rātou ahau
+Ka hiahia rātou ahau
+Ka karanga rātou ahau
+Ka pātai rātou ahau
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rātou ia
+Ka kite rātou ia
+Ka hiahia rātou ia
+Ka karanga rātou ia
+Ka pātai rātou ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rātou ia
+Ka kite rātou ia
+Ka hiahia rātou ia
+Ka karanga rātou ia
+Ka pātai rātou ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rātou ia
+Ka kite rātou ia
+Ka hiahia rātou ia
+Ka karanga rātou ia
+Ka pātai rātou ia
+INVALID8
+INVALID8
+INVALID8
+I hanga rātou tāua
+I hiahia rātou tāua
+I kite rātou tāua
+I karanga rātou tāua
+I pātai rātou tāua
+INVALID8
+INVALID8
+INVALID8
+I hanga rātou māua
+I hiahia rātou māua
+I kite rātou māua
+I karanga rātou māua
+I pātai rātou māua
+INVALID8
+INVALID8
+INVALID8
+I hanga rātou kōrua
+I hiahia rātou kōrua
+I kite rātou kōrua
+I karanga rātou kōrua
+I pātai rātou kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga rātou kōrua
+I hiahia rātou kōrua
+I kite rātou kōrua
+I karanga rātou kōrua
+I pātai rātou kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga rātou rāua
+I hiahia rātou rāua
+I kite rātou rāua
+I karanga rātou rāua
+I pātai rātou rāua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rātou tāua
+Kei te kite rātou tāua
+Kei te hiahia rātou tāua
+Kei te karanga rātou tāua
+Kei te pātai rātou tāua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rātou māua
+Kei te kite rātou māua
+Kei te hiahia rātou māua
+Kei te karanga rātou māua
+Kei te pātai rātou māua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rātou kōrua
+Kei te kite rātou kōrua
+Kei te hiahia rātou kōrua
+Kei te karanga rātou kōrua
+Kei te pātai rātou kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rātou kōrua
+Kei te kite rātou kōrua
+Kei te hiahia rātou kōrua
+Kei te karanga rātou kōrua
+Kei te pātai rātou kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rātou rāua
+Kei te kite rātou rāua
+Kei te hiahia rātou rāua
+Kei te karanga rātou rāua
+Kei te pātai rātou rāua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rātou tāua
+Ka kite rātou tāua
+Ka hiahia rātou tāua
+Ka karanga rātou tāua
+Ka pātai rātou tāua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rātou māua
+Ka kite rātou māua
+Ka hiahia rātou māua
+Ka karanga rātou māua
+Ka pātai rātou māua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rātou kōrua
+Ka kite rātou kōrua
+Ka hiahia rātou kōrua
+Ka karanga rātou kōrua
+Ka pātai rātou kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rātou kōrua
+Ka kite rātou kōrua
+Ka hiahia rātou kōrua
+Ka karanga rātou kōrua
+Ka pātai rātou kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rātou rāua
+Ka kite rātou rāua
+Ka hiahia rātou rāua
+Ka karanga rātou rāua
+Ka pātai rātou rāua
+INVALID8
+INVALID8
+INVALID8
+I hanga rātou tātou
+I hiahia rātou tātou
+I kite rātou tātou
+I karanga rātou tātou
+I pātai rātou tātou
+INVALID8
+INVALID8
+INVALID8
+I hanga rātou mātou
+I hiahia rātou mātou
+I kite rātou mātou
+I karanga rātou mātou
+I pātai rātou mātou
+INVALID8
+INVALID8
+INVALID8
+I hanga rātou null
+I hiahia rātou null
+I kite rātou null
+I karanga rātou null
+I pātai rātou null
+INVALID8
+INVALID8
+INVALID8
+I hanga rātou rātou
+I hiahia rātou rātou
+I kite rātou rātou
+I karanga rātou rātou
+I pātai rātou rātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rātou tātou
+Kei te kite rātou tātou
+Kei te hiahia rātou tātou
+Kei te karanga rātou tātou
+Kei te pātai rātou tātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rātou mātou
+Kei te kite rātou mātou
+Kei te hiahia rātou mātou
+Kei te karanga rātou mātou
+Kei te pātai rātou mātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rātou null
+Kei te kite rātou null
+Kei te hiahia rātou null
+Kei te karanga rātou null
+Kei te pātai rātou null
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rātou rātou
+Kei te kite rātou rātou
+Kei te hiahia rātou rātou
+Kei te karanga rātou rātou
+Kei te pātai rātou rātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rātou tātou
+Ka kite rātou tātou
+Ka hiahia rātou tātou
+Ka karanga rātou tātou
+Ka pātai rātou tātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rātou mātou
+Ka kite rātou mātou
+Ka hiahia rātou mātou
+Ka karanga rātou mātou
+Ka pātai rātou mātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rātou null
+Ka kite rātou null
+Ka hiahia rātou null
+Ka karanga rātou null
+Ka pātai rātou null
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rātou rātou
+Ka kite rātou rātou
+Ka hiahia rātou rātou
+Ka karanga rātou rātou
+Ka pātai rātou rātou
+INVALID8
+INVALID8
+I haere tāua
+I hanga tāua
+I hiahia tāua
+I kite tāua
+I karanga tāua
+I pātai tāua
+I pānui tāua
+I ako tāua
+Kei te haere tāua
+Kei te hanga tāua
+Kei te kite tāua
+Kei te hiahia tāua
+Kei te karanga tāua
+Kei te pātai tāua
+Kei te pānui tāua
+Kei te ako tāua
+Ka haere tāua
+Ka hanga tāua
+Ka kite tāua
+Ka hiahia tāua
+Ka karanga tāua
+Ka pātai tāua
+Ka pānui tāua
+Ka ako tāua
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+I hanga tāua ia
+I hiahia tāua ia
+I kite tāua ia
+I karanga tāua ia
+I pātai tāua ia
+INVALID8
+INVALID8
+INVALID8
+I hanga tāua ia
+I hiahia tāua ia
+I kite tāua ia
+I karanga tāua ia
+I pātai tāua ia
+INVALID8
+INVALID8
+INVALID8
+I hanga tāua ia
+I hiahia tāua ia
+I kite tāua ia
+I karanga tāua ia
+I pātai tāua ia
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Kei te hanga tāua ia
+Kei te kite tāua ia
+Kei te hiahia tāua ia
+Kei te karanga tāua ia
+Kei te pātai tāua ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga tāua ia
+Kei te kite tāua ia
+Kei te hiahia tāua ia
+Kei te karanga tāua ia
+Kei te pātai tāua ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga tāua ia
+Kei te kite tāua ia
+Kei te hiahia tāua ia
+Kei te karanga tāua ia
+Kei te pātai tāua ia
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Ka hanga tāua ia
+Ka kite tāua ia
+Ka hiahia tāua ia
+Ka karanga tāua ia
+Ka pātai tāua ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga tāua ia
+Ka kite tāua ia
+Ka hiahia tāua ia
+Ka karanga tāua ia
+Ka pātai tāua ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga tāua ia
+Ka kite tāua ia
+Ka hiahia tāua ia
+Ka karanga tāua ia
+Ka pātai tāua ia
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+I hanga tāua kōrua
+I hiahia tāua kōrua
+I kite tāua kōrua
+I karanga tāua kōrua
+I pātai tāua kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga tāua kōrua
+I hiahia tāua kōrua
+I kite tāua kōrua
+I karanga tāua kōrua
+I pātai tāua kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga tāua rāua
+I hiahia tāua rāua
+I kite tāua rāua
+I karanga tāua rāua
+I pātai tāua rāua
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Kei te hanga tāua kōrua
+Kei te kite tāua kōrua
+Kei te hiahia tāua kōrua
+Kei te karanga tāua kōrua
+Kei te pātai tāua kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga tāua kōrua
+Kei te kite tāua kōrua
+Kei te hiahia tāua kōrua
+Kei te karanga tāua kōrua
+Kei te pātai tāua kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga tāua rāua
+Kei te kite tāua rāua
+Kei te hiahia tāua rāua
+Kei te karanga tāua rāua
+Kei te pātai tāua rāua
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Ka hanga tāua kōrua
+Ka kite tāua kōrua
+Ka hiahia tāua kōrua
+Ka karanga tāua kōrua
+Ka pātai tāua kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga tāua kōrua
+Ka kite tāua kōrua
+Ka hiahia tāua kōrua
+Ka karanga tāua kōrua
+Ka pātai tāua kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga tāua rāua
+Ka kite tāua rāua
+Ka hiahia tāua rāua
+Ka karanga tāua rāua
+Ka pātai tāua rāua
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+I hanga tāua null
+I hiahia tāua null
+I kite tāua null
+I karanga tāua null
+I pātai tāua null
+INVALID8
+INVALID8
+INVALID8
+I hanga tāua rātou
+I hiahia tāua rātou
+I kite tāua rātou
+I karanga tāua rātou
+I pātai tāua rātou
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Kei te hanga tāua null
+Kei te kite tāua null
+Kei te hiahia tāua null
+Kei te karanga tāua null
+Kei te pātai tāua null
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga tāua rātou
+Kei te kite tāua rātou
+Kei te hiahia tāua rātou
+Kei te karanga tāua rātou
+Kei te pātai tāua rātou
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Ka hanga tāua null
+Ka kite tāua null
+Ka hiahia tāua null
+Ka karanga tāua null
+Ka pātai tāua null
+INVALID8
+INVALID8
+INVALID8
+Ka hanga tāua rātou
+Ka kite tāua rātou
+Ka hiahia tāua rātou
+Ka karanga tāua rātou
+Ka pātai tāua rātou
+INVALID8
+INVALID8
+I haere māua
+I hanga māua
+I hiahia māua
+I kite māua
+I karanga māua
+I pātai māua
+I pānui māua
+I ako māua
+Kei te haere māua
+Kei te hanga māua
+Kei te kite māua
+Kei te hiahia māua
+Kei te karanga māua
+Kei te pātai māua
+Kei te pānui māua
+Kei te ako māua
+Ka haere māua
+Ka hanga māua
+Ka kite māua
+Ka hiahia māua
+Ka karanga māua
+Ka pātai māua
+Ka pānui māua
+Ka ako māua
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+I hanga māua ia
+I hiahia māua ia
+I kite māua ia
+I karanga māua ia
+I pātai māua ia
+INVALID8
+INVALID8
+INVALID8
+I hanga māua ia
+I hiahia māua ia
+I kite māua ia
+I karanga māua ia
+I pātai māua ia
+INVALID8
+INVALID8
+INVALID8
+I hanga māua ia
+I hiahia māua ia
+I kite māua ia
+I karanga māua ia
+I pātai māua ia
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Kei te hanga māua ia
+Kei te kite māua ia
+Kei te hiahia māua ia
+Kei te karanga māua ia
+Kei te pātai māua ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga māua ia
+Kei te kite māua ia
+Kei te hiahia māua ia
+Kei te karanga māua ia
+Kei te pātai māua ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga māua ia
+Kei te kite māua ia
+Kei te hiahia māua ia
+Kei te karanga māua ia
+Kei te pātai māua ia
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Ka hanga māua ia
+Ka kite māua ia
+Ka hiahia māua ia
+Ka karanga māua ia
+Ka pātai māua ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga māua ia
+Ka kite māua ia
+Ka hiahia māua ia
+Ka karanga māua ia
+Ka pātai māua ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga māua ia
+Ka kite māua ia
+Ka hiahia māua ia
+Ka karanga māua ia
+Ka pātai māua ia
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+I hanga māua kōrua
+I hiahia māua kōrua
+I kite māua kōrua
+I karanga māua kōrua
+I pātai māua kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga māua kōrua
+I hiahia māua kōrua
+I kite māua kōrua
+I karanga māua kōrua
+I pātai māua kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga māua rāua
+I hiahia māua rāua
+I kite māua rāua
+I karanga māua rāua
+I pātai māua rāua
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Kei te hanga māua kōrua
+Kei te kite māua kōrua
+Kei te hiahia māua kōrua
+Kei te karanga māua kōrua
+Kei te pātai māua kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga māua kōrua
+Kei te kite māua kōrua
+Kei te hiahia māua kōrua
+Kei te karanga māua kōrua
+Kei te pātai māua kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga māua rāua
+Kei te kite māua rāua
+Kei te hiahia māua rāua
+Kei te karanga māua rāua
+Kei te pātai māua rāua
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Ka hanga māua kōrua
+Ka kite māua kōrua
+Ka hiahia māua kōrua
+Ka karanga māua kōrua
+Ka pātai māua kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga māua kōrua
+Ka kite māua kōrua
+Ka hiahia māua kōrua
+Ka karanga māua kōrua
+Ka pātai māua kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga māua rāua
+Ka kite māua rāua
+Ka hiahia māua rāua
+Ka karanga māua rāua
+Ka pātai māua rāua
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+I hanga māua null
+I hiahia māua null
+I kite māua null
+I karanga māua null
+I pātai māua null
+INVALID8
+INVALID8
+INVALID8
+I hanga māua rātou
+I hiahia māua rātou
+I kite māua rātou
+I karanga māua rātou
+I pātai māua rātou
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Kei te hanga māua null
+Kei te kite māua null
+Kei te hiahia māua null
+Kei te karanga māua null
+Kei te pātai māua null
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga māua rātou
+Kei te kite māua rātou
+Kei te hiahia māua rātou
+Kei te karanga māua rātou
+Kei te pātai māua rātou
+INVALID8
+INVALID8
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID7
+INVALID8
+Ka hanga māua null
+Ka kite māua null
+Ka hiahia māua null
+Ka karanga māua null
+Ka pātai māua null
+INVALID8
+INVALID8
+INVALID8
+Ka hanga māua rātou
+Ka kite māua rātou
+Ka hiahia māua rātou
+Ka karanga māua rātou
+Ka pātai māua rātou
+INVALID8
+INVALID8
+I haere kōrua
+I hanga kōrua
+I hiahia kōrua
+I kite kōrua
+I karanga kōrua
+I pātai kōrua
+I pānui kōrua
+I ako kōrua
+Kei te haere kōrua
+Kei te hanga kōrua
+Kei te kite kōrua
+Kei te hiahia kōrua
+Kei te karanga kōrua
+Kei te pātai kōrua
+Kei te pānui kōrua
+Kei te ako kōrua
+Ka haere kōrua
+Ka hanga kōrua
+Ka kite kōrua
+Ka hiahia kōrua
+Ka karanga kōrua
+Ka pātai kōrua
+Ka pānui kōrua
+Ka ako kōrua
+INVALID8
+I hanga kōrua ahau
+I hiahia kōrua ahau
+I kite kōrua ahau
+I karanga kōrua ahau
+I pātai kōrua ahau
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua ia
+I hiahia kōrua ia
+I kite kōrua ia
+I karanga kōrua ia
+I pātai kōrua ia
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua ia
+I hiahia kōrua ia
+I kite kōrua ia
+I karanga kōrua ia
+I pātai kōrua ia
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua ia
+I hiahia kōrua ia
+I kite kōrua ia
+I karanga kōrua ia
+I pātai kōrua ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua ahau
+Kei te kite kōrua ahau
+Kei te hiahia kōrua ahau
+Kei te karanga kōrua ahau
+Kei te pātai kōrua ahau
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua ia
+Kei te kite kōrua ia
+Kei te hiahia kōrua ia
+Kei te karanga kōrua ia
+Kei te pātai kōrua ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua ia
+Kei te kite kōrua ia
+Kei te hiahia kōrua ia
+Kei te karanga kōrua ia
+Kei te pātai kōrua ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua ia
+Kei te kite kōrua ia
+Kei te hiahia kōrua ia
+Kei te karanga kōrua ia
+Kei te pātai kōrua ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua ahau
+Ka kite kōrua ahau
+Ka hiahia kōrua ahau
+Ka karanga kōrua ahau
+Ka pātai kōrua ahau
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua ia
+Ka kite kōrua ia
+Ka hiahia kōrua ia
+Ka karanga kōrua ia
+Ka pātai kōrua ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua ia
+Ka kite kōrua ia
+Ka hiahia kōrua ia
+Ka karanga kōrua ia
+Ka pātai kōrua ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua ia
+Ka kite kōrua ia
+Ka hiahia kōrua ia
+Ka karanga kōrua ia
+Ka pātai kōrua ia
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua tāua
+I hiahia kōrua tāua
+I kite kōrua tāua
+I karanga kōrua tāua
+I pātai kōrua tāua
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua māua
+I hiahia kōrua māua
+I kite kōrua māua
+I karanga kōrua māua
+I pātai kōrua māua
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua kōrua
+I hiahia kōrua kōrua
+I kite kōrua kōrua
+I karanga kōrua kōrua
+I pātai kōrua kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua kōrua
+I hiahia kōrua kōrua
+I kite kōrua kōrua
+I karanga kōrua kōrua
+I pātai kōrua kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua rāua
+I hiahia kōrua rāua
+I kite kōrua rāua
+I karanga kōrua rāua
+I pātai kōrua rāua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua tāua
+Kei te kite kōrua tāua
+Kei te hiahia kōrua tāua
+Kei te karanga kōrua tāua
+Kei te pātai kōrua tāua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua māua
+Kei te kite kōrua māua
+Kei te hiahia kōrua māua
+Kei te karanga kōrua māua
+Kei te pātai kōrua māua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua kōrua
+Kei te kite kōrua kōrua
+Kei te hiahia kōrua kōrua
+Kei te karanga kōrua kōrua
+Kei te pātai kōrua kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua kōrua
+Kei te kite kōrua kōrua
+Kei te hiahia kōrua kōrua
+Kei te karanga kōrua kōrua
+Kei te pātai kōrua kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua rāua
+Kei te kite kōrua rāua
+Kei te hiahia kōrua rāua
+Kei te karanga kōrua rāua
+Kei te pātai kōrua rāua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua tāua
+Ka kite kōrua tāua
+Ka hiahia kōrua tāua
+Ka karanga kōrua tāua
+Ka pātai kōrua tāua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua māua
+Ka kite kōrua māua
+Ka hiahia kōrua māua
+Ka karanga kōrua māua
+Ka pātai kōrua māua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua kōrua
+Ka kite kōrua kōrua
+Ka hiahia kōrua kōrua
+Ka karanga kōrua kōrua
+Ka pātai kōrua kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua kōrua
+Ka kite kōrua kōrua
+Ka hiahia kōrua kōrua
+Ka karanga kōrua kōrua
+Ka pātai kōrua kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua rāua
+Ka kite kōrua rāua
+Ka hiahia kōrua rāua
+Ka karanga kōrua rāua
+Ka pātai kōrua rāua
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua tātou
+I hiahia kōrua tātou
+I kite kōrua tātou
+I karanga kōrua tātou
+I pātai kōrua tātou
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua mātou
+I hiahia kōrua mātou
+I kite kōrua mātou
+I karanga kōrua mātou
+I pātai kōrua mātou
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua null
+I hiahia kōrua null
+I kite kōrua null
+I karanga kōrua null
+I pātai kōrua null
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua rātou
+I hiahia kōrua rātou
+I kite kōrua rātou
+I karanga kōrua rātou
+I pātai kōrua rātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua tātou
+Kei te kite kōrua tātou
+Kei te hiahia kōrua tātou
+Kei te karanga kōrua tātou
+Kei te pātai kōrua tātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua mātou
+Kei te kite kōrua mātou
+Kei te hiahia kōrua mātou
+Kei te karanga kōrua mātou
+Kei te pātai kōrua mātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua null
+Kei te kite kōrua null
+Kei te hiahia kōrua null
+Kei te karanga kōrua null
+Kei te pātai kōrua null
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua rātou
+Kei te kite kōrua rātou
+Kei te hiahia kōrua rātou
+Kei te karanga kōrua rātou
+Kei te pātai kōrua rātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua tātou
+Ka kite kōrua tātou
+Ka hiahia kōrua tātou
+Ka karanga kōrua tātou
+Ka pātai kōrua tātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua mātou
+Ka kite kōrua mātou
+Ka hiahia kōrua mātou
+Ka karanga kōrua mātou
+Ka pātai kōrua mātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua null
+Ka kite kōrua null
+Ka hiahia kōrua null
+Ka karanga kōrua null
+Ka pātai kōrua null
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua rātou
+Ka kite kōrua rātou
+Ka hiahia kōrua rātou
+Ka karanga kōrua rātou
+Ka pātai kōrua rātou
+INVALID8
+INVALID8
+I haere kōrua
+I hanga kōrua
+I hiahia kōrua
+I kite kōrua
+I karanga kōrua
+I pātai kōrua
+I pānui kōrua
+I ako kōrua
+Kei te haere kōrua
+Kei te hanga kōrua
+Kei te kite kōrua
+Kei te hiahia kōrua
+Kei te karanga kōrua
+Kei te pātai kōrua
+Kei te pānui kōrua
+Kei te ako kōrua
+Ka haere kōrua
+Ka hanga kōrua
+Ka kite kōrua
+Ka hiahia kōrua
+Ka karanga kōrua
+Ka pātai kōrua
+Ka pānui kōrua
+Ka ako kōrua
+INVALID8
+I hanga kōrua ahau
+I hiahia kōrua ahau
+I kite kōrua ahau
+I karanga kōrua ahau
+I pātai kōrua ahau
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua ia
+I hiahia kōrua ia
+I kite kōrua ia
+I karanga kōrua ia
+I pātai kōrua ia
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua ia
+I hiahia kōrua ia
+I kite kōrua ia
+I karanga kōrua ia
+I pātai kōrua ia
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua ia
+I hiahia kōrua ia
+I kite kōrua ia
+I karanga kōrua ia
+I pātai kōrua ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua ahau
+Kei te kite kōrua ahau
+Kei te hiahia kōrua ahau
+Kei te karanga kōrua ahau
+Kei te pātai kōrua ahau
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua ia
+Kei te kite kōrua ia
+Kei te hiahia kōrua ia
+Kei te karanga kōrua ia
+Kei te pātai kōrua ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua ia
+Kei te kite kōrua ia
+Kei te hiahia kōrua ia
+Kei te karanga kōrua ia
+Kei te pātai kōrua ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua ia
+Kei te kite kōrua ia
+Kei te hiahia kōrua ia
+Kei te karanga kōrua ia
+Kei te pātai kōrua ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua ahau
+Ka kite kōrua ahau
+Ka hiahia kōrua ahau
+Ka karanga kōrua ahau
+Ka pātai kōrua ahau
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua ia
+Ka kite kōrua ia
+Ka hiahia kōrua ia
+Ka karanga kōrua ia
+Ka pātai kōrua ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua ia
+Ka kite kōrua ia
+Ka hiahia kōrua ia
+Ka karanga kōrua ia
+Ka pātai kōrua ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua ia
+Ka kite kōrua ia
+Ka hiahia kōrua ia
+Ka karanga kōrua ia
+Ka pātai kōrua ia
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua tāua
+I hiahia kōrua tāua
+I kite kōrua tāua
+I karanga kōrua tāua
+I pātai kōrua tāua
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua māua
+I hiahia kōrua māua
+I kite kōrua māua
+I karanga kōrua māua
+I pātai kōrua māua
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua kōrua
+I hiahia kōrua kōrua
+I kite kōrua kōrua
+I karanga kōrua kōrua
+I pātai kōrua kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua kōrua
+I hiahia kōrua kōrua
+I kite kōrua kōrua
+I karanga kōrua kōrua
+I pātai kōrua kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua rāua
+I hiahia kōrua rāua
+I kite kōrua rāua
+I karanga kōrua rāua
+I pātai kōrua rāua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua tāua
+Kei te kite kōrua tāua
+Kei te hiahia kōrua tāua
+Kei te karanga kōrua tāua
+Kei te pātai kōrua tāua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua māua
+Kei te kite kōrua māua
+Kei te hiahia kōrua māua
+Kei te karanga kōrua māua
+Kei te pātai kōrua māua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua kōrua
+Kei te kite kōrua kōrua
+Kei te hiahia kōrua kōrua
+Kei te karanga kōrua kōrua
+Kei te pātai kōrua kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua kōrua
+Kei te kite kōrua kōrua
+Kei te hiahia kōrua kōrua
+Kei te karanga kōrua kōrua
+Kei te pātai kōrua kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua rāua
+Kei te kite kōrua rāua
+Kei te hiahia kōrua rāua
+Kei te karanga kōrua rāua
+Kei te pātai kōrua rāua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua tāua
+Ka kite kōrua tāua
+Ka hiahia kōrua tāua
+Ka karanga kōrua tāua
+Ka pātai kōrua tāua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua māua
+Ka kite kōrua māua
+Ka hiahia kōrua māua
+Ka karanga kōrua māua
+Ka pātai kōrua māua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua kōrua
+Ka kite kōrua kōrua
+Ka hiahia kōrua kōrua
+Ka karanga kōrua kōrua
+Ka pātai kōrua kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua kōrua
+Ka kite kōrua kōrua
+Ka hiahia kōrua kōrua
+Ka karanga kōrua kōrua
+Ka pātai kōrua kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua rāua
+Ka kite kōrua rāua
+Ka hiahia kōrua rāua
+Ka karanga kōrua rāua
+Ka pātai kōrua rāua
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua tātou
+I hiahia kōrua tātou
+I kite kōrua tātou
+I karanga kōrua tātou
+I pātai kōrua tātou
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua mātou
+I hiahia kōrua mātou
+I kite kōrua mātou
+I karanga kōrua mātou
+I pātai kōrua mātou
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua null
+I hiahia kōrua null
+I kite kōrua null
+I karanga kōrua null
+I pātai kōrua null
+INVALID8
+INVALID8
+INVALID8
+I hanga kōrua rātou
+I hiahia kōrua rātou
+I kite kōrua rātou
+I karanga kōrua rātou
+I pātai kōrua rātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua tātou
+Kei te kite kōrua tātou
+Kei te hiahia kōrua tātou
+Kei te karanga kōrua tātou
+Kei te pātai kōrua tātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua mātou
+Kei te kite kōrua mātou
+Kei te hiahia kōrua mātou
+Kei te karanga kōrua mātou
+Kei te pātai kōrua mātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua null
+Kei te kite kōrua null
+Kei te hiahia kōrua null
+Kei te karanga kōrua null
+Kei te pātai kōrua null
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga kōrua rātou
+Kei te kite kōrua rātou
+Kei te hiahia kōrua rātou
+Kei te karanga kōrua rātou
+Kei te pātai kōrua rātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua tātou
+Ka kite kōrua tātou
+Ka hiahia kōrua tātou
+Ka karanga kōrua tātou
+Ka pātai kōrua tātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua mātou
+Ka kite kōrua mātou
+Ka hiahia kōrua mātou
+Ka karanga kōrua mātou
+Ka pātai kōrua mātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua null
+Ka kite kōrua null
+Ka hiahia kōrua null
+Ka karanga kōrua null
+Ka pātai kōrua null
+INVALID8
+INVALID8
+INVALID8
+Ka hanga kōrua rātou
+Ka kite kōrua rātou
+Ka hiahia kōrua rātou
+Ka karanga kōrua rātou
+Ka pātai kōrua rātou
+INVALID8
+INVALID8
+I haere rāua
+I hanga rāua
+I hiahia rāua
+I kite rāua
+I karanga rāua
+I pātai rāua
+I pānui rāua
+I ako rāua
+Kei te haere rāua
+Kei te hanga rāua
+Kei te kite rāua
+Kei te hiahia rāua
+Kei te karanga rāua
+Kei te pātai rāua
+Kei te pānui rāua
+Kei te ako rāua
+Ka haere rāua
+Ka hanga rāua
+Ka kite rāua
+Ka hiahia rāua
+Ka karanga rāua
+Ka pātai rāua
+Ka pānui rāua
+Ka ako rāua
+INVALID8
+I hanga rāua ahau
+I hiahia rāua ahau
+I kite rāua ahau
+I karanga rāua ahau
+I pātai rāua ahau
+INVALID8
+INVALID8
+INVALID8
+I hanga rāua ia
+I hiahia rāua ia
+I kite rāua ia
+I karanga rāua ia
+I pātai rāua ia
+INVALID8
+INVALID8
+INVALID8
+I hanga rāua ia
+I hiahia rāua ia
+I kite rāua ia
+I karanga rāua ia
+I pātai rāua ia
+INVALID8
+INVALID8
+INVALID8
+I hanga rāua ia
+I hiahia rāua ia
+I kite rāua ia
+I karanga rāua ia
+I pātai rāua ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rāua ahau
+Kei te kite rāua ahau
+Kei te hiahia rāua ahau
+Kei te karanga rāua ahau
+Kei te pātai rāua ahau
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rāua ia
+Kei te kite rāua ia
+Kei te hiahia rāua ia
+Kei te karanga rāua ia
+Kei te pātai rāua ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rāua ia
+Kei te kite rāua ia
+Kei te hiahia rāua ia
+Kei te karanga rāua ia
+Kei te pātai rāua ia
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rāua ia
+Kei te kite rāua ia
+Kei te hiahia rāua ia
+Kei te karanga rāua ia
+Kei te pātai rāua ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rāua ahau
+Ka kite rāua ahau
+Ka hiahia rāua ahau
+Ka karanga rāua ahau
+Ka pātai rāua ahau
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rāua ia
+Ka kite rāua ia
+Ka hiahia rāua ia
+Ka karanga rāua ia
+Ka pātai rāua ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rāua ia
+Ka kite rāua ia
+Ka hiahia rāua ia
+Ka karanga rāua ia
+Ka pātai rāua ia
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rāua ia
+Ka kite rāua ia
+Ka hiahia rāua ia
+Ka karanga rāua ia
+Ka pātai rāua ia
+INVALID8
+INVALID8
+INVALID8
+I hanga rāua tāua
+I hiahia rāua tāua
+I kite rāua tāua
+I karanga rāua tāua
+I pātai rāua tāua
+INVALID8
+INVALID8
+INVALID8
+I hanga rāua māua
+I hiahia rāua māua
+I kite rāua māua
+I karanga rāua māua
+I pātai rāua māua
+INVALID8
+INVALID8
+INVALID8
+I hanga rāua kōrua
+I hiahia rāua kōrua
+I kite rāua kōrua
+I karanga rāua kōrua
+I pātai rāua kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga rāua kōrua
+I hiahia rāua kōrua
+I kite rāua kōrua
+I karanga rāua kōrua
+I pātai rāua kōrua
+INVALID8
+INVALID8
+INVALID8
+I hanga rāua rāua
+I hiahia rāua rāua
+I kite rāua rāua
+I karanga rāua rāua
+I pātai rāua rāua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rāua tāua
+Kei te kite rāua tāua
+Kei te hiahia rāua tāua
+Kei te karanga rāua tāua
+Kei te pātai rāua tāua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rāua māua
+Kei te kite rāua māua
+Kei te hiahia rāua māua
+Kei te karanga rāua māua
+Kei te pātai rāua māua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rāua kōrua
+Kei te kite rāua kōrua
+Kei te hiahia rāua kōrua
+Kei te karanga rāua kōrua
+Kei te pātai rāua kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rāua kōrua
+Kei te kite rāua kōrua
+Kei te hiahia rāua kōrua
+Kei te karanga rāua kōrua
+Kei te pātai rāua kōrua
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rāua rāua
+Kei te kite rāua rāua
+Kei te hiahia rāua rāua
+Kei te karanga rāua rāua
+Kei te pātai rāua rāua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rāua tāua
+Ka kite rāua tāua
+Ka hiahia rāua tāua
+Ka karanga rāua tāua
+Ka pātai rāua tāua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rāua māua
+Ka kite rāua māua
+Ka hiahia rāua māua
+Ka karanga rāua māua
+Ka pātai rāua māua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rāua kōrua
+Ka kite rāua kōrua
+Ka hiahia rāua kōrua
+Ka karanga rāua kōrua
+Ka pātai rāua kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rāua kōrua
+Ka kite rāua kōrua
+Ka hiahia rāua kōrua
+Ka karanga rāua kōrua
+Ka pātai rāua kōrua
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rāua rāua
+Ka kite rāua rāua
+Ka hiahia rāua rāua
+Ka karanga rāua rāua
+Ka pātai rāua rāua
+INVALID8
+INVALID8
+INVALID8
+I hanga rāua tātou
+I hiahia rāua tātou
+I kite rāua tātou
+I karanga rāua tātou
+I pātai rāua tātou
+INVALID8
+INVALID8
+INVALID8
+I hanga rāua mātou
+I hiahia rāua mātou
+I kite rāua mātou
+I karanga rāua mātou
+I pātai rāua mātou
+INVALID8
+INVALID8
+INVALID8
+I hanga rāua null
+I hiahia rāua null
+I kite rāua null
+I karanga rāua null
+I pātai rāua null
+INVALID8
+INVALID8
+INVALID8
+I hanga rāua rātou
+I hiahia rāua rātou
+I kite rāua rātou
+I karanga rāua rātou
+I pātai rāua rātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rāua tātou
+Kei te kite rāua tātou
+Kei te hiahia rāua tātou
+Kei te karanga rāua tātou
+Kei te pātai rāua tātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rāua mātou
+Kei te kite rāua mātou
+Kei te hiahia rāua mātou
+Kei te karanga rāua mātou
+Kei te pātai rāua mātou
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rāua null
+Kei te kite rāua null
+Kei te hiahia rāua null
+Kei te karanga rāua null
+Kei te pātai rāua null
+INVALID8
+INVALID8
+INVALID8
+Kei te hanga rāua rātou
+Kei te kite rāua rātou
+Kei te hiahia rāua rātou
+Kei te karanga rāua rātou
+Kei te pātai rāua rātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rāua tātou
+Ka kite rāua tātou
+Ka hiahia rāua tātou
+Ka karanga rāua tātou
+Ka pātai rāua tātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rāua mātou
+Ka kite rāua mātou
+Ka hiahia rāua mātou
+Ka karanga rāua mātou
+Ka pātai rāua mātou
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rāua null
+Ka kite rāua null
+Ka hiahia rāua null
+Ka karanga rāua null
+Ka pātai rāua null
+INVALID8
+INVALID8
+INVALID8
+Ka hanga rāua rātou
+Ka kite rāua rātou
+Ka hiahia rāua rātou
+Ka karanga rāua rātou
+Ka pātai rāua rātou
+INVALID8
+INVALID8
