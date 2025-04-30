@@ -23,7 +23,7 @@ public class E4{
 
         boolean leap = true;
 
-        while(y<2052){
+        while(y<2102){
             if((y % 4 == 0 && y % 100 != 0) || (y % 400 == 0)){
                 daysInMonths[1] = 29;
                 leap = true;
@@ -33,33 +33,29 @@ public class E4{
             }
             
 
-            if(ny==2050){
-                //System.out.println(d + " " + oldMonths[m-1] + " " + y + "\t ---> \t " + dow[(totalDays+4)%10]+ " " + nd + " " + newMonths[nm-1] + " " + ny);
+            if(y<2101 || (y==2101 & m==1 & d==1)){
+                System.out.println(d + " " + oldMonths[m-1] + " " + y + "\t ---> \t " + dow[(totalDays+4)%10]+ " " + nd + " " + newMonths[nm-1] + " " + ny);
                 //System.out.println(dow[(totalDays+4)%10]+ " " + nd + " " + newMonths[nm-1] + " " + ny);
                 //System.out.println(d + " " + oldMonths[m-1] + " " + y);
 
-                if (nd == 1) {  // New Month starts
-                    System.out.println("\n" + newMonths[nm-1] + " " + ny);
-                    System.out.println("-------------------------------------------");
-                    System.out.println("Mon Tue Wed Thu Fri Sat Xtr Sup Hol Sun");
+                // if (nd == 1) {  // New Month starts
+                //     System.out.println("\n" + newMonths[nm-1] + " " + ny);
+                //     System.out.println("-------------------------------------------");
+                //     System.out.println("Mon Tue Wed Thu Fri Sat Xtr Sup Hol Sun");
                 
-                    int dayIndex = (totalDays + 4) % 10;
+                //     int dayIndex = (totalDays + 4) % 10;
                     
-                    // Print empty spaces for alignment
-                    for (int i = 0; i < dayIndex; i++) {
-                        System.out.print("    ");  // 4 spaces to match day format
-                    }
-                }
+                //     // Print empty spaces for alignment
+                //     for (int i = 0; i < dayIndex; i++) {
+                //         System.out.print("    ");  // 4 spaces to match day format
+                //     }
+                // }
                 
-                System.out.print(String.format("%3d ", nd));
+                // System.out.print(String.format("%3d ", nd));
                 
-                if (dow[(totalDays + 4) % 10].equals("Sunday")) {
-                    System.out.println();  // Newline at end of week
-                }
-                
-                
-                
-
+                // if (dow[(totalDays + 4) % 10].equals("Sunday")) {
+                //     System.out.println();  // Newline at end of week
+                // }
             }
             
             if(daysInMonths[m-1] > d){
