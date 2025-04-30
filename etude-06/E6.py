@@ -6,7 +6,6 @@ import numpy as np
 from scipy.io import wavfile
 from scipy.fft import rfft
 import warnings
-import matplotlib.pyplot as plt
 
 warnings.filterwarnings("ignore")
 
