@@ -6,6 +6,7 @@ import numpy as np
 from scipy.io import wavfile
 from scipy.fft import rfft
 import warnings
+import matplotlib.pyplot as plt
 
 warnings.filterwarnings("ignore")
 
@@ -29,33 +30,50 @@ def get_note(key_number):
     octave = (key_number+8) // 12
     return f"{key_name}{octave}"
 
-def print_song_results(song_name):
+def print_notes(song_name):
     sample_rate, data = wavfile.read(song_name)
+    w = round(sample_rate/2) # width, 500ms
+    n_steps = 100 # number of steps (raw notes)
+    i = round((len(data)-w)/(n_steps-1)) # amount to move window by
 
-    s_audio = len(data)/sample_rate
     notes = []
     male_notes = 0
     female_notes = 0
-    sub_arrays = np.array_split(data, round(s_audio))
-    for arr in sub_arrays:
-        t_arr = rfft(arr)
-        mode = np.argmax(t_arr)
-        key_number = get_key_number(mode)
-        if key_number >= 20 and key_number <= 58:
-            male_notes += 1
-        if key_number >= 34 and key_number <= 64:
-            female_notes += 1
-        note = get_note(key_number)
+    for n in range(n_steps):
+        # Take sliding windows of length w
+        # Sliding by i each iteration, 100 times
+        # Then take fft of slice
+        transformed_slice = rfft(data[n*i:n*i+w])
+        transformed_slice = abs(transformed_slice)[:801]
+        mode = np.argmax(transformed_slice)
+
+        key_n = get_key_number(mode)
+        # if key_n >= 20 and key_n <= 58:
+        #     male_notes += 1
+        # if key_n >= 34 and key_n<= 64:
+        #     female_notes += 1
+        note = get_note(key_n)
         notes.append(note)
 
-    print(f"Song: {song_name}")
-    print("-".join(notes))
-    if male_notes > female_notes:
-        print("Male voice")
-    else:
-        print("Female voice")
+    # print(f"{'-'.join(notes)}")
 
-print_song_results('song1.wav')
+    filtered_notes = [None]
+
+    for a, b, c in zip(notes, notes[1:], notes[2:]):
+        if a == b == c and a != filtered_notes[-1]:
+            filtered_notes.append(a)
+    filtered_notes.pop(0)
+
+    print(f"Song: {song_name}")
+    print("-".join(filtered_notes))
+
+    # if male_notes > female_notes:
+    #     print("Male voice")
+    # else:
+    #     print("Female voice")
+
+print_notes('song1.wav')
 print()
-print_song_results('song2.wav')
+print_notes('song2.wav')
+
 
