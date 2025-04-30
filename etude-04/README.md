@@ -30,7 +30,7 @@
     
     Day: Wednesday
     
-    Date: 4 October 2101
+    Date: 5 October 2101
 
 6. Print a calendar for the year 2050. What date is Easter?
 
