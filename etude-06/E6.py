@@ -32,12 +32,12 @@ def get_note(key_number):
 def print_notes(song_name):
     sample_rate, data = wavfile.read(song_name)
     w = round(sample_rate/2) # width, 500ms
-    n_steps = 100 # number of steps (raw notes)
+    n_steps = round(len(data)/(sample_rate/10)) # number of steps, 10 per second
     i = round((len(data)-w)/(n_steps-1)) # amount to move window by
 
     notes = []
-    male_notes = 0
-    female_notes = 0
+    # male_notes = 0
+    # female_notes = 0
     for n in range(n_steps):
         # Take sliding windows of length w
         # Sliding by i each iteration, 100 times
