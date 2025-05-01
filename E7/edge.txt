@@ -7,7 +7,9 @@ I saw you
 I called you
 I asked you
 I read you * 
-I learnt you * 
+I learnt you *
+
+all of these are valid.
 
 ---
 
@@ -20,8 +22,26 @@ You called you
 You asked you
 You read you
 
+all of these are valid
+
 ---
 
 Clarify 
 
-We (3 excl) go    v.s. We (3 excl) are going
+We (3 excl) go  v.s. We (3 excl) are going
+
+both are valid and should be present tense
+
+---
+
+E7 is really stupid.
+
+---
+
+I am going
+I going
+I go (should this be future of present?) (assume present)
+
+We are going
+We going
+We go 

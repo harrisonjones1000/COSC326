@@ -19,18 +19,18 @@ public class E72 {
         String tense = "";
         String verb = "";
 
-        boolean start;
+        //boolean start;
 
         String object = "";
 
         Map<String, String> one = new HashMap<>();
         one.put("I", "au");
-        one.put("You", "koe");
+        one.put("You (1 incl)", "koe");
         one.put("He", "ia");
         one.put("She", "ia");
 
         one.put("me", "ahau");
-        one.put("you", "ia");
+        one.put("you (1 incl)", "koe");
         one.put("him", "ia");
         one.put("her", "ia");
 
@@ -88,17 +88,17 @@ public class E72 {
         past.put("learnt", "ako ");
 
         while(testScan.hasNext()){
-            start=false;
-
             sentence = testScan.nextLine().split(" ");
-
-            if (sentence[0].equals("I") | sentence[0].equals("We")) start = true;
+            //start=false;
+            //if (sentence[0].equals("I") | sentence[0].equals("We")) start = true;
 
             try{
                 num = Integer.parseInt(sentence[1].substring(1));
-                if(num<=1){
+                if(num<1){
                     System.out.println("INVALID");
                     continue;
+                }else if(num==1){
+                    subject = one.get(sentence[0] + " " + sentence[1] + " " + sentence[2]);
                 }else if(num==2){//Two people
                     subject = two.get(sentence[0] + " " + sentence[1] + " " + sentence[2]);
                 }else if(num>2){//Three people
@@ -133,8 +133,12 @@ public class E72 {
                     tense = "I ";
                     verb = past.get(sentence[pos]);
                     pos++;
+                }else if(future.get(sentence[pos])!=null){
+                    tense = "Kei te ";
+                    verb = future.get(sentence[pos]);
+                    pos++;
                 }else if(pos==1){
-                    if((sentence[pos-1].equals("I") & sentence[pos].equals("am")) | (sentence[pos-1].equals("You") & sentence[pos].equals("are")) | (((sentence[pos-1].equals("She")) | (sentence[pos-1].equals("He"))) & sentence[pos].equals("is"))){
+                   if((sentence[pos-1].equals("I") & sentence[pos].equals("am")) | (sentence[pos-1].equals("You") & sentence[pos].equals("are")) | (((sentence[pos-1].equals("She")) | (sentence[pos-1].equals("He"))) & sentence[pos].equals("is"))){
                         tense = "Kei te ";
                         verb = present.get(sentence[pos+1]);
                         pos+=2;
@@ -155,35 +159,56 @@ public class E72 {
                 continue;
             }
    
+            // try{
+            //     object = sentence[pos];
+            //     if((object.equals("me") | object.equals("us")) & start){
+            //         System.out.println("INVALID"); //subject and object shouldnt be the same
+            //         continue;
+            //     }else if(verb.equals("haere ") | verb.equals("pānui ") | verb.equals("ako ")){
+            //         System.out.println("INVALID"); //objects for these verbs don't make sense
+            //         continue;
+            //     }
+            // }catch(IndexOutOfBoundsException e){
+            //     System.out.println(tense + verb + subject);
+            //     continue;
+            // } 
+
             try{
                 object = sentence[pos];
-                if((object.equals("me") | object.equals("us")) & start){
-                    System.out.println("INVALID"); //subject and object shouldnt be the same
-                    continue;
-                }else if(verb.equals("haere ") | verb.equals("pānui ") | verb.equals("ako ")){
-                    System.out.println("INVALID"); //objects for these verbs don't make sense
-                    continue;
-                }
             }catch(IndexOutOfBoundsException e){
                 System.out.println(tense + verb + subject);
                 continue;
             } 
-            
-            if(!object.isEmpty()){
-                if(!Character.isLowerCase(object.charAt(0))){
-                    System.out.println("INVALID"); //allows us to keep using same HashMaps
-                    continue; 
-                }
-            }
 
             try{
+                if(!object.isEmpty()){
+                    if(!Character.isLowerCase(object.charAt(0))){
+                        System.out.println("INVALID"); //allows us to keep using same HashMaps
+                        continue; 
+                    }
+                }
+
+                // if(num<1){
+                //     System.out.println("INVALID 1");
+                //     continue;
+                // }else if(num==1){
+                //     subject = one.get(sentence[0] + " " + sentence[1] + " " + sentence[2]);
+                // }else if(num==2){//Two people
+                //     subject = two.get(sentence[0] + " " + sentence[1] + " " + sentence[2]);
+                // }else if(num>2){//Three people
+                //     sentence[1] = "(3";
+                //     subject = three.get(sentence[0] + " " + sentence[1] + " " + sentence[2]);
+                // }
+
                 if(sentence.length-pos == 1){
                     object = one.get(object);
                 }else if(sentence.length-pos == 3){
                     num = Integer.parseInt(sentence[pos+1].substring(1));
-                    if(num<=1){
+                    if(num<1){
                         System.out.println("INVALID");
                         continue;
+                    }else if(num==1){//One person
+                        object = one.get(object + " " + sentence[pos+1] + " " + sentence[pos+2]);
                     }else if(num==2){//Two people
                         object = two.get(object + " " + sentence[pos+1] + " " + sentence[pos+2]);
 
@@ -196,6 +221,9 @@ public class E72 {
                     object = "kōrua";
                 }
             }catch(NumberFormatException e){
+                System.out.println("INVALID");
+                continue; 
+            }catch(IndexOutOfBoundsException e){
                 System.out.println("INVALID");
                 continue; 
             }
