@@ -28,9 +28,10 @@ class TelephoneImproved {
         ArrayList<Point2D> pointList = new ArrayList<>();
         for (String line : linesIn) {
             String[] sPoints = line.strip().split("\\s+");
-            if (sPoints.length < 2) {
+            if (sPoints.length < 2 || (!isDecimal(sPoints[0]) || !isDecimal(sPoints[1]))) {
                 continue;
             }
+
             Point2D point = new Point2D(Double.parseDouble(sPoints[0]), Double.parseDouble(sPoints[1]));
             pointList.add(point);
         }
@@ -40,6 +41,23 @@ class TelephoneImproved {
         // Get final radius
         double finalRad = getBestRad(pointList, startRad);
         System.out.println("Maximum Range: " + finalRad + " meters");
+    }
+
+    /**
+     * Checks to see whether a given input is in the format of a decimal value. E.g.
+     * 1.111234234 or
+     * -345.32344
+     * 
+     * And returns true if so.
+     * 
+     * @param s The input to check against.
+     * @return Returns true if the input is in the format of a decimal value.
+     */
+    static boolean isDecimal(String s) {
+        if(s.matches("-?[0-9]*\\.[0-9]*")) {
+            return true;
+        }
+        return false;
     }
 
     /**
