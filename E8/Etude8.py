@@ -13,7 +13,7 @@ def int_in_range(string_num, min_v, max_v):
     return True
 
 def get_processed_fname(fname):
-    pat = re.compile("\d", flags=re.ASCII)
+    pat = re.compile(r"\d", flags=re.ASCII)
     digits = re.findall(pat, fname)
     if len(digits) != 6:
         return None
