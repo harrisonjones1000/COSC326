@@ -28,12 +28,10 @@ class TelephoneImproved {
         ArrayList<Point2D> pointList = new ArrayList<>();
         for (String line : linesIn) {
             String[] sPoints = line.strip().split("\\s+");
-            if (sPoints.length < 2 || (!isDecimal(sPoints[0]) || !isDecimal(sPoints[1]))) {
-                continue;
+            if (sPoints.length == 2 && isDecimal(sPoints[0]) && isDecimal(sPoints[1])) {
+                Point2D point = new Point2D(Double.parseDouble(sPoints[0]), Double.parseDouble(sPoints[1]));
+                pointList.add(point);
             }
-
-            Point2D point = new Point2D(Double.parseDouble(sPoints[0]), Double.parseDouble(sPoints[1]));
-            pointList.add(point);
         }
         Collections.sort(pointList, new SortByX());
         // Get starting radius
@@ -54,7 +52,7 @@ class TelephoneImproved {
      * @return Returns true if the input is in the format of a decimal value.
      */
     static boolean isDecimal(String s) {
-        if(s.matches("-?[0-9]*\\.[0-9]*")) {
+        if (s.matches("-?[0-9]*\\.[0-9]*")) {
             return true;
         }
         return false;
