@@ -23,7 +23,6 @@ class TelephoneImproved {
             linesIn.add(sc.nextLine());
         }
         sc.close();
-        linesIn.remove(0);
 
         ArrayList<Point2D> pointList = new ArrayList<>();
         for (String line : linesIn) {
