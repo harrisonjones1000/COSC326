@@ -7,8 +7,8 @@ public class IBMFloat32 {
 
     private byte[] data;
 
-    public IBMFloat32() {
-        data = new byte[4];
+    public IBMFloat32(byte[] data) {
+        this.data = data;
     }
 
     public void setData(byte[] data) {
