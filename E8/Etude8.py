@@ -66,5 +66,5 @@ with open("result.txt", 'w') as write_r_f:
         file_path = os.path.join(t[0], t[1])
         with open(file_path, 'r') as read_f:
             lines = read_f.readlines()
-            for line in lines:
-                write_r_f.write(f"{line}\n")
+            write_r_f.writelines(lines)
+            write_r_f.write("\n")
