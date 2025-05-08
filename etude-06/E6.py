@@ -34,10 +34,7 @@ def AMDF(s, k):
     a_s = s[0:len(s)-k]
     b_s = s[k:len(s)]
 
-    a_s = a_s.reshape(-1, 1)
-    b_s = b_s.reshape(-1, 1)
-
-    res = np.hstack([a_s, b_s])
+    res = np.stack([a_s, b_s], axis=1)
     amdfs = np.mean(np.abs(res[:, [0]] - res[:, [1]]))
 
     return amdfs
