@@ -6,5 +6,5 @@ How to run (unix):
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-python E6.py
+python E6.py path/to/song.wav
 ```

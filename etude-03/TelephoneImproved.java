@@ -6,6 +6,7 @@ import java.util.*;
 import java.math.*;
 import java.io.*;
 import java.util.random.*;
+import java.util.regex.*;
 // import org.apache.commons.math3.linear.*;
 
 /**
@@ -23,13 +24,16 @@ class TelephoneImproved {
             linesIn.add(sc.nextLine());
         }
         sc.close();
-
         ArrayList<Point2D> pointList = new ArrayList<>();
         for (String line : linesIn) {
             String[] sPoints = line.strip().split("\\s+");
-            if (sPoints.length == 2 && isDecimal(sPoints[0]) && isDecimal(sPoints[1])) {
-                Point2D point = new Point2D(Double.parseDouble(sPoints[0]), Double.parseDouble(sPoints[1]));
-                pointList.add(point);
+            if (sPoints.length == 2) {
+                try {
+                    Point2D point = new Point2D(Double.parseDouble(sPoints[0]), Double.parseDouble(sPoints[1]));
+                    pointList.add(point);
+                } catch (Exception e) {
+                    // Do NOTHING
+                }
             }
         }
         Collections.sort(pointList, new SortByX());
