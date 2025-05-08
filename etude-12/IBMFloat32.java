@@ -38,12 +38,28 @@ public class IBMFloat32 {
     }
 
     public byte[] getFraction() {
-        return new byte[] {data[2], data[3]};
+        return new byte[] {data[1], data[2], data[3]};
     }
 
     public void setFraction(byte[] fraction) {
-        data[2] = fraction[0];
-        data[3] = fraction[1];
+        data[1] = fraction[0];
+        data[2] = fraction[1];
+        data[3] = fraction[2];
+    }
+
+    public String toBinaryString() {
+        String s = "";
+        byte leadingMask = (byte)0x80;
+        for(int i = 0; i < 32; i++) {
+            int b = i / 8;
+            if(( ((byte)(data[b] << (i % 8))) & leadingMask) != 0) {
+                s = s + "1";
+            } else {
+                s = s + "0";
+            }
+
+        }
+        return s;
     }
 
 
