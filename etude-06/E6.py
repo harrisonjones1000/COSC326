@@ -35,9 +35,9 @@ def AMDF(s, k):
     b_s = s[k:len(s)]
 
     res = np.stack([a_s, b_s], axis=1)
-    amdfs = np.mean(np.abs(res[:, [0]] - res[:, [1]]))
+    amdf = np.mean(np.abs(res[:, [0]] - res[:, [1]]))
 
-    return amdfs
+    return amdf
 
 
 def print_autocorr_notes(song_name):
