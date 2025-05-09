@@ -54,11 +54,10 @@ for p in list_paths:
 
 valid_list.sort(key=lambda x: (x[0][0], x[0][1], x[0][2]))
 
-f_name_list = [t[0] for t in valid_list] + invalid_list
 all_list = [t[1] for t in valid_list] + invalid_list
 
 with open("filename.txt", 'w') as write_fn_f:
-    for t in f_name_list:
+    for t in all_list:
         write_fn_f.write(t[1] + "\n")
 
 with open("result.txt", 'w') as write_r_f:
