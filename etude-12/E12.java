@@ -1,7 +1,9 @@
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.PrintStream;
 import java.nio.ByteBuffer;
 import java.util.Scanner;
 
@@ -9,7 +11,7 @@ public class E12{
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
 
-        boolean ip, op; //false is single, true is double
+        boolean ip, op; 
 
         System.out.print("Input file: ");
         String inputFile = scanner.nextLine();
@@ -23,34 +25,46 @@ public class E12{
         System.out.print("Is your input file single precision (1) or double precision (2)?: ");
         String input = scanner.nextLine();
         if(input.equals("1")){
-            
-            ip = false;
+            ip = false; //single precision
         }else if(input.equals("2")){
-            ip = true;
+            ip = true; //double precision
         }else{
             System.out.println("Invalid");
             return;
         }
 
         System.out.print("Output file: ");
-        String output = scanner.nextLine();
+        File output = new File(scanner.nextLine());
         System.out.print("Do you want your output in single precision (1) or double precision (2)?: ");
         input = scanner.nextLine();
         if(input.equals("1")){
-            op = false;
+            op = false; //single precision
         }else if(input.equals("2")){
-            op = true;
+            op = true; //dobule precision
         }else{
             System.out.println("Invalid");
             return;
         }
 
+
+        try {
+            if (!output.exists()) {
+                output.createNewFile();
+            }
+
+            PrintStream fileOut = new PrintStream(new FileOutputStream(output));
+            System.setOut(fileOut);
+
+        }catch (IOException e) {}
+
+        
+
+
         try {
             FileInputStream fileStream = new FileInputStream(inFile);
             while(fileStream.available() > 0) {
 
-                if(!ip) {
-                    // 32 bit input.
+                if(!ip) { //Single precision, 32 bit input
                     byte[] data = new byte[4];
                     for(int i = 0; i < 4; i++) {
                         if(fileStream.available() == 0) {
