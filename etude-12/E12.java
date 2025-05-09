@@ -1,9 +1,4 @@
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.PrintStream;
+import java.io.*;
 import java.nio.ByteBuffer;
 import java.util.Scanner;
 
@@ -13,84 +8,85 @@ public class E12{
 
         boolean ip, op; 
 
-        System.out.print("Input file: ");
-        String inputFile = scanner.nextLine();
+        File inFile = new File("test.bin");
+        ip = false;
+        String output = "output.bin";
+        op = false;
+
+        // System.out.print("Input file: ");
+        // String inputFile = scanner.nextLine();
         
-        File inFile = new File(inputFile);
-        if (!inFile.exists() || !inFile.isFile()){
-            System.out.println("Invalid");
-            return;
-        }
+        // File inFile = new File(inputFile);
+        // if (!inFile.exists() || !inFile.isFile()){
+        //     System.out.println("Invalid");
+        //     return;
+        // }
 
-        System.out.print("Is your input file single precision (1) or double precision (2)?: ");
-        String input = scanner.nextLine();
-        if(input.equals("1")){
-            ip = false; //single precision
-        }else if(input.equals("2")){
-            ip = true; //double precision
-        }else{
-            System.out.println("Invalid");
-            return;
-        }
+        // System.out.print("Is your input file single precision (1) or double precision (2)?: ");
+        // String input = scanner.nextLine();
+        // if(input.equals("1")){
+        //     ip = false; //single precision
+        // }else if(input.equals("2")){
+        //     ip = true; //double precision
+        // }else{
+        //     System.out.println("Invalid");
+        //     return;
+        // }
 
-        System.out.print("Output file: ");
-        File output = new File(scanner.nextLine());
-        System.out.print("Do you want your output in single precision (1) or double precision (2)?: ");
-        input = scanner.nextLine();
-        if(input.equals("1")){
-            op = false; //single precision
-        }else if(input.equals("2")){
-            op = true; //dobule precision
-        }else{
-            System.out.println("Invalid");
-            return;
-        }
+        // System.out.print("Output file: ");
+        // String output = scanner.nextLine();
+        // System.out.print("Do you want your output in single precision (1) or double precision (2)?: ");
+        // input = scanner.nextLine();
+        // if(input.equals("1")){
+        //     op = false; //single precision
+        // }else if(input.equals("2")){
+        //     op = true; //double precision
+        // }else{
+        //     System.out.println("Invalid");
+        //     return;
+        // }
 
+        try(FileInputStream fileStream = new FileInputStream(inFile)) {
+            try (DataOutputStream out = new DataOutputStream(new FileOutputStream(output))) {
+                int maxBytes;
+                while(fileStream.available() > 0) {
+                    maxBytes = 4;
+                    if(ip) maxBytes = 8;
 
-        try {
-            if (!output.exists()) {
-                output.createNewFile();
-            }
-
-            PrintStream fileOut = new PrintStream(new FileOutputStream(output));
-            System.setOut(fileOut);
-
-        }catch (IOException e) {}
-
-        
-
-
-        try {
-            FileInputStream fileStream = new FileInputStream(inFile);
-            while(fileStream.available() > 0) {
-
-                if(!ip) { //Single precision, 32 bit input
-                    byte[] data = new byte[4];
-                    for(int i = 0; i < 4; i++) {
+                    byte[] data = new byte[maxBytes];
+                    for(int i = 0; i < maxBytes; i++) {
                         if(fileStream.available() == 0) {
-                            System.out.println("Error! The input data does not fall on the 4 byte boundary for IBM floats.");
-                            return;
+                            System.out.println("End of file cuts current IBM input short");
+                            return; 
                         }
                         byte b = (byte)fileStream.read();
                         data[i] = b; 
                     }
-                    
-                    IBMFloat32 i = new IBMFloat32(data);
-                    System.out.println("IBM32 binary: " + i.toBinaryString());
 
-                    float o = IBMFloat32ToFloat(i);
-                    System.out.println("Float32 binary: " + Integer.toBinaryString(Float.floatToIntBits(o)));
-                    System.out.println("Float32 after conversion: " + o);
+                    if(!ip){ 
+                        IBMFloat32 i = new IBMFloat32(data);
+                        if(!op){
+                            float f = IBMFloat32ToFloat(i);
+                            out.writeFloat(f);
 
-
+                            System.out.println("IBM Float  " + i.toBinaryString() + "  vs  IEEE Float: " + f) ;
+                        }else{
+                            double d = IBMFloat32ToDouble(i);
+                            out.writeDouble(d);
+                        }
+                    }else{
+                        //IBMFloat64 i = new IBMFloat64(data);
+                        if(!op){
+                            //float o = IBMFloat64ToFloat(i);
+                        }else{
+                            //double o = IBMFloat64ToDouble(i);
+                        }
+                    }
                 }
             }
-            
-        } catch (IOException e) {
+        }catch (IOException e) {
             e.printStackTrace();
         }
-
-
     }
 
     public static float IBMFloat32ToFloat(IBMFloat32 ibm) {
