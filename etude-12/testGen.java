@@ -16,7 +16,7 @@ public class testGen {
         if(isFloat) maxBytes = 4;
 
         try (FileOutputStream out = new FileOutputStream("test.bin")) {
-            for (int i = 0; i < 15; i++){
+            for (int i = 0; i < 100; i++){
                 byte[] bytes = new byte[maxBytes];
 
                 for(int j=0; j<maxBytes; j++){
