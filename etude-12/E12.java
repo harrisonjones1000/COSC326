@@ -8,43 +8,43 @@ public class E12{
 
         boolean ip, op; 
 
-        File inFile = new File("test.bin");
-        ip = false;
-        String output = "output.bin";
-        op = false;
+        // File inFile = new File("test.bin");
+        // ip = true;
+        // String output = "output.bin";
+        // op = true;
 
-        // System.out.print("Input file: ");
-        // String inputFile = scanner.nextLine();
+        System.out.print("Input file: ");
+        String inputFile = scanner.nextLine();
         
-        // File inFile = new File(inputFile);
-        // if (!inFile.exists() || !inFile.isFile()){
-        //     System.out.println("Invalid");
-        //     return;
-        // }
+        File inFile = new File(inputFile);
+        if (!inFile.exists() || !inFile.isFile()){
+            System.out.println("Invalid");
+            return;
+        }
 
-        // System.out.print("Is your input file single precision (1) or double precision (2)?: ");
-        // String input = scanner.nextLine();
-        // if(input.equals("1")){
-        //     ip = false; //single precision
-        // }else if(input.equals("2")){
-        //     ip = true; //double precision
-        // }else{
-        //     System.out.println("Invalid");
-        //     return;
-        // }
+        System.out.print("Is your input file single precision (1) or double precision (2)?: ");
+        String input = scanner.nextLine();
+        if(input.equals("1")){
+            ip = false; //single precision
+        }else if(input.equals("2")){
+            ip = true; //double precision
+        }else{
+            System.out.println("Invalid");
+            return;
+        }
 
-        // System.out.print("Output file: ");
-        // String output = scanner.nextLine();
-        // System.out.print("Do you want your output in single precision (1) or double precision (2)?: ");
-        // input = scanner.nextLine();
-        // if(input.equals("1")){
-        //     op = false; //single precision
-        // }else if(input.equals("2")){
-        //     op = true; //double precision
-        // }else{
-        //     System.out.println("Invalid");
-        //     return;
-        // }
+        System.out.print("Output file: ");
+        String output = scanner.nextLine();
+        System.out.print("Do you want your output in single precision (1) or double precision (2)?: ");
+        input = scanner.nextLine();
+        if(input.equals("1")){
+            op = false; //single precision
+        }else if(input.equals("2")){
+            op = true; //double precision
+        }else{
+            System.out.println("Invalid");
+            return;
+        }
 
         try(FileInputStream fileStream = new FileInputStream(inFile)) {
         try (DataOutputStream out = new DataOutputStream(new FileOutputStream(output))) {
@@ -67,12 +67,12 @@ public class E12{
                 if(!op) { //Convert to Float
                     float f = ibm.toFloat();
                     out.writeFloat(f);
-                    System.out.println("IEEE Float: " + f + " IBM Binary : " + ibm.toBinaryString());
+                    //System.out.println("IEEE Float: " + f + " IBM Binary : " + ibm.toBinaryString());
                     
                 }else { //Convert to Double
                     double d = ibm.toDouble();
                     out.writeDouble(d);
-                    System.out.println("IEEE Double: " + d + " IBM Binary : " + ibm.toBinaryString());
+                    //System.out.println("IEEE Double: " + d + " IBM Binary : " + ibm.toBinaryString());
                 }
             }
         }

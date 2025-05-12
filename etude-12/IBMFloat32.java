@@ -21,7 +21,7 @@ public class IBMFloat32 {
         BigInteger fractionBits = new BigInteger(fractionBytes);
         BigDecimal fraction = new BigDecimal(fractionBits);
 
-        BigDecimal normalizedFraction = fraction.divide(BigDecimal.valueOf(Math.pow(2, ip ? 56 : 24)));
+        BigDecimal normalizedFraction = fraction.divide(BigDecimal.valueOf(Math.pow(2, ip ? 56 : 24)), 308, RoundingMode.HALF_EVEN);
 
         int exponentPower = exp - 64;
         BigDecimal scale;
@@ -30,7 +30,7 @@ public class IBMFloat32 {
         } else {
             scale = BigDecimal.ONE.divide(
                 BigDecimal.valueOf(16).pow(-exponentPower),
-                30,
+                308,
                 RoundingMode.HALF_EVEN
             );
         }
@@ -42,13 +42,19 @@ public class IBMFloat32 {
         }
 
         this.value = value;
+
+        // System.out.println("Normalized Fraction: " + normalizedFraction);
+        // System.out.println("Scale: " + scale);
+        // System.out.println("Final Value : " + normalizedFraction.multiply(scale));
     }
 
     public float toFloat(){
+        //System.out.println("Intermediate BigDecimal value: " + this.value);
         return this.value.floatValue();
     }
 
     public double toDouble(){ 
+        //System.out.println("Intermediate BigDecimal value: " + this.value);
         return this.value.doubleValue();
     }
 
@@ -80,7 +86,7 @@ public class IBMFloat32 {
     public String toBinaryString() {
         String s = "";
         byte leadingMask = (byte)0x80;
-        for(int i = 0; i < 32; i++) {
+        for(int i = 0; i < data.length*8; i++) {
             int b = i / 8;
             if(( ((byte)(data[b] << (i % 8))) & leadingMask) != 0) {
                 s = s + "1";
