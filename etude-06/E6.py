@@ -98,7 +98,7 @@ def print_autocorr_notes(song_name):
     sample_rate, data = wavfile.read(song_name)
     abs_data = np.abs(data)
     # plt.plot(abs_data)
-    # plt.hlines(y=1.4*np.mean(abs_data), xmin=0, xmax=len(abs_data), color='red')
+    # plt.hlines(y=np.mean(abs_data), xmin=0, xmax=len(abs_data), color='red')
     # plt.show()
     # exit()
     data_mean = np.mean(abs_data)
@@ -106,8 +106,8 @@ def print_autocorr_notes(song_name):
     # data_std = np.std(np.abs(data))
     # print(f"{data_std=}")
     # denom = 6
-    w = round(sample_rate/8) # width, 250ms
-    n_steps = round(len(data)/(sample_rate/16)) # number of steps
+    w = round(sample_rate/7) # width, 250ms
+    n_steps = round(len(data)/(sample_rate/9)) # number of steps
     i = round((len(data)-w)/(n_steps-1)) # amount to move window by
     notes = []
     notes_2 = []
@@ -119,8 +119,8 @@ def print_autocorr_notes(song_name):
         # print(f"{slice_average=}")
         # print(f"{data_mean=}")
         # print(f"{data_std=}")
-        if slice_average < 0.5*data_mean: # minimum threshold must be <= 0.5 to detect notes (f#3) at end of song 9
-            continue
+        # if slice_average < 0.1*data_mean: # minimum threshold must be <= 0.5 to detect notes (f#3) at end of song 9
+        #     continue
         # slice = slice[slice >= mean - 2*std]
         # print(f"{slice=}")
         ts = np.linspace(1/800, 1/65, num=480)
@@ -140,7 +140,7 @@ def print_autocorr_notes(song_name):
         # Lowest note in song 9 is f#3 (185Hz)
 
         # Notes from d#3 to f#4 (156Hz to 370Hz)
-        if freq > 370 or freq < 156:
+        if freq > 370 or freq < 140:
             continue
         key_n = get_key_number(freq)
         keys.append(key_n)
