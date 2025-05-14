@@ -7,7 +7,7 @@ import numpy as np
 from scipy.io import wavfile
 import warnings
 
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 warnings.filterwarnings("ignore")
 
@@ -101,8 +101,8 @@ def print_autocorr_notes(song_name):
     # plt.hlines(y=np.mean(abs_data), xmin=0, xmax=len(abs_data), color='red')
     # plt.show()
     # exit()
-    data_mean = np.mean(abs_data)
-    print(f"{data_mean=}")
+    # data_mean = np.mean(abs_data)
+    # print(f"{data_mean=}")
     # data_std = np.std(np.abs(data))
     # print(f"{data_std=}")
     # denom = 6
@@ -110,7 +110,6 @@ def print_autocorr_notes(song_name):
     n_steps = round(len(data)/(sample_rate/9)) # number of steps
     i = round((len(data)-w)/(n_steps-1)) # amount to move window by
     notes = []
-    notes_2 = []
     keys = []
     for n in range(n_steps):
 
@@ -147,8 +146,8 @@ def print_autocorr_notes(song_name):
         note = get_note(key_n)
         notes.append(note)
 
-    print("All notes:")
-    print(f"{'-'.join(notes)}")
+    # print("All notes:")
+    # print(f"{'-'.join(notes)}")
 
     # filtered_keys = [None]
 
@@ -162,16 +161,16 @@ def print_autocorr_notes(song_name):
     # print(f"{'-'.join(filt_k_notes)}", end=" ")
     # print(f"Filtered length:{len(filt_k_notes)}")
 
-    filtered_keys = filter_keys_1(keys)
-    filt_k_notes = [get_note(k) for k in filtered_keys]
-    print("Filtered notes 1:", end="")
-    print(f"{'-'.join(filt_k_notes)}")
+    # filtered_keys = filter_keys_1(keys)
+    # filt_k_notes = [get_note(k) for k in filtered_keys]
+    # print("Filtered notes 1:", end="")
+    # print(f"{'-'.join(filt_k_notes)}")
 
     filtered_keys = filter_keys_2(keys)
     filt_k_notes = [get_note(k) for k in filtered_keys]
-    print("Filtered notes 2:", end="")
-    print(f"{'-'.join(filt_k_notes)}", end= " ")
-    print(f"{len(filt_k_notes)}")
+    # print("Filtered notes 2:", end="")
+    print(f"{'-'.join(filt_k_notes)}")
+    # print(f"{len(filt_k_notes)}")
 
     # filtered_keys = filter_keys_3(keys)
     # filt_k_notes = [get_note(k) for k in filtered_keys]
@@ -195,13 +194,13 @@ path_to_song = sys.argv[1]
 
 print_autocorr_notes(path_to_song)
 
-if path_to_song == "song9.wav":
+# if path_to_song == "song9.wav":
 
-    song9_ans = "f#4-e4-f4-d#4-c#4-b3-c#4-f#4-f#3-c#4-d4-c4-b3-a#3-b3-a3-g3-f#3-g3"
-    print("Correct notes: ", song9_ans, end=" ")
-    print(f"Correct length: {len(song9_ans.split('-'))}")
-elif path_to_song == "song11.wav":
-    song11_ans = "b3-c4-a3-g#3-f3-c4-a3-g#3-f3-d#3"
-    print("Correct notes: ", song11_ans, end=" ")
-    print(f"orrect length: {len(song11_ans.split('-'))}")
+#     song9_ans = "f#4-e4-f4-d#4-c#4-b3-c#4-f#4-f#3-c#4-d4-c4-b3-a#3-b3-a3-g3-f#3-g3"
+#     print("Correct notes: ", song9_ans, end=" ")
+#     print(f"Correct length: {len(song9_ans.split('-'))}")
+# elif path_to_song == "song11.wav":
+#     song11_ans = "b3-c4-a3-g#3-f3-c4-a3-g#3-f3-d#3"
+#     print("Correct notes: ", song11_ans, end=" ")
+#     print(f"orrect length: {len(song11_ans.split('-'))}")
 
