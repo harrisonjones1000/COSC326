@@ -8,7 +8,7 @@ public class E12{
 
         boolean ip, op; 
 
-        // File inFile = new File("test.bin");
+        // File inFile = new File("double_118_625.bin");
         // ip = true;
         // String output = "output.bin";
         // op = true;

@@ -18,10 +18,13 @@ public class IBMFloat32 {
         byte[] fractionBytes = new byte[data.length]; 
         System.arraycopy(data, 1, fractionBytes, 1, data.length-1);   
 
-        BigInteger fractionBits = new BigInteger(fractionBytes);
-        BigDecimal fraction = new BigDecimal(fractionBits);
+        BigDecimal fraction = new BigDecimal(new BigInteger(fractionBytes));
 
-        BigDecimal normalizedFraction = fraction.divide(BigDecimal.valueOf(Math.pow(2, ip ? 56 : 24)), 308, RoundingMode.HALF_EVEN);
+        BigDecimal normalizedFraction = fraction.divide(
+            new BigDecimal(BigInteger.ONE.shiftLeft(ip ? 56 : 24)),
+            320,
+            RoundingMode.HALF_EVEN
+        );
 
         int exponentPower = exp - 64;
         BigDecimal scale;
@@ -30,7 +33,7 @@ public class IBMFloat32 {
         } else {
             scale = BigDecimal.ONE.divide(
                 BigDecimal.valueOf(16).pow(-exponentPower),
-                308,
+                320,
                 RoundingMode.HALF_EVEN
             );
         }
