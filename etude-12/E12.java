@@ -11,7 +11,7 @@ public class E12{
         // File inFile = new File("double_118_625.bin");
         // ip = true;
         // String output = "output.bin";
-        // op = true;
+        // op = false;
 
         System.out.print("Input file: ");
         String inputFile = scanner.nextLine();
@@ -64,16 +64,31 @@ public class E12{
 
                 IBMFloat32 ibm = new IBMFloat32(data);
 
-                if(!op) { //Convert to Float
+                if (!op) { // Convert to Float
                     float f = ibm.toFloat();
-                    out.writeFloat(f);
-                    //System.out.println("IEEE Float: " + f + " IBM Binary : " + ibm.toBinaryString());
-                    
-                }else { //Convert to Double
+                    System.out.println("IEEE Float: " + f + " IBM Binary : " + ibm.toBinaryString());
+
+                    int bits = Float.floatToIntBits(f);
+                    out.writeByte(bits & 0xFF);
+                    out.writeByte((bits >> 8) & 0xFF);
+                    out.writeByte((bits >> 16) & 0xFF);
+                    out.writeByte((bits >> 24) & 0xFF);
+
+                } else { // Convert to Double
                     double d = ibm.toDouble();
-                    out.writeDouble(d);
-                    //System.out.println("IEEE Double: " + d + " IBM Binary : " + ibm.toBinaryString());
+                    System.out.println("IEEE Double: " + d + " IBM Binary : " + ibm.toBinaryString());
+
+                    long bits = Double.doubleToLongBits(d);
+                    out.writeByte((int)(bits & 0xFF));
+                    out.writeByte((int)((bits >> 8) & 0xFF));
+                    out.writeByte((int)((bits >> 16) & 0xFF));
+                    out.writeByte((int)((bits >> 24) & 0xFF));
+                    out.writeByte((int)((bits >> 32) & 0xFF));
+                    out.writeByte((int)((bits >> 40) & 0xFF));
+                    out.writeByte((int)((bits >> 48) & 0xFF));
+                    out.writeByte((int)((bits >> 56) & 0xFF));
                 }
+
             }
         }
         }catch (IOException e) {
