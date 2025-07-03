@@ -1,0 +1,4368 @@
+I went 
+I made 
+I wanted 
+I saw 
+I called 
+I asked 
+I read 
+I learnt 
+I am going 
+I am making 
+I am seeing 
+I am wanting 
+I am calling 
+I am asking 
+I am reading 
+I am learning 
+I go 
+I make 
+I see 
+I want 
+I call 
+I ask 
+I read 
+I learn 
+I went me
+I made me
+I wanted me
+I saw me
+I called me
+I asked me
+I read me
+I learnt me
+I went you (1 incl)
+I made you (1 incl)
+I wanted you (1 incl)
+I saw you (1 incl)
+I called you (1 incl)
+I asked you (1 incl)
+I read you (1 incl)
+I learnt you (1 incl)
+I went him
+I made him
+I wanted him
+I saw him
+I called him
+I asked him
+I read him
+I learnt him
+I went her
+I made her
+I wanted her
+I saw her
+I called her
+I asked her
+I read her
+I learnt her
+I am going me
+I am making me
+I am seeing me
+I am wanting me
+I am calling me
+I am asking me
+I am reading me
+I am learning me
+I am going you (1 incl)
+I am making you (1 incl)
+I am seeing you (1 incl)
+I am wanting you (1 incl)
+I am calling you (1 incl)
+I am asking you (1 incl)
+I am reading you (1 incl)
+I am learning you (1 incl)
+I am going him
+I am making him
+I am seeing him
+I am wanting him
+I am calling him
+I am asking him
+I am reading him
+I am learning him
+I am going her
+I am making her
+I am seeing her
+I am wanting her
+I am calling her
+I am asking her
+I am reading her
+I am learning her
+I go me
+I make me
+I see me
+I want me
+I call me
+I ask me
+I read me
+I learn me
+I go you (1 incl)
+I make you (1 incl)
+I see you (1 incl)
+I want you (1 incl)
+I call you (1 incl)
+I ask you (1 incl)
+I read you (1 incl)
+I learn you (1 incl)
+I go him
+I make him
+I see him
+I want him
+I call him
+I ask him
+I read him
+I learn him
+I go her
+I make her
+I see her
+I want her
+I call her
+I ask her
+I read her
+I learn her
+I went us (2 incl)
+I made us (2 incl)
+I wanted us (2 incl)
+I saw us (2 incl)
+I called us (2 incl)
+I asked us (2 incl)
+I read us (2 incl)
+I learnt us (2 incl)
+I went us (2 excl)
+I made us (2 excl)
+I wanted us (2 excl)
+I saw us (2 excl)
+I called us (2 excl)
+I asked us (2 excl)
+I read us (2 excl)
+I learnt us (2 excl)
+I went you two
+I made you two
+I wanted you two
+I saw you two
+I called you two
+I asked you two
+I read you two
+I learnt you two
+I went you (2 incl)
+I made you (2 incl)
+I wanted you (2 incl)
+I saw you (2 incl)
+I called you (2 incl)
+I asked you (2 incl)
+I read you (2 incl)
+I learnt you (2 incl)
+I went them (2 excl)
+I made them (2 excl)
+I wanted them (2 excl)
+I saw them (2 excl)
+I called them (2 excl)
+I asked them (2 excl)
+I read them (2 excl)
+I learnt them (2 excl)
+I am going us (2 incl)
+I am making us (2 incl)
+I am seeing us (2 incl)
+I am wanting us (2 incl)
+I am calling us (2 incl)
+I am asking us (2 incl)
+I am reading us (2 incl)
+I am learning us (2 incl)
+I am going us (2 excl)
+I am making us (2 excl)
+I am seeing us (2 excl)
+I am wanting us (2 excl)
+I am calling us (2 excl)
+I am asking us (2 excl)
+I am reading us (2 excl)
+I am learning us (2 excl)
+I am going you two
+I am making you two
+I am seeing you two
+I am wanting you two
+I am calling you two
+I am asking you two
+I am reading you two
+I am learning you two
+I am going you (2 incl)
+I am making you (2 incl)
+I am seeing you (2 incl)
+I am wanting you (2 incl)
+I am calling you (2 incl)
+I am asking you (2 incl)
+I am reading you (2 incl)
+I am learning you (2 incl)
+I am going them (2 excl)
+I am making them (2 excl)
+I am seeing them (2 excl)
+I am wanting them (2 excl)
+I am calling them (2 excl)
+I am asking them (2 excl)
+I am reading them (2 excl)
+I am learning them (2 excl)
+I go us (2 incl)
+I make us (2 incl)
+I see us (2 incl)
+I want us (2 incl)
+I call us (2 incl)
+I ask us (2 incl)
+I read us (2 incl)
+I learn us (2 incl)
+I go us (2 excl)
+I make us (2 excl)
+I see us (2 excl)
+I want us (2 excl)
+I call us (2 excl)
+I ask us (2 excl)
+I read us (2 excl)
+I learn us (2 excl)
+I go you two
+I make you two
+I see you two
+I want you two
+I call you two
+I ask you two
+I read you two
+I learn you two
+I go you (2 incl)
+I make you (2 incl)
+I see you (2 incl)
+I want you (2 incl)
+I call you (2 incl)
+I ask you (2 incl)
+I read you (2 incl)
+I learn you (2 incl)
+I go them (2 excl)
+I make them (2 excl)
+I see them (2 excl)
+I want them (2 excl)
+I call them (2 excl)
+I ask them (2 excl)
+I read them (2 excl)
+I learn them (2 excl)
+I went us (3 incl)
+I made us (3 incl)
+I wanted us (3 incl)
+I saw us (3 incl)
+I called us (3 incl)
+I asked us (3 incl)
+I read us (3 incl)
+I learnt us (3 incl)
+I went us (3 excl)
+I made us (3 excl)
+I wanted us (3 excl)
+I saw us (3 excl)
+I called us (3 excl)
+I asked us (3 excl)
+I read us (3 excl)
+I learnt us (3 excl)
+I went you (3 incl)
+I made you (3 incl)
+I wanted you (3 incl)
+I saw you (3 incl)
+I called you (3 incl)
+I asked you (3 incl)
+I read you (3 incl)
+I learnt you (3 incl)
+I went them (3 excl)
+I made them (3 excl)
+I wanted them (3 excl)
+I saw them (3 excl)
+I called them (3 excl)
+I asked them (3 excl)
+I read them (3 excl)
+I learnt them (3 excl)
+I am going us (3 incl)
+I am making us (3 incl)
+I am seeing us (3 incl)
+I am wanting us (3 incl)
+I am calling us (3 incl)
+I am asking us (3 incl)
+I am reading us (3 incl)
+I am learning us (3 incl)
+I am going us (3 excl)
+I am making us (3 excl)
+I am seeing us (3 excl)
+I am wanting us (3 excl)
+I am calling us (3 excl)
+I am asking us (3 excl)
+I am reading us (3 excl)
+I am learning us (3 excl)
+I am going you (3 incl)
+I am making you (3 incl)
+I am seeing you (3 incl)
+I am wanting you (3 incl)
+I am calling you (3 incl)
+I am asking you (3 incl)
+I am reading you (3 incl)
+I am learning you (3 incl)
+I am going them (3 excl)
+I am making them (3 excl)
+I am seeing them (3 excl)
+I am wanting them (3 excl)
+I am calling them (3 excl)
+I am asking them (3 excl)
+I am reading them (3 excl)
+I am learning them (3 excl)
+I go us (3 incl)
+I make us (3 incl)
+I see us (3 incl)
+I want us (3 incl)
+I call us (3 incl)
+I ask us (3 incl)
+I read us (3 incl)
+I learn us (3 incl)
+I go us (3 excl)
+I make us (3 excl)
+I see us (3 excl)
+I want us (3 excl)
+I call us (3 excl)
+I ask us (3 excl)
+I read us (3 excl)
+I learn us (3 excl)
+I go you (3 incl)
+I make you (3 incl)
+I see you (3 incl)
+I want you (3 incl)
+I call you (3 incl)
+I ask you (3 incl)
+I read you (3 incl)
+I learn you (3 incl)
+I go them (3 excl)
+I make them (3 excl)
+I see them (3 excl)
+I want them (3 excl)
+I call them (3 excl)
+I ask them (3 excl)
+I read them (3 excl)
+I learn them (3 excl)
+You (1 incl) went 
+You (1 incl) made 
+You (1 incl) wanted 
+You (1 incl) saw 
+You (1 incl) called 
+You (1 incl) asked 
+You (1 incl) read 
+You (1 incl) learnt 
+You (1 incl) are going 
+You (1 incl) are making 
+You (1 incl) are seeing 
+You (1 incl) are wanting 
+You (1 incl) are calling 
+You (1 incl) are asking 
+You (1 incl) are reading 
+You (1 incl) are learning 
+You (1 incl) go 
+You (1 incl) make 
+You (1 incl) see 
+You (1 incl) want 
+You (1 incl) call 
+You (1 incl) ask 
+You (1 incl) read 
+You (1 incl) learn 
+You (1 incl) went me
+You (1 incl) made me
+You (1 incl) wanted me
+You (1 incl) saw me
+You (1 incl) called me
+You (1 incl) asked me
+You (1 incl) read me
+You (1 incl) learnt me
+You (1 incl) went you (1 incl)
+You (1 incl) made you (1 incl)
+You (1 incl) wanted you (1 incl)
+You (1 incl) saw you (1 incl)
+You (1 incl) called you (1 incl)
+You (1 incl) asked you (1 incl)
+You (1 incl) read you (1 incl)
+You (1 incl) learnt you (1 incl)
+You (1 incl) went him
+You (1 incl) made him
+You (1 incl) wanted him
+You (1 incl) saw him
+You (1 incl) called him
+You (1 incl) asked him
+You (1 incl) read him
+You (1 incl) learnt him
+You (1 incl) went her
+You (1 incl) made her
+You (1 incl) wanted her
+You (1 incl) saw her
+You (1 incl) called her
+You (1 incl) asked her
+You (1 incl) read her
+You (1 incl) learnt her
+You (1 incl) are going me
+You (1 incl) are making me
+You (1 incl) are seeing me
+You (1 incl) are wanting me
+You (1 incl) are calling me
+You (1 incl) are asking me
+You (1 incl) are reading me
+You (1 incl) are learning me
+You (1 incl) are going you (1 incl)
+You (1 incl) are making you (1 incl)
+You (1 incl) are seeing you (1 incl)
+You (1 incl) are wanting you (1 incl)
+You (1 incl) are calling you (1 incl)
+You (1 incl) are asking you (1 incl)
+You (1 incl) are reading you (1 incl)
+You (1 incl) are learning you (1 incl)
+You (1 incl) are going him
+You (1 incl) are making him
+You (1 incl) are seeing him
+You (1 incl) are wanting him
+You (1 incl) are calling him
+You (1 incl) are asking him
+You (1 incl) are reading him
+You (1 incl) are learning him
+You (1 incl) are going her
+You (1 incl) are making her
+You (1 incl) are seeing her
+You (1 incl) are wanting her
+You (1 incl) are calling her
+You (1 incl) are asking her
+You (1 incl) are reading her
+You (1 incl) are learning her
+You (1 incl) go me
+You (1 incl) make me
+You (1 incl) see me
+You (1 incl) want me
+You (1 incl) call me
+You (1 incl) ask me
+You (1 incl) read me
+You (1 incl) learn me
+You (1 incl) go you (1 incl)
+You (1 incl) make you (1 incl)
+You (1 incl) see you (1 incl)
+You (1 incl) want you (1 incl)
+You (1 incl) call you (1 incl)
+You (1 incl) ask you (1 incl)
+You (1 incl) read you (1 incl)
+You (1 incl) learn you (1 incl)
+You (1 incl) go him
+You (1 incl) make him
+You (1 incl) see him
+You (1 incl) want him
+You (1 incl) call him
+You (1 incl) ask him
+You (1 incl) read him
+You (1 incl) learn him
+You (1 incl) go her
+You (1 incl) make her
+You (1 incl) see her
+You (1 incl) want her
+You (1 incl) call her
+You (1 incl) ask her
+You (1 incl) read her
+You (1 incl) learn her
+You (1 incl) went us (2 incl)
+You (1 incl) made us (2 incl)
+You (1 incl) wanted us (2 incl)
+You (1 incl) saw us (2 incl)
+You (1 incl) called us (2 incl)
+You (1 incl) asked us (2 incl)
+You (1 incl) read us (2 incl)
+You (1 incl) learnt us (2 incl)
+You (1 incl) went us (2 excl)
+You (1 incl) made us (2 excl)
+You (1 incl) wanted us (2 excl)
+You (1 incl) saw us (2 excl)
+You (1 incl) called us (2 excl)
+You (1 incl) asked us (2 excl)
+You (1 incl) read us (2 excl)
+You (1 incl) learnt us (2 excl)
+You (1 incl) went you two
+You (1 incl) made you two
+You (1 incl) wanted you two
+You (1 incl) saw you two
+You (1 incl) called you two
+You (1 incl) asked you two
+You (1 incl) read you two
+You (1 incl) learnt you two
+You (1 incl) went you (2 incl)
+You (1 incl) made you (2 incl)
+You (1 incl) wanted you (2 incl)
+You (1 incl) saw you (2 incl)
+You (1 incl) called you (2 incl)
+You (1 incl) asked you (2 incl)
+You (1 incl) read you (2 incl)
+You (1 incl) learnt you (2 incl)
+You (1 incl) went them (2 excl)
+You (1 incl) made them (2 excl)
+You (1 incl) wanted them (2 excl)
+You (1 incl) saw them (2 excl)
+You (1 incl) called them (2 excl)
+You (1 incl) asked them (2 excl)
+You (1 incl) read them (2 excl)
+You (1 incl) learnt them (2 excl)
+You (1 incl) are going us (2 incl)
+You (1 incl) are making us (2 incl)
+You (1 incl) are seeing us (2 incl)
+You (1 incl) are wanting us (2 incl)
+You (1 incl) are calling us (2 incl)
+You (1 incl) are asking us (2 incl)
+You (1 incl) are reading us (2 incl)
+You (1 incl) are learning us (2 incl)
+You (1 incl) are going us (2 excl)
+You (1 incl) are making us (2 excl)
+You (1 incl) are seeing us (2 excl)
+You (1 incl) are wanting us (2 excl)
+You (1 incl) are calling us (2 excl)
+You (1 incl) are asking us (2 excl)
+You (1 incl) are reading us (2 excl)
+You (1 incl) are learning us (2 excl)
+You (1 incl) are going you two
+You (1 incl) are making you two
+You (1 incl) are seeing you two
+You (1 incl) are wanting you two
+You (1 incl) are calling you two
+You (1 incl) are asking you two
+You (1 incl) are reading you two
+You (1 incl) are learning you two
+You (1 incl) are going you (2 incl)
+You (1 incl) are making you (2 incl)
+You (1 incl) are seeing you (2 incl)
+You (1 incl) are wanting you (2 incl)
+You (1 incl) are calling you (2 incl)
+You (1 incl) are asking you (2 incl)
+You (1 incl) are reading you (2 incl)
+You (1 incl) are learning you (2 incl)
+You (1 incl) are going them (2 excl)
+You (1 incl) are making them (2 excl)
+You (1 incl) are seeing them (2 excl)
+You (1 incl) are wanting them (2 excl)
+You (1 incl) are calling them (2 excl)
+You (1 incl) are asking them (2 excl)
+You (1 incl) are reading them (2 excl)
+You (1 incl) are learning them (2 excl)
+You (1 incl) go us (2 incl)
+You (1 incl) make us (2 incl)
+You (1 incl) see us (2 incl)
+You (1 incl) want us (2 incl)
+You (1 incl) call us (2 incl)
+You (1 incl) ask us (2 incl)
+You (1 incl) read us (2 incl)
+You (1 incl) learn us (2 incl)
+You (1 incl) go us (2 excl)
+You (1 incl) make us (2 excl)
+You (1 incl) see us (2 excl)
+You (1 incl) want us (2 excl)
+You (1 incl) call us (2 excl)
+You (1 incl) ask us (2 excl)
+You (1 incl) read us (2 excl)
+You (1 incl) learn us (2 excl)
+You (1 incl) go you two
+You (1 incl) make you two
+You (1 incl) see you two
+You (1 incl) want you two
+You (1 incl) call you two
+You (1 incl) ask you two
+You (1 incl) read you two
+You (1 incl) learn you two
+You (1 incl) go you (2 incl)
+You (1 incl) make you (2 incl)
+You (1 incl) see you (2 incl)
+You (1 incl) want you (2 incl)
+You (1 incl) call you (2 incl)
+You (1 incl) ask you (2 incl)
+You (1 incl) read you (2 incl)
+You (1 incl) learn you (2 incl)
+You (1 incl) go them (2 excl)
+You (1 incl) make them (2 excl)
+You (1 incl) see them (2 excl)
+You (1 incl) want them (2 excl)
+You (1 incl) call them (2 excl)
+You (1 incl) ask them (2 excl)
+You (1 incl) read them (2 excl)
+You (1 incl) learn them (2 excl)
+You (1 incl) went us (3 incl)
+You (1 incl) made us (3 incl)
+You (1 incl) wanted us (3 incl)
+You (1 incl) saw us (3 incl)
+You (1 incl) called us (3 incl)
+You (1 incl) asked us (3 incl)
+You (1 incl) read us (3 incl)
+You (1 incl) learnt us (3 incl)
+You (1 incl) went us (3 excl)
+You (1 incl) made us (3 excl)
+You (1 incl) wanted us (3 excl)
+You (1 incl) saw us (3 excl)
+You (1 incl) called us (3 excl)
+You (1 incl) asked us (3 excl)
+You (1 incl) read us (3 excl)
+You (1 incl) learnt us (3 excl)
+You (1 incl) went you (3 incl)
+You (1 incl) made you (3 incl)
+You (1 incl) wanted you (3 incl)
+You (1 incl) saw you (3 incl)
+You (1 incl) called you (3 incl)
+You (1 incl) asked you (3 incl)
+You (1 incl) read you (3 incl)
+You (1 incl) learnt you (3 incl)
+You (1 incl) went them (3 excl)
+You (1 incl) made them (3 excl)
+You (1 incl) wanted them (3 excl)
+You (1 incl) saw them (3 excl)
+You (1 incl) called them (3 excl)
+You (1 incl) asked them (3 excl)
+You (1 incl) read them (3 excl)
+You (1 incl) learnt them (3 excl)
+You (1 incl) are going us (3 incl)
+You (1 incl) are making us (3 incl)
+You (1 incl) are seeing us (3 incl)
+You (1 incl) are wanting us (3 incl)
+You (1 incl) are calling us (3 incl)
+You (1 incl) are asking us (3 incl)
+You (1 incl) are reading us (3 incl)
+You (1 incl) are learning us (3 incl)
+You (1 incl) are going us (3 excl)
+You (1 incl) are making us (3 excl)
+You (1 incl) are seeing us (3 excl)
+You (1 incl) are wanting us (3 excl)
+You (1 incl) are calling us (3 excl)
+You (1 incl) are asking us (3 excl)
+You (1 incl) are reading us (3 excl)
+You (1 incl) are learning us (3 excl)
+You (1 incl) are going you (3 incl)
+You (1 incl) are making you (3 incl)
+You (1 incl) are seeing you (3 incl)
+You (1 incl) are wanting you (3 incl)
+You (1 incl) are calling you (3 incl)
+You (1 incl) are asking you (3 incl)
+You (1 incl) are reading you (3 incl)
+You (1 incl) are learning you (3 incl)
+You (1 incl) are going them (3 excl)
+You (1 incl) are making them (3 excl)
+You (1 incl) are seeing them (3 excl)
+You (1 incl) are wanting them (3 excl)
+You (1 incl) are calling them (3 excl)
+You (1 incl) are asking them (3 excl)
+You (1 incl) are reading them (3 excl)
+You (1 incl) are learning them (3 excl)
+You (1 incl) go us (3 incl)
+You (1 incl) make us (3 incl)
+You (1 incl) see us (3 incl)
+You (1 incl) want us (3 incl)
+You (1 incl) call us (3 incl)
+You (1 incl) ask us (3 incl)
+You (1 incl) read us (3 incl)
+You (1 incl) learn us (3 incl)
+You (1 incl) go us (3 excl)
+You (1 incl) make us (3 excl)
+You (1 incl) see us (3 excl)
+You (1 incl) want us (3 excl)
+You (1 incl) call us (3 excl)
+You (1 incl) ask us (3 excl)
+You (1 incl) read us (3 excl)
+You (1 incl) learn us (3 excl)
+You (1 incl) go you (3 incl)
+You (1 incl) make you (3 incl)
+You (1 incl) see you (3 incl)
+You (1 incl) want you (3 incl)
+You (1 incl) call you (3 incl)
+You (1 incl) ask you (3 incl)
+You (1 incl) read you (3 incl)
+You (1 incl) learn you (3 incl)
+You (1 incl) go them (3 excl)
+You (1 incl) make them (3 excl)
+You (1 incl) see them (3 excl)
+You (1 incl) want them (3 excl)
+You (1 incl) call them (3 excl)
+You (1 incl) ask them (3 excl)
+You (1 incl) read them (3 excl)
+You (1 incl) learn them (3 excl)
+He went 
+He made 
+He wanted 
+He saw 
+He called 
+He asked 
+He read 
+He learnt 
+He is going 
+He is making 
+He is seeing 
+He is wanting 
+He is calling 
+He is asking 
+He is reading 
+He is learning 
+He go 
+He make 
+He see 
+He want 
+He call 
+He ask 
+He read 
+He learn 
+He went me
+He made me
+He wanted me
+He saw me
+He called me
+He asked me
+He read me
+He learnt me
+He went you (1 incl)
+He made you (1 incl)
+He wanted you (1 incl)
+He saw you (1 incl)
+He called you (1 incl)
+He asked you (1 incl)
+He read you (1 incl)
+He learnt you (1 incl)
+He went him
+He made him
+He wanted him
+He saw him
+He called him
+He asked him
+He read him
+He learnt him
+He went her
+He made her
+He wanted her
+He saw her
+He called her
+He asked her
+He read her
+He learnt her
+He is going me
+He is making me
+He is seeing me
+He is wanting me
+He is calling me
+He is asking me
+He is reading me
+He is learning me
+He is going you (1 incl)
+He is making you (1 incl)
+He is seeing you (1 incl)
+He is wanting you (1 incl)
+He is calling you (1 incl)
+He is asking you (1 incl)
+He is reading you (1 incl)
+He is learning you (1 incl)
+He is going him
+He is making him
+He is seeing him
+He is wanting him
+He is calling him
+He is asking him
+He is reading him
+He is learning him
+He is going her
+He is making her
+He is seeing her
+He is wanting her
+He is calling her
+He is asking her
+He is reading her
+He is learning her
+He go me
+He make me
+He see me
+He want me
+He call me
+He ask me
+He read me
+He learn me
+He go you (1 incl)
+He make you (1 incl)
+He see you (1 incl)
+He want you (1 incl)
+He call you (1 incl)
+He ask you (1 incl)
+He read you (1 incl)
+He learn you (1 incl)
+He go him
+He make him
+He see him
+He want him
+He call him
+He ask him
+He read him
+He learn him
+He go her
+He make her
+He see her
+He want her
+He call her
+He ask her
+He read her
+He learn her
+He went us (2 incl)
+He made us (2 incl)
+He wanted us (2 incl)
+He saw us (2 incl)
+He called us (2 incl)
+He asked us (2 incl)
+He read us (2 incl)
+He learnt us (2 incl)
+He went us (2 excl)
+He made us (2 excl)
+He wanted us (2 excl)
+He saw us (2 excl)
+He called us (2 excl)
+He asked us (2 excl)
+He read us (2 excl)
+He learnt us (2 excl)
+He went you two
+He made you two
+He wanted you two
+He saw you two
+He called you two
+He asked you two
+He read you two
+He learnt you two
+He went you (2 incl)
+He made you (2 incl)
+He wanted you (2 incl)
+He saw you (2 incl)
+He called you (2 incl)
+He asked you (2 incl)
+He read you (2 incl)
+He learnt you (2 incl)
+He went them (2 excl)
+He made them (2 excl)
+He wanted them (2 excl)
+He saw them (2 excl)
+He called them (2 excl)
+He asked them (2 excl)
+He read them (2 excl)
+He learnt them (2 excl)
+He is going us (2 incl)
+He is making us (2 incl)
+He is seeing us (2 incl)
+He is wanting us (2 incl)
+He is calling us (2 incl)
+He is asking us (2 incl)
+He is reading us (2 incl)
+He is learning us (2 incl)
+He is going us (2 excl)
+He is making us (2 excl)
+He is seeing us (2 excl)
+He is wanting us (2 excl)
+He is calling us (2 excl)
+He is asking us (2 excl)
+He is reading us (2 excl)
+He is learning us (2 excl)
+He is going you two
+He is making you two
+He is seeing you two
+He is wanting you two
+He is calling you two
+He is asking you two
+He is reading you two
+He is learning you two
+He is going you (2 incl)
+He is making you (2 incl)
+He is seeing you (2 incl)
+He is wanting you (2 incl)
+He is calling you (2 incl)
+He is asking you (2 incl)
+He is reading you (2 incl)
+He is learning you (2 incl)
+He is going them (2 excl)
+He is making them (2 excl)
+He is seeing them (2 excl)
+He is wanting them (2 excl)
+He is calling them (2 excl)
+He is asking them (2 excl)
+He is reading them (2 excl)
+He is learning them (2 excl)
+He go us (2 incl)
+He make us (2 incl)
+He see us (2 incl)
+He want us (2 incl)
+He call us (2 incl)
+He ask us (2 incl)
+He read us (2 incl)
+He learn us (2 incl)
+He go us (2 excl)
+He make us (2 excl)
+He see us (2 excl)
+He want us (2 excl)
+He call us (2 excl)
+He ask us (2 excl)
+He read us (2 excl)
+He learn us (2 excl)
+He go you two
+He make you two
+He see you two
+He want you two
+He call you two
+He ask you two
+He read you two
+He learn you two
+He go you (2 incl)
+He make you (2 incl)
+He see you (2 incl)
+He want you (2 incl)
+He call you (2 incl)
+He ask you (2 incl)
+He read you (2 incl)
+He learn you (2 incl)
+He go them (2 excl)
+He make them (2 excl)
+He see them (2 excl)
+He want them (2 excl)
+He call them (2 excl)
+He ask them (2 excl)
+He read them (2 excl)
+He learn them (2 excl)
+He went us (3 incl)
+He made us (3 incl)
+He wanted us (3 incl)
+He saw us (3 incl)
+He called us (3 incl)
+He asked us (3 incl)
+He read us (3 incl)
+He learnt us (3 incl)
+He went us (3 excl)
+He made us (3 excl)
+He wanted us (3 excl)
+He saw us (3 excl)
+He called us (3 excl)
+He asked us (3 excl)
+He read us (3 excl)
+He learnt us (3 excl)
+He went you (3 incl)
+He made you (3 incl)
+He wanted you (3 incl)
+He saw you (3 incl)
+He called you (3 incl)
+He asked you (3 incl)
+He read you (3 incl)
+He learnt you (3 incl)
+He went them (3 excl)
+He made them (3 excl)
+He wanted them (3 excl)
+He saw them (3 excl)
+He called them (3 excl)
+He asked them (3 excl)
+He read them (3 excl)
+He learnt them (3 excl)
+He is going us (3 incl)
+He is making us (3 incl)
+He is seeing us (3 incl)
+He is wanting us (3 incl)
+He is calling us (3 incl)
+He is asking us (3 incl)
+He is reading us (3 incl)
+He is learning us (3 incl)
+He is going us (3 excl)
+He is making us (3 excl)
+He is seeing us (3 excl)
+He is wanting us (3 excl)
+He is calling us (3 excl)
+He is asking us (3 excl)
+He is reading us (3 excl)
+He is learning us (3 excl)
+He is going you (3 incl)
+He is making you (3 incl)
+He is seeing you (3 incl)
+He is wanting you (3 incl)
+He is calling you (3 incl)
+He is asking you (3 incl)
+He is reading you (3 incl)
+He is learning you (3 incl)
+He is going them (3 excl)
+He is making them (3 excl)
+He is seeing them (3 excl)
+He is wanting them (3 excl)
+He is calling them (3 excl)
+He is asking them (3 excl)
+He is reading them (3 excl)
+He is learning them (3 excl)
+He go us (3 incl)
+He make us (3 incl)
+He see us (3 incl)
+He want us (3 incl)
+He call us (3 incl)
+He ask us (3 incl)
+He read us (3 incl)
+He learn us (3 incl)
+He go us (3 excl)
+He make us (3 excl)
+He see us (3 excl)
+He want us (3 excl)
+He call us (3 excl)
+He ask us (3 excl)
+He read us (3 excl)
+He learn us (3 excl)
+He go you (3 incl)
+He make you (3 incl)
+He see you (3 incl)
+He want you (3 incl)
+He call you (3 incl)
+He ask you (3 incl)
+He read you (3 incl)
+He learn you (3 incl)
+He go them (3 excl)
+He make them (3 excl)
+He see them (3 excl)
+He want them (3 excl)
+He call them (3 excl)
+He ask them (3 excl)
+He read them (3 excl)
+He learn them (3 excl)
+She went 
+She made 
+She wanted 
+She saw 
+She called 
+She asked 
+She read 
+She learnt 
+He is going 
+He is making 
+He is seeing 
+He is wanting 
+He is calling 
+He is asking 
+He is reading 
+He is learning 
+She go 
+She make 
+She see 
+She want 
+She call 
+She ask 
+She read 
+She learn 
+She went me
+She made me
+She wanted me
+She saw me
+She called me
+She asked me
+She read me
+She learnt me
+She went you (1 incl)
+She made you (1 incl)
+She wanted you (1 incl)
+She saw you (1 incl)
+She called you (1 incl)
+She asked you (1 incl)
+She read you (1 incl)
+She learnt you (1 incl)
+She went him
+She made him
+She wanted him
+She saw him
+She called him
+She asked him
+She read him
+She learnt him
+She went her
+She made her
+She wanted her
+She saw her
+She called her
+She asked her
+She read her
+She learnt her
+He is going me
+He is making me
+He is seeing me
+He is wanting me
+He is calling me
+He is asking me
+He is reading me
+He is learning me
+He is going you (1 incl)
+He is making you (1 incl)
+He is seeing you (1 incl)
+He is wanting you (1 incl)
+He is calling you (1 incl)
+He is asking you (1 incl)
+He is reading you (1 incl)
+He is learning you (1 incl)
+He is going him
+He is making him
+He is seeing him
+He is wanting him
+He is calling him
+He is asking him
+He is reading him
+He is learning him
+He is going her
+He is making her
+He is seeing her
+He is wanting her
+He is calling her
+He is asking her
+He is reading her
+He is learning her
+She go me
+She make me
+She see me
+She want me
+She call me
+She ask me
+She read me
+She learn me
+She go you (1 incl)
+She make you (1 incl)
+She see you (1 incl)
+She want you (1 incl)
+She call you (1 incl)
+She ask you (1 incl)
+She read you (1 incl)
+She learn you (1 incl)
+She go him
+She make him
+She see him
+She want him
+She call him
+She ask him
+She read him
+She learn him
+She go her
+She make her
+She see her
+She want her
+She call her
+She ask her
+She read her
+She learn her
+She went us (2 incl)
+She made us (2 incl)
+She wanted us (2 incl)
+She saw us (2 incl)
+She called us (2 incl)
+She asked us (2 incl)
+She read us (2 incl)
+She learnt us (2 incl)
+She went us (2 excl)
+She made us (2 excl)
+She wanted us (2 excl)
+She saw us (2 excl)
+She called us (2 excl)
+She asked us (2 excl)
+She read us (2 excl)
+She learnt us (2 excl)
+She went you two
+She made you two
+She wanted you two
+She saw you two
+She called you two
+She asked you two
+She read you two
+She learnt you two
+She went you (2 incl)
+She made you (2 incl)
+She wanted you (2 incl)
+She saw you (2 incl)
+She called you (2 incl)
+She asked you (2 incl)
+She read you (2 incl)
+She learnt you (2 incl)
+She went them (2 excl)
+She made them (2 excl)
+She wanted them (2 excl)
+She saw them (2 excl)
+She called them (2 excl)
+She asked them (2 excl)
+She read them (2 excl)
+She learnt them (2 excl)
+He is going us (2 incl)
+He is making us (2 incl)
+He is seeing us (2 incl)
+He is wanting us (2 incl)
+He is calling us (2 incl)
+He is asking us (2 incl)
+He is reading us (2 incl)
+He is learning us (2 incl)
+He is going us (2 excl)
+He is making us (2 excl)
+He is seeing us (2 excl)
+He is wanting us (2 excl)
+He is calling us (2 excl)
+He is asking us (2 excl)
+He is reading us (2 excl)
+He is learning us (2 excl)
+He is going you two
+He is making you two
+He is seeing you two
+He is wanting you two
+He is calling you two
+He is asking you two
+He is reading you two
+He is learning you two
+He is going you (2 incl)
+He is making you (2 incl)
+He is seeing you (2 incl)
+He is wanting you (2 incl)
+He is calling you (2 incl)
+He is asking you (2 incl)
+He is reading you (2 incl)
+He is learning you (2 incl)
+He is going them (2 excl)
+He is making them (2 excl)
+He is seeing them (2 excl)
+He is wanting them (2 excl)
+He is calling them (2 excl)
+He is asking them (2 excl)
+He is reading them (2 excl)
+He is learning them (2 excl)
+She go us (2 incl)
+She make us (2 incl)
+She see us (2 incl)
+She want us (2 incl)
+She call us (2 incl)
+She ask us (2 incl)
+She read us (2 incl)
+She learn us (2 incl)
+She go us (2 excl)
+She make us (2 excl)
+She see us (2 excl)
+She want us (2 excl)
+She call us (2 excl)
+She ask us (2 excl)
+She read us (2 excl)
+She learn us (2 excl)
+She go you two
+She make you two
+She see you two
+She want you two
+She call you two
+She ask you two
+She read you two
+She learn you two
+She go you (2 incl)
+She make you (2 incl)
+She see you (2 incl)
+She want you (2 incl)
+She call you (2 incl)
+She ask you (2 incl)
+She read you (2 incl)
+She learn you (2 incl)
+She go them (2 excl)
+She make them (2 excl)
+She see them (2 excl)
+She want them (2 excl)
+She call them (2 excl)
+She ask them (2 excl)
+She read them (2 excl)
+She learn them (2 excl)
+She went us (3 incl)
+She made us (3 incl)
+She wanted us (3 incl)
+She saw us (3 incl)
+She called us (3 incl)
+She asked us (3 incl)
+She read us (3 incl)
+She learnt us (3 incl)
+She went us (3 excl)
+She made us (3 excl)
+She wanted us (3 excl)
+She saw us (3 excl)
+She called us (3 excl)
+She asked us (3 excl)
+She read us (3 excl)
+She learnt us (3 excl)
+She went you (3 incl)
+She made you (3 incl)
+She wanted you (3 incl)
+She saw you (3 incl)
+She called you (3 incl)
+She asked you (3 incl)
+She read you (3 incl)
+She learnt you (3 incl)
+She went them (3 excl)
+She made them (3 excl)
+She wanted them (3 excl)
+She saw them (3 excl)
+She called them (3 excl)
+She asked them (3 excl)
+She read them (3 excl)
+She learnt them (3 excl)
+He is going us (3 incl)
+He is making us (3 incl)
+He is seeing us (3 incl)
+He is wanting us (3 incl)
+He is calling us (3 incl)
+He is asking us (3 incl)
+He is reading us (3 incl)
+He is learning us (3 incl)
+He is going us (3 excl)
+He is making us (3 excl)
+He is seeing us (3 excl)
+He is wanting us (3 excl)
+He is calling us (3 excl)
+He is asking us (3 excl)
+He is reading us (3 excl)
+He is learning us (3 excl)
+He is going you (3 incl)
+He is making you (3 incl)
+He is seeing you (3 incl)
+He is wanting you (3 incl)
+He is calling you (3 incl)
+He is asking you (3 incl)
+He is reading you (3 incl)
+He is learning you (3 incl)
+He is going them (3 excl)
+He is making them (3 excl)
+He is seeing them (3 excl)
+He is wanting them (3 excl)
+He is calling them (3 excl)
+He is asking them (3 excl)
+He is reading them (3 excl)
+He is learning them (3 excl)
+She go us (3 incl)
+She make us (3 incl)
+She see us (3 incl)
+She want us (3 incl)
+She call us (3 incl)
+She ask us (3 incl)
+She read us (3 incl)
+She learn us (3 incl)
+She go us (3 excl)
+She make us (3 excl)
+She see us (3 excl)
+She want us (3 excl)
+She call us (3 excl)
+She ask us (3 excl)
+She read us (3 excl)
+She learn us (3 excl)
+She go you (3 incl)
+She make you (3 incl)
+She see you (3 incl)
+She want you (3 incl)
+She call you (3 incl)
+She ask you (3 incl)
+She read you (3 incl)
+She learn you (3 incl)
+She go them (3 excl)
+She make them (3 excl)
+She see them (3 excl)
+She want them (3 excl)
+She call them (3 excl)
+She ask them (3 excl)
+She read them (3 excl)
+She learn them (3 excl)
+We (3 incl) went 
+We (3 incl) made 
+We (3 incl) wanted 
+We (3 incl) saw 
+We (3 incl) called 
+We (3 incl) asked 
+We (3 incl) read 
+We (3 incl) learnt 
+We (3 incl) are going 
+We (3 incl) are making 
+We (3 incl) are seeing 
+We (3 incl) are wanting 
+We (3 incl) are calling 
+We (3 incl) are asking 
+We (3 incl) are reading 
+We (3 incl) are learning 
+We (3 incl) go 
+We (3 incl) make 
+We (3 incl) see 
+We (3 incl) want 
+We (3 incl) call 
+We (3 incl) ask 
+We (3 incl) read 
+We (3 incl) learn 
+We (3 incl) went me
+We (3 incl) made me
+We (3 incl) wanted me
+We (3 incl) saw me
+We (3 incl) called me
+We (3 incl) asked me
+We (3 incl) read me
+We (3 incl) learnt me
+We (3 incl) went you (1 incl)
+We (3 incl) made you (1 incl)
+We (3 incl) wanted you (1 incl)
+We (3 incl) saw you (1 incl)
+We (3 incl) called you (1 incl)
+We (3 incl) asked you (1 incl)
+We (3 incl) read you (1 incl)
+We (3 incl) learnt you (1 incl)
+We (3 incl) went him
+We (3 incl) made him
+We (3 incl) wanted him
+We (3 incl) saw him
+We (3 incl) called him
+We (3 incl) asked him
+We (3 incl) read him
+We (3 incl) learnt him
+We (3 incl) went her
+We (3 incl) made her
+We (3 incl) wanted her
+We (3 incl) saw her
+We (3 incl) called her
+We (3 incl) asked her
+We (3 incl) read her
+We (3 incl) learnt her
+We (3 incl) are going me
+We (3 incl) are making me
+We (3 incl) are seeing me
+We (3 incl) are wanting me
+We (3 incl) are calling me
+We (3 incl) are asking me
+We (3 incl) are reading me
+We (3 incl) are learning me
+We (3 incl) are going you (1 incl)
+We (3 incl) are making you (1 incl)
+We (3 incl) are seeing you (1 incl)
+We (3 incl) are wanting you (1 incl)
+We (3 incl) are calling you (1 incl)
+We (3 incl) are asking you (1 incl)
+We (3 incl) are reading you (1 incl)
+We (3 incl) are learning you (1 incl)
+We (3 incl) are going him
+We (3 incl) are making him
+We (3 incl) are seeing him
+We (3 incl) are wanting him
+We (3 incl) are calling him
+We (3 incl) are asking him
+We (3 incl) are reading him
+We (3 incl) are learning him
+We (3 incl) are going her
+We (3 incl) are making her
+We (3 incl) are seeing her
+We (3 incl) are wanting her
+We (3 incl) are calling her
+We (3 incl) are asking her
+We (3 incl) are reading her
+We (3 incl) are learning her
+We (3 incl) go me
+We (3 incl) make me
+We (3 incl) see me
+We (3 incl) want me
+We (3 incl) call me
+We (3 incl) ask me
+We (3 incl) read me
+We (3 incl) learn me
+We (3 incl) go you (1 incl)
+We (3 incl) make you (1 incl)
+We (3 incl) see you (1 incl)
+We (3 incl) want you (1 incl)
+We (3 incl) call you (1 incl)
+We (3 incl) ask you (1 incl)
+We (3 incl) read you (1 incl)
+We (3 incl) learn you (1 incl)
+We (3 incl) go him
+We (3 incl) make him
+We (3 incl) see him
+We (3 incl) want him
+We (3 incl) call him
+We (3 incl) ask him
+We (3 incl) read him
+We (3 incl) learn him
+We (3 incl) go her
+We (3 incl) make her
+We (3 incl) see her
+We (3 incl) want her
+We (3 incl) call her
+We (3 incl) ask her
+We (3 incl) read her
+We (3 incl) learn her
+We (3 incl) went us (2 incl)
+We (3 incl) made us (2 incl)
+We (3 incl) wanted us (2 incl)
+We (3 incl) saw us (2 incl)
+We (3 incl) called us (2 incl)
+We (3 incl) asked us (2 incl)
+We (3 incl) read us (2 incl)
+We (3 incl) learnt us (2 incl)
+We (3 incl) went us (2 excl)
+We (3 incl) made us (2 excl)
+We (3 incl) wanted us (2 excl)
+We (3 incl) saw us (2 excl)
+We (3 incl) called us (2 excl)
+We (3 incl) asked us (2 excl)
+We (3 incl) read us (2 excl)
+We (3 incl) learnt us (2 excl)
+We (3 incl) went you two
+We (3 incl) made you two
+We (3 incl) wanted you two
+We (3 incl) saw you two
+We (3 incl) called you two
+We (3 incl) asked you two
+We (3 incl) read you two
+We (3 incl) learnt you two
+We (3 incl) went you (2 incl)
+We (3 incl) made you (2 incl)
+We (3 incl) wanted you (2 incl)
+We (3 incl) saw you (2 incl)
+We (3 incl) called you (2 incl)
+We (3 incl) asked you (2 incl)
+We (3 incl) read you (2 incl)
+We (3 incl) learnt you (2 incl)
+We (3 incl) went them (2 excl)
+We (3 incl) made them (2 excl)
+We (3 incl) wanted them (2 excl)
+We (3 incl) saw them (2 excl)
+We (3 incl) called them (2 excl)
+We (3 incl) asked them (2 excl)
+We (3 incl) read them (2 excl)
+We (3 incl) learnt them (2 excl)
+We (3 incl) are going us (2 incl)
+We (3 incl) are making us (2 incl)
+We (3 incl) are seeing us (2 incl)
+We (3 incl) are wanting us (2 incl)
+We (3 incl) are calling us (2 incl)
+We (3 incl) are asking us (2 incl)
+We (3 incl) are reading us (2 incl)
+We (3 incl) are learning us (2 incl)
+We (3 incl) are going us (2 excl)
+We (3 incl) are making us (2 excl)
+We (3 incl) are seeing us (2 excl)
+We (3 incl) are wanting us (2 excl)
+We (3 incl) are calling us (2 excl)
+We (3 incl) are asking us (2 excl)
+We (3 incl) are reading us (2 excl)
+We (3 incl) are learning us (2 excl)
+We (3 incl) are going you two
+We (3 incl) are making you two
+We (3 incl) are seeing you two
+We (3 incl) are wanting you two
+We (3 incl) are calling you two
+We (3 incl) are asking you two
+We (3 incl) are reading you two
+We (3 incl) are learning you two
+We (3 incl) are going you (2 incl)
+We (3 incl) are making you (2 incl)
+We (3 incl) are seeing you (2 incl)
+We (3 incl) are wanting you (2 incl)
+We (3 incl) are calling you (2 incl)
+We (3 incl) are asking you (2 incl)
+We (3 incl) are reading you (2 incl)
+We (3 incl) are learning you (2 incl)
+We (3 incl) are going them (2 excl)
+We (3 incl) are making them (2 excl)
+We (3 incl) are seeing them (2 excl)
+We (3 incl) are wanting them (2 excl)
+We (3 incl) are calling them (2 excl)
+We (3 incl) are asking them (2 excl)
+We (3 incl) are reading them (2 excl)
+We (3 incl) are learning them (2 excl)
+We (3 incl) go us (2 incl)
+We (3 incl) make us (2 incl)
+We (3 incl) see us (2 incl)
+We (3 incl) want us (2 incl)
+We (3 incl) call us (2 incl)
+We (3 incl) ask us (2 incl)
+We (3 incl) read us (2 incl)
+We (3 incl) learn us (2 incl)
+We (3 incl) go us (2 excl)
+We (3 incl) make us (2 excl)
+We (3 incl) see us (2 excl)
+We (3 incl) want us (2 excl)
+We (3 incl) call us (2 excl)
+We (3 incl) ask us (2 excl)
+We (3 incl) read us (2 excl)
+We (3 incl) learn us (2 excl)
+We (3 incl) go you two
+We (3 incl) make you two
+We (3 incl) see you two
+We (3 incl) want you two
+We (3 incl) call you two
+We (3 incl) ask you two
+We (3 incl) read you two
+We (3 incl) learn you two
+We (3 incl) go you (2 incl)
+We (3 incl) make you (2 incl)
+We (3 incl) see you (2 incl)
+We (3 incl) want you (2 incl)
+We (3 incl) call you (2 incl)
+We (3 incl) ask you (2 incl)
+We (3 incl) read you (2 incl)
+We (3 incl) learn you (2 incl)
+We (3 incl) go them (2 excl)
+We (3 incl) make them (2 excl)
+We (3 incl) see them (2 excl)
+We (3 incl) want them (2 excl)
+We (3 incl) call them (2 excl)
+We (3 incl) ask them (2 excl)
+We (3 incl) read them (2 excl)
+We (3 incl) learn them (2 excl)
+We (3 incl) went us (3 incl)
+We (3 incl) made us (3 incl)
+We (3 incl) wanted us (3 incl)
+We (3 incl) saw us (3 incl)
+We (3 incl) called us (3 incl)
+We (3 incl) asked us (3 incl)
+We (3 incl) read us (3 incl)
+We (3 incl) learnt us (3 incl)
+We (3 incl) went us (3 excl)
+We (3 incl) made us (3 excl)
+We (3 incl) wanted us (3 excl)
+We (3 incl) saw us (3 excl)
+We (3 incl) called us (3 excl)
+We (3 incl) asked us (3 excl)
+We (3 incl) read us (3 excl)
+We (3 incl) learnt us (3 excl)
+We (3 incl) went you (3 incl)
+We (3 incl) made you (3 incl)
+We (3 incl) wanted you (3 incl)
+We (3 incl) saw you (3 incl)
+We (3 incl) called you (3 incl)
+We (3 incl) asked you (3 incl)
+We (3 incl) read you (3 incl)
+We (3 incl) learnt you (3 incl)
+We (3 incl) went them (3 excl)
+We (3 incl) made them (3 excl)
+We (3 incl) wanted them (3 excl)
+We (3 incl) saw them (3 excl)
+We (3 incl) called them (3 excl)
+We (3 incl) asked them (3 excl)
+We (3 incl) read them (3 excl)
+We (3 incl) learnt them (3 excl)
+We (3 incl) are going us (3 incl)
+We (3 incl) are making us (3 incl)
+We (3 incl) are seeing us (3 incl)
+We (3 incl) are wanting us (3 incl)
+We (3 incl) are calling us (3 incl)
+We (3 incl) are asking us (3 incl)
+We (3 incl) are reading us (3 incl)
+We (3 incl) are learning us (3 incl)
+We (3 incl) are going us (3 excl)
+We (3 incl) are making us (3 excl)
+We (3 incl) are seeing us (3 excl)
+We (3 incl) are wanting us (3 excl)
+We (3 incl) are calling us (3 excl)
+We (3 incl) are asking us (3 excl)
+We (3 incl) are reading us (3 excl)
+We (3 incl) are learning us (3 excl)
+We (3 incl) are going you (3 incl)
+We (3 incl) are making you (3 incl)
+We (3 incl) are seeing you (3 incl)
+We (3 incl) are wanting you (3 incl)
+We (3 incl) are calling you (3 incl)
+We (3 incl) are asking you (3 incl)
+We (3 incl) are reading you (3 incl)
+We (3 incl) are learning you (3 incl)
+We (3 incl) are going them (3 excl)
+We (3 incl) are making them (3 excl)
+We (3 incl) are seeing them (3 excl)
+We (3 incl) are wanting them (3 excl)
+We (3 incl) are calling them (3 excl)
+We (3 incl) are asking them (3 excl)
+We (3 incl) are reading them (3 excl)
+We (3 incl) are learning them (3 excl)
+We (3 incl) go us (3 incl)
+We (3 incl) make us (3 incl)
+We (3 incl) see us (3 incl)
+We (3 incl) want us (3 incl)
+We (3 incl) call us (3 incl)
+We (3 incl) ask us (3 incl)
+We (3 incl) read us (3 incl)
+We (3 incl) learn us (3 incl)
+We (3 incl) go us (3 excl)
+We (3 incl) make us (3 excl)
+We (3 incl) see us (3 excl)
+We (3 incl) want us (3 excl)
+We (3 incl) call us (3 excl)
+We (3 incl) ask us (3 excl)
+We (3 incl) read us (3 excl)
+We (3 incl) learn us (3 excl)
+We (3 incl) go you (3 incl)
+We (3 incl) make you (3 incl)
+We (3 incl) see you (3 incl)
+We (3 incl) want you (3 incl)
+We (3 incl) call you (3 incl)
+We (3 incl) ask you (3 incl)
+We (3 incl) read you (3 incl)
+We (3 incl) learn you (3 incl)
+We (3 incl) go them (3 excl)
+We (3 incl) make them (3 excl)
+We (3 incl) see them (3 excl)
+We (3 incl) want them (3 excl)
+We (3 incl) call them (3 excl)
+We (3 incl) ask them (3 excl)
+We (3 incl) read them (3 excl)
+We (3 incl) learn them (3 excl)
+We (3 excl) went 
+We (3 excl) made 
+We (3 excl) wanted 
+We (3 excl) saw 
+We (3 excl) called 
+We (3 excl) asked 
+We (3 excl) read 
+We (3 excl) learnt 
+We (3 excl) are going 
+We (3 excl) are making 
+We (3 excl) are seeing 
+We (3 excl) are wanting 
+We (3 excl) are calling 
+We (3 excl) are asking 
+We (3 excl) are reading 
+We (3 excl) are learning 
+We (3 excl) go 
+We (3 excl) make 
+We (3 excl) see 
+We (3 excl) want 
+We (3 excl) call 
+We (3 excl) ask 
+We (3 excl) read 
+We (3 excl) learn 
+We (3 excl) went me
+We (3 excl) made me
+We (3 excl) wanted me
+We (3 excl) saw me
+We (3 excl) called me
+We (3 excl) asked me
+We (3 excl) read me
+We (3 excl) learnt me
+We (3 excl) went you (1 incl)
+We (3 excl) made you (1 incl)
+We (3 excl) wanted you (1 incl)
+We (3 excl) saw you (1 incl)
+We (3 excl) called you (1 incl)
+We (3 excl) asked you (1 incl)
+We (3 excl) read you (1 incl)
+We (3 excl) learnt you (1 incl)
+We (3 excl) went him
+We (3 excl) made him
+We (3 excl) wanted him
+We (3 excl) saw him
+We (3 excl) called him
+We (3 excl) asked him
+We (3 excl) read him
+We (3 excl) learnt him
+We (3 excl) went her
+We (3 excl) made her
+We (3 excl) wanted her
+We (3 excl) saw her
+We (3 excl) called her
+We (3 excl) asked her
+We (3 excl) read her
+We (3 excl) learnt her
+We (3 excl) are going me
+We (3 excl) are making me
+We (3 excl) are seeing me
+We (3 excl) are wanting me
+We (3 excl) are calling me
+We (3 excl) are asking me
+We (3 excl) are reading me
+We (3 excl) are learning me
+We (3 excl) are going you (1 incl)
+We (3 excl) are making you (1 incl)
+We (3 excl) are seeing you (1 incl)
+We (3 excl) are wanting you (1 incl)
+We (3 excl) are calling you (1 incl)
+We (3 excl) are asking you (1 incl)
+We (3 excl) are reading you (1 incl)
+We (3 excl) are learning you (1 incl)
+We (3 excl) are going him
+We (3 excl) are making him
+We (3 excl) are seeing him
+We (3 excl) are wanting him
+We (3 excl) are calling him
+We (3 excl) are asking him
+We (3 excl) are reading him
+We (3 excl) are learning him
+We (3 excl) are going her
+We (3 excl) are making her
+We (3 excl) are seeing her
+We (3 excl) are wanting her
+We (3 excl) are calling her
+We (3 excl) are asking her
+We (3 excl) are reading her
+We (3 excl) are learning her
+We (3 excl) go me
+We (3 excl) make me
+We (3 excl) see me
+We (3 excl) want me
+We (3 excl) call me
+We (3 excl) ask me
+We (3 excl) read me
+We (3 excl) learn me
+We (3 excl) go you (1 incl)
+We (3 excl) make you (1 incl)
+We (3 excl) see you (1 incl)
+We (3 excl) want you (1 incl)
+We (3 excl) call you (1 incl)
+We (3 excl) ask you (1 incl)
+We (3 excl) read you (1 incl)
+We (3 excl) learn you (1 incl)
+We (3 excl) go him
+We (3 excl) make him
+We (3 excl) see him
+We (3 excl) want him
+We (3 excl) call him
+We (3 excl) ask him
+We (3 excl) read him
+We (3 excl) learn him
+We (3 excl) go her
+We (3 excl) make her
+We (3 excl) see her
+We (3 excl) want her
+We (3 excl) call her
+We (3 excl) ask her
+We (3 excl) read her
+We (3 excl) learn her
+We (3 excl) went us (2 incl)
+We (3 excl) made us (2 incl)
+We (3 excl) wanted us (2 incl)
+We (3 excl) saw us (2 incl)
+We (3 excl) called us (2 incl)
+We (3 excl) asked us (2 incl)
+We (3 excl) read us (2 incl)
+We (3 excl) learnt us (2 incl)
+We (3 excl) went us (2 excl)
+We (3 excl) made us (2 excl)
+We (3 excl) wanted us (2 excl)
+We (3 excl) saw us (2 excl)
+We (3 excl) called us (2 excl)
+We (3 excl) asked us (2 excl)
+We (3 excl) read us (2 excl)
+We (3 excl) learnt us (2 excl)
+We (3 excl) went you two
+We (3 excl) made you two
+We (3 excl) wanted you two
+We (3 excl) saw you two
+We (3 excl) called you two
+We (3 excl) asked you two
+We (3 excl) read you two
+We (3 excl) learnt you two
+We (3 excl) went you (2 incl)
+We (3 excl) made you (2 incl)
+We (3 excl) wanted you (2 incl)
+We (3 excl) saw you (2 incl)
+We (3 excl) called you (2 incl)
+We (3 excl) asked you (2 incl)
+We (3 excl) read you (2 incl)
+We (3 excl) learnt you (2 incl)
+We (3 excl) went them (2 excl)
+We (3 excl) made them (2 excl)
+We (3 excl) wanted them (2 excl)
+We (3 excl) saw them (2 excl)
+We (3 excl) called them (2 excl)
+We (3 excl) asked them (2 excl)
+We (3 excl) read them (2 excl)
+We (3 excl) learnt them (2 excl)
+We (3 excl) are going us (2 incl)
+We (3 excl) are making us (2 incl)
+We (3 excl) are seeing us (2 incl)
+We (3 excl) are wanting us (2 incl)
+We (3 excl) are calling us (2 incl)
+We (3 excl) are asking us (2 incl)
+We (3 excl) are reading us (2 incl)
+We (3 excl) are learning us (2 incl)
+We (3 excl) are going us (2 excl)
+We (3 excl) are making us (2 excl)
+We (3 excl) are seeing us (2 excl)
+We (3 excl) are wanting us (2 excl)
+We (3 excl) are calling us (2 excl)
+We (3 excl) are asking us (2 excl)
+We (3 excl) are reading us (2 excl)
+We (3 excl) are learning us (2 excl)
+We (3 excl) are going you two
+We (3 excl) are making you two
+We (3 excl) are seeing you two
+We (3 excl) are wanting you two
+We (3 excl) are calling you two
+We (3 excl) are asking you two
+We (3 excl) are reading you two
+We (3 excl) are learning you two
+We (3 excl) are going you (2 incl)
+We (3 excl) are making you (2 incl)
+We (3 excl) are seeing you (2 incl)
+We (3 excl) are wanting you (2 incl)
+We (3 excl) are calling you (2 incl)
+We (3 excl) are asking you (2 incl)
+We (3 excl) are reading you (2 incl)
+We (3 excl) are learning you (2 incl)
+We (3 excl) are going them (2 excl)
+We (3 excl) are making them (2 excl)
+We (3 excl) are seeing them (2 excl)
+We (3 excl) are wanting them (2 excl)
+We (3 excl) are calling them (2 excl)
+We (3 excl) are asking them (2 excl)
+We (3 excl) are reading them (2 excl)
+We (3 excl) are learning them (2 excl)
+We (3 excl) go us (2 incl)
+We (3 excl) make us (2 incl)
+We (3 excl) see us (2 incl)
+We (3 excl) want us (2 incl)
+We (3 excl) call us (2 incl)
+We (3 excl) ask us (2 incl)
+We (3 excl) read us (2 incl)
+We (3 excl) learn us (2 incl)
+We (3 excl) go us (2 excl)
+We (3 excl) make us (2 excl)
+We (3 excl) see us (2 excl)
+We (3 excl) want us (2 excl)
+We (3 excl) call us (2 excl)
+We (3 excl) ask us (2 excl)
+We (3 excl) read us (2 excl)
+We (3 excl) learn us (2 excl)
+We (3 excl) go you two
+We (3 excl) make you two
+We (3 excl) see you two
+We (3 excl) want you two
+We (3 excl) call you two
+We (3 excl) ask you two
+We (3 excl) read you two
+We (3 excl) learn you two
+We (3 excl) go you (2 incl)
+We (3 excl) make you (2 incl)
+We (3 excl) see you (2 incl)
+We (3 excl) want you (2 incl)
+We (3 excl) call you (2 incl)
+We (3 excl) ask you (2 incl)
+We (3 excl) read you (2 incl)
+We (3 excl) learn you (2 incl)
+We (3 excl) go them (2 excl)
+We (3 excl) make them (2 excl)
+We (3 excl) see them (2 excl)
+We (3 excl) want them (2 excl)
+We (3 excl) call them (2 excl)
+We (3 excl) ask them (2 excl)
+We (3 excl) read them (2 excl)
+We (3 excl) learn them (2 excl)
+We (3 excl) went us (3 incl)
+We (3 excl) made us (3 incl)
+We (3 excl) wanted us (3 incl)
+We (3 excl) saw us (3 incl)
+We (3 excl) called us (3 incl)
+We (3 excl) asked us (3 incl)
+We (3 excl) read us (3 incl)
+We (3 excl) learnt us (3 incl)
+We (3 excl) went us (3 excl)
+We (3 excl) made us (3 excl)
+We (3 excl) wanted us (3 excl)
+We (3 excl) saw us (3 excl)
+We (3 excl) called us (3 excl)
+We (3 excl) asked us (3 excl)
+We (3 excl) read us (3 excl)
+We (3 excl) learnt us (3 excl)
+We (3 excl) went you (3 incl)
+We (3 excl) made you (3 incl)
+We (3 excl) wanted you (3 incl)
+We (3 excl) saw you (3 incl)
+We (3 excl) called you (3 incl)
+We (3 excl) asked you (3 incl)
+We (3 excl) read you (3 incl)
+We (3 excl) learnt you (3 incl)
+We (3 excl) went them (3 excl)
+We (3 excl) made them (3 excl)
+We (3 excl) wanted them (3 excl)
+We (3 excl) saw them (3 excl)
+We (3 excl) called them (3 excl)
+We (3 excl) asked them (3 excl)
+We (3 excl) read them (3 excl)
+We (3 excl) learnt them (3 excl)
+We (3 excl) are going us (3 incl)
+We (3 excl) are making us (3 incl)
+We (3 excl) are seeing us (3 incl)
+We (3 excl) are wanting us (3 incl)
+We (3 excl) are calling us (3 incl)
+We (3 excl) are asking us (3 incl)
+We (3 excl) are reading us (3 incl)
+We (3 excl) are learning us (3 incl)
+We (3 excl) are going us (3 excl)
+We (3 excl) are making us (3 excl)
+We (3 excl) are seeing us (3 excl)
+We (3 excl) are wanting us (3 excl)
+We (3 excl) are calling us (3 excl)
+We (3 excl) are asking us (3 excl)
+We (3 excl) are reading us (3 excl)
+We (3 excl) are learning us (3 excl)
+We (3 excl) are going you (3 incl)
+We (3 excl) are making you (3 incl)
+We (3 excl) are seeing you (3 incl)
+We (3 excl) are wanting you (3 incl)
+We (3 excl) are calling you (3 incl)
+We (3 excl) are asking you (3 incl)
+We (3 excl) are reading you (3 incl)
+We (3 excl) are learning you (3 incl)
+We (3 excl) are going them (3 excl)
+We (3 excl) are making them (3 excl)
+We (3 excl) are seeing them (3 excl)
+We (3 excl) are wanting them (3 excl)
+We (3 excl) are calling them (3 excl)
+We (3 excl) are asking them (3 excl)
+We (3 excl) are reading them (3 excl)
+We (3 excl) are learning them (3 excl)
+We (3 excl) go us (3 incl)
+We (3 excl) make us (3 incl)
+We (3 excl) see us (3 incl)
+We (3 excl) want us (3 incl)
+We (3 excl) call us (3 incl)
+We (3 excl) ask us (3 incl)
+We (3 excl) read us (3 incl)
+We (3 excl) learn us (3 incl)
+We (3 excl) go us (3 excl)
+We (3 excl) make us (3 excl)
+We (3 excl) see us (3 excl)
+We (3 excl) want us (3 excl)
+We (3 excl) call us (3 excl)
+We (3 excl) ask us (3 excl)
+We (3 excl) read us (3 excl)
+We (3 excl) learn us (3 excl)
+We (3 excl) go you (3 incl)
+We (3 excl) make you (3 incl)
+We (3 excl) see you (3 incl)
+We (3 excl) want you (3 incl)
+We (3 excl) call you (3 incl)
+We (3 excl) ask you (3 incl)
+We (3 excl) read you (3 incl)
+We (3 excl) learn you (3 incl)
+We (3 excl) go them (3 excl)
+We (3 excl) make them (3 excl)
+We (3 excl) see them (3 excl)
+We (3 excl) want them (3 excl)
+We (3 excl) call them (3 excl)
+We (3 excl) ask them (3 excl)
+We (3 excl) read them (3 excl)
+We (3 excl) learn them (3 excl)
+You (3 incl) went 
+You (3 incl) made 
+You (3 incl) wanted 
+You (3 incl) saw 
+You (3 incl) called 
+You (3 incl) asked 
+You (3 incl) read 
+You (3 incl) learnt 
+You (3 incl) are going 
+You (3 incl) are making 
+You (3 incl) are seeing 
+You (3 incl) are wanting 
+You (3 incl) are calling 
+You (3 incl) are asking 
+You (3 incl) are reading 
+You (3 incl) are learning 
+You (3 incl) go 
+You (3 incl) make 
+You (3 incl) see 
+You (3 incl) want 
+You (3 incl) call 
+You (3 incl) ask 
+You (3 incl) read 
+You (3 incl) learn 
+You (3 incl) went me
+You (3 incl) made me
+You (3 incl) wanted me
+You (3 incl) saw me
+You (3 incl) called me
+You (3 incl) asked me
+You (3 incl) read me
+You (3 incl) learnt me
+You (3 incl) went you (1 incl)
+You (3 incl) made you (1 incl)
+You (3 incl) wanted you (1 incl)
+You (3 incl) saw you (1 incl)
+You (3 incl) called you (1 incl)
+You (3 incl) asked you (1 incl)
+You (3 incl) read you (1 incl)
+You (3 incl) learnt you (1 incl)
+You (3 incl) went him
+You (3 incl) made him
+You (3 incl) wanted him
+You (3 incl) saw him
+You (3 incl) called him
+You (3 incl) asked him
+You (3 incl) read him
+You (3 incl) learnt him
+You (3 incl) went her
+You (3 incl) made her
+You (3 incl) wanted her
+You (3 incl) saw her
+You (3 incl) called her
+You (3 incl) asked her
+You (3 incl) read her
+You (3 incl) learnt her
+You (3 incl) are going me
+You (3 incl) are making me
+You (3 incl) are seeing me
+You (3 incl) are wanting me
+You (3 incl) are calling me
+You (3 incl) are asking me
+You (3 incl) are reading me
+You (3 incl) are learning me
+You (3 incl) are going you (1 incl)
+You (3 incl) are making you (1 incl)
+You (3 incl) are seeing you (1 incl)
+You (3 incl) are wanting you (1 incl)
+You (3 incl) are calling you (1 incl)
+You (3 incl) are asking you (1 incl)
+You (3 incl) are reading you (1 incl)
+You (3 incl) are learning you (1 incl)
+You (3 incl) are going him
+You (3 incl) are making him
+You (3 incl) are seeing him
+You (3 incl) are wanting him
+You (3 incl) are calling him
+You (3 incl) are asking him
+You (3 incl) are reading him
+You (3 incl) are learning him
+You (3 incl) are going her
+You (3 incl) are making her
+You (3 incl) are seeing her
+You (3 incl) are wanting her
+You (3 incl) are calling her
+You (3 incl) are asking her
+You (3 incl) are reading her
+You (3 incl) are learning her
+You (3 incl) go me
+You (3 incl) make me
+You (3 incl) see me
+You (3 incl) want me
+You (3 incl) call me
+You (3 incl) ask me
+You (3 incl) read me
+You (3 incl) learn me
+You (3 incl) go you (1 incl)
+You (3 incl) make you (1 incl)
+You (3 incl) see you (1 incl)
+You (3 incl) want you (1 incl)
+You (3 incl) call you (1 incl)
+You (3 incl) ask you (1 incl)
+You (3 incl) read you (1 incl)
+You (3 incl) learn you (1 incl)
+You (3 incl) go him
+You (3 incl) make him
+You (3 incl) see him
+You (3 incl) want him
+You (3 incl) call him
+You (3 incl) ask him
+You (3 incl) read him
+You (3 incl) learn him
+You (3 incl) go her
+You (3 incl) make her
+You (3 incl) see her
+You (3 incl) want her
+You (3 incl) call her
+You (3 incl) ask her
+You (3 incl) read her
+You (3 incl) learn her
+You (3 incl) went us (2 incl)
+You (3 incl) made us (2 incl)
+You (3 incl) wanted us (2 incl)
+You (3 incl) saw us (2 incl)
+You (3 incl) called us (2 incl)
+You (3 incl) asked us (2 incl)
+You (3 incl) read us (2 incl)
+You (3 incl) learnt us (2 incl)
+You (3 incl) went us (2 excl)
+You (3 incl) made us (2 excl)
+You (3 incl) wanted us (2 excl)
+You (3 incl) saw us (2 excl)
+You (3 incl) called us (2 excl)
+You (3 incl) asked us (2 excl)
+You (3 incl) read us (2 excl)
+You (3 incl) learnt us (2 excl)
+You (3 incl) went you two
+You (3 incl) made you two
+You (3 incl) wanted you two
+You (3 incl) saw you two
+You (3 incl) called you two
+You (3 incl) asked you two
+You (3 incl) read you two
+You (3 incl) learnt you two
+You (3 incl) went you (2 incl)
+You (3 incl) made you (2 incl)
+You (3 incl) wanted you (2 incl)
+You (3 incl) saw you (2 incl)
+You (3 incl) called you (2 incl)
+You (3 incl) asked you (2 incl)
+You (3 incl) read you (2 incl)
+You (3 incl) learnt you (2 incl)
+You (3 incl) went them (2 excl)
+You (3 incl) made them (2 excl)
+You (3 incl) wanted them (2 excl)
+You (3 incl) saw them (2 excl)
+You (3 incl) called them (2 excl)
+You (3 incl) asked them (2 excl)
+You (3 incl) read them (2 excl)
+You (3 incl) learnt them (2 excl)
+You (3 incl) are going us (2 incl)
+You (3 incl) are making us (2 incl)
+You (3 incl) are seeing us (2 incl)
+You (3 incl) are wanting us (2 incl)
+You (3 incl) are calling us (2 incl)
+You (3 incl) are asking us (2 incl)
+You (3 incl) are reading us (2 incl)
+You (3 incl) are learning us (2 incl)
+You (3 incl) are going us (2 excl)
+You (3 incl) are making us (2 excl)
+You (3 incl) are seeing us (2 excl)
+You (3 incl) are wanting us (2 excl)
+You (3 incl) are calling us (2 excl)
+You (3 incl) are asking us (2 excl)
+You (3 incl) are reading us (2 excl)
+You (3 incl) are learning us (2 excl)
+You (3 incl) are going you two
+You (3 incl) are making you two
+You (3 incl) are seeing you two
+You (3 incl) are wanting you two
+You (3 incl) are calling you two
+You (3 incl) are asking you two
+You (3 incl) are reading you two
+You (3 incl) are learning you two
+You (3 incl) are going you (2 incl)
+You (3 incl) are making you (2 incl)
+You (3 incl) are seeing you (2 incl)
+You (3 incl) are wanting you (2 incl)
+You (3 incl) are calling you (2 incl)
+You (3 incl) are asking you (2 incl)
+You (3 incl) are reading you (2 incl)
+You (3 incl) are learning you (2 incl)
+You (3 incl) are going them (2 excl)
+You (3 incl) are making them (2 excl)
+You (3 incl) are seeing them (2 excl)
+You (3 incl) are wanting them (2 excl)
+You (3 incl) are calling them (2 excl)
+You (3 incl) are asking them (2 excl)
+You (3 incl) are reading them (2 excl)
+You (3 incl) are learning them (2 excl)
+You (3 incl) go us (2 incl)
+You (3 incl) make us (2 incl)
+You (3 incl) see us (2 incl)
+You (3 incl) want us (2 incl)
+You (3 incl) call us (2 incl)
+You (3 incl) ask us (2 incl)
+You (3 incl) read us (2 incl)
+You (3 incl) learn us (2 incl)
+You (3 incl) go us (2 excl)
+You (3 incl) make us (2 excl)
+You (3 incl) see us (2 excl)
+You (3 incl) want us (2 excl)
+You (3 incl) call us (2 excl)
+You (3 incl) ask us (2 excl)
+You (3 incl) read us (2 excl)
+You (3 incl) learn us (2 excl)
+You (3 incl) go you two
+You (3 incl) make you two
+You (3 incl) see you two
+You (3 incl) want you two
+You (3 incl) call you two
+You (3 incl) ask you two
+You (3 incl) read you two
+You (3 incl) learn you two
+You (3 incl) go you (2 incl)
+You (3 incl) make you (2 incl)
+You (3 incl) see you (2 incl)
+You (3 incl) want you (2 incl)
+You (3 incl) call you (2 incl)
+You (3 incl) ask you (2 incl)
+You (3 incl) read you (2 incl)
+You (3 incl) learn you (2 incl)
+You (3 incl) go them (2 excl)
+You (3 incl) make them (2 excl)
+You (3 incl) see them (2 excl)
+You (3 incl) want them (2 excl)
+You (3 incl) call them (2 excl)
+You (3 incl) ask them (2 excl)
+You (3 incl) read them (2 excl)
+You (3 incl) learn them (2 excl)
+You (3 incl) went us (3 incl)
+You (3 incl) made us (3 incl)
+You (3 incl) wanted us (3 incl)
+You (3 incl) saw us (3 incl)
+You (3 incl) called us (3 incl)
+You (3 incl) asked us (3 incl)
+You (3 incl) read us (3 incl)
+You (3 incl) learnt us (3 incl)
+You (3 incl) went us (3 excl)
+You (3 incl) made us (3 excl)
+You (3 incl) wanted us (3 excl)
+You (3 incl) saw us (3 excl)
+You (3 incl) called us (3 excl)
+You (3 incl) asked us (3 excl)
+You (3 incl) read us (3 excl)
+You (3 incl) learnt us (3 excl)
+You (3 incl) went you (3 incl)
+You (3 incl) made you (3 incl)
+You (3 incl) wanted you (3 incl)
+You (3 incl) saw you (3 incl)
+You (3 incl) called you (3 incl)
+You (3 incl) asked you (3 incl)
+You (3 incl) read you (3 incl)
+You (3 incl) learnt you (3 incl)
+You (3 incl) went them (3 excl)
+You (3 incl) made them (3 excl)
+You (3 incl) wanted them (3 excl)
+You (3 incl) saw them (3 excl)
+You (3 incl) called them (3 excl)
+You (3 incl) asked them (3 excl)
+You (3 incl) read them (3 excl)
+You (3 incl) learnt them (3 excl)
+You (3 incl) are going us (3 incl)
+You (3 incl) are making us (3 incl)
+You (3 incl) are seeing us (3 incl)
+You (3 incl) are wanting us (3 incl)
+You (3 incl) are calling us (3 incl)
+You (3 incl) are asking us (3 incl)
+You (3 incl) are reading us (3 incl)
+You (3 incl) are learning us (3 incl)
+You (3 incl) are going us (3 excl)
+You (3 incl) are making us (3 excl)
+You (3 incl) are seeing us (3 excl)
+You (3 incl) are wanting us (3 excl)
+You (3 incl) are calling us (3 excl)
+You (3 incl) are asking us (3 excl)
+You (3 incl) are reading us (3 excl)
+You (3 incl) are learning us (3 excl)
+You (3 incl) are going you (3 incl)
+You (3 incl) are making you (3 incl)
+You (3 incl) are seeing you (3 incl)
+You (3 incl) are wanting you (3 incl)
+You (3 incl) are calling you (3 incl)
+You (3 incl) are asking you (3 incl)
+You (3 incl) are reading you (3 incl)
+You (3 incl) are learning you (3 incl)
+You (3 incl) are going them (3 excl)
+You (3 incl) are making them (3 excl)
+You (3 incl) are seeing them (3 excl)
+You (3 incl) are wanting them (3 excl)
+You (3 incl) are calling them (3 excl)
+You (3 incl) are asking them (3 excl)
+You (3 incl) are reading them (3 excl)
+You (3 incl) are learning them (3 excl)
+You (3 incl) go us (3 incl)
+You (3 incl) make us (3 incl)
+You (3 incl) see us (3 incl)
+You (3 incl) want us (3 incl)
+You (3 incl) call us (3 incl)
+You (3 incl) ask us (3 incl)
+You (3 incl) read us (3 incl)
+You (3 incl) learn us (3 incl)
+You (3 incl) go us (3 excl)
+You (3 incl) make us (3 excl)
+You (3 incl) see us (3 excl)
+You (3 incl) want us (3 excl)
+You (3 incl) call us (3 excl)
+You (3 incl) ask us (3 excl)
+You (3 incl) read us (3 excl)
+You (3 incl) learn us (3 excl)
+You (3 incl) go you (3 incl)
+You (3 incl) make you (3 incl)
+You (3 incl) see you (3 incl)
+You (3 incl) want you (3 incl)
+You (3 incl) call you (3 incl)
+You (3 incl) ask you (3 incl)
+You (3 incl) read you (3 incl)
+You (3 incl) learn you (3 incl)
+You (3 incl) go them (3 excl)
+You (3 incl) make them (3 excl)
+You (3 incl) see them (3 excl)
+You (3 incl) want them (3 excl)
+You (3 incl) call them (3 excl)
+You (3 incl) ask them (3 excl)
+You (3 incl) read them (3 excl)
+You (3 incl) learn them (3 excl)
+They (3 excl) went 
+They (3 excl) made 
+They (3 excl) wanted 
+They (3 excl) saw 
+They (3 excl) called 
+They (3 excl) asked 
+They (3 excl) read 
+They (3 excl) learnt 
+They (3 excl) are going 
+They (3 excl) are making 
+They (3 excl) are seeing 
+They (3 excl) are wanting 
+They (3 excl) are calling 
+They (3 excl) are asking 
+They (3 excl) are reading 
+They (3 excl) are learning 
+They (3 excl) go 
+They (3 excl) make 
+They (3 excl) see 
+They (3 excl) want 
+They (3 excl) call 
+They (3 excl) ask 
+They (3 excl) read 
+They (3 excl) learn 
+They (3 excl) went me
+They (3 excl) made me
+They (3 excl) wanted me
+They (3 excl) saw me
+They (3 excl) called me
+They (3 excl) asked me
+They (3 excl) read me
+They (3 excl) learnt me
+They (3 excl) went you (1 incl)
+They (3 excl) made you (1 incl)
+They (3 excl) wanted you (1 incl)
+They (3 excl) saw you (1 incl)
+They (3 excl) called you (1 incl)
+They (3 excl) asked you (1 incl)
+They (3 excl) read you (1 incl)
+They (3 excl) learnt you (1 incl)
+They (3 excl) went him
+They (3 excl) made him
+They (3 excl) wanted him
+They (3 excl) saw him
+They (3 excl) called him
+They (3 excl) asked him
+They (3 excl) read him
+They (3 excl) learnt him
+They (3 excl) went her
+They (3 excl) made her
+They (3 excl) wanted her
+They (3 excl) saw her
+They (3 excl) called her
+They (3 excl) asked her
+They (3 excl) read her
+They (3 excl) learnt her
+They (3 excl) are going me
+They (3 excl) are making me
+They (3 excl) are seeing me
+They (3 excl) are wanting me
+They (3 excl) are calling me
+They (3 excl) are asking me
+They (3 excl) are reading me
+They (3 excl) are learning me
+They (3 excl) are going you (1 incl)
+They (3 excl) are making you (1 incl)
+They (3 excl) are seeing you (1 incl)
+They (3 excl) are wanting you (1 incl)
+They (3 excl) are calling you (1 incl)
+They (3 excl) are asking you (1 incl)
+They (3 excl) are reading you (1 incl)
+They (3 excl) are learning you (1 incl)
+They (3 excl) are going him
+They (3 excl) are making him
+They (3 excl) are seeing him
+They (3 excl) are wanting him
+They (3 excl) are calling him
+They (3 excl) are asking him
+They (3 excl) are reading him
+They (3 excl) are learning him
+They (3 excl) are going her
+They (3 excl) are making her
+They (3 excl) are seeing her
+They (3 excl) are wanting her
+They (3 excl) are calling her
+They (3 excl) are asking her
+They (3 excl) are reading her
+They (3 excl) are learning her
+They (3 excl) go me
+They (3 excl) make me
+They (3 excl) see me
+They (3 excl) want me
+They (3 excl) call me
+They (3 excl) ask me
+They (3 excl) read me
+They (3 excl) learn me
+They (3 excl) go you (1 incl)
+They (3 excl) make you (1 incl)
+They (3 excl) see you (1 incl)
+They (3 excl) want you (1 incl)
+They (3 excl) call you (1 incl)
+They (3 excl) ask you (1 incl)
+They (3 excl) read you (1 incl)
+They (3 excl) learn you (1 incl)
+They (3 excl) go him
+They (3 excl) make him
+They (3 excl) see him
+They (3 excl) want him
+They (3 excl) call him
+They (3 excl) ask him
+They (3 excl) read him
+They (3 excl) learn him
+They (3 excl) go her
+They (3 excl) make her
+They (3 excl) see her
+They (3 excl) want her
+They (3 excl) call her
+They (3 excl) ask her
+They (3 excl) read her
+They (3 excl) learn her
+They (3 excl) went us (2 incl)
+They (3 excl) made us (2 incl)
+They (3 excl) wanted us (2 incl)
+They (3 excl) saw us (2 incl)
+They (3 excl) called us (2 incl)
+They (3 excl) asked us (2 incl)
+They (3 excl) read us (2 incl)
+They (3 excl) learnt us (2 incl)
+They (3 excl) went us (2 excl)
+They (3 excl) made us (2 excl)
+They (3 excl) wanted us (2 excl)
+They (3 excl) saw us (2 excl)
+They (3 excl) called us (2 excl)
+They (3 excl) asked us (2 excl)
+They (3 excl) read us (2 excl)
+They (3 excl) learnt us (2 excl)
+They (3 excl) went you two
+They (3 excl) made you two
+They (3 excl) wanted you two
+They (3 excl) saw you two
+They (3 excl) called you two
+They (3 excl) asked you two
+They (3 excl) read you two
+They (3 excl) learnt you two
+They (3 excl) went you (2 incl)
+They (3 excl) made you (2 incl)
+They (3 excl) wanted you (2 incl)
+They (3 excl) saw you (2 incl)
+They (3 excl) called you (2 incl)
+They (3 excl) asked you (2 incl)
+They (3 excl) read you (2 incl)
+They (3 excl) learnt you (2 incl)
+They (3 excl) went them (2 excl)
+They (3 excl) made them (2 excl)
+They (3 excl) wanted them (2 excl)
+They (3 excl) saw them (2 excl)
+They (3 excl) called them (2 excl)
+They (3 excl) asked them (2 excl)
+They (3 excl) read them (2 excl)
+They (3 excl) learnt them (2 excl)
+They (3 excl) are going us (2 incl)
+They (3 excl) are making us (2 incl)
+They (3 excl) are seeing us (2 incl)
+They (3 excl) are wanting us (2 incl)
+They (3 excl) are calling us (2 incl)
+They (3 excl) are asking us (2 incl)
+They (3 excl) are reading us (2 incl)
+They (3 excl) are learning us (2 incl)
+They (3 excl) are going us (2 excl)
+They (3 excl) are making us (2 excl)
+They (3 excl) are seeing us (2 excl)
+They (3 excl) are wanting us (2 excl)
+They (3 excl) are calling us (2 excl)
+They (3 excl) are asking us (2 excl)
+They (3 excl) are reading us (2 excl)
+They (3 excl) are learning us (2 excl)
+They (3 excl) are going you two
+They (3 excl) are making you two
+They (3 excl) are seeing you two
+They (3 excl) are wanting you two
+They (3 excl) are calling you two
+They (3 excl) are asking you two
+They (3 excl) are reading you two
+They (3 excl) are learning you two
+They (3 excl) are going you (2 incl)
+They (3 excl) are making you (2 incl)
+They (3 excl) are seeing you (2 incl)
+They (3 excl) are wanting you (2 incl)
+They (3 excl) are calling you (2 incl)
+They (3 excl) are asking you (2 incl)
+They (3 excl) are reading you (2 incl)
+They (3 excl) are learning you (2 incl)
+They (3 excl) are going them (2 excl)
+They (3 excl) are making them (2 excl)
+They (3 excl) are seeing them (2 excl)
+They (3 excl) are wanting them (2 excl)
+They (3 excl) are calling them (2 excl)
+They (3 excl) are asking them (2 excl)
+They (3 excl) are reading them (2 excl)
+They (3 excl) are learning them (2 excl)
+They (3 excl) go us (2 incl)
+They (3 excl) make us (2 incl)
+They (3 excl) see us (2 incl)
+They (3 excl) want us (2 incl)
+They (3 excl) call us (2 incl)
+They (3 excl) ask us (2 incl)
+They (3 excl) read us (2 incl)
+They (3 excl) learn us (2 incl)
+They (3 excl) go us (2 excl)
+They (3 excl) make us (2 excl)
+They (3 excl) see us (2 excl)
+They (3 excl) want us (2 excl)
+They (3 excl) call us (2 excl)
+They (3 excl) ask us (2 excl)
+They (3 excl) read us (2 excl)
+They (3 excl) learn us (2 excl)
+They (3 excl) go you two
+They (3 excl) make you two
+They (3 excl) see you two
+They (3 excl) want you two
+They (3 excl) call you two
+They (3 excl) ask you two
+They (3 excl) read you two
+They (3 excl) learn you two
+They (3 excl) go you (2 incl)
+They (3 excl) make you (2 incl)
+They (3 excl) see you (2 incl)
+They (3 excl) want you (2 incl)
+They (3 excl) call you (2 incl)
+They (3 excl) ask you (2 incl)
+They (3 excl) read you (2 incl)
+They (3 excl) learn you (2 incl)
+They (3 excl) go them (2 excl)
+They (3 excl) make them (2 excl)
+They (3 excl) see them (2 excl)
+They (3 excl) want them (2 excl)
+They (3 excl) call them (2 excl)
+They (3 excl) ask them (2 excl)
+They (3 excl) read them (2 excl)
+They (3 excl) learn them (2 excl)
+They (3 excl) went us (3 incl)
+They (3 excl) made us (3 incl)
+They (3 excl) wanted us (3 incl)
+They (3 excl) saw us (3 incl)
+They (3 excl) called us (3 incl)
+They (3 excl) asked us (3 incl)
+They (3 excl) read us (3 incl)
+They (3 excl) learnt us (3 incl)
+They (3 excl) went us (3 excl)
+They (3 excl) made us (3 excl)
+They (3 excl) wanted us (3 excl)
+They (3 excl) saw us (3 excl)
+They (3 excl) called us (3 excl)
+They (3 excl) asked us (3 excl)
+They (3 excl) read us (3 excl)
+They (3 excl) learnt us (3 excl)
+They (3 excl) went you (3 incl)
+They (3 excl) made you (3 incl)
+They (3 excl) wanted you (3 incl)
+They (3 excl) saw you (3 incl)
+They (3 excl) called you (3 incl)
+They (3 excl) asked you (3 incl)
+They (3 excl) read you (3 incl)
+They (3 excl) learnt you (3 incl)
+They (3 excl) went them (3 excl)
+They (3 excl) made them (3 excl)
+They (3 excl) wanted them (3 excl)
+They (3 excl) saw them (3 excl)
+They (3 excl) called them (3 excl)
+They (3 excl) asked them (3 excl)
+They (3 excl) read them (3 excl)
+They (3 excl) learnt them (3 excl)
+They (3 excl) are going us (3 incl)
+They (3 excl) are making us (3 incl)
+They (3 excl) are seeing us (3 incl)
+They (3 excl) are wanting us (3 incl)
+They (3 excl) are calling us (3 incl)
+They (3 excl) are asking us (3 incl)
+They (3 excl) are reading us (3 incl)
+They (3 excl) are learning us (3 incl)
+They (3 excl) are going us (3 excl)
+They (3 excl) are making us (3 excl)
+They (3 excl) are seeing us (3 excl)
+They (3 excl) are wanting us (3 excl)
+They (3 excl) are calling us (3 excl)
+They (3 excl) are asking us (3 excl)
+They (3 excl) are reading us (3 excl)
+They (3 excl) are learning us (3 excl)
+They (3 excl) are going you (3 incl)
+They (3 excl) are making you (3 incl)
+They (3 excl) are seeing you (3 incl)
+They (3 excl) are wanting you (3 incl)
+They (3 excl) are calling you (3 incl)
+They (3 excl) are asking you (3 incl)
+They (3 excl) are reading you (3 incl)
+They (3 excl) are learning you (3 incl)
+They (3 excl) are going them (3 excl)
+They (3 excl) are making them (3 excl)
+They (3 excl) are seeing them (3 excl)
+They (3 excl) are wanting them (3 excl)
+They (3 excl) are calling them (3 excl)
+They (3 excl) are asking them (3 excl)
+They (3 excl) are reading them (3 excl)
+They (3 excl) are learning them (3 excl)
+They (3 excl) go us (3 incl)
+They (3 excl) make us (3 incl)
+They (3 excl) see us (3 incl)
+They (3 excl) want us (3 incl)
+They (3 excl) call us (3 incl)
+They (3 excl) ask us (3 incl)
+They (3 excl) read us (3 incl)
+They (3 excl) learn us (3 incl)
+They (3 excl) go us (3 excl)
+They (3 excl) make us (3 excl)
+They (3 excl) see us (3 excl)
+They (3 excl) want us (3 excl)
+They (3 excl) call us (3 excl)
+They (3 excl) ask us (3 excl)
+They (3 excl) read us (3 excl)
+They (3 excl) learn us (3 excl)
+They (3 excl) go you (3 incl)
+They (3 excl) make you (3 incl)
+They (3 excl) see you (3 incl)
+They (3 excl) want you (3 incl)
+They (3 excl) call you (3 incl)
+They (3 excl) ask you (3 incl)
+They (3 excl) read you (3 incl)
+They (3 excl) learn you (3 incl)
+They (3 excl) go them (3 excl)
+They (3 excl) make them (3 excl)
+They (3 excl) see them (3 excl)
+They (3 excl) want them (3 excl)
+They (3 excl) call them (3 excl)
+They (3 excl) ask them (3 excl)
+They (3 excl) read them (3 excl)
+They (3 excl) learn them (3 excl)
+We (2 incl) went 
+We (2 incl) made 
+We (2 incl) wanted 
+We (2 incl) saw 
+We (2 incl) called 
+We (2 incl) asked 
+We (2 incl) read 
+We (2 incl) learnt 
+We (2 incl) are going 
+We (2 incl) are making 
+We (2 incl) are seeing 
+We (2 incl) are wanting 
+We (2 incl) are calling 
+We (2 incl) are asking 
+We (2 incl) are reading 
+We (2 incl) are learning 
+We (2 incl) go 
+We (2 incl) make 
+We (2 incl) see 
+We (2 incl) want 
+We (2 incl) call 
+We (2 incl) ask 
+We (2 incl) read 
+We (2 incl) learn 
+We (2 incl) went me
+We (2 incl) made me
+We (2 incl) wanted me
+We (2 incl) saw me
+We (2 incl) called me
+We (2 incl) asked me
+We (2 incl) read me
+We (2 incl) learnt me
+We (2 incl) went you (1 incl)
+We (2 incl) made you (1 incl)
+We (2 incl) wanted you (1 incl)
+We (2 incl) saw you (1 incl)
+We (2 incl) called you (1 incl)
+We (2 incl) asked you (1 incl)
+We (2 incl) read you (1 incl)
+We (2 incl) learnt you (1 incl)
+We (2 incl) went him
+We (2 incl) made him
+We (2 incl) wanted him
+We (2 incl) saw him
+We (2 incl) called him
+We (2 incl) asked him
+We (2 incl) read him
+We (2 incl) learnt him
+We (2 incl) went her
+We (2 incl) made her
+We (2 incl) wanted her
+We (2 incl) saw her
+We (2 incl) called her
+We (2 incl) asked her
+We (2 incl) read her
+We (2 incl) learnt her
+We (2 incl) are going me
+We (2 incl) are making me
+We (2 incl) are seeing me
+We (2 incl) are wanting me
+We (2 incl) are calling me
+We (2 incl) are asking me
+We (2 incl) are reading me
+We (2 incl) are learning me
+We (2 incl) are going you (1 incl)
+We (2 incl) are making you (1 incl)
+We (2 incl) are seeing you (1 incl)
+We (2 incl) are wanting you (1 incl)
+We (2 incl) are calling you (1 incl)
+We (2 incl) are asking you (1 incl)
+We (2 incl) are reading you (1 incl)
+We (2 incl) are learning you (1 incl)
+We (2 incl) are going him
+We (2 incl) are making him
+We (2 incl) are seeing him
+We (2 incl) are wanting him
+We (2 incl) are calling him
+We (2 incl) are asking him
+We (2 incl) are reading him
+We (2 incl) are learning him
+We (2 incl) are going her
+We (2 incl) are making her
+We (2 incl) are seeing her
+We (2 incl) are wanting her
+We (2 incl) are calling her
+We (2 incl) are asking her
+We (2 incl) are reading her
+We (2 incl) are learning her
+We (2 incl) go me
+We (2 incl) make me
+We (2 incl) see me
+We (2 incl) want me
+We (2 incl) call me
+We (2 incl) ask me
+We (2 incl) read me
+We (2 incl) learn me
+We (2 incl) go you (1 incl)
+We (2 incl) make you (1 incl)
+We (2 incl) see you (1 incl)
+We (2 incl) want you (1 incl)
+We (2 incl) call you (1 incl)
+We (2 incl) ask you (1 incl)
+We (2 incl) read you (1 incl)
+We (2 incl) learn you (1 incl)
+We (2 incl) go him
+We (2 incl) make him
+We (2 incl) see him
+We (2 incl) want him
+We (2 incl) call him
+We (2 incl) ask him
+We (2 incl) read him
+We (2 incl) learn him
+We (2 incl) go her
+We (2 incl) make her
+We (2 incl) see her
+We (2 incl) want her
+We (2 incl) call her
+We (2 incl) ask her
+We (2 incl) read her
+We (2 incl) learn her
+We (2 incl) went us (2 incl)
+We (2 incl) made us (2 incl)
+We (2 incl) wanted us (2 incl)
+We (2 incl) saw us (2 incl)
+We (2 incl) called us (2 incl)
+We (2 incl) asked us (2 incl)
+We (2 incl) read us (2 incl)
+We (2 incl) learnt us (2 incl)
+We (2 incl) went us (2 excl)
+We (2 incl) made us (2 excl)
+We (2 incl) wanted us (2 excl)
+We (2 incl) saw us (2 excl)
+We (2 incl) called us (2 excl)
+We (2 incl) asked us (2 excl)
+We (2 incl) read us (2 excl)
+We (2 incl) learnt us (2 excl)
+We (2 incl) went you two
+We (2 incl) made you two
+We (2 incl) wanted you two
+We (2 incl) saw you two
+We (2 incl) called you two
+We (2 incl) asked you two
+We (2 incl) read you two
+We (2 incl) learnt you two
+We (2 incl) went you (2 incl)
+We (2 incl) made you (2 incl)
+We (2 incl) wanted you (2 incl)
+We (2 incl) saw you (2 incl)
+We (2 incl) called you (2 incl)
+We (2 incl) asked you (2 incl)
+We (2 incl) read you (2 incl)
+We (2 incl) learnt you (2 incl)
+We (2 incl) went them (2 excl)
+We (2 incl) made them (2 excl)
+We (2 incl) wanted them (2 excl)
+We (2 incl) saw them (2 excl)
+We (2 incl) called them (2 excl)
+We (2 incl) asked them (2 excl)
+We (2 incl) read them (2 excl)
+We (2 incl) learnt them (2 excl)
+We (2 incl) are going us (2 incl)
+We (2 incl) are making us (2 incl)
+We (2 incl) are seeing us (2 incl)
+We (2 incl) are wanting us (2 incl)
+We (2 incl) are calling us (2 incl)
+We (2 incl) are asking us (2 incl)
+We (2 incl) are reading us (2 incl)
+We (2 incl) are learning us (2 incl)
+We (2 incl) are going us (2 excl)
+We (2 incl) are making us (2 excl)
+We (2 incl) are seeing us (2 excl)
+We (2 incl) are wanting us (2 excl)
+We (2 incl) are calling us (2 excl)
+We (2 incl) are asking us (2 excl)
+We (2 incl) are reading us (2 excl)
+We (2 incl) are learning us (2 excl)
+We (2 incl) are going you two
+We (2 incl) are making you two
+We (2 incl) are seeing you two
+We (2 incl) are wanting you two
+We (2 incl) are calling you two
+We (2 incl) are asking you two
+We (2 incl) are reading you two
+We (2 incl) are learning you two
+We (2 incl) are going you (2 incl)
+We (2 incl) are making you (2 incl)
+We (2 incl) are seeing you (2 incl)
+We (2 incl) are wanting you (2 incl)
+We (2 incl) are calling you (2 incl)
+We (2 incl) are asking you (2 incl)
+We (2 incl) are reading you (2 incl)
+We (2 incl) are learning you (2 incl)
+We (2 incl) are going them (2 excl)
+We (2 incl) are making them (2 excl)
+We (2 incl) are seeing them (2 excl)
+We (2 incl) are wanting them (2 excl)
+We (2 incl) are calling them (2 excl)
+We (2 incl) are asking them (2 excl)
+We (2 incl) are reading them (2 excl)
+We (2 incl) are learning them (2 excl)
+We (2 incl) go us (2 incl)
+We (2 incl) make us (2 incl)
+We (2 incl) see us (2 incl)
+We (2 incl) want us (2 incl)
+We (2 incl) call us (2 incl)
+We (2 incl) ask us (2 incl)
+We (2 incl) read us (2 incl)
+We (2 incl) learn us (2 incl)
+We (2 incl) go us (2 excl)
+We (2 incl) make us (2 excl)
+We (2 incl) see us (2 excl)
+We (2 incl) want us (2 excl)
+We (2 incl) call us (2 excl)
+We (2 incl) ask us (2 excl)
+We (2 incl) read us (2 excl)
+We (2 incl) learn us (2 excl)
+We (2 incl) go you two
+We (2 incl) make you two
+We (2 incl) see you two
+We (2 incl) want you two
+We (2 incl) call you two
+We (2 incl) ask you two
+We (2 incl) read you two
+We (2 incl) learn you two
+We (2 incl) go you (2 incl)
+We (2 incl) make you (2 incl)
+We (2 incl) see you (2 incl)
+We (2 incl) want you (2 incl)
+We (2 incl) call you (2 incl)
+We (2 incl) ask you (2 incl)
+We (2 incl) read you (2 incl)
+We (2 incl) learn you (2 incl)
+We (2 incl) go them (2 excl)
+We (2 incl) make them (2 excl)
+We (2 incl) see them (2 excl)
+We (2 incl) want them (2 excl)
+We (2 incl) call them (2 excl)
+We (2 incl) ask them (2 excl)
+We (2 incl) read them (2 excl)
+We (2 incl) learn them (2 excl)
+We (2 incl) went us (3 incl)
+We (2 incl) made us (3 incl)
+We (2 incl) wanted us (3 incl)
+We (2 incl) saw us (3 incl)
+We (2 incl) called us (3 incl)
+We (2 incl) asked us (3 incl)
+We (2 incl) read us (3 incl)
+We (2 incl) learnt us (3 incl)
+We (2 incl) went us (3 excl)
+We (2 incl) made us (3 excl)
+We (2 incl) wanted us (3 excl)
+We (2 incl) saw us (3 excl)
+We (2 incl) called us (3 excl)
+We (2 incl) asked us (3 excl)
+We (2 incl) read us (3 excl)
+We (2 incl) learnt us (3 excl)
+We (2 incl) went you (3 incl)
+We (2 incl) made you (3 incl)
+We (2 incl) wanted you (3 incl)
+We (2 incl) saw you (3 incl)
+We (2 incl) called you (3 incl)
+We (2 incl) asked you (3 incl)
+We (2 incl) read you (3 incl)
+We (2 incl) learnt you (3 incl)
+We (2 incl) went them (3 excl)
+We (2 incl) made them (3 excl)
+We (2 incl) wanted them (3 excl)
+We (2 incl) saw them (3 excl)
+We (2 incl) called them (3 excl)
+We (2 incl) asked them (3 excl)
+We (2 incl) read them (3 excl)
+We (2 incl) learnt them (3 excl)
+We (2 incl) are going us (3 incl)
+We (2 incl) are making us (3 incl)
+We (2 incl) are seeing us (3 incl)
+We (2 incl) are wanting us (3 incl)
+We (2 incl) are calling us (3 incl)
+We (2 incl) are asking us (3 incl)
+We (2 incl) are reading us (3 incl)
+We (2 incl) are learning us (3 incl)
+We (2 incl) are going us (3 excl)
+We (2 incl) are making us (3 excl)
+We (2 incl) are seeing us (3 excl)
+We (2 incl) are wanting us (3 excl)
+We (2 incl) are calling us (3 excl)
+We (2 incl) are asking us (3 excl)
+We (2 incl) are reading us (3 excl)
+We (2 incl) are learning us (3 excl)
+We (2 incl) are going you (3 incl)
+We (2 incl) are making you (3 incl)
+We (2 incl) are seeing you (3 incl)
+We (2 incl) are wanting you (3 incl)
+We (2 incl) are calling you (3 incl)
+We (2 incl) are asking you (3 incl)
+We (2 incl) are reading you (3 incl)
+We (2 incl) are learning you (3 incl)
+We (2 incl) are going them (3 excl)
+We (2 incl) are making them (3 excl)
+We (2 incl) are seeing them (3 excl)
+We (2 incl) are wanting them (3 excl)
+We (2 incl) are calling them (3 excl)
+We (2 incl) are asking them (3 excl)
+We (2 incl) are reading them (3 excl)
+We (2 incl) are learning them (3 excl)
+We (2 incl) go us (3 incl)
+We (2 incl) make us (3 incl)
+We (2 incl) see us (3 incl)
+We (2 incl) want us (3 incl)
+We (2 incl) call us (3 incl)
+We (2 incl) ask us (3 incl)
+We (2 incl) read us (3 incl)
+We (2 incl) learn us (3 incl)
+We (2 incl) go us (3 excl)
+We (2 incl) make us (3 excl)
+We (2 incl) see us (3 excl)
+We (2 incl) want us (3 excl)
+We (2 incl) call us (3 excl)
+We (2 incl) ask us (3 excl)
+We (2 incl) read us (3 excl)
+We (2 incl) learn us (3 excl)
+We (2 incl) go you (3 incl)
+We (2 incl) make you (3 incl)
+We (2 incl) see you (3 incl)
+We (2 incl) want you (3 incl)
+We (2 incl) call you (3 incl)
+We (2 incl) ask you (3 incl)
+We (2 incl) read you (3 incl)
+We (2 incl) learn you (3 incl)
+We (2 incl) go them (3 excl)
+We (2 incl) make them (3 excl)
+We (2 incl) see them (3 excl)
+We (2 incl) want them (3 excl)
+We (2 incl) call them (3 excl)
+We (2 incl) ask them (3 excl)
+We (2 incl) read them (3 excl)
+We (2 incl) learn them (3 excl)
+We (2 excl) went 
+We (2 excl) made 
+We (2 excl) wanted 
+We (2 excl) saw 
+We (2 excl) called 
+We (2 excl) asked 
+We (2 excl) read 
+We (2 excl) learnt 
+We (2 excl) are going 
+We (2 excl) are making 
+We (2 excl) are seeing 
+We (2 excl) are wanting 
+We (2 excl) are calling 
+We (2 excl) are asking 
+We (2 excl) are reading 
+We (2 excl) are learning 
+We (2 excl) go 
+We (2 excl) make 
+We (2 excl) see 
+We (2 excl) want 
+We (2 excl) call 
+We (2 excl) ask 
+We (2 excl) read 
+We (2 excl) learn 
+We (2 excl) went me
+We (2 excl) made me
+We (2 excl) wanted me
+We (2 excl) saw me
+We (2 excl) called me
+We (2 excl) asked me
+We (2 excl) read me
+We (2 excl) learnt me
+We (2 excl) went you (1 incl)
+We (2 excl) made you (1 incl)
+We (2 excl) wanted you (1 incl)
+We (2 excl) saw you (1 incl)
+We (2 excl) called you (1 incl)
+We (2 excl) asked you (1 incl)
+We (2 excl) read you (1 incl)
+We (2 excl) learnt you (1 incl)
+We (2 excl) went him
+We (2 excl) made him
+We (2 excl) wanted him
+We (2 excl) saw him
+We (2 excl) called him
+We (2 excl) asked him
+We (2 excl) read him
+We (2 excl) learnt him
+We (2 excl) went her
+We (2 excl) made her
+We (2 excl) wanted her
+We (2 excl) saw her
+We (2 excl) called her
+We (2 excl) asked her
+We (2 excl) read her
+We (2 excl) learnt her
+We (2 excl) are going me
+We (2 excl) are making me
+We (2 excl) are seeing me
+We (2 excl) are wanting me
+We (2 excl) are calling me
+We (2 excl) are asking me
+We (2 excl) are reading me
+We (2 excl) are learning me
+We (2 excl) are going you (1 incl)
+We (2 excl) are making you (1 incl)
+We (2 excl) are seeing you (1 incl)
+We (2 excl) are wanting you (1 incl)
+We (2 excl) are calling you (1 incl)
+We (2 excl) are asking you (1 incl)
+We (2 excl) are reading you (1 incl)
+We (2 excl) are learning you (1 incl)
+We (2 excl) are going him
+We (2 excl) are making him
+We (2 excl) are seeing him
+We (2 excl) are wanting him
+We (2 excl) are calling him
+We (2 excl) are asking him
+We (2 excl) are reading him
+We (2 excl) are learning him
+We (2 excl) are going her
+We (2 excl) are making her
+We (2 excl) are seeing her
+We (2 excl) are wanting her
+We (2 excl) are calling her
+We (2 excl) are asking her
+We (2 excl) are reading her
+We (2 excl) are learning her
+We (2 excl) go me
+We (2 excl) make me
+We (2 excl) see me
+We (2 excl) want me
+We (2 excl) call me
+We (2 excl) ask me
+We (2 excl) read me
+We (2 excl) learn me
+We (2 excl) go you (1 incl)
+We (2 excl) make you (1 incl)
+We (2 excl) see you (1 incl)
+We (2 excl) want you (1 incl)
+We (2 excl) call you (1 incl)
+We (2 excl) ask you (1 incl)
+We (2 excl) read you (1 incl)
+We (2 excl) learn you (1 incl)
+We (2 excl) go him
+We (2 excl) make him
+We (2 excl) see him
+We (2 excl) want him
+We (2 excl) call him
+We (2 excl) ask him
+We (2 excl) read him
+We (2 excl) learn him
+We (2 excl) go her
+We (2 excl) make her
+We (2 excl) see her
+We (2 excl) want her
+We (2 excl) call her
+We (2 excl) ask her
+We (2 excl) read her
+We (2 excl) learn her
+We (2 excl) went us (2 incl)
+We (2 excl) made us (2 incl)
+We (2 excl) wanted us (2 incl)
+We (2 excl) saw us (2 incl)
+We (2 excl) called us (2 incl)
+We (2 excl) asked us (2 incl)
+We (2 excl) read us (2 incl)
+We (2 excl) learnt us (2 incl)
+We (2 excl) went us (2 excl)
+We (2 excl) made us (2 excl)
+We (2 excl) wanted us (2 excl)
+We (2 excl) saw us (2 excl)
+We (2 excl) called us (2 excl)
+We (2 excl) asked us (2 excl)
+We (2 excl) read us (2 excl)
+We (2 excl) learnt us (2 excl)
+We (2 excl) went you two
+We (2 excl) made you two
+We (2 excl) wanted you two
+We (2 excl) saw you two
+We (2 excl) called you two
+We (2 excl) asked you two
+We (2 excl) read you two
+We (2 excl) learnt you two
+We (2 excl) went you (2 incl)
+We (2 excl) made you (2 incl)
+We (2 excl) wanted you (2 incl)
+We (2 excl) saw you (2 incl)
+We (2 excl) called you (2 incl)
+We (2 excl) asked you (2 incl)
+We (2 excl) read you (2 incl)
+We (2 excl) learnt you (2 incl)
+We (2 excl) went them (2 excl)
+We (2 excl) made them (2 excl)
+We (2 excl) wanted them (2 excl)
+We (2 excl) saw them (2 excl)
+We (2 excl) called them (2 excl)
+We (2 excl) asked them (2 excl)
+We (2 excl) read them (2 excl)
+We (2 excl) learnt them (2 excl)
+We (2 excl) are going us (2 incl)
+We (2 excl) are making us (2 incl)
+We (2 excl) are seeing us (2 incl)
+We (2 excl) are wanting us (2 incl)
+We (2 excl) are calling us (2 incl)
+We (2 excl) are asking us (2 incl)
+We (2 excl) are reading us (2 incl)
+We (2 excl) are learning us (2 incl)
+We (2 excl) are going us (2 excl)
+We (2 excl) are making us (2 excl)
+We (2 excl) are seeing us (2 excl)
+We (2 excl) are wanting us (2 excl)
+We (2 excl) are calling us (2 excl)
+We (2 excl) are asking us (2 excl)
+We (2 excl) are reading us (2 excl)
+We (2 excl) are learning us (2 excl)
+We (2 excl) are going you two
+We (2 excl) are making you two
+We (2 excl) are seeing you two
+We (2 excl) are wanting you two
+We (2 excl) are calling you two
+We (2 excl) are asking you two
+We (2 excl) are reading you two
+We (2 excl) are learning you two
+We (2 excl) are going you (2 incl)
+We (2 excl) are making you (2 incl)
+We (2 excl) are seeing you (2 incl)
+We (2 excl) are wanting you (2 incl)
+We (2 excl) are calling you (2 incl)
+We (2 excl) are asking you (2 incl)
+We (2 excl) are reading you (2 incl)
+We (2 excl) are learning you (2 incl)
+We (2 excl) are going them (2 excl)
+We (2 excl) are making them (2 excl)
+We (2 excl) are seeing them (2 excl)
+We (2 excl) are wanting them (2 excl)
+We (2 excl) are calling them (2 excl)
+We (2 excl) are asking them (2 excl)
+We (2 excl) are reading them (2 excl)
+We (2 excl) are learning them (2 excl)
+We (2 excl) go us (2 incl)
+We (2 excl) make us (2 incl)
+We (2 excl) see us (2 incl)
+We (2 excl) want us (2 incl)
+We (2 excl) call us (2 incl)
+We (2 excl) ask us (2 incl)
+We (2 excl) read us (2 incl)
+We (2 excl) learn us (2 incl)
+We (2 excl) go us (2 excl)
+We (2 excl) make us (2 excl)
+We (2 excl) see us (2 excl)
+We (2 excl) want us (2 excl)
+We (2 excl) call us (2 excl)
+We (2 excl) ask us (2 excl)
+We (2 excl) read us (2 excl)
+We (2 excl) learn us (2 excl)
+We (2 excl) go you two
+We (2 excl) make you two
+We (2 excl) see you two
+We (2 excl) want you two
+We (2 excl) call you two
+We (2 excl) ask you two
+We (2 excl) read you two
+We (2 excl) learn you two
+We (2 excl) go you (2 incl)
+We (2 excl) make you (2 incl)
+We (2 excl) see you (2 incl)
+We (2 excl) want you (2 incl)
+We (2 excl) call you (2 incl)
+We (2 excl) ask you (2 incl)
+We (2 excl) read you (2 incl)
+We (2 excl) learn you (2 incl)
+We (2 excl) go them (2 excl)
+We (2 excl) make them (2 excl)
+We (2 excl) see them (2 excl)
+We (2 excl) want them (2 excl)
+We (2 excl) call them (2 excl)
+We (2 excl) ask them (2 excl)
+We (2 excl) read them (2 excl)
+We (2 excl) learn them (2 excl)
+We (2 excl) went us (3 incl)
+We (2 excl) made us (3 incl)
+We (2 excl) wanted us (3 incl)
+We (2 excl) saw us (3 incl)
+We (2 excl) called us (3 incl)
+We (2 excl) asked us (3 incl)
+We (2 excl) read us (3 incl)
+We (2 excl) learnt us (3 incl)
+We (2 excl) went us (3 excl)
+We (2 excl) made us (3 excl)
+We (2 excl) wanted us (3 excl)
+We (2 excl) saw us (3 excl)
+We (2 excl) called us (3 excl)
+We (2 excl) asked us (3 excl)
+We (2 excl) read us (3 excl)
+We (2 excl) learnt us (3 excl)
+We (2 excl) went you (3 incl)
+We (2 excl) made you (3 incl)
+We (2 excl) wanted you (3 incl)
+We (2 excl) saw you (3 incl)
+We (2 excl) called you (3 incl)
+We (2 excl) asked you (3 incl)
+We (2 excl) read you (3 incl)
+We (2 excl) learnt you (3 incl)
+We (2 excl) went them (3 excl)
+We (2 excl) made them (3 excl)
+We (2 excl) wanted them (3 excl)
+We (2 excl) saw them (3 excl)
+We (2 excl) called them (3 excl)
+We (2 excl) asked them (3 excl)
+We (2 excl) read them (3 excl)
+We (2 excl) learnt them (3 excl)
+We (2 excl) are going us (3 incl)
+We (2 excl) are making us (3 incl)
+We (2 excl) are seeing us (3 incl)
+We (2 excl) are wanting us (3 incl)
+We (2 excl) are calling us (3 incl)
+We (2 excl) are asking us (3 incl)
+We (2 excl) are reading us (3 incl)
+We (2 excl) are learning us (3 incl)
+We (2 excl) are going us (3 excl)
+We (2 excl) are making us (3 excl)
+We (2 excl) are seeing us (3 excl)
+We (2 excl) are wanting us (3 excl)
+We (2 excl) are calling us (3 excl)
+We (2 excl) are asking us (3 excl)
+We (2 excl) are reading us (3 excl)
+We (2 excl) are learning us (3 excl)
+We (2 excl) are going you (3 incl)
+We (2 excl) are making you (3 incl)
+We (2 excl) are seeing you (3 incl)
+We (2 excl) are wanting you (3 incl)
+We (2 excl) are calling you (3 incl)
+We (2 excl) are asking you (3 incl)
+We (2 excl) are reading you (3 incl)
+We (2 excl) are learning you (3 incl)
+We (2 excl) are going them (3 excl)
+We (2 excl) are making them (3 excl)
+We (2 excl) are seeing them (3 excl)
+We (2 excl) are wanting them (3 excl)
+We (2 excl) are calling them (3 excl)
+We (2 excl) are asking them (3 excl)
+We (2 excl) are reading them (3 excl)
+We (2 excl) are learning them (3 excl)
+We (2 excl) go us (3 incl)
+We (2 excl) make us (3 incl)
+We (2 excl) see us (3 incl)
+We (2 excl) want us (3 incl)
+We (2 excl) call us (3 incl)
+We (2 excl) ask us (3 incl)
+We (2 excl) read us (3 incl)
+We (2 excl) learn us (3 incl)
+We (2 excl) go us (3 excl)
+We (2 excl) make us (3 excl)
+We (2 excl) see us (3 excl)
+We (2 excl) want us (3 excl)
+We (2 excl) call us (3 excl)
+We (2 excl) ask us (3 excl)
+We (2 excl) read us (3 excl)
+We (2 excl) learn us (3 excl)
+We (2 excl) go you (3 incl)
+We (2 excl) make you (3 incl)
+We (2 excl) see you (3 incl)
+We (2 excl) want you (3 incl)
+We (2 excl) call you (3 incl)
+We (2 excl) ask you (3 incl)
+We (2 excl) read you (3 incl)
+We (2 excl) learn you (3 incl)
+We (2 excl) go them (3 excl)
+We (2 excl) make them (3 excl)
+We (2 excl) see them (3 excl)
+We (2 excl) want them (3 excl)
+We (2 excl) call them (3 excl)
+We (2 excl) ask them (3 excl)
+We (2 excl) read them (3 excl)
+We (2 excl) learn them (3 excl)
+You (2 incl) went 
+You (2 incl) made 
+You (2 incl) wanted 
+You (2 incl) saw 
+You (2 incl) called 
+You (2 incl) asked 
+You (2 incl) read 
+You (2 incl) learnt 
+You (2 incl) are going 
+You (2 incl) are making 
+You (2 incl) are seeing 
+You (2 incl) are wanting 
+You (2 incl) are calling 
+You (2 incl) are asking 
+You (2 incl) are reading 
+You (2 incl) are learning 
+You (2 incl) go 
+You (2 incl) make 
+You (2 incl) see 
+You (2 incl) want 
+You (2 incl) call 
+You (2 incl) ask 
+You (2 incl) read 
+You (2 incl) learn 
+You (2 incl) went me
+You (2 incl) made me
+You (2 incl) wanted me
+You (2 incl) saw me
+You (2 incl) called me
+You (2 incl) asked me
+You (2 incl) read me
+You (2 incl) learnt me
+You (2 incl) went you (1 incl)
+You (2 incl) made you (1 incl)
+You (2 incl) wanted you (1 incl)
+You (2 incl) saw you (1 incl)
+You (2 incl) called you (1 incl)
+You (2 incl) asked you (1 incl)
+You (2 incl) read you (1 incl)
+You (2 incl) learnt you (1 incl)
+You (2 incl) went him
+You (2 incl) made him
+You (2 incl) wanted him
+You (2 incl) saw him
+You (2 incl) called him
+You (2 incl) asked him
+You (2 incl) read him
+You (2 incl) learnt him
+You (2 incl) went her
+You (2 incl) made her
+You (2 incl) wanted her
+You (2 incl) saw her
+You (2 incl) called her
+You (2 incl) asked her
+You (2 incl) read her
+You (2 incl) learnt her
+You (2 incl) are going me
+You (2 incl) are making me
+You (2 incl) are seeing me
+You (2 incl) are wanting me
+You (2 incl) are calling me
+You (2 incl) are asking me
+You (2 incl) are reading me
+You (2 incl) are learning me
+You (2 incl) are going you (1 incl)
+You (2 incl) are making you (1 incl)
+You (2 incl) are seeing you (1 incl)
+You (2 incl) are wanting you (1 incl)
+You (2 incl) are calling you (1 incl)
+You (2 incl) are asking you (1 incl)
+You (2 incl) are reading you (1 incl)
+You (2 incl) are learning you (1 incl)
+You (2 incl) are going him
+You (2 incl) are making him
+You (2 incl) are seeing him
+You (2 incl) are wanting him
+You (2 incl) are calling him
+You (2 incl) are asking him
+You (2 incl) are reading him
+You (2 incl) are learning him
+You (2 incl) are going her
+You (2 incl) are making her
+You (2 incl) are seeing her
+You (2 incl) are wanting her
+You (2 incl) are calling her
+You (2 incl) are asking her
+You (2 incl) are reading her
+You (2 incl) are learning her
+You (2 incl) go me
+You (2 incl) make me
+You (2 incl) see me
+You (2 incl) want me
+You (2 incl) call me
+You (2 incl) ask me
+You (2 incl) read me
+You (2 incl) learn me
+You (2 incl) go you (1 incl)
+You (2 incl) make you (1 incl)
+You (2 incl) see you (1 incl)
+You (2 incl) want you (1 incl)
+You (2 incl) call you (1 incl)
+You (2 incl) ask you (1 incl)
+You (2 incl) read you (1 incl)
+You (2 incl) learn you (1 incl)
+You (2 incl) go him
+You (2 incl) make him
+You (2 incl) see him
+You (2 incl) want him
+You (2 incl) call him
+You (2 incl) ask him
+You (2 incl) read him
+You (2 incl) learn him
+You (2 incl) go her
+You (2 incl) make her
+You (2 incl) see her
+You (2 incl) want her
+You (2 incl) call her
+You (2 incl) ask her
+You (2 incl) read her
+You (2 incl) learn her
+You (2 incl) went us (2 incl)
+You (2 incl) made us (2 incl)
+You (2 incl) wanted us (2 incl)
+You (2 incl) saw us (2 incl)
+You (2 incl) called us (2 incl)
+You (2 incl) asked us (2 incl)
+You (2 incl) read us (2 incl)
+You (2 incl) learnt us (2 incl)
+You (2 incl) went us (2 excl)
+You (2 incl) made us (2 excl)
+You (2 incl) wanted us (2 excl)
+You (2 incl) saw us (2 excl)
+You (2 incl) called us (2 excl)
+You (2 incl) asked us (2 excl)
+You (2 incl) read us (2 excl)
+You (2 incl) learnt us (2 excl)
+You (2 incl) went you two
+You (2 incl) made you two
+You (2 incl) wanted you two
+You (2 incl) saw you two
+You (2 incl) called you two
+You (2 incl) asked you two
+You (2 incl) read you two
+You (2 incl) learnt you two
+You (2 incl) went you (2 incl)
+You (2 incl) made you (2 incl)
+You (2 incl) wanted you (2 incl)
+You (2 incl) saw you (2 incl)
+You (2 incl) called you (2 incl)
+You (2 incl) asked you (2 incl)
+You (2 incl) read you (2 incl)
+You (2 incl) learnt you (2 incl)
+You (2 incl) went them (2 excl)
+You (2 incl) made them (2 excl)
+You (2 incl) wanted them (2 excl)
+You (2 incl) saw them (2 excl)
+You (2 incl) called them (2 excl)
+You (2 incl) asked them (2 excl)
+You (2 incl) read them (2 excl)
+You (2 incl) learnt them (2 excl)
+You (2 incl) are going us (2 incl)
+You (2 incl) are making us (2 incl)
+You (2 incl) are seeing us (2 incl)
+You (2 incl) are wanting us (2 incl)
+You (2 incl) are calling us (2 incl)
+You (2 incl) are asking us (2 incl)
+You (2 incl) are reading us (2 incl)
+You (2 incl) are learning us (2 incl)
+You (2 incl) are going us (2 excl)
+You (2 incl) are making us (2 excl)
+You (2 incl) are seeing us (2 excl)
+You (2 incl) are wanting us (2 excl)
+You (2 incl) are calling us (2 excl)
+You (2 incl) are asking us (2 excl)
+You (2 incl) are reading us (2 excl)
+You (2 incl) are learning us (2 excl)
+You (2 incl) are going you two
+You (2 incl) are making you two
+You (2 incl) are seeing you two
+You (2 incl) are wanting you two
+You (2 incl) are calling you two
+You (2 incl) are asking you two
+You (2 incl) are reading you two
+You (2 incl) are learning you two
+You (2 incl) are going you (2 incl)
+You (2 incl) are making you (2 incl)
+You (2 incl) are seeing you (2 incl)
+You (2 incl) are wanting you (2 incl)
+You (2 incl) are calling you (2 incl)
+You (2 incl) are asking you (2 incl)
+You (2 incl) are reading you (2 incl)
+You (2 incl) are learning you (2 incl)
+You (2 incl) are going them (2 excl)
+You (2 incl) are making them (2 excl)
+You (2 incl) are seeing them (2 excl)
+You (2 incl) are wanting them (2 excl)
+You (2 incl) are calling them (2 excl)
+You (2 incl) are asking them (2 excl)
+You (2 incl) are reading them (2 excl)
+You (2 incl) are learning them (2 excl)
+You (2 incl) go us (2 incl)
+You (2 incl) make us (2 incl)
+You (2 incl) see us (2 incl)
+You (2 incl) want us (2 incl)
+You (2 incl) call us (2 incl)
+You (2 incl) ask us (2 incl)
+You (2 incl) read us (2 incl)
+You (2 incl) learn us (2 incl)
+You (2 incl) go us (2 excl)
+You (2 incl) make us (2 excl)
+You (2 incl) see us (2 excl)
+You (2 incl) want us (2 excl)
+You (2 incl) call us (2 excl)
+You (2 incl) ask us (2 excl)
+You (2 incl) read us (2 excl)
+You (2 incl) learn us (2 excl)
+You (2 incl) go you two
+You (2 incl) make you two
+You (2 incl) see you two
+You (2 incl) want you two
+You (2 incl) call you two
+You (2 incl) ask you two
+You (2 incl) read you two
+You (2 incl) learn you two
+You (2 incl) go you (2 incl)
+You (2 incl) make you (2 incl)
+You (2 incl) see you (2 incl)
+You (2 incl) want you (2 incl)
+You (2 incl) call you (2 incl)
+You (2 incl) ask you (2 incl)
+You (2 incl) read you (2 incl)
+You (2 incl) learn you (2 incl)
+You (2 incl) go them (2 excl)
+You (2 incl) make them (2 excl)
+You (2 incl) see them (2 excl)
+You (2 incl) want them (2 excl)
+You (2 incl) call them (2 excl)
+You (2 incl) ask them (2 excl)
+You (2 incl) read them (2 excl)
+You (2 incl) learn them (2 excl)
+You (2 incl) went us (3 incl)
+You (2 incl) made us (3 incl)
+You (2 incl) wanted us (3 incl)
+You (2 incl) saw us (3 incl)
+You (2 incl) called us (3 incl)
+You (2 incl) asked us (3 incl)
+You (2 incl) read us (3 incl)
+You (2 incl) learnt us (3 incl)
+You (2 incl) went us (3 excl)
+You (2 incl) made us (3 excl)
+You (2 incl) wanted us (3 excl)
+You (2 incl) saw us (3 excl)
+You (2 incl) called us (3 excl)
+You (2 incl) asked us (3 excl)
+You (2 incl) read us (3 excl)
+You (2 incl) learnt us (3 excl)
+You (2 incl) went you (3 incl)
+You (2 incl) made you (3 incl)
+You (2 incl) wanted you (3 incl)
+You (2 incl) saw you (3 incl)
+You (2 incl) called you (3 incl)
+You (2 incl) asked you (3 incl)
+You (2 incl) read you (3 incl)
+You (2 incl) learnt you (3 incl)
+You (2 incl) went them (3 excl)
+You (2 incl) made them (3 excl)
+You (2 incl) wanted them (3 excl)
+You (2 incl) saw them (3 excl)
+You (2 incl) called them (3 excl)
+You (2 incl) asked them (3 excl)
+You (2 incl) read them (3 excl)
+You (2 incl) learnt them (3 excl)
+You (2 incl) are going us (3 incl)
+You (2 incl) are making us (3 incl)
+You (2 incl) are seeing us (3 incl)
+You (2 incl) are wanting us (3 incl)
+You (2 incl) are calling us (3 incl)
+You (2 incl) are asking us (3 incl)
+You (2 incl) are reading us (3 incl)
+You (2 incl) are learning us (3 incl)
+You (2 incl) are going us (3 excl)
+You (2 incl) are making us (3 excl)
+You (2 incl) are seeing us (3 excl)
+You (2 incl) are wanting us (3 excl)
+You (2 incl) are calling us (3 excl)
+You (2 incl) are asking us (3 excl)
+You (2 incl) are reading us (3 excl)
+You (2 incl) are learning us (3 excl)
+You (2 incl) are going you (3 incl)
+You (2 incl) are making you (3 incl)
+You (2 incl) are seeing you (3 incl)
+You (2 incl) are wanting you (3 incl)
+You (2 incl) are calling you (3 incl)
+You (2 incl) are asking you (3 incl)
+You (2 incl) are reading you (3 incl)
+You (2 incl) are learning you (3 incl)
+You (2 incl) are going them (3 excl)
+You (2 incl) are making them (3 excl)
+You (2 incl) are seeing them (3 excl)
+You (2 incl) are wanting them (3 excl)
+You (2 incl) are calling them (3 excl)
+You (2 incl) are asking them (3 excl)
+You (2 incl) are reading them (3 excl)
+You (2 incl) are learning them (3 excl)
+You (2 incl) go us (3 incl)
+You (2 incl) make us (3 incl)
+You (2 incl) see us (3 incl)
+You (2 incl) want us (3 incl)
+You (2 incl) call us (3 incl)
+You (2 incl) ask us (3 incl)
+You (2 incl) read us (3 incl)
+You (2 incl) learn us (3 incl)
+You (2 incl) go us (3 excl)
+You (2 incl) make us (3 excl)
+You (2 incl) see us (3 excl)
+You (2 incl) want us (3 excl)
+You (2 incl) call us (3 excl)
+You (2 incl) ask us (3 excl)
+You (2 incl) read us (3 excl)
+You (2 incl) learn us (3 excl)
+You (2 incl) go you (3 incl)
+You (2 incl) make you (3 incl)
+You (2 incl) see you (3 incl)
+You (2 incl) want you (3 incl)
+You (2 incl) call you (3 incl)
+You (2 incl) ask you (3 incl)
+You (2 incl) read you (3 incl)
+You (2 incl) learn you (3 incl)
+You (2 incl) go them (3 excl)
+You (2 incl) make them (3 excl)
+You (2 incl) see them (3 excl)
+You (2 incl) want them (3 excl)
+You (2 incl) call them (3 excl)
+You (2 incl) ask them (3 excl)
+You (2 incl) read them (3 excl)
+You (2 incl) learn them (3 excl)
+You two went 
+You two made 
+You two wanted 
+You two saw 
+You two called 
+You two asked 
+You two read 
+You two learnt 
+You two are going 
+You two are making 
+You two are seeing 
+You two are wanting 
+You two are calling 
+You two are asking 
+You two are reading 
+You two are learning 
+You two go 
+You two make 
+You two see 
+You two want 
+You two call 
+You two ask 
+You two read 
+You two learn 
+You two went me
+You two made me
+You two wanted me
+You two saw me
+You two called me
+You two asked me
+You two read me
+You two learnt me
+You two went you (1 incl)
+You two made you (1 incl)
+You two wanted you (1 incl)
+You two saw you (1 incl)
+You two called you (1 incl)
+You two asked you (1 incl)
+You two read you (1 incl)
+You two learnt you (1 incl)
+You two went him
+You two made him
+You two wanted him
+You two saw him
+You two called him
+You two asked him
+You two read him
+You two learnt him
+You two went her
+You two made her
+You two wanted her
+You two saw her
+You two called her
+You two asked her
+You two read her
+You two learnt her
+You two are going me
+You two are making me
+You two are seeing me
+You two are wanting me
+You two are calling me
+You two are asking me
+You two are reading me
+You two are learning me
+You two are going you (1 incl)
+You two are making you (1 incl)
+You two are seeing you (1 incl)
+You two are wanting you (1 incl)
+You two are calling you (1 incl)
+You two are asking you (1 incl)
+You two are reading you (1 incl)
+You two are learning you (1 incl)
+You two are going him
+You two are making him
+You two are seeing him
+You two are wanting him
+You two are calling him
+You two are asking him
+You two are reading him
+You two are learning him
+You two are going her
+You two are making her
+You two are seeing her
+You two are wanting her
+You two are calling her
+You two are asking her
+You two are reading her
+You two are learning her
+You two go me
+You two make me
+You two see me
+You two want me
+You two call me
+You two ask me
+You two read me
+You two learn me
+You two go you (1 incl)
+You two make you (1 incl)
+You two see you (1 incl)
+You two want you (1 incl)
+You two call you (1 incl)
+You two ask you (1 incl)
+You two read you (1 incl)
+You two learn you (1 incl)
+You two go him
+You two make him
+You two see him
+You two want him
+You two call him
+You two ask him
+You two read him
+You two learn him
+You two go her
+You two make her
+You two see her
+You two want her
+You two call her
+You two ask her
+You two read her
+You two learn her
+You two went us (2 incl)
+You two made us (2 incl)
+You two wanted us (2 incl)
+You two saw us (2 incl)
+You two called us (2 incl)
+You two asked us (2 incl)
+You two read us (2 incl)
+You two learnt us (2 incl)
+You two went us (2 excl)
+You two made us (2 excl)
+You two wanted us (2 excl)
+You two saw us (2 excl)
+You two called us (2 excl)
+You two asked us (2 excl)
+You two read us (2 excl)
+You two learnt us (2 excl)
+You two went you two
+You two made you two
+You two wanted you two
+You two saw you two
+You two called you two
+You two asked you two
+You two read you two
+You two learnt you two
+You two went you (2 incl)
+You two made you (2 incl)
+You two wanted you (2 incl)
+You two saw you (2 incl)
+You two called you (2 incl)
+You two asked you (2 incl)
+You two read you (2 incl)
+You two learnt you (2 incl)
+You two went them (2 excl)
+You two made them (2 excl)
+You two wanted them (2 excl)
+You two saw them (2 excl)
+You two called them (2 excl)
+You two asked them (2 excl)
+You two read them (2 excl)
+You two learnt them (2 excl)
+You two are going us (2 incl)
+You two are making us (2 incl)
+You two are seeing us (2 incl)
+You two are wanting us (2 incl)
+You two are calling us (2 incl)
+You two are asking us (2 incl)
+You two are reading us (2 incl)
+You two are learning us (2 incl)
+You two are going us (2 excl)
+You two are making us (2 excl)
+You two are seeing us (2 excl)
+You two are wanting us (2 excl)
+You two are calling us (2 excl)
+You two are asking us (2 excl)
+You two are reading us (2 excl)
+You two are learning us (2 excl)
+You two are going you two
+You two are making you two
+You two are seeing you two
+You two are wanting you two
+You two are calling you two
+You two are asking you two
+You two are reading you two
+You two are learning you two
+You two are going you (2 incl)
+You two are making you (2 incl)
+You two are seeing you (2 incl)
+You two are wanting you (2 incl)
+You two are calling you (2 incl)
+You two are asking you (2 incl)
+You two are reading you (2 incl)
+You two are learning you (2 incl)
+You two are going them (2 excl)
+You two are making them (2 excl)
+You two are seeing them (2 excl)
+You two are wanting them (2 excl)
+You two are calling them (2 excl)
+You two are asking them (2 excl)
+You two are reading them (2 excl)
+You two are learning them (2 excl)
+You two go us (2 incl)
+You two make us (2 incl)
+You two see us (2 incl)
+You two want us (2 incl)
+You two call us (2 incl)
+You two ask us (2 incl)
+You two read us (2 incl)
+You two learn us (2 incl)
+You two go us (2 excl)
+You two make us (2 excl)
+You two see us (2 excl)
+You two want us (2 excl)
+You two call us (2 excl)
+You two ask us (2 excl)
+You two read us (2 excl)
+You two learn us (2 excl)
+You two go you two
+You two make you two
+You two see you two
+You two want you two
+You two call you two
+You two ask you two
+You two read you two
+You two learn you two
+You two go you (2 incl)
+You two make you (2 incl)
+You two see you (2 incl)
+You two want you (2 incl)
+You two call you (2 incl)
+You two ask you (2 incl)
+You two read you (2 incl)
+You two learn you (2 incl)
+You two go them (2 excl)
+You two make them (2 excl)
+You two see them (2 excl)
+You two want them (2 excl)
+You two call them (2 excl)
+You two ask them (2 excl)
+You two read them (2 excl)
+You two learn them (2 excl)
+You two went us (3 incl)
+You two made us (3 incl)
+You two wanted us (3 incl)
+You two saw us (3 incl)
+You two called us (3 incl)
+You two asked us (3 incl)
+You two read us (3 incl)
+You two learnt us (3 incl)
+You two went us (3 excl)
+You two made us (3 excl)
+You two wanted us (3 excl)
+You two saw us (3 excl)
+You two called us (3 excl)
+You two asked us (3 excl)
+You two read us (3 excl)
+You two learnt us (3 excl)
+You two went you (3 incl)
+You two made you (3 incl)
+You two wanted you (3 incl)
+You two saw you (3 incl)
+You two called you (3 incl)
+You two asked you (3 incl)
+You two read you (3 incl)
+You two learnt you (3 incl)
+You two went them (3 excl)
+You two made them (3 excl)
+You two wanted them (3 excl)
+You two saw them (3 excl)
+You two called them (3 excl)
+You two asked them (3 excl)
+You two read them (3 excl)
+You two learnt them (3 excl)
+You two are going us (3 incl)
+You two are making us (3 incl)
+You two are seeing us (3 incl)
+You two are wanting us (3 incl)
+You two are calling us (3 incl)
+You two are asking us (3 incl)
+You two are reading us (3 incl)
+You two are learning us (3 incl)
+You two are going us (3 excl)
+You two are making us (3 excl)
+You two are seeing us (3 excl)
+You two are wanting us (3 excl)
+You two are calling us (3 excl)
+You two are asking us (3 excl)
+You two are reading us (3 excl)
+You two are learning us (3 excl)
+You two are going you (3 incl)
+You two are making you (3 incl)
+You two are seeing you (3 incl)
+You two are wanting you (3 incl)
+You two are calling you (3 incl)
+You two are asking you (3 incl)
+You two are reading you (3 incl)
+You two are learning you (3 incl)
+You two are going them (3 excl)
+You two are making them (3 excl)
+You two are seeing them (3 excl)
+You two are wanting them (3 excl)
+You two are calling them (3 excl)
+You two are asking them (3 excl)
+You two are reading them (3 excl)
+You two are learning them (3 excl)
+You two go us (3 incl)
+You two make us (3 incl)
+You two see us (3 incl)
+You two want us (3 incl)
+You two call us (3 incl)
+You two ask us (3 incl)
+You two read us (3 incl)
+You two learn us (3 incl)
+You two go us (3 excl)
+You two make us (3 excl)
+You two see us (3 excl)
+You two want us (3 excl)
+You two call us (3 excl)
+You two ask us (3 excl)
+You two read us (3 excl)
+You two learn us (3 excl)
+You two go you (3 incl)
+You two make you (3 incl)
+You two see you (3 incl)
+You two want you (3 incl)
+You two call you (3 incl)
+You two ask you (3 incl)
+You two read you (3 incl)
+You two learn you (3 incl)
+You two go them (3 excl)
+You two make them (3 excl)
+You two see them (3 excl)
+You two want them (3 excl)
+You two call them (3 excl)
+You two ask them (3 excl)
+You two read them (3 excl)
+You two learn them (3 excl)
+They (2 excl) went 
+They (2 excl) made 
+They (2 excl) wanted 
+They (2 excl) saw 
+They (2 excl) called 
+They (2 excl) asked 
+They (2 excl) read 
+They (2 excl) learnt 
+They (2 excl) are going 
+They (2 excl) are making 
+They (2 excl) are seeing 
+They (2 excl) are wanting 
+They (2 excl) are calling 
+They (2 excl) are asking 
+They (2 excl) are reading 
+They (2 excl) are learning 
+They (2 excl) go 
+They (2 excl) make 
+They (2 excl) see 
+They (2 excl) want 
+They (2 excl) call 
+They (2 excl) ask 
+They (2 excl) read 
+They (2 excl) learn 
+They (2 excl) went me
+They (2 excl) made me
+They (2 excl) wanted me
+They (2 excl) saw me
+They (2 excl) called me
+They (2 excl) asked me
+They (2 excl) read me
+They (2 excl) learnt me
+They (2 excl) went you (1 incl)
+They (2 excl) made you (1 incl)
+They (2 excl) wanted you (1 incl)
+They (2 excl) saw you (1 incl)
+They (2 excl) called you (1 incl)
+They (2 excl) asked you (1 incl)
+They (2 excl) read you (1 incl)
+They (2 excl) learnt you (1 incl)
+They (2 excl) went him
+They (2 excl) made him
+They (2 excl) wanted him
+They (2 excl) saw him
+They (2 excl) called him
+They (2 excl) asked him
+They (2 excl) read him
+They (2 excl) learnt him
+They (2 excl) went her
+They (2 excl) made her
+They (2 excl) wanted her
+They (2 excl) saw her
+They (2 excl) called her
+They (2 excl) asked her
+They (2 excl) read her
+They (2 excl) learnt her
+They (2 excl) are going me
+They (2 excl) are making me
+They (2 excl) are seeing me
+They (2 excl) are wanting me
+They (2 excl) are calling me
+They (2 excl) are asking me
+They (2 excl) are reading me
+They (2 excl) are learning me
+They (2 excl) are going you (1 incl)
+They (2 excl) are making you (1 incl)
+They (2 excl) are seeing you (1 incl)
+They (2 excl) are wanting you (1 incl)
+They (2 excl) are calling you (1 incl)
+They (2 excl) are asking you (1 incl)
+They (2 excl) are reading you (1 incl)
+They (2 excl) are learning you (1 incl)
+They (2 excl) are going him
+They (2 excl) are making him
+They (2 excl) are seeing him
+They (2 excl) are wanting him
+They (2 excl) are calling him
+They (2 excl) are asking him
+They (2 excl) are reading him
+They (2 excl) are learning him
+They (2 excl) are going her
+They (2 excl) are making her
+They (2 excl) are seeing her
+They (2 excl) are wanting her
+They (2 excl) are calling her
+They (2 excl) are asking her
+They (2 excl) are reading her
+They (2 excl) are learning her
+They (2 excl) go me
+They (2 excl) make me
+They (2 excl) see me
+They (2 excl) want me
+They (2 excl) call me
+They (2 excl) ask me
+They (2 excl) read me
+They (2 excl) learn me
+They (2 excl) go you (1 incl)
+They (2 excl) make you (1 incl)
+They (2 excl) see you (1 incl)
+They (2 excl) want you (1 incl)
+They (2 excl) call you (1 incl)
+They (2 excl) ask you (1 incl)
+They (2 excl) read you (1 incl)
+They (2 excl) learn you (1 incl)
+They (2 excl) go him
+They (2 excl) make him
+They (2 excl) see him
+They (2 excl) want him
+They (2 excl) call him
+They (2 excl) ask him
+They (2 excl) read him
+They (2 excl) learn him
+They (2 excl) go her
+They (2 excl) make her
+They (2 excl) see her
+They (2 excl) want her
+They (2 excl) call her
+They (2 excl) ask her
+They (2 excl) read her
+They (2 excl) learn her
+They (2 excl) went us (2 incl)
+They (2 excl) made us (2 incl)
+They (2 excl) wanted us (2 incl)
+They (2 excl) saw us (2 incl)
+They (2 excl) called us (2 incl)
+They (2 excl) asked us (2 incl)
+They (2 excl) read us (2 incl)
+They (2 excl) learnt us (2 incl)
+They (2 excl) went us (2 excl)
+They (2 excl) made us (2 excl)
+They (2 excl) wanted us (2 excl)
+They (2 excl) saw us (2 excl)
+They (2 excl) called us (2 excl)
+They (2 excl) asked us (2 excl)
+They (2 excl) read us (2 excl)
+They (2 excl) learnt us (2 excl)
+They (2 excl) went you two
+They (2 excl) made you two
+They (2 excl) wanted you two
+They (2 excl) saw you two
+They (2 excl) called you two
+They (2 excl) asked you two
+They (2 excl) read you two
+They (2 excl) learnt you two
+They (2 excl) went you (2 incl)
+They (2 excl) made you (2 incl)
+They (2 excl) wanted you (2 incl)
+They (2 excl) saw you (2 incl)
+They (2 excl) called you (2 incl)
+They (2 excl) asked you (2 incl)
+They (2 excl) read you (2 incl)
+They (2 excl) learnt you (2 incl)
+They (2 excl) went them (2 excl)
+They (2 excl) made them (2 excl)
+They (2 excl) wanted them (2 excl)
+They (2 excl) saw them (2 excl)
+They (2 excl) called them (2 excl)
+They (2 excl) asked them (2 excl)
+They (2 excl) read them (2 excl)
+They (2 excl) learnt them (2 excl)
+They (2 excl) are going us (2 incl)
+They (2 excl) are making us (2 incl)
+They (2 excl) are seeing us (2 incl)
+They (2 excl) are wanting us (2 incl)
+They (2 excl) are calling us (2 incl)
+They (2 excl) are asking us (2 incl)
+They (2 excl) are reading us (2 incl)
+They (2 excl) are learning us (2 incl)
+They (2 excl) are going us (2 excl)
+They (2 excl) are making us (2 excl)
+They (2 excl) are seeing us (2 excl)
+They (2 excl) are wanting us (2 excl)
+They (2 excl) are calling us (2 excl)
+They (2 excl) are asking us (2 excl)
+They (2 excl) are reading us (2 excl)
+They (2 excl) are learning us (2 excl)
+They (2 excl) are going you two
+They (2 excl) are making you two
+They (2 excl) are seeing you two
+They (2 excl) are wanting you two
+They (2 excl) are calling you two
+They (2 excl) are asking you two
+They (2 excl) are reading you two
+They (2 excl) are learning you two
+They (2 excl) are going you (2 incl)
+They (2 excl) are making you (2 incl)
+They (2 excl) are seeing you (2 incl)
+They (2 excl) are wanting you (2 incl)
+They (2 excl) are calling you (2 incl)
+They (2 excl) are asking you (2 incl)
+They (2 excl) are reading you (2 incl)
+They (2 excl) are learning you (2 incl)
+They (2 excl) are going them (2 excl)
+They (2 excl) are making them (2 excl)
+They (2 excl) are seeing them (2 excl)
+They (2 excl) are wanting them (2 excl)
+They (2 excl) are calling them (2 excl)
+They (2 excl) are asking them (2 excl)
+They (2 excl) are reading them (2 excl)
+They (2 excl) are learning them (2 excl)
+They (2 excl) go us (2 incl)
+They (2 excl) make us (2 incl)
+They (2 excl) see us (2 incl)
+They (2 excl) want us (2 incl)
+They (2 excl) call us (2 incl)
+They (2 excl) ask us (2 incl)
+They (2 excl) read us (2 incl)
+They (2 excl) learn us (2 incl)
+They (2 excl) go us (2 excl)
+They (2 excl) make us (2 excl)
+They (2 excl) see us (2 excl)
+They (2 excl) want us (2 excl)
+They (2 excl) call us (2 excl)
+They (2 excl) ask us (2 excl)
+They (2 excl) read us (2 excl)
+They (2 excl) learn us (2 excl)
+They (2 excl) go you two
+They (2 excl) make you two
+They (2 excl) see you two
+They (2 excl) want you two
+They (2 excl) call you two
+They (2 excl) ask you two
+They (2 excl) read you two
+They (2 excl) learn you two
+They (2 excl) go you (2 incl)
+They (2 excl) make you (2 incl)
+They (2 excl) see you (2 incl)
+They (2 excl) want you (2 incl)
+They (2 excl) call you (2 incl)
+They (2 excl) ask you (2 incl)
+They (2 excl) read you (2 incl)
+They (2 excl) learn you (2 incl)
+They (2 excl) go them (2 excl)
+They (2 excl) make them (2 excl)
+They (2 excl) see them (2 excl)
+They (2 excl) want them (2 excl)
+They (2 excl) call them (2 excl)
+They (2 excl) ask them (2 excl)
+They (2 excl) read them (2 excl)
+They (2 excl) learn them (2 excl)
+They (2 excl) went us (3 incl)
+They (2 excl) made us (3 incl)
+They (2 excl) wanted us (3 incl)
+They (2 excl) saw us (3 incl)
+They (2 excl) called us (3 incl)
+They (2 excl) asked us (3 incl)
+They (2 excl) read us (3 incl)
+They (2 excl) learnt us (3 incl)
+They (2 excl) went us (3 excl)
+They (2 excl) made us (3 excl)
+They (2 excl) wanted us (3 excl)
+They (2 excl) saw us (3 excl)
+They (2 excl) called us (3 excl)
+They (2 excl) asked us (3 excl)
+They (2 excl) read us (3 excl)
+They (2 excl) learnt us (3 excl)
+They (2 excl) went you (3 incl)
+They (2 excl) made you (3 incl)
+They (2 excl) wanted you (3 incl)
+They (2 excl) saw you (3 incl)
+They (2 excl) called you (3 incl)
+They (2 excl) asked you (3 incl)
+They (2 excl) read you (3 incl)
+They (2 excl) learnt you (3 incl)
+They (2 excl) went them (3 excl)
+They (2 excl) made them (3 excl)
+They (2 excl) wanted them (3 excl)
+They (2 excl) saw them (3 excl)
+They (2 excl) called them (3 excl)
+They (2 excl) asked them (3 excl)
+They (2 excl) read them (3 excl)
+They (2 excl) learnt them (3 excl)
+They (2 excl) are going us (3 incl)
+They (2 excl) are making us (3 incl)
+They (2 excl) are seeing us (3 incl)
+They (2 excl) are wanting us (3 incl)
+They (2 excl) are calling us (3 incl)
+They (2 excl) are asking us (3 incl)
+They (2 excl) are reading us (3 incl)
+They (2 excl) are learning us (3 incl)
+They (2 excl) are going us (3 excl)
+They (2 excl) are making us (3 excl)
+They (2 excl) are seeing us (3 excl)
+They (2 excl) are wanting us (3 excl)
+They (2 excl) are calling us (3 excl)
+They (2 excl) are asking us (3 excl)
+They (2 excl) are reading us (3 excl)
+They (2 excl) are learning us (3 excl)
+They (2 excl) are going you (3 incl)
+They (2 excl) are making you (3 incl)
+They (2 excl) are seeing you (3 incl)
+They (2 excl) are wanting you (3 incl)
+They (2 excl) are calling you (3 incl)
+They (2 excl) are asking you (3 incl)
+They (2 excl) are reading you (3 incl)
+They (2 excl) are learning you (3 incl)
+They (2 excl) are going them (3 excl)
+They (2 excl) are making them (3 excl)
+They (2 excl) are seeing them (3 excl)
+They (2 excl) are wanting them (3 excl)
+They (2 excl) are calling them (3 excl)
+They (2 excl) are asking them (3 excl)
+They (2 excl) are reading them (3 excl)
+They (2 excl) are learning them (3 excl)
+They (2 excl) go us (3 incl)
+They (2 excl) make us (3 incl)
+They (2 excl) see us (3 incl)
+They (2 excl) want us (3 incl)
+They (2 excl) call us (3 incl)
+They (2 excl) ask us (3 incl)
+They (2 excl) read us (3 incl)
+They (2 excl) learn us (3 incl)
+They (2 excl) go us (3 excl)
+They (2 excl) make us (3 excl)
+They (2 excl) see us (3 excl)
+They (2 excl) want us (3 excl)
+They (2 excl) call us (3 excl)
+They (2 excl) ask us (3 excl)
+They (2 excl) read us (3 excl)
+They (2 excl) learn us (3 excl)
+They (2 excl) go you (3 incl)
+They (2 excl) make you (3 incl)
+They (2 excl) see you (3 incl)
+They (2 excl) want you (3 incl)
+They (2 excl) call you (3 incl)
+They (2 excl) ask you (3 incl)
+They (2 excl) read you (3 incl)
+They (2 excl) learn you (3 incl)
+They (2 excl) go them (3 excl)
+They (2 excl) make them (3 excl)
+They (2 excl) see them (3 excl)
+They (2 excl) want them (3 excl)
+They (2 excl) call them (3 excl)
+They (2 excl) ask them (3 excl)
+They (2 excl) read them (3 excl)
+They (2 excl) learn them (3 excl)

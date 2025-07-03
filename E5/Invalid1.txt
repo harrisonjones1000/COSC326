@@ -1,0 +1,9 @@
+ Christ  church,Dunedin
+Christchurch, Rolleston, 10
+Rolleston, Temuka, 15
+Temuka, Timaru, 16.5
+Timaru, Oamaru, 27
+Oamaru, Palmerston, 21.5
+Palmerston, Dunedin, 23
+Christchurch, Palmerston, 85.5
+ Lake   Taupo,  Timaru, 5
