@@ -1,0 +1,1 @@
+When an IBM value exists outside of the upper and lower ranges of the IEEE format it is trying to convert to, the program will print +/- Infinity.
